@@ -301,3 +301,31 @@ def test_lost_digest_receipt_with_new_matches_does_not_repeat_old_jobs(tmp_path)
     reconcile(lost, [job(url="https://example.com/new")])
     deliver(path, lost, github)
     assert [len(batch["events"]) for batch in github.sent] == [81, 1]
+
+
+def test_at_most_one_alert_per_hour_and_pending_waits(tmp_path):
+    from datetime import UTC, datetime
+    state = reconcile({}, [job()])
+    github = FakeGitHub()
+    path = tmp_path / "ucsd.json"
+    hour = datetime(2026, 10, 29, 20, tzinfo=UTC)
+    deliver(path, state, github, now=hour)
+    reconcile(state, [job(url="https://example.com/new")])
+    deliver(path, state, github, now=hour)
+    assert len(github.sent) == 1
+    assert state["pending"]
+    deliver(path, state, github, now=hour.replace(hour=21))
+    assert len(github.sent) == 2
+    assert not state["pending"]
+
+
+def test_short_link_backlog_is_quiet_once_but_later_changes_alert(monkeypatch):
+    short = job(url="https://go.vansh.nyc/AbC")
+    direct = job(url="https://example.com/old")
+    state = {"known": {}}
+    monkeypatch.setattr(ucsd, "expand_short_link", lambda url: direct.url)
+    reconcile(state, ucsd.resolve_short_links([short], state))
+    assert not state.get("pending")
+    changed = replace(short, locations=("Seattle, WA",))
+    reconcile(state, ucsd.resolve_short_links([changed], state))
+    assert len(state["pending"]) == 1

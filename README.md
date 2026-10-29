@@ -68,7 +68,8 @@ Alert bullets use 📅 for a graduation year explicitly stated in available text
 the full description is unavailable. A missing year never means confirmed
 freshman eligibility. ⭐ marks Google STEP/ASDI or Microsoft Explore.
 
-Each check sends at most one combined alert, including pending retries. If the
+At most one combined alert is sent per UTC hour, including manual checks and
+pending retries. Further matches wait for the next hourly alert. If the
 list exceeds GitHub’s message limit, the issue links to its complete saved list
 in data/alerts. Unchanged checks stay quiet.
 

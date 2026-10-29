@@ -13,6 +13,7 @@ import re
 import urllib.error
 import urllib.request
 from dataclasses import asdict, replace
+from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote, unquote, urljoin, urlsplit
@@ -185,6 +186,9 @@ def resolve_short_links(postings: list[Posting], state: dict[str, Any], *,
     state["scan_sequence"] = sequence
     candidates = {p.url: p for p in postings
                   if urlsplit(p.url).hostname == "go.vansh.nyc" and eligible(p)}
+    # Baseline the short-link backlog once, using the original case-sensitive
+    # URLs. Legacy normalized keys folded case and could conflate short IDs.
+    baseline_urls = set(state.setdefault("short_baseline", list(candidates)))
     # Resolve new openings first, then rotate any failed or deferred old URLs.
     missing = sorted((url for url in candidates if url not in cache),
                      key=lambda url: (canon_key(url) in state.get("known", {}),
@@ -210,13 +214,17 @@ def resolve_short_links(postings: list[Posting], state: dict[str, Any], *,
                 deferred += 1
                 continue  # never alert an unresolved duplicate/unknown-cycle URL
             old_key, new_key = canon_key(p.url), canon_key(target)
+            if p.url in baseline_urls:
+                migrated.append(new_key)
+                baseline_urls.remove(p.url)
             if old_key in known:
-                if known[old_key]["eligible"]:
-                    migrated.append(new_key)
-                known.setdefault(new_key, known.pop(old_key))
+                old = known[old_key].get("evidence", {})
+                if old.get("company") == " ".join(p.company.casefold().split()):
+                    known.setdefault(new_key, known.pop(old_key))
             p = replace(p, url=target)
         out.append(p)
     print(f"Short links: resolved {len(candidates) - deferred}; deferred {deferred}")
+    state["short_baseline"] = sorted(baseline_urls)
     return out
 
 
@@ -317,8 +325,11 @@ class GitHub:
         for page in range(1, 101):
             rows = self.request(f"issues?state=all&per_page=100&page={page}")
             for row in rows:
-                found.update(re.findall(r"<!-- radar-ucsd:([a-f0-9]{64}) -->",
-                                        row.get("body") or ""))
+                ids = re.findall(r"<!-- radar-ucsd:([a-f0-9]{64}) -->", row.get("body") or "")
+                found.update(ids)
+                if ids:
+                    self.last_alert_hour = max(getattr(self, "last_alert_hour", ""),
+                                               row.get("created_at", "")[:13])
             if len(rows) < 100:
                 return found
         raise RuntimeError("Issue history exceeds reconciliation limit; delivery stopped safely")
@@ -346,7 +357,7 @@ class GitHub:
                                  "body": body, "assignees": [self.repo.split('/')[0]]})
 
 
-def deliver(path: Path, state: dict[str, Any], github: Any) -> None:
+def deliver(path: Path, state: dict[str, Any], github: Any, *, now: datetime | None = None) -> None:
     if not state.get("pending"):
         return
     markers = github.markers()
@@ -354,6 +365,13 @@ def deliver(path: Path, state: dict[str, Any], github: Any) -> None:
     if not remaining:
         state["pending"] = []
         save(path, state)
+        return
+    hour = (now or datetime.now(UTC)).isoformat()[:13]
+    last_hour = max(state.get("last_alert_hour", ""), getattr(github, "last_alert_hour", ""))
+    if last_hour >= hour:
+        state["pending"] = remaining
+        save(path, state)
+        print("Already sent this hour; new matches will be included in the next hourly alert")
         return
     # One issue per check, including any pending retries. Remove already-sent
     # envelopes before combining, so a lost receipt never duplicates an alert.
@@ -367,6 +385,7 @@ def deliver(path: Path, state: dict[str, Any], github: Any) -> None:
     archive.parent.mkdir(parents=True, exist_ok=True)
     archive.write_text(json.dumps(batch, indent=1) + "\n", encoding="utf-8")
     github.send(batch)
+    state["last_alert_hour"] = hour
     state["pending"] = []
     save(path, state)  # remote marker covers a crash before this receipt save
 
