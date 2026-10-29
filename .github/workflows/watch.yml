@@ -1,71 +1,70 @@
 name: watch
-
-# Backup runner. The owner's Mac is the primary (launchd every 30 min); this
-# job runs only when the Mac hasn't committed a run in the last 50 minutes.
-# GitHub throttles this cron to ~4-7 runs a day. Never add pull_request /
-# pull_request_target triggers: this job holds write access and secrets.
 on:
+  # Exercise the real watcher on this review branch before merging. This
+  # trigger never runs on pull_request and ignores the bot's data commits.
+  push:
+    branches: [customize-ucsd-ai-2027]
+    paths: [".github/workflows/watch.yml", "src/intern_radar/**"]
   schedule:
-    - cron: "7,37 * * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       bootstrap:
-        description: "Mark everything currently live as seen (no notifications)"
+        description: "Baseline without notifying (requires all sources healthy)"
         type: boolean
         default: false
-
 permissions:
   contents: write
   issues: write
-
 concurrency:
-  group: watch
+  group: watch-${{ github.ref }}
   cancel-in-progress: false
-
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: true  # the watcher pushes with GITHUB_TOKEN itself
-
+          ref: ${{ github.ref_name }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
-      - name: Skip if the Mac runner is active
-        id: skip
-        # Scheduled runs only: a manual dispatch (e.g. bootstrap) always runs.
-        if: github.event_name == 'schedule'
+      - name: Test before sending
+        run: |
+          python -m pip install pytest pyyaml
+          python -m pytest -q
+      - name: Scan profile
         env:
           PYTHONPATH: src
-        run: python -m intern_radar.skipcheck data/health.json
-
-      - name: Run watcher
-        if: steps.skip.outputs.skip != 'true'
-        env:
-          PYTHONPATH: src
-          RADAR_GIT: "1"
-          RADAR_RUNNER: actions
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          RADAR_BOOTSTRAP: ${{ inputs.bootstrap == true && 'true' || 'false' }}
+          BASELINE: ${{ inputs.bootstrap == true && 'true' || 'false' }}
+        run: |
+          args=()
+          if [ "$BASELINE" = true ]; then args+=(--baseline); fi
+          python -m intern_radar.ucsd --phase scan "${args[@]}"
+      - name: Persist notification outbox
         run: |
           git config user.name "intern-radar[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          python -m intern_radar
-
-      - name: Keepalive
-        if: steps.skip.outputs.skip != 'true'
+          git add data/ucsd.json data/dashboard.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: persist UCSD notification outbox [skip ci]"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+      - name: Deliver pending notifications
+        env:
+          PYTHONPATH: src
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python -m intern_radar.ucsd --phase deliver
+      - name: Persist delivery receipts
+        if: always()
         run: |
-          # GitHub disables cron workflows after 60 days without repo activity;
-          # an empty commit at 50 days resets that clock. Mac commits count as
-          # activity too, so this only fires if the Mac has been off for weeks.
-          git pull -q --rebase origin "${GITHUB_REF_NAME}"
-          if [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt 4320000 ]; then
-            git commit --allow-empty -m "chore: keepalive [skip ci]"
-            git push
+          if [ -f data/ucsd.json ]; then
+            git add data/ucsd.json
+            if [ -d data/alerts ]; then git add data/alerts; fi
+            if ! git diff --cached --quiet; then
+              git commit -m "chore: persist UCSD notification receipts [skip ci]"
+              git push origin "HEAD:${GITHUB_REF_NAME}"
+            fi
           fi

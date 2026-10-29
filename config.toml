@@ -1,82 +1,17 @@
-# intern-radar watch configuration.
-# Filters are biased toward recall: a false positive costs one extra line in a
-# notification; a false negative is a missed job.
+# UCSD freshman CS profile. No inherited personal exclusions or application caps.
 
 [filters]
-# Simplify listings must overlap these terms. Direct ATS boards have no term
-# metadata, so they use title_require_any instead.
 terms = ["Summer 2027"]
-# Simplify category allowlist (empty = any). Category names vary in their data.
-categories = [
-    "Software",
-    "Software Engineering",
-    "AI/ML/Data",
-    "Data Science, AI & Machine Learning",
-    "Quant",
-]
-# Pass if the listing names any of these degrees, or names none at all.
-degrees_any = ["Bachelor's"]
-# Direct ATS postings (no term metadata) must contain one of these in the
-# title. Substring match, case-insensitive.
-title_require_any = ["intern", "co-op", "coop", "co op"]
-# Reject any posting whose title contains one of these.
-title_exclude = ["senior", "staff", "principal", "unpaid", "mba intern", "phd"]
-# Extra excludes for postings WITHOUT term metadata (direct ATS boards):
-# dated non-target cycles and clearly-non-SWE functions are noise there, but
-# term-bearing listings are already gated by `terms` (a "Fall 2026 & Summer
-# 2027" listing still passes). "internal" kills the "Internal Audit"/"Linux
-# Internals" substring false-positives of the recall-biased "intern" gate.
-untermed_title_exclude = [
-    "fall 2026", "spring 2026", "winter 2026", "summer 2026",
-    "internal", "sales", "legal", "marketing", "accounting",
-    "human resources", "recruiting",
-]
-# Reject a posting only if ALL of its listed locations match one of these
-# substrings (a multi-location posting with one acceptable site still passes).
-location_exclude = []
-# Companies whose postings can never become an application. Case-insensitive
-# substring match on the company name, applied before every other filter.
-# TikTok/ByteDance: they post ~60 roles per sweep, every one of them on
-# lifeattiktok.com (which no JD fetcher supports, so each needs a manual
-# fetch) — and TikTok caps you at 2 applications for life, one of which is
-# already spent on the Data Science role tailored 2026-08-05. Sixty postings
-# competing for one remaining slot is churn, not signal. Delete the entry to
-# see them again.
-company_exclude = ["TikTok", "ByteDance"]
-
-# Auto-discovered boards have no job category: require a tech keyword and
-# drop off-cycle terms (owner, 2026-09-30). Hand-picked boards are exempt.
-discovered_title_require_any = [
-  "software", "engineer", "engineering", "developer", "development", "data",
-  "machine learning", "ml", "ai", "artificial intelligence", "quant",
-  "quantitative", "computer", "computing", "computational", "technology",
-  "technical", "tech", "it", "cyber", "cybersecurity", "security", "analytics",
-  "intelligence", "platform", "cloud", "devops", "sre", "infrastructure",
-  "backend", "frontend", "full stack", "full-stack", "mobile", "ios", "android",
-  "web", "programming", "programmer", "algorithm", "research", "python", "java",
-  "automation", "robotics", "maps", "mapping", "embedded", "firmware", "systems",
-]
-discovered_title_exclude = [
-  "fall 2027", "winter 2027", "spring 2027", "fall '27", "winter '27", "spring '27",
-]
+company_exclude = []
 
 [sources]
-# Aggregator: SimplifyJobs/Summer2027-Internships listings.json (dev branch).
 simplify = true
-# Independent lists (wider-watcher spec, L1).
 vanshb03 = true
 speedyapply = true
 
-# Direct ATS boards, polled for speed — new postings show up here before
-# aggregators pick them up. Slugs below were verified live on 2026-08-03
-# (each had active intern-cycle listings). Add your own targets.
 [sources.greenhouse]
-# Slugs below were each probed live against boards-api.greenhouse.io. Several
-# companies whose public careers page looks like a bespoke site (optiver.com,
-# careers.roblox.com, tower-research.com) are actually Greenhouse underneath —
-# adding the slug is all it takes, no new parser. Intern counts at the
-# 2026-08-06 probe are noted where the board carries a real intern pipeline.
 boards = [
+    "usinternshipspubliccareerssite", # PlayStation verified public internship board
     "stripe",
     "janestreet",
     "cloudflare",
@@ -85,38 +20,27 @@ boards = [
     "figureai",
     "virtu",
     "drweng",
-    # added 2026-08-06 after live probing (intern postings on the board)
-    "jumptrading",           # 29 intern reqs
-    "imc",                   # 14 intern reqs
-    "databricks",            # 11 intern reqs
-    "akunacapital",          #  8 intern reqs, all titled 2027
-    "towerresearchcapital",  #  6 intern reqs
+    "jumptrading",
+    "imc",
+    "databricks",
+    "akunacapital",
+    "towerresearchcapital",
     "anthropic",
     "scaleai",
     "flowtraders",
-    "oldmissioncapital",
     "pdtpartners",
     "figma",
     "roblox",
     "vercel",
     "marshallwace",
     "aqr",
-    # Notable / big-name boards, each probed live 2026-08-07 (a slug is listed
-    # only if boards-api returned a real board). MOST OF THESE HAVE NO INTERN
-    # REQ OPEN TODAY — of ~120 boards probed, exactly three carried a 2027
-    # intern posting. Big-name Summer 2027 hiring opens ~Sept–Jan, so these are
-    # here to catch the opening on the first 30-minute poll rather than to add
-    # postings now. A board with no matching req costs one request per run.
     "airbnb",
     "coinbase",
     "dropbox",
     "instacart",
     "reddit",
     "discord",
-    "robinhood",          # intern reqs live at probe
-    # DoorDash is deliberately absent: boards-api 404s for every slug tried
-    # (doordash, doordashessentials) — they are not on a public Greenhouse
-    # board, so they can only arrive via the Simplify aggregator.
+    "robinhood",
     "lyft",
     "pinterest",
     "duolingo",
@@ -134,21 +58,18 @@ boards = [
     "flexport",
     "gusto",
     "checkr",
-    "faire",              # intern reqs live at probe
+    "faire",
     "airtable",
     "webflow",
-    "amplitude",
-    "clickhouse",
     "cockroachlabs",
-    "temporaltechnologies",
     "squarespace",
     "verkada",
-    "samsara",            # intern reqs live at probe
-    "nuro",               # intern reqs live at probe
+    "samsara",
+    "nuro",
     "waymo",
-    "lucidmotors",        # intern reqs live at probe
-    "epicgames",          # intern reqs live at probe
-    "riotgames",          # intern reqs live at probe
+    "lucidmotors",
+    "epicgames",
+    "riotgames",
 ]
 
 [sources.lever]
@@ -157,25 +78,12 @@ companies = ["palantir", "waabi", "tri"]
 [sources.ashby]
 orgs = [
     "ramp", "perplexity", "cohere", "applied", "etched", "rivianvw.tech",
-    # Probed live 2026-08-07. openai/notion/modal/pika had intern reqs open;
-    # the rest are frontier-lab and notable-startup boards worth watching for
-    # when their 2027 cycle opens. One request each per run.
     "openai", "notion", "linear", "replit", "sierra", "decagon", "harvey",
     "mercor", "modal", "baseten", "langchain", "gamma", "elevenlabs", "suno",
     "runway", "pika", "abridge",
 ]
 
-# Workday boards as "tenant.instance/site" (from the board URL:
-# https://TENANT.INSTANCE.myworkdayjobs.com/SITE/...). Queried with
-# searchText=intern server-side. Slugs verified live 2026-08-03.
 [sources.workday]
-# COST NOTE: Workday is the expensive source. searchText is fuzzy, so a board
-# returns mostly non-intern hits (measured 2026-08-07: of NVIDIA's first 200
-# hits only 10 were real intern titles, Adobe 1, Micron 12, Mastercard 4), and
-# the fetcher pages to MAX_RESULTS=1000 — roughly 50 requests per board per
-# run. Greenhouse/Ashby return a whole board in ONE request, so prefer them.
-# That is why this list is curated to big names with a real CS-undergrad
-# pipeline rather than every tenant that resolved. All probed live 2026-08-07.
 boards = [
     "arrowstreetcapital.wd5/Campus_Careers",
     "paloaltonetworks.wd5/panwexternalcareers",
@@ -188,20 +96,11 @@ boards = [
     "blackrock.wd1/BlackRock_Professional",
     "adobe.wd5/external_experienced",
     "target.wd5/targetcareers",
-    "comcast.wd5/Comcast_Careers",
 ]
 
-# SmartRecruiters company identifiers (from jobs.smartrecruiters.com/IDENTIFIER/...).
 [sources.smartrecruiters]
 companies = ["LinkedIn3", "WesternDigital", "LLNL", "BoschGroup"]
-# US-only: global boards like BoschGroup are ~90% international otherwise
-# (verified live 2026-08-05: 1230 -> 104 postings with country=us).
 country = "us"
 
 [notify]
-# Opens one GitHub Issue per run listing all new matches (GitHub then emails
-# you). Needs GITHUB_TOKEN + GITHUB_REPOSITORY env vars — both are present
-# automatically in GitHub Actions.
-github_issues = true
-# Discord fires when the DISCORD_WEBHOOK_URL env var is set; nothing to
-# configure here.
+github_issues = false

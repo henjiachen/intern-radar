@@ -1,9 +1,11 @@
 from __future__ import annotations
 
+import html
 from typing import Any
 
 from intern_radar.http import get_json
 from intern_radar.models import Posting
+from intern_radar.jd import html_to_text
 
 
 def parse_greenhouse(board: str, payload: Any) -> list[Posting]:
@@ -32,11 +34,14 @@ def parse_greenhouse(board: str, payload: Any) -> list[Posting]:
                 url=url,
                 locations=(location_name,) if location_name else (),
                 posted_at=first_published[:10],
+                description=html_to_text(html.unescape(str(job.get("content") or ""))),
             )
         )
     return postings
 
 
-def fetch_greenhouse(board: str) -> list[Posting]:
+def fetch_greenhouse(board: str, *, content: bool = False) -> list[Posting]:
     url = f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs"
+    if content:
+        url += "?content=true"
     return parse_greenhouse(board, get_json(url))

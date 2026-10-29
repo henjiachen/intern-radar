@@ -1,136 +1,111 @@
-# intern-radar
+# Intern Radar — quiet internship dashboard
 
-Zero-dependency watcher for SWE internship postings. Polls the
-[SimplifyJobs Summer 2027 list](https://github.com/SimplifyJobs/Summer2027-Internships)
-plus Greenhouse / Lever / Ashby boards directly, filters for your eligibility,
-and opens a GitHub Issue (which GitHub emails you) the moment something new
-appears. Runs free on GitHub Actions every 30 minutes.
+Find Summer 2027 US software, CS, AI and ML internship candidates. No prior
+work experience, application cap, employer exclusion, or private history from
+the original author is used by the hourly watcher.
 
-**Why direct ATS polling?** Aggregators batch their updates. Polling the
-company's own board API catches a posting within ~30 minutes of it going live —
-and for the big early-cycle programs, applying in the first day matters.
+Google STEP/ASDI and Microsoft Explore get first placement in alerts.
+Gaming companies follow: Xbox, PlayStation and Nintendo.
+NVIDIA, Google, Microsoft and Salesforce stay priorities too. Other companies,
+including TikTok and ByteDance, remain eligible.
 
-## How it works
+## What runs
 
-```
-SimplifyJobs listings.json ─┐
-Greenhouse boards API       │
-Lever postings API          ├─> normalize ─> filter (term/degree/title/location)
-Ashby job-board API         │        │
-Workday CXS API             │        v
-SmartRecruiters API ────────┘  diff vs data/seen.json ─> new? ─> Issue + Discord
-                                     │                     (you review, you apply)
-                                     └──── state committed back by the Action
-```
+`.github/workflows/watch.yml` runs `python -m intern_radar.ucsd` hourly at minute
+17 UTC. GitHub schedules are best effort, may run late, and use the default
+branch only. The PR branch does not activate the production schedule.
+The review branch also runs the real watcher when its watcher code or workflow changes,
+so state writes and alert delivery can be checked before merging. Data-only
+commits do not trigger it. Every watch run tests the code before scanning.
 
-No database, no server, no paid APIs. Python stdlib only.
+1. Fetch public job feeds.
+2. Group duplicate job URLs and combine their available information.
+3. Check US location, Summer 2027, CS-related internship, and freshman-compatible
+   requirements. A missing graduation year is allowed. Explicit junior/senior
+   requirements or incompatible graduation years are excluded when supplied.
+4. Save new matches or important changes in `data/ucsd.json` before sending.
+5. Create one GitHub Issue for all pending alerts from that check, then save delivery receipts.
 
-## Setup
+The first run creates a quiet baseline of current matches, so it does not flood
+you with old openings. Optional **bootstrap** resets that baseline. Both require
+every configured source to succeed. Unchanged checks send
+nothing. Failed alerts stay pending. A marker inside each issue prevents
+duplicate delivery after a crash. Changes to job title, location, term, degree,
+or supplied eligibility requirements can alert; posting-date refreshes and
+tracking links do not.
+Shortened community links are expanded before duplicate and season checks.
+At most 100 uncached links are checked per scan; failed or deferred links wait
+for another scan and do not create alerts. Resolved links are cached. A job URL
+that explicitly says Spring/Fall/Winter 2027 is not accepted solely because a
+community list labels it Summer 2027.
 
-1. Clone (or fork — note GitHub disables scheduled workflows on forks until
-   you enable Actions manually), edit `config.toml` (target terms,
-   categories, boards to watch).
-2. Push to GitHub. Actions runs `watch.yml` on a 30-minute cron.
-3. The very first run bootstraps automatically: when `data/seen.json` doesn't
-   exist yet, everything currently live is marked seen with no notifications —
-   no giant first issue with 200 postings. You can also force this any time
-   via **Actions → watch → Run workflow** with **bootstrap** checked.
-4. Watch the repo (**Watch → All activity**) so new-posting issues hit your
-   email. When the first real issue lands, confirm the email actually arrived
-   before trusting the pipeline for months. Optional: add a
-   `DISCORD_WEBHOOK_URL` repo secret for Discord pings.
+This uses new state, separate from the original author's `data/seen.json`,
+inbox, tracker, discovered boards and application history. Those legacy files
+are not read by the hourly profile. Legacy command-line tools remain available.
 
-## Local usage
+## Coverage and honest limits
 
-```
-# fetch + filter + print, no state writes, no notifications
-PYTHONPATH=src python -m intern_radar --dry-run
+- Simplify, vanshb03 and speedyapply community feeds plus configured public
+  Greenhouse, Lever, Ashby, Workday and SmartRecruiters boards.
+- PlayStation: verified public Greenhouse internship board
+  `usinternshipspubliccareerssite`. Description text is fetched.
+- Nintendo: public careers job cards and internship descriptions.
+- Xbox: Microsoft/Xbox listings from community feeds. No verified direct
+  Microsoft career-site parser.
+- NVIDIA and Salesforce: configured Workday boards plus community feeds.
+- Google STEP/ASDI and Microsoft Explore: recognized when the feeds list them.
+  A direct Google/Microsoft connection is not claimed.
 
-# first run: mark everything currently live as seen
-PYTHONPATH=src python -m intern_radar --bootstrap
-```
+Some sources omit full descriptions. Alerts are **potential matches**, not a
+guarantee that the employer accepts freshmen. Work authorization and skills
+still need checking. Unknown-country remote roles and undated direct listings
+without Summer 2027 evidence are excluded. No closures are inferred from a
+missing row or source failure. Reopening a previously seen unchanged URL is
+not currently detected. No automatic applications are submitted.
 
-## Tracking applications
+Alert bullets use 📅 for a graduation year explicitly stated in available text,
+➖ when no graduation year was found in an available description, and ❔ when
+the full description is unavailable. A missing year never means confirmed
+freshman eligibility. ⭐ marks Google STEP/ASDI or Microsoft Explore.
 
-Once you apply, track the pipeline in the same repo:
+At most one combined alert is sent per UTC hour, including manual checks and
+pending retries. Further matches wait for the next hourly alert. If the
+list exceeds GitHub’s message limit, the issue links to its complete saved list
+in data/alerts. Unchanged checks stay quiet.
 
-```
-PYTHONPATH=src python -m intern_radar track add <posting-url>       # marks applied
-PYTHONPATH=src python -m intern_radar track add <posting-url> --status interested  # queue, not yet applied
-PYTHONPATH=src python -m intern_radar track set <posting-url> applied
-PYTHONPATH=src python -m intern_radar track set <posting-url> oa --note "HackerRank due 8/10"
-PYTHONPATH=src python -m intern_radar track set <posting-url> interview
-PYTHONPATH=src python -m intern_radar track list
-```
+Dashboard mode is the default. Each scan writes public data/dashboard.json for
+the Intern Radar website. Job-alert emails and new GitHub alert issues are off.
+Set RADAR_EMAIL_ALERTS=1 explicitly only if email alerts are wanted again.
 
-Stages: `interested → applied → oa → interview → offer` (plus
-`rejected`/`withdrawn`). `interested` is the pre-application queue —
-postings worth applying to that you haven't submitted yet.
-Company/title resolve automatically from `data/postings.json` (snapshotted by
-every watcher run); `APPLICATIONS.md` is regenerated as a dashboard on every
-change. Commit when convenient — it's your data.
+When email alerts are explicitly enabled, only GitHub Issues are used. Discord/ntfy settings in legacy
+tools do not affect it. GitHub email depends on your notification settings;
+verify receipt of the first real alert.
 
-This repository is public, so the tracker can live elsewhere: pass
-`track --tracker-dir <dir> --dashboard <dir>/APPLICATIONS.md` (options go
-before `add`/`set`/`list`) and `applications.json` is kept in `<dir>` while
-`data/postings.json` is still read from here. Every `track` command holds an
-exclusive lock on `<dir>/.lock` and writes atomically, so concurrent callers
-are safe.
+## Verification and operation
 
-See `PROGRAMS.md` for the curated freshman/sophomore program list the
-watcher can't poll (custom career sites).
+The read-only test workflow runs the full tests on Linux and a live dry scan.
+It never creates job alerts or writes watcher state.
 
-## Fetching a full job description
-
-For tailoring a resume (or just reading the whole posting without the
-board's JS app), `jd` pulls the complete description as plain text from
-the same ATS APIs the watcher polls:
-
-```
-PYTHONPATH=src python -m intern_radar jd <posting-url>
-PYTHONPATH=src python -m intern_radar jd <posting-url> --out jd.md
-PYTHONPATH=src python -m intern_radar jd "https://stripe.com/jobs/search?gh_jid=123" --board stripe
-```
-
-Supported posting URLs: Greenhouse (`boards.greenhouse.io`/`job-boards.`
-paths, plus custom-domain `?gh_jid=` links with `--board`), Lever, Ashby,
-Workday (`*.myworkdayjobs.com`, locale prefixes fine), SmartRecruiters,
-iCIMS (`*.icims.com/jobs/<id>/job`), and Oracle Recruiting Cloud
-(`*.oraclecloud.com/hcmUI/CandidateExperience/.../job/<id>`).
-
-Two notes on the last two. iCIMS publishes no per-job API, so `jd` reads the
-schema.org `JobPosting` block embedded in the job page — and answers HTTP 410
-for a filled or expired req, which `jd` reports as a closed posting rather
-than a fetch failure. Oracle returns no company name anywhere in its
-requisition payload, so the header shows the tenant code (`egug`, `ehzq`) for
-employers whose subdomain isn't their name; the description itself is complete.
-
-## Development
-
-```
-pip install pytest ruff mypy
-pytest          # parsers are tested against real captured API payloads
-ruff check .
-mypy
+```sh
+python -m pip install pytest pyyaml
+python -m pytest -q
+PYTHONPATH=src python -m intern_radar.ucsd --dry-run
 ```
 
-## Design notes
+The production workflow commits the outbox before delivery. If a push fails,
+delivery stops; if delivery fails, pending alerts retry next hour. The receipt
+step runs after partial failures. Source errors appear in Actions logs, not
+extra health-notification issues. If every source fails, the run fails.
 
-- **Filters bias toward recall.** A false positive costs one line in an issue;
-  a false negative is a missed job. Title matching is substring-based on
-  purpose ("intern" catches "Internship").
-- **Notify before persist.** Remote notification failures exit nonzero
-  *without* marking postings seen, so the next run retries (at-least-once
-  delivery; duplicates are possible, silence is not).
-- **Dedup across sources** by normalized URL (e.g. Lever `/apply` links from
-  aggregators fold into the bare posting URL). Near-duplicate URLs that differ
-  more than that may occasionally notify twice.
-- **Direct ATS boards have no term metadata**, so they gate on the source's
-  employment-type label plus title keywords; Simplify listings gate on
-  term/category/degree fields.
-- **Discord is best-effort** when GitHub Issues are enabled: the issue is the
-  durable notification, and a dead webhook must not re-notify forever.
-- Seen-state entries prune after a year of not being observed live.
-- Known limitation: a source that fails on a run is reported in that run's
-  issue body (if one is created) and in the Actions log, but a permanently
-  dead board with no new postings elsewhere won't email you on its own.
+Before relying on it:
+- Confirm a successful Linux test run and live scan on this PR.
+- Run **watch** manually on the PR branch to check state writes and real issue
+  delivery. Confirm you receive the notification.
+- Enable **Issues** under repository Settings → Features. This fork initially
+  has Issues disabled, which blocks GitHub alert delivery.
+- Merge only after reviewing those results. Then confirm a scheduled run on
+  the default branch. If this repository is a fork, enable Actions if needed.
+
+GitHub can disable public-repo schedules after prolonged inactivity. Check
+Actions if alerts unexpectedly stop. No claim of live operation is made by
+this README; inspect the actual run history.
