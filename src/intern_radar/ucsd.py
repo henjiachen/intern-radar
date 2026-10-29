@@ -15,11 +15,11 @@ import urllib.request
 from dataclasses import asdict, replace
 from pathlib import Path
 from typing import Any
-from urllib.parse import unquote, urljoin, urlsplit
+from urllib.parse import quote, unquote, urljoin, urlsplit
 
 from intern_radar.config import load_config
 from intern_radar.models import Posting, canon_key
-from intern_radar.notify import format_lines
+from intern_radar.notify import format_lines, md_escape
 from intern_radar.poll import PollJob, run_jobs
 from intern_radar.sources import (
     fetch_ashby, fetch_greenhouse, fetch_lever, fetch_simplify,
@@ -34,7 +34,10 @@ PRIORITY = ("xbox", "playstation", "sony interactive", "usinternshipspubliccaree
 
 def priority(p: Posting) -> tuple[int, str, str]:
     text = (p.company + " " + p.title + " " + p.url).casefold()
-    return (next((i for i, name in enumerate(PRIORITY) if name in text), len(PRIORITY)),
+    rank = next((i + 2 for i, name in enumerate(PRIORITY) if name in text), len(PRIORITY) + 2)
+    if program(p):
+        rank = 0 if "google" in p.company.casefold() else 1
+    return (rank,
             p.company.casefold(), p.title.casefold())
 
 TECH = re.compile(
@@ -67,6 +70,26 @@ def program(p: Posting) -> bool:
             r"associate software developer intern", title)))
         or ("microsoft" in company and "explore" in title)
     )
+
+
+def graduation_badge(p: Posting) -> str:
+    """Report available evidence, never infer that an unstated rule does not exist."""
+    for line in (p.title + "\n" + p.description).splitlines():
+        match = re.search(r"\b(?:graduat\w*|class of)[^.;\n]{0,120}", line, re.I)
+        if match and re.search(r"\b20\d{2}\b", match.group()):
+            return "📅 Grad year stated: " + md_escape(match.group().strip()[:160])
+        match = re.search(r"\b20\d{2}[^.;\n]{0,70}\bgraduat\w*", line, re.I)
+        if match:
+            return "📅 Grad year stated: " + md_escape(match.group().strip()[:160])
+    if p.description.strip():
+        return "➖ No grad year found in the available description"
+    return "❔ Grad year unknown — full description unavailable"
+
+
+def candidate_line(p: Posting) -> str:
+    line = format_lines([p])[0]
+    star = "⭐ " if program(p) else ""
+    return line.replace("- [ ] ", "- [ ] " + star, 1) + " — " + graduation_badge(p)
 
 
 def eligible(p: Posting) -> bool:
@@ -302,16 +325,24 @@ class GitHub:
 
     def send(self, batch: dict[str, Any]) -> None:
         postings = [Posting(**e["posting"]) for e in batch["events"]]
-        lines = [line for p in sorted(postings, key=priority) for line in format_lines([p])]
-        body = ("Summer 2027 US SWE/CS/AI/ML candidates for a UCSD first-year "
-                "CS student (2029–2030 graduation). Gaming companies appear first.\n\n"
-                "Eligibility is based on listing metadata. A missing graduation year is "
-                "allowed; verify the full description, class standing, and work authorization.\n\n"
-                + "\n".join(lines)
-                + f"\n\n<!-- radar-ucsd:{batch['id']} -->")
-        if len(body) > 60000:
-            raise RuntimeError("Notification too large; split pending batch before retrying")
-        self.request("issues", {"title": f"{len(postings)} new or changed internship candidates",
+        header = ("**Intern Radar** — Summer 2027 US internships for a UCSD freshman in CS.\n\n"
+                  "⭐ Priority program: Google STEP/ASDI or Microsoft Explore.\n"
+                  "📅 Graduation year explicitly stated · ➖ Not found in available description · "
+                  "❔ Full description unavailable. Missing information does not prove eligibility.\n\n")
+        lines = []
+        size = len(header)
+        for p in sorted(postings, key=priority):
+            line = candidate_line(p)
+            if size + len(line) > 55000:
+                break
+            lines.append(line)
+            size += len(line) + 1
+        branch = quote(os.environ.get("GITHUB_REF_NAME", "main"), safe="")
+        archive = f"https://github.com/{self.repo}/blob/{branch}/data/alerts/{batch['id']}.json"
+        suffix = (f"\n\nShowing {len(lines)} of {len(postings)} matches. "
+                  f"[Full saved list]({archive})." if len(lines) < len(postings) else "")
+        body = header + "\n".join(lines) + suffix + f"\n\n<!-- radar-ucsd:{batch['id']} -->"
+        self.request("issues", {"title": f"Intern Radar: {len(postings)} new or changed candidates",
                                  "body": body, "assignees": [self.repo.split('/')[0]]})
 
 
@@ -319,11 +350,25 @@ def deliver(path: Path, state: dict[str, Any], github: Any) -> None:
     if not state.get("pending"):
         return
     markers = github.markers()
-    for batch in list(state["pending"]):
-        if batch["id"] not in markers:
-            github.send(batch)
-        state["pending"].remove(batch)
-        save(path, state)  # receipt; remote marker covers a crash before this save
+    remaining = [batch for batch in state["pending"] if batch["id"] not in markers]
+    if not remaining:
+        state["pending"] = []
+        save(path, state)
+        return
+    # One issue per check, including any pending retries. Remove already-sent
+    # envelopes before combining, so a lost receipt never duplicates an alert.
+    batch = remaining[0] if len(remaining) == 1 else {
+        "id": digest([b["id"] for b in remaining]),
+        "events": [e for b in remaining for e in b["events"]],
+    }
+    state["pending"] = [batch]
+    save(path, state)
+    archive = path.parent / "alerts" / f"{batch['id']}.json"
+    archive.parent.mkdir(parents=True, exist_ok=True)
+    archive.write_text(json.dumps(batch, indent=1) + "\n", encoding="utf-8")
+    github.send(batch)
+    state["pending"] = []
+    save(path, state)  # remote marker covers a crash before this receipt save
 
 
 def fetch(config_path: Path) -> tuple[list[Posting], list[str], int]:
@@ -377,7 +422,7 @@ def main() -> int:
                       "fetched": len(postings), "candidates": sum(map(eligible, postings)),
                       "priority_candidates": [p.company + ": " + p.title
                                               for p in sorted(postings, key=priority)
-                                              if eligible(p) and priority(p)[0] < len(PRIORITY)]}))
+                                              if eligible(p) and priority(p)[0] < len(PRIORITY) + 2]}))
     if total == 0 or len(failures) == total:
         return 1
     # A new user's first scan is quiet, never seeded from legacy history.

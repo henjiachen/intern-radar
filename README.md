@@ -4,7 +4,8 @@ Find Summer 2027 US software, CS, AI and ML internship candidates. No prior
 work experience, application cap, employer exclusion, or private history from
 the original author is used by the hourly watcher.
 
-Gaming companies get first placement in alerts: Xbox, PlayStation and Nintendo.
+Google STEP/ASDI and Microsoft Explore get first placement in alerts.
+Gaming companies follow: Xbox, PlayStation and Nintendo.
 NVIDIA, Google, Microsoft and Salesforce stay priorities too. Other companies,
 including TikTok and ByteDance, remain eligible.
 
@@ -23,7 +24,7 @@ commits do not trigger it. Every watch run tests the code before scanning.
    requirements. A missing graduation year is allowed. Explicit junior/senior
    requirements or incompatible graduation years are excluded when supplied.
 4. Save new matches or important changes in `data/ucsd.json` before sending.
-5. Create GitHub Issues for pending alerts, then save delivery receipts.
+5. Create one GitHub Issue for all pending alerts from that check, then save delivery receipts.
 
 The first run creates a quiet baseline of current matches, so it does not flood
 you with old openings. Optional **bootstrap** resets that baseline. Both require
@@ -61,6 +62,15 @@ still need checking. Unknown-country remote roles and undated direct listings
 without Summer 2027 evidence are excluded. No closures are inferred from a
 missing row or source failure. Reopening a previously seen unchanged URL is
 not currently detected. No automatic applications are submitted.
+
+Alert bullets use 📅 for a graduation year explicitly stated in available text,
+➖ when no graduation year was found in an available description, and ❔ when
+the full description is unavailable. A missing year never means confirmed
+freshman eligibility. ⭐ marks Google STEP/ASDI or Microsoft Explore.
+
+Each check sends at most one combined alert, including pending retries. If the
+list exceeds GitHub’s message limit, the issue links to its complete saved list
+in data/alerts. Unchanged checks stay quiet.
 
 Only GitHub Issues are used by this profile. Discord/ntfy settings in legacy
 tools do not affect it. GitHub email depends on your notification settings;

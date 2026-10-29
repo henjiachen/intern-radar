@@ -254,3 +254,50 @@ def test_delivery_checks_issues_enabled_even_when_no_pending(tmp_path, monkeypat
     monkeypatch.setattr(ucsd, "GitHub", Disabled)
     with pytest.raises(RuntimeError, match="Enable Issues"):
         ucsd.main()
+
+
+@pytest.mark.parametrize("posting, symbol, detail", [
+    (job(title="Software Intern - graduating 2029–2030"), "📅", "2029–2030"),
+    (job(description="Expected graduation between May 2028 and December 2030."), "📅", "2030"),
+    (job(description="Currently enrolled in a bachelor's degree program."), "➖", "No grad year"),
+    (job(), "❔", "unavailable"),
+])
+def test_graduation_badges_report_available_evidence(posting, symbol, detail):
+    badge = ucsd.graduation_badge(posting)
+    assert badge.startswith(symbol)
+    assert detail in badge
+
+
+def test_freshman_programs_rank_first_and_get_a_star():
+    google = job(company="Google", title="STEP Intern")
+    explore = job(company="Microsoft", title="Explore")
+    gaming = job(company="Nintendo")
+    assert sorted([gaming, explore, google], key=priority) == [google, explore, gaming]
+    assert "⭐" in ucsd.candidate_line(google)
+    assert "⭐" not in ucsd.candidate_line(gaming)
+
+
+def test_only_one_alert_for_multiple_pending_batches(tmp_path):
+    state = reconcile({}, [job(url=f"https://example.com/{n}") for n in range(81)])
+    github = FakeGitHub()
+    path = tmp_path / "ucsd.json"
+    deliver(path, state, github)
+    assert len(github.sent) == 1
+    assert len(github.sent[0]["events"]) == 81
+    assert len(list((tmp_path / "alerts").glob("*.json"))) == 1
+    assert not state["pending"]
+
+
+def test_lost_digest_receipt_with_new_matches_does_not_repeat_old_jobs(tmp_path):
+    state = reconcile({}, [job(url=f"https://example.com/{n}") for n in range(81)])
+    github = FakeGitHub()
+    github.fail = True
+    path = tmp_path / "ucsd.json"
+    with pytest.raises(OSError):
+        deliver(path, state, github)
+    lost = copy.deepcopy(state)
+    github.fail = False
+    deliver(path, state, github)
+    reconcile(lost, [job(url="https://example.com/new")])
+    deliver(path, lost, github)
+    assert [len(batch["events"]) for batch in github.sent] == [81, 1]

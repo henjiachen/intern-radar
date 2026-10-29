@@ -62,6 +62,7 @@ jobs:
         run: |
           if [ -f data/ucsd.json ]; then
             git add data/ucsd.json
+            if [ -d data/alerts ]; then git add data/alerts; fi
             if ! git diff --cached --quiet; then
               git commit -m "chore: persist UCSD notification receipts [skip ci]"
               git push origin "HEAD:${GITHUB_REF_NAME}"
