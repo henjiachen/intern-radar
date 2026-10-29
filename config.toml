@@ -42,7 +42,7 @@ location_exclude = []
 # already spent on the Data Science role tailored 2026-08-05. Sixty postings
 # competing for one remaining slot is churn, not signal. Delete the entry to
 # see them again.
-company_exclude = ["TikTok", "ByteDance"]
+company_exclude = []
 
 # Auto-discovered boards have no job category: require a tech keyword and
 # drop off-cycle terms (owner, 2026-09-30). Hand-picked boards are exempt.
