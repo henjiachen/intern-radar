@@ -46,7 +46,7 @@ jobs:
         run: |
           git config user.name "intern-radar[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ucsd.json
+          git add data/ucsd.json data/dashboard.json
           if ! git diff --cached --quiet; then
             git commit -m "chore: persist UCSD notification outbox [skip ci]"
             git push origin "HEAD:${GITHUB_REF_NAME}"

@@ -1,4 +1,4 @@
-# Intern Radar — UCSD freshman CS profile
+# Intern Radar — quiet internship dashboard
 
 Find Summer 2027 US software, CS, AI and ML internship candidates. No prior
 work experience, application cap, employer exclusion, or private history from
@@ -73,7 +73,11 @@ pending retries. Further matches wait for the next hourly alert. If the
 list exceeds GitHub’s message limit, the issue links to its complete saved list
 in data/alerts. Unchanged checks stay quiet.
 
-Only GitHub Issues are used by this profile. Discord/ntfy settings in legacy
+Dashboard mode is the default. Each scan writes public data/dashboard.json for
+the Intern Radar website. Job-alert emails and new GitHub alert issues are off.
+Set RADAR_EMAIL_ALERTS=1 explicitly only if email alerts are wanted again.
+
+When email alerts are explicitly enabled, only GitHub Issues are used. Discord/ntfy settings in legacy
 tools do not affect it. GitHub email depends on your notification settings;
 verify receipt of the first real alert.
 

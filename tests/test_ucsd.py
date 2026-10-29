@@ -246,6 +246,7 @@ def test_first_run_baseline_and_failed_source_preserves_state(tmp_path, monkeypa
 
 
 def test_delivery_checks_issues_enabled_even_when_no_pending(tmp_path, monkeypatch):
+    monkeypatch.setenv("RADAR_EMAIL_ALERTS", "1")
     monkeypatch.setattr("sys.argv", ["ucsd", "--phase", "deliver", "--state",
                                     str(tmp_path / "ucsd.json")])
     class Disabled:
@@ -329,3 +330,29 @@ def test_short_link_backlog_is_quiet_once_but_later_changes_alert(monkeypatch):
     changed = replace(short, locations=("Seattle, WA",))
     reconcile(state, ucsd.resolve_short_links([changed], state))
     assert len(state["pending"]) == 1
+
+
+def test_dashboard_mode_does_not_call_github(tmp_path, monkeypatch):
+    import json
+    path = tmp_path / "ucsd.json"
+    state = reconcile({}, [job()])
+    save(path, state)
+    monkeypatch.delenv("RADAR_EMAIL_ALERTS", raising=False)
+    monkeypatch.setattr("sys.argv", ["ucsd", "--phase", "deliver", "--state", str(path)])
+    monkeypatch.setattr(ucsd, "GitHub", lambda: pytest.fail("email should be disabled"))
+    assert ucsd.main() == 0
+    assert not json.loads(path.read_text())["pending"]
+
+
+def test_dashboard_has_real_matches_and_graduation_evidence(tmp_path):
+    import json
+    p = job(title="Software Intern - graduating 2029")
+    state = reconcile({}, [p], baseline=True)
+    path = tmp_path / "dashboard.json"
+    ucsd.write_dashboard(path, state, [p, p, job(title="Marketing Intern")], [], 104)
+    data = json.loads(path.read_text())
+    assert data["sources_checked"] == 104
+    assert len(data["jobs"]) == 1
+    assert data["jobs"][0]["graduation_status"] == "stated"
+    assert data["jobs"][0]["url"] == p.url
+    assert data["last_checked"]

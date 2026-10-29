@@ -304,6 +304,37 @@ def save(path: Path, state: dict[str, Any]) -> None:
     temp.replace(path)
 
 
+def write_dashboard(path: Path, state: dict[str, Any], postings: list[Posting],
+                    failures: list[str], sources: int) -> None:
+    groups = {}
+    for p in postings:
+        key = canon_key(p.url)
+        row = state.get("known", {}).get(key, {})
+        if not row.get("eligible"):
+            continue
+        if key not in groups or len(p.description) > len(groups[key].description):
+            groups[key] = p
+    jobs = []
+    for key, p in groups.items():
+        evidence = state["known"][key].get("evidence", {})
+        description = p.description or "\n".join(evidence.get("requirements", []))
+        p = replace(p, description=description)
+        badge = graduation_badge(p)
+        status = "stated" if badge.startswith("📅") else (
+            "not_found" if badge.startswith("➖") else "unknown")
+        jobs.append({"id": digest(key), "company": p.company, "title": p.title,
+                     "url": p.url, "locations": list(p.locations), "posted_at": p.posted_at,
+                     "graduation_status": status, "graduation_detail": badge,
+                     "priority_program": program(p), "priority": priority(p)[0],
+                     "source": p.source})
+    jobs.sort(key=lambda job: (job["priority"], job["company"].casefold(), job["title"].casefold()))
+    payload = {"version": 1, "last_checked": datetime.now(UTC).isoformat(),
+               "sources_checked": sources, "source_failures": len(failures),
+               "profile": "UCSD freshman · CS · Summer 2027 · US",
+               "email_alerts": os.environ.get("RADAR_EMAIL_ALERTS") == "1", "jobs": jobs}
+    save(path, payload)
+
+
 class GitHub:
     def __init__(self) -> None:
         self.repo = os.environ["GITHUB_REPOSITORY"]
@@ -430,6 +461,11 @@ def main() -> int:
     state = json.loads(args.state.read_text(encoding="utf-8")) if args.state.exists() else {}
     if args.phase == "deliver":
         if not args.dry_run:
+            if os.environ.get("RADAR_EMAIL_ALERTS") != "1":
+                state["pending"] = []
+                save(args.state, state)
+                print("Dashboard mode: job-alert emails are off")
+                return 0
             github = GitHub()
             if not github.request("").get("has_issues"):
                 raise RuntimeError("Enable Issues in repository Settings > Features; alerts are blocked")
@@ -452,7 +488,10 @@ def main() -> int:
     reconcile(state, postings, baseline=baseline)
     print("Quiet initial baseline" if baseline else "Compared with saved profile history")
     if not args.dry_run:
+        if os.environ.get("RADAR_EMAIL_ALERTS") != "1":
+            state["pending"] = []
         save(args.state, state)
+        write_dashboard(args.state.parent / "dashboard.json", state, postings, failures, total)
     return 0
 
 

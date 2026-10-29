@@ -103,4 +103,4 @@ companies = ["LinkedIn3", "WesternDigital", "LLNL", "BoschGroup"]
 country = "us"
 
 [notify]
-github_issues = true
+github_issues = false
