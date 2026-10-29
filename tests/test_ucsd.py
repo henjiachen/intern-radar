@@ -160,6 +160,37 @@ def test_irrelevant_fulltime_jobs_do_not_bloat_saved_history():
     assert len(state["known"]) == 1
 
 
+def test_conflicting_spring_url_is_not_summer():
+    assert not eligible(job(url="https://example.com/Reporting-Co-op-Spring-2027_JR123"))
+    assert eligible(job(title="Software Intern Spring 2027 & Summer 2027",
+                        url="https://example.com/spring-2027"))
+
+
+def test_short_links_resolve_before_dedupe_and_keep_seen_history(monkeypatch):
+    direct = job()
+    short = replace(direct, url="https://go.vansh.nyc/abc", source="vanshb03")
+    state = reconcile({}, [short], baseline=True)
+    monkeypatch.setattr(ucsd, "expand_short_link", lambda url: direct.url)
+    rows = ucsd.resolve_short_links([direct, short], state)
+    assert rows[0].url == rows[1].url
+    reconcile(state, rows)
+    assert not state.get("pending")
+    assert len(state["known"]) == 1
+    monkeypatch.setattr(ucsd, "expand_short_link", lambda url: pytest.fail("cache missed"))
+    assert ucsd.resolve_short_links([short], state)[0].url == direct.url
+
+
+def test_unresolved_short_links_wait_without_alerting(monkeypatch):
+    short = job(url="https://go.vansh.nyc/abc")
+    def fail(url):
+        raise OSError("shortener unavailable")
+    monkeypatch.setattr(ucsd, "expand_short_link", fail)
+    state = {}
+    assert not ucsd.resolve_short_links([short], state)
+    reconcile(state, [])
+    assert not state.get("pending")
+
+
 def test_gaming_parsers():
     cards = '<a href="/jobs/123/"><h3>Software Intern</h3><span>Redmond, WA</span></a>'
     assert parse_cards(cards)[0].company == "Nintendo"

@@ -10,11 +10,12 @@ import hashlib
 import json
 import os
 import re
+import urllib.error
 import urllib.request
 from dataclasses import asdict, replace
 from pathlib import Path
 from typing import Any
-from urllib.parse import urlsplit
+from urllib.parse import unquote, urljoin, urlsplit
 
 from intern_radar.config import load_config
 from intern_radar.models import Posting, canon_key
@@ -109,6 +110,13 @@ def eligible(p: Posting) -> bool:
         if grad.start() < len(title):
             cycle_title = title[:grad.start()]
     if p.terms:
+        # A community feed can mislabel the season. A specific cycle in the
+        # actual job link is stronger evidence than a generic list label.
+        link = unquote(urlsplit(p.url).path).replace("_", " ").replace("-", " ")
+        wrong_cycle = re.search(r"\b(?:spring|fall|autumn|winter)\s+2027\b", link, re.I)
+        summer = re.search(r"summer\s+(?:of\s+)?2027", title + " " + link, re.I)
+        if wrong_cycle and not summer:
+            return False
         return any(term.casefold() == "summer 2027" for term in p.terms)
     # A dated 2027 internship with no other season is a summer candidate.
     # Undated ATS jobs remain excluded rather than silently becoming Summer 2027.
@@ -122,6 +130,68 @@ def eligible(p: Posting) -> bool:
 
 def digest(value: Any) -> str:
     return hashlib.sha256(json.dumps(value, sort_keys=True).encode()).hexdigest()
+
+
+def expand_short_link(url: str) -> str:
+    """Read only the shortener's redirect, without downloading the job page."""
+    class NoRedirect(urllib.request.HTTPRedirectHandler):
+        def redirect_request(self, req, fp, code, msg, headers, newurl):
+            return None
+    opener = urllib.request.build_opener(NoRedirect)
+    request = urllib.request.Request(url, headers={"User-Agent": "intern-radar"})
+    try:
+        with opener.open(request, timeout=8) as response:
+            target = response.geturl()
+    except urllib.error.HTTPError as error:
+        if error.code not in {301, 302, 303, 307, 308} or not error.headers.get("Location"):
+            raise
+        target = urljoin(url, error.headers["Location"])
+        error.close()
+    if (urlsplit(target).scheme not in {"http", "https"}
+            or urlsplit(target).hostname == "go.vansh.nyc"):
+        raise ValueError("Short link did not provide a direct job URL")
+    return target
+
+
+def resolve_short_links(postings: list[Posting], state: dict[str, Any], *,
+                        budget: int = 100) -> list[Posting]:
+    from concurrent.futures import ThreadPoolExecutor
+    cache = state.setdefault("links", {})
+    attempts = state.setdefault("link_checks", {})
+    sequence = state.get("scan_sequence", 0) + 1
+    state["scan_sequence"] = sequence
+    candidates = {p.url: p for p in postings
+                  if urlsplit(p.url).hostname == "go.vansh.nyc" and eligible(p)}
+    # Resolve new openings first, then rotate any failed or deferred old URLs.
+    missing = sorted((url for url in candidates if url not in cache),
+                     key=lambda url: (canon_key(url) in state.get("known", {}),
+                                      attempts.get(url, 0), priority(candidates[url])))[:budget]
+    def resolve(url):
+        try:
+            return url, expand_short_link(url)
+        except (OSError, ValueError):
+            return url, None
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        for url, target in pool.map(resolve, missing):
+            attempts[url] = sequence
+            if target:
+                cache[url] = target
+    out = []
+    deferred = 0
+    known = state.setdefault("known", {})
+    for p in postings:
+        if p.url in candidates:
+            target = cache.get(p.url)
+            if not target:
+                deferred += 1
+                continue  # never alert an unresolved duplicate/unknown-cycle URL
+            old_key, new_key = canon_key(p.url), canon_key(target)
+            if old_key in known:
+                known.setdefault(new_key, known.pop(old_key))
+            p = replace(p, url=target)
+        out.append(p)
+    print(f"Short links: resolved {len(candidates) - deferred}; deferred {deferred}")
+    return out
 
 
 def snapshot(p: Posting) -> dict[str, Any]:
@@ -298,6 +368,7 @@ def main() -> int:
             deliver(args.state, state, github)
         return 0
     postings, failures, total = fetch(args.config)
+    postings = resolve_short_links(postings, state)
     print(json.dumps({"sources": total, "failures": failures,
                       "fetched": len(postings), "candidates": sum(map(eligible, postings)),
                       "priority_candidates": [p.company + ": " + p.title

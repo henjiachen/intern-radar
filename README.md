@@ -32,6 +32,11 @@ nothing. Failed alerts stay pending. A marker inside each issue prevents
 duplicate delivery after a crash. Changes to job title, location, term, degree,
 or supplied eligibility requirements can alert; posting-date refreshes and
 tracking links do not.
+Shortened community links are expanded before duplicate and season checks.
+At most 100 uncached links are checked per scan; failed or deferred links wait
+for another scan and do not create alerts. Resolved links are cached. A job URL
+that explicitly says Spring/Fall/Winter 2027 is not accepted solely because a
+community list labels it Summer 2027.
 
 This uses new state, separate from the original author's `data/seen.json`,
 inbox, tracker, discovered boards and application history. Those legacy files
