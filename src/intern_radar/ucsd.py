@@ -151,6 +151,11 @@ def reconcile(state: dict[str, Any], postings: list[Posting], *,
         previous = known.get(key)
         p = max(rows, key=lambda p: (bool(p.description), bool(p.terms), len(p.degrees),
                                     len(p.locations), p.source, p.key))
+        if not program(p) and not (INTERN.search(p.title + " " + p.employment_type)
+                                   and TECH.search(p.title + " " + p.category)):
+            if previous is None or not previous["eligible"]:
+                known.pop(key, None)
+                continue  # do not retain thousands of unrelated full-time jobs
         p = replace(p,
                     terms=tuple(sorted({x for row in rows for x in row.terms})),
                     degrees=tuple(sorted({x for row in rows for x in row.degrees})),
@@ -165,13 +170,18 @@ def reconcile(state: dict[str, Any], postings: list[Posting], *,
                     description=p.description or "\n".join(evidence.get("requirements", [])))
         good, fields = eligible(p), snapshot(p)
         fingerprint = digest(fields)
+        changed = (previous is None or previous["eligible"] != good
+                   or previous["fingerprint"] != fingerprint)
+        revision = (previous.get("revision", 0) if previous else 0) + int(changed)
         if good and (previous is None or not previous["eligible"]
                      or previous["fingerprint"] != fingerprint):
             if not baseline:
                 event = {"posting": asdict(p), "kind": "new" if previous is None
-                         else "changed", "id": digest([key, fingerprint])}
+                         else "changed", "id": digest([key, fingerprint, revision])}
                 events.append(event)
-        known[key] = {"eligible": good, "fingerprint": fingerprint, "evidence": fields}
+        known[key] = {"eligible": good, "fingerprint": fingerprint, "revision": revision}
+        if good:
+            known[key]["evidence"] = fields
     # Missing rows never mean closure: partial feeds and outages are common.
     events.sort(key=lambda event: priority(Posting(**event["posting"])))
     for start in range(0, len(events), 40):

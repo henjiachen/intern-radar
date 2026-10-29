@@ -4,7 +4,7 @@ on:
   # trigger never runs on pull_request and ignores the bot's data commits.
   push:
     branches: [customize-ucsd-ai-2027]
-    paths: [".github/workflows/watch.yml"]
+    paths: [".github/workflows/watch.yml", "src/intern_radar/**"]
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:

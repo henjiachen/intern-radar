@@ -13,7 +13,7 @@ including TikTok and ByteDance, remain eligible.
 `.github/workflows/watch.yml` runs `python -m intern_radar.ucsd` hourly at minute
 17 UTC. GitHub schedules are best effort, may run late, and use the default
 branch only. The PR branch does not activate the production schedule.
-The review branch also runs the real watcher when its watch workflow changes,
+The review branch also runs the real watcher when its watcher code or workflow changes,
 so state writes and alert delivery can be checked before merging. Data-only
 commits do not trigger it. Every watch run tests the code before scanning.
 

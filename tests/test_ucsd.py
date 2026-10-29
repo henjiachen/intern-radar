@@ -145,6 +145,21 @@ def test_feed_outage_does_not_erase_eligibility_and_renotify():
     assert not state.get("pending")
 
 
+def test_repeated_material_changes_get_distinct_delivery_ids():
+    state = reconcile({}, [job()])
+    original = state["pending"][0]["id"]
+    state["pending"] = []
+    reconcile(state, [job(locations=("Seattle, WA",))])
+    state["pending"] = []
+    reconcile(state, [job()])
+    assert state["pending"][0]["id"] != original
+
+
+def test_irrelevant_fulltime_jobs_do_not_bloat_saved_history():
+    state = reconcile({}, [job(title="Software Engineer"), job(url="https://example.com/intern")])
+    assert len(state["known"]) == 1
+
+
 def test_gaming_parsers():
     cards = '<a href="/jobs/123/"><h3>Software Intern</h3><span>Redmond, WA</span></a>'
     assert parse_cards(cards)[0].company == "Nintendo"
@@ -160,7 +175,7 @@ def test_workflow_security_and_persistence_order():
     assert watch["on"]["schedule"][0]["cron"] == "17 * * * *"
     assert set(watch["on"]) == {"schedule", "workflow_dispatch", "push"}
     assert watch["on"]["push"]["branches"] == ["customize-ucsd-ai-2027"]
-    assert watch["on"]["push"]["paths"] == [".github/workflows/watch.yml"]
+    assert watch["on"]["push"]["paths"] == [".github/workflows/watch.yml", "src/intern_radar/**"]
     assert watch["concurrency"]["cancel-in-progress"] == "false"
     steps = watch["jobs"]["watch"]["steps"]
     names = [s.get("name", "") for s in steps]
