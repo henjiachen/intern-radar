@@ -18,6 +18,7 @@ class Posting:
     degrees: tuple[str, ...] = ()  # simplify only
     posted_at: str = ""  # ISO date if the source provides one
     employment_type: str = ""  # source's own label, e.g. "Intern"/"Internship"
+    description: str = ""  # when a public source supplies the job requirements
 
     @property
     def url_key(self) -> str:

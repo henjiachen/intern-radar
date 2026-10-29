@@ -38,6 +38,7 @@ def parse_ashby(org: str, payload: Any) -> list[Posting]:
                 locations=tuple(x for x in locations if x),
                 posted_at=published[:10],
                 employment_type=str(job.get("employmentType", "")),
+                description=str(job.get("descriptionPlain") or ""),
             )
         )
     return postings

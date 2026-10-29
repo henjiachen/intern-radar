@@ -45,6 +45,7 @@ def parse_lever(company: str, payload: Any) -> list[Posting]:
                 locations=locations,
                 posted_at=_ms_to_iso(job.get("createdAt")),
                 employment_type=commitment,
+                description=str(job.get("descriptionPlain") or ""),
             )
         )
     return postings
