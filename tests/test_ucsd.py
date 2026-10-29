@@ -180,6 +180,16 @@ def test_short_links_resolve_before_dedupe_and_keep_seen_history(monkeypatch):
     assert ucsd.resolve_short_links([short], state)[0].url == direct.url
 
 
+def test_link_cleanup_does_not_alert_on_old_source_metadata_changes(monkeypatch):
+    short = job(url="https://go.vansh.nyc/abc", locations=("Seattle, WA",))
+    direct = job()
+    state = reconcile({}, [short, direct], baseline=True)
+    monkeypatch.setattr(ucsd, "expand_short_link", lambda url: direct.url)
+    reconcile(state, ucsd.resolve_short_links([short, direct], state))
+    assert not state.get("pending")
+    assert "_link_migrations" not in state
+
+
 def test_unresolved_short_links_wait_without_alerting(monkeypatch):
     short = job(url="https://go.vansh.nyc/abc")
     def fail(url):

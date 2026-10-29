@@ -179,6 +179,7 @@ def resolve_short_links(postings: list[Posting], state: dict[str, Any], *,
     out = []
     deferred = 0
     known = state.setdefault("known", {})
+    migrated = state.setdefault("_link_migrations", [])
     for p in postings:
         if p.url in candidates:
             target = cache.get(p.url)
@@ -187,6 +188,8 @@ def resolve_short_links(postings: list[Posting], state: dict[str, Any], *,
                 continue  # never alert an unresolved duplicate/unknown-cycle URL
             old_key, new_key = canon_key(p.url), canon_key(target)
             if old_key in known:
+                if known[old_key]["eligible"]:
+                    migrated.append(new_key)
                 known.setdefault(new_key, known.pop(old_key))
             p = replace(p, url=target)
         out.append(p)
@@ -216,6 +219,7 @@ def reconcile(state: dict[str, Any], postings: list[Posting], *,
     for p in postings:
         groups.setdefault(canon_key(p.url), []).append(p)
     events = []
+    migrations = set(state.pop("_link_migrations", []))
     known = state.setdefault("known", {})
     for key, rows in sorted(groups.items()):
         previous = known.get(key)
@@ -245,7 +249,7 @@ def reconcile(state: dict[str, Any], postings: list[Posting], *,
         revision = (previous.get("revision", 0) if previous else 0) + int(changed)
         if good and (previous is None or not previous["eligible"]
                      or previous["fingerprint"] != fingerprint):
-            if not baseline:
+            if not baseline and key not in migrations:
                 event = {"posting": asdict(p), "kind": "new" if previous is None
                          else "changed", "id": digest([key, fingerprint, revision])}
                 events.append(event)
