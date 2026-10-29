@@ -1,5 +1,10 @@
 name: watch
 on:
+  # Exercise the real watcher on this review branch before merging. This
+  # trigger never runs on pull_request and ignores the bot's data commits.
+  push:
+    branches: [customize-ucsd-ai-2027]
+    paths: [".github/workflows/watch.yml"]
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
@@ -25,6 +30,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Test before sending
+        run: |
+          python -m pip install pytest pyyaml
+          python -m pytest -q
       - name: Scan profile
         env:
           PYTHONPATH: src

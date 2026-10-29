@@ -13,6 +13,9 @@ including TikTok and ByteDance, remain eligible.
 `.github/workflows/watch.yml` runs `python -m intern_radar.ucsd` hourly at minute
 17 UTC. GitHub schedules are best effort, may run late, and use the default
 branch only. The PR branch does not activate the production schedule.
+The review branch also runs the real watcher when its watch workflow changes,
+so state writes and alert delivery can be checked before merging. Data-only
+commits do not trigger it. Every watch run tests the code before scanning.
 
 1. Fetch public job feeds.
 2. Group duplicate job URLs and combine their available information.
@@ -22,8 +25,9 @@ branch only. The PR branch does not activate the production schedule.
 4. Save new matches or important changes in `data/ucsd.json` before sending.
 5. Create GitHub Issues for pending alerts, then save delivery receipts.
 
-The first ordinary run alerts on current matches. Optional **bootstrap** makes
-a quiet baseline instead, only if every source succeeds. Unchanged checks send
+The first run creates a quiet baseline of current matches, so it does not flood
+you with old openings. Optional **bootstrap** resets that baseline. Both require
+every configured source to succeed. Unchanged checks send
 nothing. Failed alerts stay pending. A marker inside each issue prevents
 duplicate delivery after a crash. Changes to job title, location, term, degree,
 or supplied eligibility requirements can alert; posting-date refreshes and
@@ -77,6 +81,8 @@ Before relying on it:
 - Confirm a successful Linux test run and live scan on this PR.
 - Run **watch** manually on the PR branch to check state writes and real issue
   delivery. Confirm you receive the notification.
+- Enable **Issues** under repository Settings → Features. This fork initially
+  has Issues disabled, which blocks GitHub alert delivery.
 - Merge only after reviewing those results. Then confirm a scheduled run on
   the default branch. If this repository is a fork, enable Actions if needed.
 

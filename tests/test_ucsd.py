@@ -9,6 +9,7 @@ from intern_radar.models import Posting
 from intern_radar.ucsd import deliver, eligible, priority, reconcile, save
 from intern_radar.sources.nintendo import parse_cards
 from intern_radar.sources.greenhouse import parse_greenhouse
+import intern_radar.ucsd as ucsd
 
 
 def job(**kwargs):
@@ -134,6 +135,16 @@ def test_description_and_list_metadata_merge_before_eligibility():
     assert state["pending"][0]["events"][0]["posting"]["description"]
 
 
+def test_feed_outage_does_not_erase_eligibility_and_renotify():
+    p = job(description="Open to freshmen for summer 2027.")
+    state = reconcile({}, [p], baseline=True)
+    reconcile(state, [replace(p, source="lever", terms=(), degrees=(), category="",
+                              description="")])
+    assert not state.get("pending")
+    reconcile(state, [p])
+    assert not state.get("pending")
+
+
 def test_gaming_parsers():
     cards = '<a href="/jobs/123/"><h3>Software Intern</h3><span>Redmond, WA</span></a>'
     assert parse_cards(cards)[0].company == "Nintendo"
@@ -147,7 +158,9 @@ def test_workflow_security_and_persistence_order():
     root = Path(__file__).resolve().parents[1]
     watch = yaml.load((root / ".github/workflows/watch.yml").read_text(), Loader=yaml.BaseLoader)
     assert watch["on"]["schedule"][0]["cron"] == "17 * * * *"
-    assert set(watch["on"]) == {"schedule", "workflow_dispatch"}
+    assert set(watch["on"]) == {"schedule", "workflow_dispatch", "push"}
+    assert watch["on"]["push"]["branches"] == ["customize-ucsd-ai-2027"]
+    assert watch["on"]["push"]["paths"] == [".github/workflows/watch.yml"]
     assert watch["concurrency"]["cancel-in-progress"] == "false"
     steps = watch["jobs"]["watch"]["steps"]
     names = [s.get("name", "") for s in steps]
@@ -158,3 +171,30 @@ def test_workflow_security_and_persistence_order():
     assert ci["permissions"] == {"contents": "read"}
     assert "pull_request_target" not in ci["on"]
     assert "--dry-run" in ci["jobs"]["tests"]["steps"][-1]["run"]
+
+
+def test_first_run_baseline_and_failed_source_preserves_state(tmp_path, monkeypatch):
+    state = tmp_path / "ucsd.json"
+    monkeypatch.setattr("sys.argv", ["ucsd", "--state", str(state)])
+    monkeypatch.setattr(ucsd, "fetch", lambda config: ([job()], ["bad source"], 2))
+    assert ucsd.main() == 1
+    assert not state.exists()
+    monkeypatch.setattr(ucsd, "fetch", lambda config: ([job()], [], 1))
+    assert ucsd.main() == 0
+    import json
+    assert not json.loads(state.read_text()).get("pending")
+    before = state.read_bytes()
+    monkeypatch.setattr("sys.argv", ["ucsd", "--state", str(state), "--dry-run"])
+    assert ucsd.main() == 0
+    assert state.read_bytes() == before
+
+
+def test_delivery_checks_issues_enabled_even_when_no_pending(tmp_path, monkeypatch):
+    monkeypatch.setattr("sys.argv", ["ucsd", "--phase", "deliver", "--state",
+                                    str(tmp_path / "ucsd.json")])
+    class Disabled:
+        def request(self, route):
+            return {"has_issues": False}
+    monkeypatch.setattr(ucsd, "GitHub", Disabled)
+    with pytest.raises(RuntimeError, match="Enable Issues"):
+        ucsd.main()

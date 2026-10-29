@@ -28,7 +28,6 @@ boards = [
     "anthropic",
     "scaleai",
     "flowtraders",
-    "oldmissioncapital",
     "pdtpartners",
     "figma",
     "roblox",
@@ -62,10 +61,7 @@ boards = [
     "faire",
     "airtable",
     "webflow",
-    "amplitude",
-    "clickhouse",
     "cockroachlabs",
-    "temporaltechnologies",
     "squarespace",
     "verkada",
     "samsara",
@@ -100,7 +96,6 @@ boards = [
     "blackrock.wd1/BlackRock_Professional",
     "adobe.wd5/external_experienced",
     "target.wd5/targetcareers",
-    "comcast.wd5/Comcast_Careers",
 ]
 
 [sources.smartrecruiters]

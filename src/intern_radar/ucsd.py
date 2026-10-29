@@ -109,7 +109,7 @@ def eligible(p: Posting) -> bool:
         if grad.start() < len(title):
             cycle_title = title[:grad.start()]
     if p.terms:
-        return "Summer 2027" in p.terms
+        return any(term.casefold() == "summer 2027" for term in p.terms)
     # A dated 2027 internship with no other season is a summer candidate.
     # Undated ATS jobs remain excluded rather than silently becoming Summer 2027.
     if OFFCYCLE.search(cycle_title):
@@ -148,6 +148,7 @@ def reconcile(state: dict[str, Any], postings: list[Posting], *,
     events = []
     known = state.setdefault("known", {})
     for key, rows in sorted(groups.items()):
+        previous = known.get(key)
         p = max(rows, key=lambda p: (bool(p.description), bool(p.terms), len(p.degrees),
                                     len(p.locations), p.source, p.key))
         p = replace(p,
@@ -155,16 +156,22 @@ def reconcile(state: dict[str, Any], postings: list[Posting], *,
                     degrees=tuple(sorted({x for row in rows for x in row.degrees})),
                     locations=tuple(sorted({x for row in rows for x in row.locations})),
                     category=next((row.category for row in rows if row.category), ""))
+        # An unavailable/richer feed is not evidence that requirements changed.
+        # Retain prior metadata only when the current sources omit that field.
+        evidence = previous.get("evidence", {}) if previous else {}
+        p = replace(p, terms=p.terms or tuple(evidence.get("terms", [])),
+                    degrees=p.degrees or tuple(evidence.get("degrees", [])),
+                    category=p.category or evidence.get("category", ""),
+                    description=p.description or "\n".join(evidence.get("requirements", [])))
         good, fields = eligible(p), snapshot(p)
         fingerprint = digest(fields)
-        previous = known.get(key)
         if good and (previous is None or not previous["eligible"]
                      or previous["fingerprint"] != fingerprint):
             if not baseline:
                 event = {"posting": asdict(p), "kind": "new" if previous is None
                          else "changed", "id": digest([key, fingerprint])}
                 events.append(event)
-        known[key] = {"eligible": good, "fingerprint": fingerprint}
+        known[key] = {"eligible": good, "fingerprint": fingerprint, "evidence": fields}
     # Missing rows never mean closure: partial feeds and outages are common.
     events.sort(key=lambda event: priority(Posting(**event["posting"])))
     for start in range(0, len(events), 40):
@@ -189,7 +196,7 @@ class GitHub:
 
     def request(self, route: str, payload: Any = None) -> Any:
         req = urllib.request.Request(
-            f"https://api.github.com/repos/{self.repo}/{route}",
+            f"https://api.github.com/repos/{self.repo}/{route}".rstrip("/"),
             data=json.dumps(payload).encode() if payload is not None else None,
             headers={"Authorization": f"Bearer {self.token}",
                      "Accept": "application/vnd.github+json", "User-Agent": "intern-radar",
@@ -274,8 +281,11 @@ def main() -> int:
     args = parser.parse_args()
     state = json.loads(args.state.read_text(encoding="utf-8")) if args.state.exists() else {}
     if args.phase == "deliver":
-        if not args.dry_run and state.get("pending"):
-            deliver(args.state, state, GitHub())
+        if not args.dry_run:
+            github = GitHub()
+            if not github.request("").get("has_issues"):
+                raise RuntimeError("Enable Issues in repository Settings > Features; alerts are blocked")
+            deliver(args.state, state, github)
         return 0
     postings, failures, total = fetch(args.config)
     print(json.dumps({"sources": total, "failures": failures,
@@ -285,11 +295,13 @@ def main() -> int:
                                               if eligible(p) and priority(p)[0] < len(PRIORITY)]}))
     if total == 0 or len(failures) == total:
         return 1
-    # Baseline is an explicit optional action, never automatic or inherited.
+    # A new user's first scan is quiet, never seeded from legacy history.
     # Do not silently baseline unseen openings from a broken source.
-    if args.baseline and failures:
+    baseline = args.baseline or not args.state.exists()
+    if baseline and failures:
         return 1
-    reconcile(state, postings, baseline=args.baseline)
+    reconcile(state, postings, baseline=baseline)
+    print("Quiet initial baseline" if baseline else "Compared with saved profile history")
     if not args.dry_run:
         save(args.state, state)
     return 0
