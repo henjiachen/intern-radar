@@ -67,21 +67,6 @@
       "company": "NVIDIA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "afbf21c3eb7004c1b88aaf79684149d43ec7daa4da7afd3510001d56014fd910",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "posted_at": "2026-10-30",
-      "priority": 7,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Compiler Software Engineering Intern",
-      "url": "https://jobs.nvidia.com/careers/job/893398311676"
-    },
-    {
-      "company": "NVIDIA",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "f4a7bfe04fc88b9104f039c716b11d59e6e447a98ab3f43c2a4e919f9885121c",
       "locations": [
         "Santa Clara, CA"
@@ -5079,6 +5064,21 @@
       "company": "C3.ai",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "efeac6edb3ed0cccaf0a39a52d72e0f250ae7da27d27d217cf75bc96da8907de",
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "posted_at": "2026-10-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Product Manager Intern",
+      "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8860562002"
+    },
+    {
+      "company": "C3.ai",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "5ac35690eae7e7c846428b8228d37e09d3f585ed7ff65e246fc2020526d8a137",
       "locations": [
         "Redwood City, CA"
@@ -5104,6 +5104,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002"
+    },
+    {
+      "company": "C3.ai",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "76ffbb71c89398c09b9a81dfffb7892808800554277cfc6921a6b04ecfa48329",
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "posted_at": "2026-08-31",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002"
     },
     {
       "company": "CACI",
@@ -6361,21 +6376,6 @@
       "source": "simplify",
       "title": "Associate Embedded Software Engineer Intern",
       "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949"
-    },
-    {
-      "company": "CoStar Group",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "b3600ef645abd3041ee60cb94f6f752a21486264d01bf0d95540d9de3b825272",
-      "locations": [
-        "Irvine, CA"
-      ],
-      "posted_at": "2026-09-16",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Associate Software Engineer Intern",
-      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736"
     },
     {
       "company": "CoStar Group",
@@ -8597,15 +8597,30 @@
       "company": "F&G",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "961907314aa5f0a4c08d65525ead4d2fd027a07f27139dbdee6fc417095eac92",
+      "id": "6090419225a615cafe3846704547193d180ce5e32f3a84acf8ca709a604a2321",
       "locations": [
-        "Remote - Des Moines, IA"
+        "Des Moines, IA"
       ],
-      "posted_at": "2026-09-16",
+      "posted_at": "2026-09-11",
       "priority": 11,
       "priority_program": false,
-      "source": "speedyapply",
-      "title": "Intern - IT Software Engineer - Summer - 2027",
+      "source": "simplify",
+      "title": "Business Intelligence Intern",
+      "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003"
+    },
+    {
+      "company": "F&G",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "961907314aa5f0a4c08d65525ead4d2fd027a07f27139dbdee6fc417095eac92",
+      "locations": [
+        "Des Moines, IA"
+      ],
+      "posted_at": "2026-09-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "IT Software Engineer Intern - Summer",
       "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003"
     },
     {
@@ -9179,21 +9194,6 @@
       "source": "simplify",
       "title": "AI Post-Training and Model Alignment Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2"
-    },
-    {
-      "company": "GE Vernova",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "bee80a785b3e37f0c1dcc49de8aeb10a6b69aa917f20c6fae5826b062f9d8ccf",
-      "locations": [
-        "Niskayuna, NY"
-      ],
-      "posted_at": "2026-08-12",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Engineering Intern",
-      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
     },
     {
       "company": "GE Vernova",
@@ -15894,6 +15894,21 @@
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32107"
     },
     {
+      "company": "Ncino",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "d4e1c761dc90fa28fd3e944693f8222c9294f058aee7bf636aed7b7fe1ee5ae1",
+      "locations": [
+        "Lehi, UT"
+      ],
+      "posted_at": "2026-09-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009"
+    },
+    {
       "company": "Nelnet",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -16028,6 +16043,21 @@
       "source": "simplify",
       "title": "Sales AI & Analytics Developer Intern",
       "url": "https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors"
+    },
+    {
+      "company": "Newmont",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "06f48757c3456861cecb86171369333d0f62965df3eb8afc68d076d641577c09",
+      "locations": [
+        "Denver, CO"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Resource Modeling Intern",
+      "url": "https://jobs.newmont.com/us/en/job/45053"
     },
     {
       "company": "Newrez",
@@ -19363,6 +19393,21 @@
       "company": "RTX",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "350f673c4a6b0adbdc01b1c9b7e4a0ced4d034b9426b3b7ed943af12c35252f3",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "posted_at": "2026-08-14",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129"
+    },
+    {
+      "company": "RTX",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "9dc4766dfa0e0de6220c9cf697862770ac753a54f4e9fdf8c02403b74beb3009",
       "locations": [
         "San Diego, CA"
@@ -20700,6 +20745,21 @@
       "source": "speedyapply",
       "title": "Summer 2027 Internship - Software",
       "url": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004"
+    },
+    {
+      "company": "Stratolaunch",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ed37595d5a3f613bbaee5064a5c8d8f0aa35acb34b52337567b3af8a96312584",
+      "locations": [
+        "Mojave, CA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Manufacturing Systems & Data Intern - Systems",
+      "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008"
     },
     {
       "company": "Stryker",
@@ -25628,7 +25688,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-30T05:58:11.638136+00:00",
+  "last_checked": "2026-10-30T07:15:48.958138+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

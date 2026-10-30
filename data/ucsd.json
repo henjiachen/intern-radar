@@ -11266,25 +11266,9 @@
       "revision": 0
     },
     "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/irvine-us/associate-software-engineer---irvine--ca_r39736": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "costar group",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "irvine, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "associate software engineer intern"
-      },
-      "fingerprint": "e2e8b944d2bf24ce979e4561bfbdbc0951a35db471ef6bf65a8e08f6d5b9612a",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "0ab9c9228f61a307fc625ed56e7cd60403a20c897984ef4df937a71897c5d893",
+      "revision": 2
     },
     "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/irvine-us/summer-2027-technology-intern---irvine--ca_r39673": {
       "eligible": true,
@@ -16764,6 +16748,27 @@
       "fingerprint": "3b3ac615ea9754e90b617bd7616fcc2f8930c8cca042aebe383702f794dbd926",
       "revision": 1
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/us-ia-cedar-rapids-105--400-collins-rd-ne--bldg-105/software-engineering-intern--summer-2027-_01867129": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "rtx",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "cedar rapids, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - summer 2027"
+      },
+      "fingerprint": "8a47140f61c6f21b0a2a0c01cda4bdce3bd7507e5505604108e7b7d08e6b360e",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/us-ia-cedar-rapids-182--1100-cimmie-ave-ne--bldg-182/intern--systems-engineer--onsite-_01869114": {
       "eligible": false,
       "fingerprint": "e9d102e1961b068a305021cab7ce5551fd1f7ae624fa6339c0c5f1a358ff7b3f",
@@ -18366,6 +18371,11 @@
     "url:https://go.vansh.nyc/jq": {
       "eligible": false,
       "fingerprint": "4f82950dc18ab22177efd526a2d00121597691656dc26312d8bfa22f892c8fb3",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/jr": {
+      "eligible": false,
+      "fingerprint": "6e73e48e2cc6dad97aa793ad7048d2ef06e8cbf9ab8512799945b8043c5cb4e8",
       "revision": 1
     },
     "url:https://go.vansh.nyc/jy": {
@@ -23501,6 +23511,21 @@
       "fingerprint": "6a0c7672ee64f16ccc8286e8f626ad9f7c37231f4c7c8a41512be0e1cbd356f6",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002": {
+      "eligible": false,
+      "fingerprint": "c992a50b7ce930115ab3d4490435163576766f1e77bc72df532465a9d09d6ef4",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002": {
+      "eligible": false,
+      "fingerprint": "369f410b96e3ab469fa2146742a8f8e98b658ac5946a890f2cf54aaadf830f7d",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002": {
+      "eligible": false,
+      "fingerprint": "7c33d84f214fff1b3549eebdcc4045321e7e48f260aa3c866524fc94962dd3a3",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/botauto/jobs/5289440008": {
       "eligible": false,
       "fingerprint": "522274befc5247201db1e409fb32ae0a4b55f4d9ba6e2afd65107e2b31bd99aa",
@@ -23540,6 +23565,53 @@
       "eligible": false,
       "fingerprint": "feda84e80d62a28985401f53dc1175fb4605dab0a41deb1c54c6e1085dc20d0a",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/c3ascend/jobs/8738917002": {
+      "eligible": false,
+      "fingerprint": "004dc3830aa6c41d84813fb8e937ec1a7f87af71588dd0baa6e297c89739b96f",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/c3ascend/jobs/8739036002": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "c3.ai",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "redwood city, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "69018164e6e396e4c23548a83d4e7ac5c303fa7662cab172184fda2e7d171e51",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/c3ascend/jobs/8860562002": {
+      "eligible": true,
+      "evidence": {
+        "category": "product",
+        "company": "c3.ai",
+        "degrees": [
+          "bachelor's",
+          "mba"
+        ],
+        "locations": [
+          "redwood city, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai product manager intern"
+      },
+      "fingerprint": "d6ddfc7dfcf2a5bc1030187358a4f631679217a5d8fc88f070be8ae59ce3bdd2",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002": {
       "eligible": false,
@@ -23857,6 +23929,16 @@
       "eligible": false,
       "fingerprint": "f67606ac494cf2a64006296e20ceaecd598c5bb6bb5b6ea3284b9b852afdc99e",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/drwfr/jobs/7991172": {
+      "eligible": false,
+      "fingerprint": "4df442dfad7aa0a880ef7345ac0fc9acb200d80d492234d8a5c67e80c0906a36",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/drwfr/jobs/7991197": {
+      "eligible": false,
+      "fingerprint": "9f787997efb1e4b6b6bd52ad77a1dc5ca476ea81787be2cd28414b9caeffb240",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002": {
       "eligible": false,
@@ -24744,8 +24826,8 @@
     },
     "url:https://job-boards.greenhouse.io/internrecruiting/jobs/8204511": {
       "eligible": false,
-      "fingerprint": "1633dffc91621c6c3f3b7ff7f3dcfb5c503be96878ccc9da0c3a17718ef72a5b",
-      "revision": 0
+      "fingerprint": "a622fc80eac115f36028141cdf0744b851c13d0c873cd03dc3b27f9417d6f9f7",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008": {
       "eligible": false,
@@ -25277,6 +25359,27 @@
       "fingerprint": "92b49dc271783f9999b66da3ec806ee2774768d7140dac2e4e529911d7e1c278",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "ncino",
+        "degrees": [
+          "bachelor's",
+          "bootcamp"
+        ],
+        "locations": [
+          "lehi, ut"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "68a07997c8c210c76101d2d3f23f3d874de0814bd28427e44ebf076129c0d9df",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/newsbreak/jobs/4684555006": {
       "eligible": false,
       "fingerprint": "3821f24bcf049c255a466a647d1906d403de6caa205dd9de3fff73366912d46a",
@@ -25376,6 +25479,21 @@
       "eligible": false,
       "fingerprint": "62e3ec5fe934df56e8641df0ce97bdb88b7abc3448a79d7d8784be63c552c841",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/nyisointernships/jobs/5236084007": {
+      "eligible": false,
+      "fingerprint": "839647d432f35ee0cf2ad1778b47f18f04daadc7cd8a76f4b9fdcc73da303840",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/nyisointernships/jobs/5236684007": {
+      "eligible": false,
+      "fingerprint": "d9e973e8d49b87c716a3164be326bd8708cea337674d6a34fbc71b737faf91fd",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/nyisointernships/jobs/5236688007": {
+      "eligible": false,
+      "fingerprint": "53aa2931fcd0940169bae74cfe0ae6d6991acf6973cdc3e4833d6139e7f662ed",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/oneethos/jobs/4459193009": {
       "eligible": true,
@@ -25936,6 +26054,11 @@
       "fingerprint": "0fd9ecff526fa32add4bf9121d249d66221afe04d845b8bdf645ffe9507aeeb7",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009": {
+      "eligible": false,
+      "fingerprint": "a0e50f8cb8f4e04bdf90cca5578d31f27e9f78018c01397e0290a73d25994779",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/solutions/jobs/4711210006": {
       "eligible": true,
       "evidence": {
@@ -25995,6 +26118,26 @@
       },
       "fingerprint": "61e1812d479770a3106fb8abe2ff1682a3b996f561fbecff76b778c7adccbd88",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "stratolaunch",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "mojave, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "manufacturing systems & data intern - systems"
+      },
+      "fingerprint": "032b44fb83b81044091764bed83b9190b60196d18d478b3f8764dd60e275fc92",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002": {
       "eligible": false,
@@ -33196,6 +33339,24 @@
       },
       "fingerprint": "551ece1748c539cc80187b54af2e2162639890653a41e3b56900687fb73b59d4",
       "revision": 0
+    },
+    "url:https://jobs.newmont.com/us/en/job/45053": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "newmont",
+        "degrees": [],
+        "locations": [
+          "denver, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "resource modeling intern"
+      },
+      "fingerprint": "b63f12900a36f61daf8f5aeafa6bbdaae5ef44e17e5eb68d0312560a3524f199",
+      "revision": 1
     },
     "url:https://jobs.nvidia.com/careers/job/893397026185": {
       "eligible": true,
@@ -46775,21 +46936,48 @@
       "fingerprint": "5ed01a2aa6621b0f8f70927405bed661849d2df8f6bae8428ec86111bff163ec",
       "revision": 0
     },
+    "url:https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "f&g",
+        "degrees": [
+          "associate's",
+          "bachelor's"
+        ],
+        "locations": [
+          "des moines, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "business intelligence intern"
+      },
+      "fingerprint": "70b15403170a6e4cc1e84d945a350d57d1b918f5cb4ce5f53a77ce3ad59166ac",
+      "revision": 1
+    },
     "url:https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "f&g",
-        "degrees": [],
+        "degrees": [
+          "associate's",
+          "bachelor's"
+        ],
         "locations": [
+          "des moines, ia",
           "remote - des moines, ia"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "intern - it software engineer - summer - 2027"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it software engineer intern - summer"
       },
-      "fingerprint": "6ea8268252fab2357162a00b37711856666ab4e7485d8df3d76195550a51b616",
-      "revision": 0
+      "fingerprint": "e9ece69c3a4728f17b8628430a6db99ead4db6bbf773b65361bdcd61c9c0c0ba",
+      "revision": 1
     },
     "url:https://www.google.com/about/careers/applications/jobs/results/112518690523488966": {
       "eligible": false,
@@ -49938,7 +50126,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 11,
+  "scan_sequence": 12,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
