@@ -9760,6 +9760,24 @@
       "fingerprint": "15ffa5f49afb9ddf812958dbc3cf3f4e69454fda199597e3973a2677180f362a",
       "revision": 0
     },
+    "url:https://careers.twosigma.com/careers/jobdetail/new-york-new-york-united-states-software-engineering-internship-summer-2027/14016": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "two sigma",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "0c53f708233e40120eb1d96b13d1745a1bf6e983c37fd3fda1f9b44a4d583339",
+      "revision": 1
+    },
     "url:https://careers.upstart.com/jobs?gh_jid=8213476": {
       "eligible": false,
       "fingerprint": "13ca8020d72b6d1c2c439b861320a33db3e227c25a13f75a07e2f4226909b3d5",
@@ -9934,6 +9952,7 @@
           "master's"
         ],
         "locations": [
+          "san francisco, ca",
           "san francisco, california",
           "sf"
         ],
@@ -9943,8 +9962,8 @@
         ],
         "title": "2027 summer intern, bs/ms, software engineering, maneuvering tech"
       },
-      "fingerprint": "5eb5921550026d3cb860eb1769c1e7ea4be204ba857a2fe026d3aa38f693d1e6",
-      "revision": 0
+      "fingerprint": "0e118504583d8a40c4c72d11451a1bba34d9b6ec4ed77825577e61be93266c02",
+      "revision": 1
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8205680": {
       "eligible": false,
@@ -11763,6 +11782,26 @@
       "fingerprint": "554ba33a710a9c451f9686732ed7c9c38bfcd6bb4c5d5f275343416534990c11",
       "revision": 0
     },
+    "url:https://deezee.wd108.myworkdayjobs.com/deezee_careers/job/des-moines/software-development-intern_req00471": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "dee zee",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "des moines, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development intern"
+      },
+      "fingerprint": "59f8819f6afe3c59ffed77e7090d9929e68b533a9e962acb00d7a86f920c67d4",
+      "revision": 1
+    },
     "url:https://delta.avature.net/en_us/careers/jobdetail?jobId=32774": {
       "eligible": false,
       "fingerprint": "5b1f3bf9d953cb9709b0f1497e110e1f5d348486ae7e83fd7de0a22a4aa98a3b",
@@ -13356,8 +13395,8 @@
     },
     "url:https://emcins.wd5.myworkdayjobs.com/emc_careers/job/iowa/intern---software-engineering_r6557-1": {
       "eligible": false,
-      "fingerprint": "8490084752337c8e0ed4fe8e46d89ce28c0198cd7f5db5829306a9c22b5a3c5b",
-      "revision": 0
+      "fingerprint": "0eac760571709d1925f19184307d493470ee6a5d925504ca2b233163925fba90",
+      "revision": 1
     },
     "url:https://emcins.wd5.myworkdayjobs.com/emc_careers/job/iowa/intern--claims--data-_r6552-1": {
       "eligible": false,
@@ -17324,25 +17363,6 @@
       "fingerprint": "c3b735cf61a3a46d20965d5a4c9940d01833446c05f44ae5a65433778af316a4",
       "revision": 0
     },
-    "url:https://go.vansh.nyc/38": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tower research",
-        "degrees": [],
-        "locations": [
-          "chicago, il",
-          "new york, ny"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "quantitative developer intern"
-      },
-      "fingerprint": "abc9a4c98926250290bc26fed5a1782f9b8ac35127034522ae414dca43ca42c2",
-      "revision": 0
-    },
     "url:https://go.vansh.nyc/3i": {
       "eligible": false,
       "fingerprint": "d1af0c0039d087a7c2ec4649aaa1cd04303352a9e494c2b32844ee7aef24c773",
@@ -17401,26 +17421,6 @@
       "fingerprint": "607d4ff5969544be20545c1a3f995e84122a8832e70e57a0210d33dcef69b45e",
       "revision": 0
     },
-    "url:https://go.vansh.nyc/4q": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "virtu financial",
-        "degrees": [],
-        "locations": [
-          "austin, tx",
-          "new york",
-          "new york, ny"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "626c1ef0d8ca557245b0ce31f31a7dc4d352e0035ebd070ce8b730fccbc6bf26",
-      "revision": 0
-    },
     "url:https://go.vansh.nyc/53": {
       "eligible": false,
       "fingerprint": "5f96de08cbf222f45a592e4395912129e765f255ea1490390e0766027b635640",
@@ -17451,370 +17451,9 @@
       "fingerprint": "096514c0e9827283008483b021cd4e69fbe49f56f8b0bcb36006aea0a740be9a",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/5z": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, global live-foundation"
-      },
-      "fingerprint": "6cde09737f492ff08d5f7cb6ad42018da74c111b321ae98b69c6d8e459154168",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/61": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, ai agent & global revenue platform"
-      },
-      "fingerprint": "913f69b012b920408a4ce000789a39a978c69944c0e296db33cf6a73bc7b3dc6",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/62": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, intelligent creation-camera"
-      },
-      "fingerprint": "49fc24c48b1917ecfb94cb1bfa4e9feb1eab9920bcef34221365b6cc27878d11",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/63": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, transaction platform"
-      },
-      "fingerprint": "d181e018c114688770adda15f80232ce3791ec2512abfaccd126c72e608ded31",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/64": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "backend software engineer intern, product infrastructure"
-      },
-      "fingerprint": "a32c35946cd9677ffd2eee77801aeb743cd439906d213ac5ae483a47f908cdfb",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/65": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "9fe05c6a2fffcdae2a2528ddbcfb0fa20a1579fa0c12ec30b7687f14dc15d6cf",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/66": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "backend software engineer intern, global e-commerce"
-      },
-      "fingerprint": "6db93a4113ab81969d3de8a743c596d3b7845e5189a8c9a27cec12ebc8c861a6",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/67": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "seattle, wa"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "backend software engineer intern, global e-commerce"
-      },
-      "fingerprint": "8c805e8d7f7a09a072e47ec99d7d72990bc2a70c2850b3eed9b843a75596e44f",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/68": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, ads interface"
-      },
-      "fingerprint": "bf8f15b5babd22db71e329ccdaa9cb14caefa6b865fcb5294e4760b70ff6af31",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/69": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, shoot experience optimization"
-      },
-      "fingerprint": "13bc5ae41db7d59e166aefe512d7f8f7b7e8979a8766dbd618cb955bc37fdecf",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/6d": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "backend software engineer intern, social foundation"
-      },
-      "fingerprint": "b6642be8ace02d1225583b644f452db806fc5a4fbd07c1eb3f4896fa7f759553",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/6g": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, tiktok-social-friending"
-      },
-      "fingerprint": "deec888d0e563a3a13b9edb3cee56d0778a0f56ea1e0f2055fe716ab008ca38e",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/6h": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "backend software engineer intern, search"
-      },
-      "fingerprint": "75b011d1656e5c14ba8ded5143b3bda8e9e158c02df6446f205a513d6f3d3ad5",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/6i": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "backend software engineer intern, social friending"
-      },
-      "fingerprint": "a3babb8677e6e4da8f696fa69f4b8b1635d91edccbe0f617f21c9c755415ccb1",
-      "revision": 0
-    },
     "url:https://go.vansh.nyc/6j": {
       "eligible": false,
       "fingerprint": "fce8fc5a14872460d06f6ee76aca48be230a9a2707e40d67e188eee944ee03c3",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/6l": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, privacy and security"
-      },
-      "fingerprint": "a3916c53d5dd6dcd8c547b5f55a9aab19be5600ca1b7c815306aebc964752c4e",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/6p": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, business integrity"
-      },
-      "fingerprint": "2606b45609c5bd87ef1667939be0789b99e1bebb85415f69a1f1542729779e7e",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/6q": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, creative intelligence and brand innovation"
-      },
-      "fingerprint": "a2d66998dbe3755bc70ba20f3732c0b698b6ffd51d0f6784ea0d5f05e1d22237",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/6s": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "cary, united states",
-          "seattle, wa"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, data arch - e-commerce"
-      },
-      "fingerprint": "39121f3457aa0b4e4a6384938562f580e424ebf39d42f8498080704010589970",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/6t": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "frontend software engineer intern, ads measurement signal and privacy"
-      },
-      "fingerprint": "3b61f03930e051358f939fe4da390ad3d94ed2ca0bd51421e859786e13fe63c8",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/6u": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, tiktok-agentic creation-aigc"
-      },
-      "fingerprint": "8c09762e3bad0f5fb9246dfabf2f52405b664df419ad910fe5a05c290ed2185b",
       "revision": 0
     },
     "url:https://go.vansh.nyc/7e": {
@@ -17982,25 +17621,6 @@
       "fingerprint": "0ac853498cda3ebd896f6a93c9c0c34bc51650f7338e25e730be18b664c9ee8b",
       "revision": 0
     },
-    "url:https://go.vansh.nyc/as": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "wellmark",
-        "degrees": [],
-        "locations": [
-          "austin, tx",
-          "des moines, ia"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, technology health plan"
-      },
-      "fingerprint": "4ffbb0c691ce7948ce94942e3f642decdb0e91b6bab97e99f25ab8f625656f6e",
-      "revision": 0
-    },
     "url:https://go.vansh.nyc/au": {
       "eligible": false,
       "fingerprint": "e313bf189a78e7b97f9e76b77a5ecb77dc5bb0edb768e6ff1ac234a8809cfbf8",
@@ -18125,25 +17745,6 @@
       "fingerprint": "f9e3fd5ed6c404cd4f414b468419a0080769a2ffbf27995e59db1d9ed070703d",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/cn": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "orlando, fl",
-          "seattle, wa"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "machine learning engineer intern, e-commerce user growth"
-      },
-      "fingerprint": "e4c8a354a51bba984a5a86b9fd38576fd4e661a5057120f15166c789f9dc1e1c",
-      "revision": 0
-    },
     "url:https://go.vansh.nyc/cp": {
       "eligible": true,
       "evidence": {
@@ -18244,65 +17845,6 @@
       "eligible": false,
       "fingerprint": "aacd17a45889fb673c1a2e07208b7b2b543de40b1bda48aed41a3b52b7951642",
       "revision": 2
-    },
-    "url:https://go.vansh.nyc/dm": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "toyota",
-        "degrees": [],
-        "locations": [
-          "el segundo, ca",
-          "plano, tx"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "data science intern, tfs"
-      },
-      "fingerprint": "0f2ee5a0597ea8540ce8ed93db847949210f744e2b81076c47872b9f69768302",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/do": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "ul solutions",
-        "degrees": [],
-        "locations": [
-          "chicago, il",
-          "northbrook, il"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "data science intern"
-      },
-      "fingerprint": "ae9ac9b50cd0832be2a25e019f834830ed26165fbf8313af5f563f5d95827478",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/dp": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "zillow",
-        "degrees": [],
-        "locations": [
-          "clifton, nj",
-          "clinton, md",
-          "remote in usa",
-          "seattle, wa"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software development engineer intern"
-      },
-      "fingerprint": "c31770cb5f3e67768e1ab6614fe3713e520e5fb39d9097a2cecce8e4325d55b0",
-      "revision": 0
     },
     "url:https://go.vansh.nyc/dw": {
       "eligible": true,
@@ -18634,24 +18176,6 @@
       "fingerprint": "78368cac2ad81bcabb71cf42802d1d4c73915b0d25a4140d6049b8b760bf203f",
       "revision": 0
     },
-    "url:https://go.vansh.nyc/hp": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "trace labs",
-        "degrees": [],
-        "locations": [
-          "new york, ny"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "robotics engineer intern, hardware & software"
-      },
-      "fingerprint": "dbe9d7d6280e8f54f478f0746b25dd724808f34a97a8e228d6006fe059d20df7",
-      "revision": 0
-    },
     "url:https://go.vansh.nyc/hy": {
       "eligible": true,
       "evidence": {
@@ -18674,24 +18198,6 @@
     "url:https://go.vansh.nyc/i1": {
       "eligible": false,
       "fingerprint": "bb7beba674ed6d2007b4dc5315f32408d3f40fe83aeb48b3ee644382a9cdb1f7",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/if": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "waymo",
-        "degrees": [],
-        "locations": [
-          "san francisco, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineering intern, maneuvering tech"
-      },
-      "fingerprint": "f0cffdb6b67eb043adcecf750c6eb97fa0b63df25a6ef7b5a7434ac1eb41f35f",
       "revision": 0
     },
     "url:https://go.vansh.nyc/ii": {
@@ -18763,42 +18269,6 @@
       },
       "fingerprint": "c8764f33f973a09397e972401c8a0a05a29df1527a81b0cbe1c411463a587a06",
       "revision": 1
-    },
-    "url:https://go.vansh.nyc/j2": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tyler technologies",
-        "degrees": [],
-        "locations": [
-          "plano, tx"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software development intern"
-      },
-      "fingerprint": "56b811dab7c4250217c2ccde10f1b075b6876582ec59f74238c3bb2062cbaf19",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/j3": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tyler technologies",
-        "degrees": [],
-        "locations": [
-          "lubbock, tx"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software development intern"
-      },
-      "fingerprint": "a9a2207f748ed6127c4350a6b01d0c240d2fff88f9025aa266e8bbb1218c461e",
-      "revision": 0
     },
     "url:https://go.vansh.nyc/ja": {
       "eligible": true,
@@ -18998,45 +18468,9 @@
       "fingerprint": "d67d37f9513958916a44a8e171f7a2c809f6e39455bab887314a364bd80917b4",
       "revision": 0
     },
-    "url:https://go.vansh.nyc/m0": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "universal health services",
-        "degrees": [],
-        "locations": [
-          "king of prussia, pa"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, data analytics"
-      },
-      "fingerprint": "2dc22585a525c37351727e30d8a7d3cfbdd83b160ce5b5d874f8f33e467c9a9b",
-      "revision": 0
-    },
     "url:https://go.vansh.nyc/m7": {
       "eligible": false,
       "fingerprint": "6b8a419169d1cbf188cc9bf96bff38a3fd14b218fae54f166f912be82f38b071",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/md": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "the toro company",
-        "degrees": [],
-        "locations": [
-          "perry, ok"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "hardware and software engineering intern"
-      },
-      "fingerprint": "4e7db99b677887a16d9f2b9544d6233debf65dec432ce1981d347664ae227f77",
       "revision": 0
     },
     "url:https://go.vansh.nyc/mp": {
@@ -19125,24 +18559,6 @@
     "url:https://go.vansh.nyc/os": {
       "eligible": false,
       "fingerprint": "6b86b15497bf21e53cb081eaa619d65ef91db19de3f8e20b7397c6d0e7e5c46b",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/ox": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tiktok",
-        "degrees": [],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "ai infrastructure engineer intern, recommendation & llm"
-      },
-      "fingerprint": "7cd4b17ff5aff1d72d88e469b8b07514f73162b6738e82b506e2dfa66e6becc2",
       "revision": 0
     },
     "url:https://go.vansh.nyc/p": {
@@ -19436,42 +18852,6 @@
       "fingerprint": "b8a6eca20f4de6f5fb89f3365d481a72b1ff8ba2743a63e89af9f574ab7d19e1",
       "revision": 0
     },
-    "url:https://go.vansh.nyc/th": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "toyota research institute",
-        "degrees": [],
-        "locations": [
-          "los altos, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "robotics intern, trustworthy learning under uncertainty"
-      },
-      "fingerprint": "277c9d74fd7b16ca7137824fc2fcadcb66cf02278025e2172f59ab5bc16b420f",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/tk": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "zillow",
-        "degrees": [],
-        "locations": [
-          "seattle, wa"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "data science intern"
-      },
-      "fingerprint": "d945991174bb4dd3785d92d84d571a759231b2bb75bbcfbb9a287ac620612d23",
-      "revision": 0
-    },
     "url:https://go.vansh.nyc/tm": {
       "eligible": false,
       "fingerprint": "c8bbdfc991f2e8ded3afa5e7328d714384647a2331bcdd79d643443b7ad3d540",
@@ -19492,82 +18872,10 @@
       "fingerprint": "1702610e8431ca59986c4b7b9460d5726556c9c235e09229b9894e195b642447",
       "revision": 0
     },
-    "url:https://go.vansh.nyc/ug": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "visa",
-        "degrees": [],
-        "locations": [
-          "foster city, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "data science intern, data and ai team"
-      },
-      "fingerprint": "772ca9ab417c6e5246daf59774248306d1d704abf1c236a74b996ac1259e4d40",
-      "revision": 0
-    },
     "url:https://go.vansh.nyc/uz": {
       "eligible": false,
       "fingerprint": "8d35f59a195d080e00638a0e1114a4ee3f37aec89e21b05ae0fe8a6eb7191b43",
       "revision": 1
-    },
-    "url:https://go.vansh.nyc/vb": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "visa",
-        "degrees": [],
-        "locations": [
-          "denver, co"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "sophomore program software engineer intern"
-      },
-      "fingerprint": "9f40a1f64eb2eb9fd50d98d49135765f2bb5570ee92f20339f4da5cd0a511cae",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/vc": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "visa",
-        "degrees": [],
-        "locations": [
-          "austin, tx"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "sophomore program software engineer intern"
-      },
-      "fingerprint": "9e5fb90f406a937ebbbbedb874b1bd37190c3ff0d9e3bf173ae8f0efed3fa9ba",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/ve": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "visa",
-        "degrees": [],
-        "locations": [
-          "ashburn, va"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "sophomore program software engineer intern"
-      },
-      "fingerprint": "430b18847ae58d8c8ac0e4eb0e1b30a34ea5f850a3850ceba7628a98ec205011",
-      "revision": 0
     },
     "url:https://go.vansh.nyc/vh": {
       "eligible": true,
@@ -19592,24 +18900,6 @@
       "fingerprint": "86ded074a182ffc30baae5419118d058c4e464e0a567f4fe4353a1d6429dedbc",
       "revision": 0
     },
-    "url:https://go.vansh.nyc/vx": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "visa",
-        "degrees": [],
-        "locations": [
-          "bellevue, wa"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "sophomore program software engineer intern"
-      },
-      "fingerprint": "e4dd804b9f8dcb8ff4b2b40e2026056c998b6a7dc5fdb8958e5267792b5522f3",
-      "revision": 0
-    },
     "url:https://go.vansh.nyc/wx": {
       "eligible": false,
       "fingerprint": "7c4c26c7fa9189d2c9503c0ade0167e594bf7563f620beb3943445f2cfc7f1de",
@@ -19620,46 +18910,9 @@
       "fingerprint": "ac64ae782abaf84d851d6ffade96282e6fc666da72a5eef482092c4498e11ae3",
       "revision": 0
     },
-    "url:https://go.vansh.nyc/x8": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "vsp vision",
-        "degrees": [],
-        "locations": [
-          "remote",
-          "united states"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, technology innovation"
-      },
-      "fingerprint": "fb186148a4845615b00da2e0f3fe62ab3b704d67e64d3225ecff85c92aac3f9d",
-      "revision": 0
-    },
     "url:https://go.vansh.nyc/x9": {
       "eligible": false,
       "fingerprint": "9cf2882cac5105602ba7e3b69edde6cc5bba981d2fb11e4c0fbc07893a982c1b",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/xe": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "visa",
-        "degrees": [],
-        "locations": [
-          "foster city, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "92c8226a19087eec9018ca1334642869cf25522be9a1b5d21242e1198de58270",
       "revision": 0
     },
     "url:https://go.vansh.nyc/xl": {
@@ -19744,24 +18997,6 @@
     "url:https://go.vansh.nyc/z": {
       "eligible": false,
       "fingerprint": "223e8aa4fb923461909c302e8c6f1b3b20793800503a345661b50fba66dabd0c",
-      "revision": 0
-    },
-    "url:https://go.vansh.nyc/z3": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "two six technologies",
-        "degrees": [],
-        "locations": [
-          "arlington, va"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "systems software engineer intern"
-      },
-      "fingerprint": "a5bd8b1b99565139b866ab36c6b32fdbeb3f5169871a63f4739fb98c8449147d",
       "revision": 0
     },
     "url:https://go.vansh.nyc/za": {
@@ -22313,9 +21548,28 @@
       "revision": 0
     },
     "url:https://iaziqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/303922": {
-      "eligible": false,
-      "fingerprint": "ec798d7636acaa11d5c3c2b3db5e3d0fa02018d7fdcbee3e46f0db09c66eef7a",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "uber",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "seattle, wa",
+          "sf",
+          "sunnyvale, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "6f1170293eb7d44f195e6548ff89e818eccb745a113e15678783b355b9fa09cd",
+      "revision": 1
     },
     "url:https://iaziqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/304178": {
       "eligible": false,
@@ -24070,20 +23324,15 @@
         ],
         "requirements": [
           "as an intern, you will have an amazing opportunity to work on hard problems \u2014 we pride ourselves on giving everyone at astranis a chance to do meaningful work on challenging projects, no matter their seniority. many past interns have designed and tested hardware/software that is heading to space on our first satellite, and many of them are now full-time employees at astranis.",
-          "software developer, network software intern (summer 2027)"
+          "mission applications intern (summer 2027)"
         ],
         "terms": [
           "summer 2027"
         ],
-        "title": "software developer, network software intern (summer 2027)"
+        "title": "mission applications intern (summer 2027)"
       },
-      "fingerprint": "246dc1572cf148c7a6f8a9b248f96b750b9c631674b7628560c27cdd257b1895",
-      "revision": 0
-    },
-    "url:https://job-boards.greenhouse.io/astranis/jobs/4705599006": {
-      "eligible": false,
-      "fingerprint": "d4fe13c39b71893ce07ab882ca5ae4a145dfe1a8566d4bf0f8dfb9c3b698cfad",
-      "revision": 0
+      "fingerprint": "f2a264886283abceca9f64f7e731093c8bb2364a9393e8ad5b1c0db98eb0f2af",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/astranis/jobs/4705610006": {
       "eligible": true,
@@ -24212,6 +23461,27 @@
         "title": "software engineer intern - r&d program"
       },
       "fingerprint": "bd5941830b2e425a7cd930134a4e8dd2c98ca167705fa1d74d5f91b7018a7477",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "axon",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "arlington county, arlington, va",
+          "seattle, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "c0da0a37d48830a3f0d798e8162ce9d1a8baa2ff8b1cc3d15d4829d8aea38d0f",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/baidu/jobs/8197142": {
@@ -25086,9 +24356,20 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/gleanwork/jobs/4747670005": {
-      "eligible": false,
-      "fingerprint": "3f248d9589fb5d628f8732c2f2a569bf78b442497c4fe825b692a17b60e15f55",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "glean",
+        "degrees": [],
+        "locations": [
+          "mountain view, ca"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "software engineer - intern - summer 2027"
+      },
+      "fingerprint": "8d799e61176ac5b58588c478a4200e37e46bca047854198a54d0374786fd2f96",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8901885002": {
       "eligible": false,
@@ -27153,6 +26434,24 @@
       "fingerprint": "1f59a744d1a0420505cd26956a981c844ccf612a3e71724f6c2ffd3f30a37397",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/togetherai/jobs/5238469007": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "together ai",
+        "degrees": [],
+        "locations": [
+          "san francisco, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "hardware security engineer intern"
+      },
+      "fingerprint": "62877df1a3d639b17dfddde74beec1f9bf61fb48542f78dbe76dd20d34f2cb98",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/togetherai/jobs/5267197007": {
       "eligible": false,
       "fingerprint": "7d183e3cb9a2f6468ebb638ac2bb4f82ec2fd4fe85f31c96f14f059461490ee4",
@@ -27217,9 +26516,26 @@
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004": {
-      "eligible": false,
-      "fingerprint": "e7b4816fe78a3ea73706fb85aefb95204e39db7d895a790cc9e1611ef46c348f",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "two six technologies",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "arlington county, arlington, va",
+          "arlington, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "systems software engineer intern"
+      },
+      "fingerprint": "8b3a197a20d7d29ba4f1dc5fa65ef520718013845cb3ad693d18f9e0a16dd0cf",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/usafacts/jobs/4472154009": {
       "eligible": false,
@@ -27451,8 +26767,8 @@
     },
     "url:https://job-boards.greenhouse.io/virtu/jobs/8624410002": {
       "eligible": false,
-      "fingerprint": "d58f519e12df743bd077796a4eba5c38156bec8be0dad2b3c645b503cd8e919f",
-      "revision": 0
+      "fingerprint": "7075c775ebc4f760c6927fc158aa5d02ddbb0e23c408f00fe1dc911e62aadc94",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009": {
       "eligible": false,
@@ -27684,6 +27000,11 @@
       "eligible": false,
       "fingerprint": "169ef80cc2d4aadc430555ca08c58f72af329bed4727d7a0d9e07efada5a96f6",
       "revision": 0
+    },
+    "url:https://jobs.apple.com/en-us/details/200692438": {
+      "eligible": false,
+      "fingerprint": "8fdc60098d6ada9324c0665cb28fa5954c374c77ec8f9d760aadbde1fa173f6d",
+      "revision": 1
     },
     "url:https://jobs.ascension.org/us/en/job/15636": {
       "eligible": false,
@@ -30392,9 +29713,29 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525": {
-      "eligible": false,
-      "fingerprint": "51152c26d06a529c133de7936ea145b2a193a663ff6a3ab617a6bf8b72e4ab5e",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "trace labs",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "new york city, ny",
+          "new york, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "robotics engineer intern - hardware & software"
+      },
+      "fingerprint": "145cd30c57d61034e9446a25f74dc779eee7ba9c42fd45dad0626d324cab34fa",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/tryroam/59b76a77-44e5-424b-a3d5-71edf091869c": {
       "eligible": false,
@@ -30511,9 +29852,26 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/worldengine/ba22a6ae-9b75-4078-83c4-d908a29ccdd9": {
-      "eligible": false,
-      "fingerprint": "d849aa847741c44f75006e68e14671d12573f2ba8e04ec83ae7837c5ab1c8b44",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "worldengine ai",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "research intern - robotics data - real-to-sim"
+      },
+      "fingerprint": "74f28a6b44a64c70dc731079f2b43293477957c5c17f7c7a9896c51da006b534",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/xterra%20ai/bc481f5a-3365-4048-8533-0c7728db512b": {
       "eligible": false,
@@ -39137,6 +38495,11 @@
       "fingerprint": "4e5bf0ed3cc9edd6eb40ca84580af7da9a3033293fb97262b1c284e5a0bfccd7",
       "revision": 0
     },
+    "url:https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL": {
+      "eligible": false,
+      "fingerprint": "3c13450a58a3d83045e8d5edd7401aa40646de09e5242b49aef584fa13bdb1bd",
+      "revision": 1
+    },
     "url:https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000721": {
       "eligible": false,
       "fingerprint": "280846f8546f71e563e7ccd96142a256a9588796b4782e45d5b461e6fd9d451e",
@@ -44956,15 +44319,48 @@
       "fingerprint": "3cc5c2e5e1a23eecd4ad7384dbacabe63b70b13affb9cda3189c83f83008be12",
       "revision": 1
     },
+    "url:https://tower-research.com/open-positions?gh_jid=8044334": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tower research",
+        "degrees": [],
+        "locations": [
+          "chicago, il",
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "quantitative developer intern"
+      },
+      "fingerprint": "abc9a4c98926250290bc26fed5a1782f9b8ac35127034522ae414dca43ca42c2",
+      "revision": 0
+    },
     "url:https://toyota.wd503.myworkdayjobs.com/tmna/job/plano-texas/xmlname-2027-tfs-data-science-internship_10338545-1": {
       "eligible": false,
       "fingerprint": "da0d4c4f2f9c17361c21eed75fef20b9e725025cec666c5db9a85b970bff8f5b",
       "revision": 0
     },
     "url:https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/st-paul-minnesota/software-development-engineering-intern_jr-15648": {
-      "eligible": false,
-      "fingerprint": "2657480e9b7f88b1239af5bde8f2e8de71f4e5d06b97a5dbe018370b0f5b1dce",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "trane technologies",
+        "degrees": [],
+        "locations": [
+          "saint paul, mn",
+          "st paul, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development engineering intern"
+      },
+      "fingerprint": "f9cebebb55304463795bb03196aed5f69fc32858845f7ee2eeef7d39d34cc24e",
+      "revision": 1
     },
     "url:https://transamerica.wd5.myworkdayjobs.com/us/job/cedar-rapids-iowa/data-analytics-intern--spring-2027--full-time-hours-_r20062776": {
       "eligible": false,
@@ -46038,9 +45434,26 @@
       "revision": 0
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa/job/us---foster-city-ca/software-engineer--intern---foster-city-2027_ref089875w-1": {
-      "eligible": false,
-      "fingerprint": "007d4d17c9bdd16f85c1b5d247085b8fbabf41d1f968a877f25e293ba59aeca5",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "visa",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "foster city, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "36c8ee7cb39228f784c4671b2dd3b13875beba5793b507de56fc13f9fcd44cc6",
+      "revision": 1
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa/job/us---foster-city-ca/staff-research-scientist--intern---phd-foundational-ai_ref088579w-1": {
       "eligible": false,
@@ -46085,9 +45498,26 @@
       "revision": 1
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---ashburn-va/xmlname-2027-sophomore-internship-program---software-engineer-intern--ashburn_ref089878w": {
-      "eligible": false,
-      "fingerprint": "e5b79ae6c6798f25323650a5c08fc4b6ccb286f78c58a3b37936a9d5bdc85911",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "visa",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "ashburn, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "sophomore program software engineer intern"
+      },
+      "fingerprint": "18c4741bcdc695b9d252f7e876c86d9fb548ea214a3046b2e40b950e90bf5625",
+      "revision": 1
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---austin-tx/software-engineer--intern---2027-austin--tx_ref089918w": {
       "eligible": true,
@@ -46138,9 +45568,26 @@
       "revision": 0
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---bellevue-wa/xmlname-2027-sophomore-internship-program---software-engineer-intern--bellevue_ref089920w-1": {
-      "eligible": false,
-      "fingerprint": "44fa9274e2505933f009f087ce36c849d1bdeaf356ef2044151a4179b69757d8",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "visa",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "25a6b7bc90a4accba70d4878dce30a3f7108b4a9d992f8b0fbb8eeecdfc8bd79",
+      "revision": 1
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---denver-co/xmlname-2027-sophomore-internship-program---software-engineer-intern--highlands-ranch_ref089880w": {
       "eligible": true,
@@ -46373,16 +45820,18 @@
         "company": "vsp vision",
         "degrees": [],
         "locations": [
-          "remote in usa"
+          "remote",
+          "remote in usa",
+          "united states"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - technology innovation"
+        "title": "software engineer intern, technology innovation"
       },
-      "fingerprint": "342390ec3822988e49c0b490f4c027d92fb34e2cebf7cd4e873b3fa1034d27ee",
-      "revision": 0
+      "fingerprint": "5e64eaa2d7e3d952a37a6bd61305abfd9f93a22ea1e961afb2b6a69bb76826c6",
+      "revision": 1
     },
     "url:https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-always-ar-bentonville-home-office/r-2690844--usa--corporate-intern---market-strategy-data-science-intern_r-2690844": {
       "eligible": false,
@@ -49150,6 +48599,7 @@
     "https://go.vansh.nyc/105": 3,
     "https://go.vansh.nyc/106": 3,
     "https://go.vansh.nyc/109": 4,
+    "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
     "https://go.vansh.nyc/3S": 4,
@@ -49169,6 +48619,7 @@
     "https://go.vansh.nyc/4J": 6,
     "https://go.vansh.nyc/4K": 6,
     "https://go.vansh.nyc/4M": 2,
+    "https://go.vansh.nyc/4Q": 7,
     "https://go.vansh.nyc/4c": 5,
     "https://go.vansh.nyc/4j": 6,
     "https://go.vansh.nyc/4k": 6,
@@ -49189,9 +48640,19 @@
     "https://go.vansh.nyc/5U": 6,
     "https://go.vansh.nyc/5W": 2,
     "https://go.vansh.nyc/5X": 2,
+    "https://go.vansh.nyc/5Z": 7,
     "https://go.vansh.nyc/5b": 4,
     "https://go.vansh.nyc/5p": 3,
     "https://go.vansh.nyc/5t": 4,
+    "https://go.vansh.nyc/61": 7,
+    "https://go.vansh.nyc/62": 7,
+    "https://go.vansh.nyc/63": 7,
+    "https://go.vansh.nyc/64": 7,
+    "https://go.vansh.nyc/65": 7,
+    "https://go.vansh.nyc/66": 7,
+    "https://go.vansh.nyc/67": 7,
+    "https://go.vansh.nyc/68": 7,
+    "https://go.vansh.nyc/69": 7,
     "https://go.vansh.nyc/6A": 2,
     "https://go.vansh.nyc/6B": 2,
     "https://go.vansh.nyc/6C": 2,
@@ -49203,10 +48664,22 @@
     "https://go.vansh.nyc/6a": 4,
     "https://go.vansh.nyc/6b": 4,
     "https://go.vansh.nyc/6c": 4,
+    "https://go.vansh.nyc/6d": 7,
     "https://go.vansh.nyc/6e": 4,
     "https://go.vansh.nyc/6f": 1,
+    "https://go.vansh.nyc/6g": 7,
+    "https://go.vansh.nyc/6h": 7,
+    "https://go.vansh.nyc/6i": 7,
+    "https://go.vansh.nyc/6l": 7,
     "https://go.vansh.nyc/6m": 4,
+    "https://go.vansh.nyc/6n": 7,
+    "https://go.vansh.nyc/6o": 7,
+    "https://go.vansh.nyc/6p": 7,
+    "https://go.vansh.nyc/6q": 7,
     "https://go.vansh.nyc/6r": 4,
+    "https://go.vansh.nyc/6s": 7,
+    "https://go.vansh.nyc/6t": 7,
+    "https://go.vansh.nyc/6u": 7,
     "https://go.vansh.nyc/6z": 3,
     "https://go.vansh.nyc/70": 2,
     "https://go.vansh.nyc/71": 2,
@@ -49265,6 +48738,7 @@
     "https://go.vansh.nyc/C4": 6,
     "https://go.vansh.nyc/C5": 4,
     "https://go.vansh.nyc/C7": 1,
+    "https://go.vansh.nyc/CA": 7,
     "https://go.vansh.nyc/CB": 3,
     "https://go.vansh.nyc/CC": 5,
     "https://go.vansh.nyc/CF": 2,
@@ -49278,12 +48752,16 @@
     "https://go.vansh.nyc/Ca": 5,
     "https://go.vansh.nyc/Cf": 2,
     "https://go.vansh.nyc/Cl": 2,
+    "https://go.vansh.nyc/Cn": 7,
     "https://go.vansh.nyc/Co": 3,
     "https://go.vansh.nyc/Cq": 1,
     "https://go.vansh.nyc/Cu": 1,
+    "https://go.vansh.nyc/Cv": 7,
     "https://go.vansh.nyc/Cw": 1,
     "https://go.vansh.nyc/Cx": 1,
     "https://go.vansh.nyc/Cy": 4,
+    "https://go.vansh.nyc/Cz": 7,
+    "https://go.vansh.nyc/DO": 7,
     "https://go.vansh.nyc/DP": 5,
     "https://go.vansh.nyc/DR": 4,
     "https://go.vansh.nyc/DX": 1,
@@ -49337,6 +48815,7 @@
     "https://go.vansh.nyc/G0": 2,
     "https://go.vansh.nyc/G2": 2,
     "https://go.vansh.nyc/G5": 3,
+    "https://go.vansh.nyc/G8": 7,
     "https://go.vansh.nyc/G9": 3,
     "https://go.vansh.nyc/GG": 6,
     "https://go.vansh.nyc/GH": 3,
@@ -49346,6 +48825,7 @@
     "https://go.vansh.nyc/GL": 1,
     "https://go.vansh.nyc/GU": 1,
     "https://go.vansh.nyc/GW": 5,
+    "https://go.vansh.nyc/Gb": 7,
     "https://go.vansh.nyc/Gc": 1,
     "https://go.vansh.nyc/Gd": 3,
     "https://go.vansh.nyc/Ge": 2,
@@ -49365,6 +48845,7 @@
     "https://go.vansh.nyc/Hh": 3,
     "https://go.vansh.nyc/Hi": 3,
     "https://go.vansh.nyc/Hj": 3,
+    "https://go.vansh.nyc/IF": 7,
     "https://go.vansh.nyc/IG": 6,
     "https://go.vansh.nyc/IL": 2,
     "https://go.vansh.nyc/IR": 6,
@@ -49378,12 +48859,16 @@
     "https://go.vansh.nyc/Iv": 3,
     "https://go.vansh.nyc/Ix": 4,
     "https://go.vansh.nyc/J1": 6,
+    "https://go.vansh.nyc/J2": 7,
+    "https://go.vansh.nyc/J3": 7,
     "https://go.vansh.nyc/J6": 5,
     "https://go.vansh.nyc/JA": 6,
     "https://go.vansh.nyc/JB": 6,
+    "https://go.vansh.nyc/JD": 7,
     "https://go.vansh.nyc/JE": 5,
     "https://go.vansh.nyc/JJ": 5,
     "https://go.vansh.nyc/JK": 6,
+    "https://go.vansh.nyc/JQ": 7,
     "https://go.vansh.nyc/JY": 6,
     "https://go.vansh.nyc/Jh": 3,
     "https://go.vansh.nyc/Jo": 1,
@@ -49401,9 +48886,11 @@
     "https://go.vansh.nyc/Lv": 6,
     "https://go.vansh.nyc/Ly": 2,
     "https://go.vansh.nyc/Lz": 2,
+    "https://go.vansh.nyc/M0": 7,
     "https://go.vansh.nyc/M3": 5,
     "https://go.vansh.nyc/M8": 5,
     "https://go.vansh.nyc/MB": 1,
+    "https://go.vansh.nyc/MD": 7,
     "https://go.vansh.nyc/MG": 3,
     "https://go.vansh.nyc/MM": 4,
     "https://go.vansh.nyc/MO": 3,
@@ -49435,6 +48922,7 @@
     "https://go.vansh.nyc/Oo": 1,
     "https://go.vansh.nyc/Oq": 3,
     "https://go.vansh.nyc/Or": 2,
+    "https://go.vansh.nyc/Ox": 7,
     "https://go.vansh.nyc/PT": 1,
     "https://go.vansh.nyc/PZ": 4,
     "https://go.vansh.nyc/Q7": 6,
@@ -49466,6 +48954,7 @@
     "https://go.vansh.nyc/RO": 2,
     "https://go.vansh.nyc/RP": 2,
     "https://go.vansh.nyc/RQ": 1,
+    "https://go.vansh.nyc/RS": 7,
     "https://go.vansh.nyc/RW": 5,
     "https://go.vansh.nyc/Rd": 5,
     "https://go.vansh.nyc/Re": 5,
@@ -49497,12 +48986,18 @@
     "https://go.vansh.nyc/Tc": 4,
     "https://go.vansh.nyc/Tf": 6,
     "https://go.vansh.nyc/Tg": 4,
+    "https://go.vansh.nyc/Th": 7,
+    "https://go.vansh.nyc/Tk": 7,
     "https://go.vansh.nyc/UC": 5,
+    "https://go.vansh.nyc/UG": 7,
     "https://go.vansh.nyc/UY": 5,
     "https://go.vansh.nyc/UZ": 5,
     "https://go.vansh.nyc/Uy": 6,
     "https://go.vansh.nyc/V1": 6,
     "https://go.vansh.nyc/V2": 6,
+    "https://go.vansh.nyc/VB": 7,
+    "https://go.vansh.nyc/VC": 7,
+    "https://go.vansh.nyc/VE": 7,
     "https://go.vansh.nyc/VF": 3,
     "https://go.vansh.nyc/VG": 1,
     "https://go.vansh.nyc/VH": 6,
@@ -49515,6 +49010,7 @@
     "https://go.vansh.nyc/Vi": 6,
     "https://go.vansh.nyc/Vj": 3,
     "https://go.vansh.nyc/Vl": 6,
+    "https://go.vansh.nyc/Vx": 7,
     "https://go.vansh.nyc/Vy": 4,
     "https://go.vansh.nyc/Vz": 4,
     "https://go.vansh.nyc/W0": 4,
@@ -49535,6 +49031,7 @@
     "https://go.vansh.nyc/X5": 4,
     "https://go.vansh.nyc/X6": 4,
     "https://go.vansh.nyc/X7": 6,
+    "https://go.vansh.nyc/X8": 7,
     "https://go.vansh.nyc/XB": 6,
     "https://go.vansh.nyc/XF": 5,
     "https://go.vansh.nyc/XU": 5,
@@ -49543,6 +49040,7 @@
     "https://go.vansh.nyc/XX": 2,
     "https://go.vansh.nyc/XY": 6,
     "https://go.vansh.nyc/Xd": 1,
+    "https://go.vansh.nyc/Xe": 7,
     "https://go.vansh.nyc/Xf": 6,
     "https://go.vansh.nyc/Xo": 6,
     "https://go.vansh.nyc/Xp": 6,
@@ -49551,6 +49049,7 @@
     "https://go.vansh.nyc/Xt": 2,
     "https://go.vansh.nyc/Xv": 2,
     "https://go.vansh.nyc/Xx": 1,
+    "https://go.vansh.nyc/Xy": 7,
     "https://go.vansh.nyc/Xz": 3,
     "https://go.vansh.nyc/Y1": 6,
     "https://go.vansh.nyc/Y2": 2,
@@ -49583,6 +49082,7 @@
     "https://go.vansh.nyc/Yv": 6,
     "https://go.vansh.nyc/Yw": 5,
     "https://go.vansh.nyc/Yz": 5,
+    "https://go.vansh.nyc/Z3": 7,
     "https://go.vansh.nyc/Z5": 5,
     "https://go.vansh.nyc/Z6": 5,
     "https://go.vansh.nyc/Z7": 5,
@@ -49615,6 +49115,7 @@
     "https://go.vansh.nyc/aT": 3,
     "https://go.vansh.nyc/ag": 4,
     "https://go.vansh.nyc/ah": 5,
+    "https://go.vansh.nyc/as": 7,
     "https://go.vansh.nyc/ay": 2,
     "https://go.vansh.nyc/b2": 2,
     "https://go.vansh.nyc/b3": 5,
@@ -49625,6 +49126,7 @@
     "https://go.vansh.nyc/bA": 1,
     "https://go.vansh.nyc/bB": 1,
     "https://go.vansh.nyc/bC": 1,
+    "https://go.vansh.nyc/bD": 7,
     "https://go.vansh.nyc/bI": 3,
     "https://go.vansh.nyc/bJ": 3,
     "https://go.vansh.nyc/bU": 2,
@@ -49633,6 +49135,7 @@
     "https://go.vansh.nyc/bh": 3,
     "https://go.vansh.nyc/bi": 2,
     "https://go.vansh.nyc/bk": 1,
+    "https://go.vansh.nyc/bm": 7,
     "https://go.vansh.nyc/bp": 6,
     "https://go.vansh.nyc/br": 6,
     "https://go.vansh.nyc/bs": 6,
@@ -49667,6 +49170,7 @@
     "https://go.vansh.nyc/dK": 3,
     "https://go.vansh.nyc/dM": 6,
     "https://go.vansh.nyc/dN": 5,
+    "https://go.vansh.nyc/dP": 7,
     "https://go.vansh.nyc/dQ": 1,
     "https://go.vansh.nyc/dR": 5,
     "https://go.vansh.nyc/dT": 1,
@@ -49674,9 +49178,11 @@
     "https://go.vansh.nyc/dW": 5,
     "https://go.vansh.nyc/de": 4,
     "https://go.vansh.nyc/df": 4,
+    "https://go.vansh.nyc/dg": 7,
     "https://go.vansh.nyc/dh": 5,
     "https://go.vansh.nyc/dj": 6,
     "https://go.vansh.nyc/dk": 2,
+    "https://go.vansh.nyc/dm": 7,
     "https://go.vansh.nyc/dn": 5,
     "https://go.vansh.nyc/e6": 1,
     "https://go.vansh.nyc/eL": 2,
@@ -49745,13 +49251,15 @@
     "https://go.vansh.nyc/hV": 1,
     "https://go.vansh.nyc/hk": 4,
     "https://go.vansh.nyc/hn": 2,
-    "https://go.vansh.nyc/ho": 3
+    "https://go.vansh.nyc/ho": 3,
+    "https://go.vansh.nyc/hp": 7
   },
   "links": {
     "https://go.vansh.nyc/102": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
     "https://go.vansh.nyc/105": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123",
     "https://go.vansh.nyc/106": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181",
     "https://go.vansh.nyc/109": "https://apply.workable.com/waggoner-financial/j/FA0B644142",
+    "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
     "https://go.vansh.nyc/3S": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
@@ -49771,6 +49279,7 @@
     "https://go.vansh.nyc/4J": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
     "https://go.vansh.nyc/4K": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
     "https://go.vansh.nyc/4M": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+    "https://go.vansh.nyc/4Q": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
     "https://go.vansh.nyc/4c": "https://www.janestreet.com/join-jane-street/position/8599644002/",
     "https://go.vansh.nyc/4j": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
     "https://go.vansh.nyc/4k": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
@@ -49791,9 +49300,19 @@
     "https://go.vansh.nyc/5U": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
     "https://go.vansh.nyc/5W": "https://joinbytedance.com/search/7668373268886161669",
     "https://go.vansh.nyc/5X": "https://joinbytedance.com/search/7668374190764050741",
+    "https://go.vansh.nyc/5Z": "https://lifeattiktok.com/search/7667935150530840837",
     "https://go.vansh.nyc/5b": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
     "https://go.vansh.nyc/5p": "https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737",
     "https://go.vansh.nyc/5t": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328",
+    "https://go.vansh.nyc/61": "https://lifeattiktok.com/search/7669712589169117445",
+    "https://go.vansh.nyc/62": "https://lifeattiktok.com/search/7668862422178318597",
+    "https://go.vansh.nyc/63": "https://lifeattiktok.com/search/7669943120351906053",
+    "https://go.vansh.nyc/64": "https://lifeattiktok.com/search/7667935633764370741",
+    "https://go.vansh.nyc/65": "https://lifeattiktok.com/search/7668725183121000757",
+    "https://go.vansh.nyc/66": "https://lifeattiktok.com/search/7668834837268138293",
+    "https://go.vansh.nyc/67": "https://lifeattiktok.com/search/7668834837268416821",
+    "https://go.vansh.nyc/68": "https://lifeattiktok.com/search/7669705785962727733",
+    "https://go.vansh.nyc/69": "https://lifeattiktok.com/search/7668921505254410549",
     "https://go.vansh.nyc/6A": "https://joinbytedance.com/search/7670690923748870405",
     "https://go.vansh.nyc/6B": "https://joinbytedance.com/search/7668464504736876853",
     "https://go.vansh.nyc/6C": "https://joinbytedance.com/search/7670009669494704437",
@@ -49805,10 +49324,22 @@
     "https://go.vansh.nyc/6a": "https://lifeattiktok.com/search/7669711844487399685",
     "https://go.vansh.nyc/6b": "https://lifeattiktok.com/search/7662700594251958581",
     "https://go.vansh.nyc/6c": "https://lifeattiktok.com/search/7662684280234232117",
+    "https://go.vansh.nyc/6d": "https://lifeattiktok.com/search/7667935565120112949",
     "https://go.vansh.nyc/6e": "https://lifeattiktok.com/search/7667934860750063925",
     "https://go.vansh.nyc/6f": "https://lifeattiktok.com/search/7667934302872537397",
+    "https://go.vansh.nyc/6g": "https://lifeattiktok.com/search/7667935399050692917",
+    "https://go.vansh.nyc/6h": "https://lifeattiktok.com/search/7667933335084124469",
+    "https://go.vansh.nyc/6i": "https://lifeattiktok.com/search/7667934635573692725",
+    "https://go.vansh.nyc/6l": "https://lifeattiktok.com/search/7667935739300317493",
     "https://go.vansh.nyc/6m": "https://lifeattiktok.com/search/7667935738376227077",
+    "https://go.vansh.nyc/6n": "https://lifeattiktok.com/search/7668582146236631349",
+    "https://go.vansh.nyc/6o": "https://lifeattiktok.com/search/7668445566565321013",
+    "https://go.vansh.nyc/6p": "https://lifeattiktok.com/search/7668584916620527925",
+    "https://go.vansh.nyc/6q": "https://lifeattiktok.com/search/7668642761473902901",
     "https://go.vansh.nyc/6r": "https://lifeattiktok.com/search/7668582031916435717",
+    "https://go.vansh.nyc/6s": "https://lifeattiktok.com/search/7668582086899763461",
+    "https://go.vansh.nyc/6t": "https://lifeattiktok.com/search/7668584161852229893",
+    "https://go.vansh.nyc/6u": "https://lifeattiktok.com/search/7668675500744837381",
     "https://go.vansh.nyc/6z": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713&gh_src=nnh32o631us",
     "https://go.vansh.nyc/70": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084",
     "https://go.vansh.nyc/71": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
@@ -49867,6 +49398,7 @@
     "https://go.vansh.nyc/C4": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
     "https://go.vansh.nyc/C5": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965",
     "https://go.vansh.nyc/C7": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231",
+    "https://go.vansh.nyc/CA": "https://lifeattiktok.com/search/7694360101507762485",
     "https://go.vansh.nyc/CB": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563",
     "https://go.vansh.nyc/CC": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656",
     "https://go.vansh.nyc/CF": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767",
@@ -49880,12 +49412,16 @@
     "https://go.vansh.nyc/Ca": "https://careers.medpace.com/jobs/13059?icims=1",
     "https://go.vansh.nyc/Cf": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727-1",
     "https://go.vansh.nyc/Cl": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007",
+    "https://go.vansh.nyc/Cn": "https://lifeattiktok.com/search/7694357619162532149",
     "https://go.vansh.nyc/Co": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780",
     "https://go.vansh.nyc/Cq": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
     "https://go.vansh.nyc/Cu": "https://lifeattiktok.com/search/7694365861943953717",
+    "https://go.vansh.nyc/Cv": "https://lifeattiktok.com/search/7679220954338494773",
     "https://go.vansh.nyc/Cw": "https://lifeattiktok.com/search/7694362229701069109",
     "https://go.vansh.nyc/Cx": "https://lifeattiktok.com/search/7694366551807265029",
     "https://go.vansh.nyc/Cy": "https://lifeattiktok.com/search/7694360097210861829",
+    "https://go.vansh.nyc/Cz": "https://lifeattiktok.com/search/7694362230074673461",
+    "https://go.vansh.nyc/DO": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10629",
     "https://go.vansh.nyc/DP": "https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-NJ-07014/1413358200/?ats=successfactors",
     "https://go.vansh.nyc/DR": "https://jobs.constellationenergy.com/jobs/139494?icims=1",
     "https://go.vansh.nyc/DX": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors",
@@ -49939,6 +49475,7 @@
     "https://go.vansh.nyc/G0": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645",
     "https://go.vansh.nyc/G2": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556",
     "https://go.vansh.nyc/G5": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218",
+    "https://go.vansh.nyc/G8": "https://lifeattiktok.com/search/7687630614472149301",
     "https://go.vansh.nyc/G9": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
     "https://go.vansh.nyc/GG": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/AI---Data-Analytics-Intern---Summer-2027---Irving--TX-or-Franklin--TN_R00214223",
     "https://go.vansh.nyc/GH": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
@@ -49948,6 +49485,7 @@
     "https://go.vansh.nyc/GL": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Intern_JR-025276",
     "https://go.vansh.nyc/GU": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254",
     "https://go.vansh.nyc/GW": "https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Artificial-Intelligence_JR102924",
+    "https://go.vansh.nyc/Gb": "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2",
     "https://go.vansh.nyc/Gc": "https://jobs.keysight.com/jobs/54640?icims=1",
     "https://go.vansh.nyc/Gd": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004",
     "https://go.vansh.nyc/Ge": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
@@ -49967,6 +49505,7 @@
     "https://go.vansh.nyc/Hh": "https://careers.rivian.com/jobs/34310?lang=en-us",
     "https://go.vansh.nyc/Hi": "https://careers.rivian.com/jobs/34303?lang=en-us",
     "https://go.vansh.nyc/Hj": "https://careers.rivian.com/jobs/34313?lang=en-us",
+    "https://go.vansh.nyc/IF": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
     "https://go.vansh.nyc/IG": "https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors",
     "https://go.vansh.nyc/IL": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
     "https://go.vansh.nyc/IR": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
@@ -49980,12 +49519,16 @@
     "https://go.vansh.nyc/Iv": "https://lunaroutpost.bamboohr.com/careers/392",
     "https://go.vansh.nyc/Ix": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
     "https://go.vansh.nyc/J1": "https://careers.qorvo.com/job/Greensboro-Digital-Systems-Engineering-Intern-NC-27409/1432264400/?ats=successfactors",
+    "https://go.vansh.nyc/J2": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false",
+    "https://go.vansh.nyc/J3": "https://jobs.jobvite.com/tylertech/job/oKQJAfwD?nl=1&nl=1&fr=false",
     "https://go.vansh.nyc/J6": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129",
     "https://go.vansh.nyc/JA": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980",
     "https://go.vansh.nyc/JB": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826",
+    "https://go.vansh.nyc/JD": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1",
     "https://go.vansh.nyc/JE": "https://careers.jhuapl.edu/jobs/60223?icims=1",
     "https://go.vansh.nyc/JJ": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942",
     "https://go.vansh.nyc/JK": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787",
+    "https://go.vansh.nyc/JQ": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648",
     "https://go.vansh.nyc/JY": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4527240",
     "https://go.vansh.nyc/Jh": "https://jobs.ashbyhq.com/grow-therapy/92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8",
     "https://go.vansh.nyc/Jo": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
@@ -50003,9 +49546,11 @@
     "https://go.vansh.nyc/Lv": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
     "https://go.vansh.nyc/Ly": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388",
     "https://go.vansh.nyc/Lz": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611",
+    "https://go.vansh.nyc/M0": "https://jobs.uhsinc.com/jobs/367247?icims=1",
     "https://go.vansh.nyc/M3": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/ASIC-Firmware-and-Diagnostic-Intern_1213415",
     "https://go.vansh.nyc/M8": "https://job-boards.greenhouse.io/testnisc/jobs/8174090",
     "https://go.vansh.nyc/MB": "https://careers.publicisgroupe.com/jobs/172577?icims=1",
+    "https://go.vansh.nyc/MD": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183",
     "https://go.vansh.nyc/MG": "https://careers.garmin.com/jobs/20131?icims=1",
     "https://go.vansh.nyc/MM": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738",
     "https://go.vansh.nyc/MO": "https://careers.garmin.com/jobs/20135?icims=1",
@@ -50037,6 +49582,7 @@
     "https://go.vansh.nyc/Oo": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
     "https://go.vansh.nyc/Oq": "https://careers.garmin.com/jobs/19693?icims=1",
     "https://go.vansh.nyc/Or": "https://careers.msasafety.com/jobs/9993?icims=1",
+    "https://go.vansh.nyc/Ox": "https://lifeattiktok.com/search/7672671220798818613",
     "https://go.vansh.nyc/PT": "https://recruiting2.ultipro.com/her1001acfin/jobboard/ab33798a-3521-417b-8db8-a8e435c475fa/opportunitydetail?opportunityid=57946ef1-ca27-4ef4-b48d-829da2dfd217",
     "https://go.vansh.nyc/PZ": "https://careers-gdms.icims.com/jobs/75142/ee--computer-engineer-internship/job",
     "https://go.vansh.nyc/Q7": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299",
@@ -50068,6 +49614,7 @@
     "https://go.vansh.nyc/RO": "https://lifeattiktok.com/search/7667934759481526581",
     "https://go.vansh.nyc/RP": "https://lifeattiktok.com/search/7668837275459324213",
     "https://go.vansh.nyc/RQ": "https://lifeattiktok.com/search/7668837276597127477",
+    "https://go.vansh.nyc/RS": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016",
     "https://go.vansh.nyc/RW": "https://job-boards.greenhouse.io/machindustries/jobs/4420626009",
     "https://go.vansh.nyc/Rd": "https://careers.keysight.com/jobs/54353",
     "https://go.vansh.nyc/Re": "https://careers.keysight.com/jobs/54417",
@@ -50099,12 +49646,18 @@
     "https://go.vansh.nyc/Tc": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2",
     "https://go.vansh.nyc/Tf": "https://spacedynamicslaboratory.applytojob.com/apply/Xb4whC202X/Student-Software-Engineer",
     "https://go.vansh.nyc/Tg": "https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Engineer-Intern-MN-55077-1721/1443601900/?ats=successfactors",
+    "https://go.vansh.nyc/Th": "https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424",
+    "https://go.vansh.nyc/Tk": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
     "https://go.vansh.nyc/UC": "https://lockheedmartin.eightfold.ai/careers/job/996477428412",
+    "https://go.vansh.nyc/UG": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
     "https://go.vansh.nyc/UY": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1443908200/?ats=successfactors",
     "https://go.vansh.nyc/UZ": "https://jobs.l3harris.com/job/Rochester-Intern,-Software-Engineer-NY-14624/1443908600/?ats=successfactors",
     "https://go.vansh.nyc/Uy": "https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43",
     "https://go.vansh.nyc/V1": "https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11513",
     "https://go.vansh.nyc/V2": "https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11514",
+    "https://go.vansh.nyc/VB": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1",
+    "https://go.vansh.nyc/VC": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1",
+    "https://go.vansh.nyc/VE": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W",
     "https://go.vansh.nyc/VF": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008",
     "https://go.vansh.nyc/VG": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942",
     "https://go.vansh.nyc/VH": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Irving-Texas---United-States-of-America/AI-Intern---Summer-2027---Dallas--TX-or-Franklin--TN_R00214219",
@@ -50117,6 +49670,7 @@
     "https://go.vansh.nyc/Vi": "https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8477",
     "https://go.vansh.nyc/Vj": "https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8580",
     "https://go.vansh.nyc/Vl": "https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8581",
+    "https://go.vansh.nyc/Vx": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1",
     "https://go.vansh.nyc/Vy": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W",
     "https://go.vansh.nyc/Vz": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W",
     "https://go.vansh.nyc/W0": "https://careers-gdms.icims.com/jobs/75163/software-test-engineering-intern---space-and-embedded-crypto/job",
@@ -50137,6 +49691,7 @@
     "https://go.vansh.nyc/X5": "https://chathamfinancial.wd501.myworkdayjobs.com/chathamfinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349",
     "https://go.vansh.nyc/X6": "https://chathamfinancial.wd501.myworkdayjobs.com/chathamfinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348",
     "https://go.vansh.nyc/X7": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a",
+    "https://go.vansh.nyc/X8": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020",
     "https://go.vansh.nyc/XB": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1",
     "https://go.vansh.nyc/XF": "https://micron.wd1.myworkdayjobs.com/external/job/San-Jose-CA/Intern---Data-Science_JR114549",
     "https://go.vansh.nyc/XU": "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101765422480",
@@ -50145,6 +49700,7 @@
     "https://go.vansh.nyc/XX": "https://micron.eightfold.ai/careers/job/45227661",
     "https://go.vansh.nyc/XY": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
     "https://go.vansh.nyc/Xd": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Portland-OR-US/Software-Release-Management-Intern_DT-20432",
+    "https://go.vansh.nyc/Xe": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1",
     "https://go.vansh.nyc/Xf": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1",
     "https://go.vansh.nyc/Xo": "https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8",
     "https://go.vansh.nyc/Xp": "https://jobs.lever.co/rosaiclabs/8e3e00f8-5b06-450c-bb63-5cc4fc3136ab",
@@ -50153,6 +49709,7 @@
     "https://go.vansh.nyc/Xt": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1",
     "https://go.vansh.nyc/Xv": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1",
     "https://go.vansh.nyc/Xx": "https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797",
+    "https://go.vansh.nyc/Xy": "https://jobs.ashbyhq.com/worldengine/ba22a6ae-9b75-4078-83c4-d908a29ccdd9",
     "https://go.vansh.nyc/Xz": "https://apply.workable.com/coldquanta/j/EB77DE8198",
     "https://go.vansh.nyc/Y1": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2885",
     "https://go.vansh.nyc/Y2": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459",
@@ -50185,6 +49742,7 @@
     "https://go.vansh.nyc/Yv": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789",
     "https://go.vansh.nyc/Yw": "https://jobs.l3harris.com/job/Carlsbad-Software-Engineering-Intern-(Carlsbad,-CA)-CA-92009/1444689600/?ats=successfactors",
     "https://go.vansh.nyc/Yz": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801",
+    "https://go.vansh.nyc/Z3": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004",
     "https://go.vansh.nyc/Z5": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Discovery-Sciences-and-Technologies---AI_R0055527",
     "https://go.vansh.nyc/Z6": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741",
     "https://go.vansh.nyc/Z7": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054587",
@@ -50217,6 +49775,7 @@
     "https://go.vansh.nyc/aT": "https://johndeere.eightfold.ai/careers/job/137483908089",
     "https://go.vansh.nyc/ag": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524",
     "https://go.vansh.nyc/ah": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502",
+    "https://go.vansh.nyc/as": "https://jobs.smartrecruiters.com/WellmarkInc/744000156043218",
     "https://go.vansh.nyc/ay": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094",
     "https://go.vansh.nyc/b2": "https://bostonscientific.eightfold.ai/careers/job/563602813519129",
     "https://go.vansh.nyc/b3": "https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq",
@@ -50227,6 +49786,7 @@
     "https://go.vansh.nyc/bA": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911",
     "https://go.vansh.nyc/bB": "https://job-boards.greenhouse.io/nisc/jobs/8301304",
     "https://go.vansh.nyc/bC": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32645",
+    "https://go.vansh.nyc/bD": "https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498",
     "https://go.vansh.nyc/bI": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
     "https://go.vansh.nyc/bJ": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
     "https://go.vansh.nyc/bU": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549",
@@ -50235,6 +49795,7 @@
     "https://go.vansh.nyc/bh": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051",
     "https://go.vansh.nyc/bi": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118",
     "https://go.vansh.nyc/bk": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
+    "https://go.vansh.nyc/bm": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
     "https://go.vansh.nyc/bp": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/AI-Autonomous-Driving-Verification---Validation-Intern---Summer-2027---Santa-Clara--CA_R00214263",
     "https://go.vansh.nyc/br": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
     "https://go.vansh.nyc/bs": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Applied-AI---Business-Innovation-Intern---Summer-2027---Franklin--TN_R00214225",
@@ -50269,6 +49830,7 @@
     "https://go.vansh.nyc/dK": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570",
     "https://go.vansh.nyc/dM": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
     "https://go.vansh.nyc/dN": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029",
+    "https://go.vansh.nyc/dP": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630",
     "https://go.vansh.nyc/dQ": "https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors",
     "https://go.vansh.nyc/dR": "https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors",
     "https://go.vansh.nyc/dT": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6/application?embed=true",
@@ -50276,9 +49838,11 @@
     "https://go.vansh.nyc/dW": "https://johndeere.eightfold.ai/careers/job/137483990019",
     "https://go.vansh.nyc/de": "https://boards.greenhouse.io/drivewealth/jobs/8039350003",
     "https://go.vansh.nyc/df": "https://boards.greenhouse.io/drivewealth/jobs/8038087003",
+    "https://go.vansh.nyc/dg": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922",
     "https://go.vansh.nyc/dh": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
     "https://go.vansh.nyc/dj": "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4",
     "https://go.vansh.nyc/dk": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Software-Engineering-Intern_8828",
+    "https://go.vansh.nyc/dm": "https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1",
     "https://go.vansh.nyc/dn": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088",
     "https://go.vansh.nyc/e6": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
     "https://go.vansh.nyc/eL": "https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
@@ -50347,70 +49911,13 @@
     "https://go.vansh.nyc/hV": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99",
     "https://go.vansh.nyc/hk": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1",
     "https://go.vansh.nyc/hn": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462",
-    "https://go.vansh.nyc/ho": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878"
+    "https://go.vansh.nyc/ho": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878",
+    "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 6,
+  "scan_sequence": 7,
   "short_baseline": [
-    "https://go.vansh.nyc/38",
-    "https://go.vansh.nyc/4Q",
-    "https://go.vansh.nyc/5Z",
-    "https://go.vansh.nyc/61",
-    "https://go.vansh.nyc/62",
-    "https://go.vansh.nyc/63",
-    "https://go.vansh.nyc/64",
-    "https://go.vansh.nyc/65",
-    "https://go.vansh.nyc/66",
-    "https://go.vansh.nyc/67",
-    "https://go.vansh.nyc/68",
-    "https://go.vansh.nyc/69",
-    "https://go.vansh.nyc/6d",
-    "https://go.vansh.nyc/6g",
-    "https://go.vansh.nyc/6h",
-    "https://go.vansh.nyc/6i",
-    "https://go.vansh.nyc/6l",
-    "https://go.vansh.nyc/6n",
-    "https://go.vansh.nyc/6o",
-    "https://go.vansh.nyc/6p",
-    "https://go.vansh.nyc/6q",
-    "https://go.vansh.nyc/6s",
-    "https://go.vansh.nyc/6t",
-    "https://go.vansh.nyc/6u",
-    "https://go.vansh.nyc/8j",
-    "https://go.vansh.nyc/CA",
-    "https://go.vansh.nyc/Cn",
-    "https://go.vansh.nyc/Cv",
-    "https://go.vansh.nyc/Cz",
-    "https://go.vansh.nyc/DO",
-    "https://go.vansh.nyc/G8",
-    "https://go.vansh.nyc/Gb",
-    "https://go.vansh.nyc/IF",
-    "https://go.vansh.nyc/J2",
-    "https://go.vansh.nyc/J3",
-    "https://go.vansh.nyc/JD",
-    "https://go.vansh.nyc/JQ",
-    "https://go.vansh.nyc/M0",
-    "https://go.vansh.nyc/MD",
-    "https://go.vansh.nyc/Ox",
-    "https://go.vansh.nyc/RS",
-    "https://go.vansh.nyc/Th",
-    "https://go.vansh.nyc/Tk",
-    "https://go.vansh.nyc/UG",
-    "https://go.vansh.nyc/VB",
-    "https://go.vansh.nyc/VC",
-    "https://go.vansh.nyc/VE",
-    "https://go.vansh.nyc/Vx",
-    "https://go.vansh.nyc/X8",
-    "https://go.vansh.nyc/Xe",
-    "https://go.vansh.nyc/Xy",
-    "https://go.vansh.nyc/Z3",
-    "https://go.vansh.nyc/as",
-    "https://go.vansh.nyc/bD",
-    "https://go.vansh.nyc/bm",
-    "https://go.vansh.nyc/dP",
-    "https://go.vansh.nyc/dg",
-    "https://go.vansh.nyc/dm",
-    "https://go.vansh.nyc/hp"
+    "https://go.vansh.nyc/8j"
   ],
   "version": 1
 }
