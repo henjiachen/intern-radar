@@ -19,6 +19,21 @@
       "url": "https://xboxgaming.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/Activision-2027-Summer-Internships---Software-Engineering_R028039"
     },
     {
+      "company": "Nintendo",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "ea51a46a18b5ad7fe3b303035dd146b8c21441575c34967c965ff18f5b43e94b",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted_at": "",
+      "priority": 6,
+      "priority_program": false,
+      "source": "nintendo",
+      "title": "Intern - Software Engineer, Performance Tools (NTD)",
+      "url": "https://careers.nintendo.com/jobs/4473568009/"
+    },
+    {
       "company": "NVIDIA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -7402,16 +7417,16 @@
       "company": "Dow Jones",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "efddfb0883c05b65e0aa7d86fd054ecc550df9555bfe589a562a63f7c9775c5e",
+      "id": "bac5835df3064e4730c67694f05cea96e131113e644700a261f7087ea1c234ea",
       "locations": [
-        "NYC"
+        "New York, NY"
       ],
-      "posted_at": "2026-10-07",
+      "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55891"
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55892"
     },
     {
       "company": "DP World",
@@ -8309,13 +8324,13 @@
       "graduation_status": "not_found",
       "id": "4051ef492a656938dc7f6c8f3199f480687259da2ae5ea9440be10a1ed9059ef",
       "locations": [
-        "Cary,North Carolina,United States"
+        "Cary, NC"
       ],
       "posted_at": "2026-10-23",
       "priority": 11,
       "priority_program": false,
-      "source": "greenhouse",
-      "title": "Tools Programmer Intern (Graphics)",
+      "source": "simplify",
+      "title": "Tools Programmer Intern - Graphics",
       "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004"
     },
     {
@@ -16433,21 +16448,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501273"
-    },
-    {
-      "company": "Northmarq",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "7d8480f665f0db6bd2e4b1d59f22f525d281d7109f463a04c12a353910b30e7e",
-      "locations": [
-        "Minneapolis, MN"
-      ],
-      "posted_at": "2026-09-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/northmarq/jobs/5414475008"
     },
     {
       "company": "Northrop Grumman",
@@ -25672,7 +25672,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-30T19:00:41.571057+00:00",
+  "last_checked": "2026-10-30T19:56:51.223835+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

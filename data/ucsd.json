@@ -9345,6 +9345,31 @@
       "fingerprint": "6d9cbbc6878eb366e52485fa0ecffd3f7e9eae945bad7178f5c0211605640fb5",
       "revision": 0
     },
+    "url:https://careers.nintendo.com/jobs/4473550009": {
+      "eligible": false,
+      "fingerprint": "619e46aa4f2ef9180f2c820357d3c915577b5dd29f7f62a6e5a20653a38fd250",
+      "revision": 1
+    },
+    "url:https://careers.nintendo.com/jobs/4473568009": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nintendo",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [
+          "- senior pursuing b.s. or m.s. in computer science or engineering related field",
+          "applicants must be legally eligible to work in the united states to be considered. visa sponsorship is not available for this role.",
+          "nintendo technology development\u2019s (ntd) performance tools team has a passion for increasing our software performance, optimizing hardware utilization, and helping developers achieve the same on our consoles. we are looking for a highly motivated software engineer intern to join us for the summer of 2027."
+        ],
+        "terms": [],
+        "title": "intern - software engineer, performance tools (ntd)"
+      },
+      "fingerprint": "b2a9341a9dcaed87a39d8d36fe2c5e7a84021ae237332625707537c3b945082c",
+      "revision": 1
+    },
     "url:https://careers.nintendo.com?gh_jid=4469718009": {
       "eligible": false,
       "fingerprint": "a191c44c08e822f571144940124e65532d978bb50b8600e37821d33e2807c9d1",
@@ -12074,24 +12099,26 @@
       "revision": 0
     },
     "url:https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/nyc---1211-ave-of-the-americas/summer-2027-internship-program---software-engineering-intern_job_req_55891": {
+      "eligible": false,
+      "fingerprint": "502a83bd8c84f5632f4fc62d18dd58b43484fd94b05bf10b29e6e55af2103121",
+      "revision": 2
+    },
+    "url:https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/nyc---1211-ave-of-the-americas/summer-2027-internship-program---software-engineering-intern_job_req_55892": {
       "eligible": true,
       "evidence": {
-        "category": "software",
+        "category": "",
         "company": "dow jones",
-        "degrees": [
-          "bachelor's"
-        ],
+        "degrees": [],
         "locations": [
-          "new york, ny",
-          "nyc"
+          "new york, ny"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern"
       },
-      "fingerprint": "98216f6cdb99b2068daf2d30ba432e570413ba45264b74d382cfe84f5290a8e7",
+      "fingerprint": "a223533442c2de80010aaf1327706307ebdf9f740c88cb4d8c21c1bd095518b2",
       "revision": 1
     },
     "url:https://draftkings.wd1.myworkdayjobs.com/campus_career_portal/job/boston-ma/analyst-intern--summer-2027-_jr14927": {
@@ -13798,8 +13825,7 @@
         "company": "epic games",
         "degrees": [],
         "locations": [
-          "cary, nc",
-          "cary,north carolina,united states"
+          "cary, nc"
         ],
         "requirements": [
           "note to recruitment agencies: epic does not accept any unsolicited resumes or approaches from any unauthorized third party (including recruitment or placement agencies) (i.e., a third party with whom we do not have a negotiated and validly executed agreement). we will not pay any fees to any unauthorized third party. further details on these matters can be found here.",
@@ -13808,10 +13834,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "tools programmer intern (graphics)"
+        "title": "tools programmer intern - graphics"
       },
-      "fingerprint": "e3df9edb559f47da9817040832fe80e706f2ea0d18b5750f7dbf6fd73eb53370",
-      "revision": 0
+      "fingerprint": "8c6a5a46bea756c8cd17a380f5074830659a3b50ea90bf76f1ea0888cb3320bd",
+      "revision": 1
     },
     "url:https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004": {
       "eligible": false,
@@ -34028,8 +34054,7 @@
           "master's"
         ],
         "locations": [
-          "farmington hills, mi",
-          "farmington hills, mi, united states"
+          "farmington hills, mi"
         ],
         "requirements": [],
         "terms": [
@@ -34038,8 +34063,8 @@
         ],
         "title": "calibration process optimization intern"
       },
-      "fingerprint": "20d9a331ad848c9c677aa71e6c12435ed863576052b9626f73fb18e4ea85455a",
-      "revision": 0
+      "fingerprint": "a30a9bc2d4c302a6c636ff56376701f96c5b9bb6e017abdf079acf1187784666",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/boschgroup/744000156648989": {
       "eligible": false,
@@ -49240,6 +49265,7 @@
     "https://go.vansh.nyc/10R": 24,
     "https://go.vansh.nyc/10S": 24,
     "https://go.vansh.nyc/10T": 24,
+    "https://go.vansh.nyc/10X": 25,
     "https://go.vansh.nyc/10k": 8,
     "https://go.vansh.nyc/10l": 8,
     "https://go.vansh.nyc/10o": 9,
@@ -49917,6 +49943,7 @@
     "https://go.vansh.nyc/10R": "https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b",
     "https://go.vansh.nyc/10S": "https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a",
     "https://go.vansh.nyc/10T": "https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9",
+    "https://go.vansh.nyc/10X": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55892",
     "https://go.vansh.nyc/10k": "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471",
     "https://go.vansh.nyc/10l": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
     "https://go.vansh.nyc/10o": "https://jobs.nvidia.com/careers/job/893398073452",
@@ -50582,7 +50609,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 24,
+  "scan_sequence": 25,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
