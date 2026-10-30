@@ -17424,6 +17424,11 @@
       "fingerprint": "2e36b9cda53e5d017022006866281f6b9171b58325b5db6af6303c2dc7588388",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/112": {
+      "eligible": false,
+      "fingerprint": "af52868cc11e47dca204cbe13892bf42ff0d1587b1f53c4c6c78f4a779d498c2",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/13": {
       "eligible": false,
       "fingerprint": "2dba11eb18e973b04eec563e905fa22ff1d46d8b859d9615ade33e796384bd13",
@@ -21511,6 +21516,24 @@
       "fingerprint": "1eba1b3df902851360b33c90564a45c18802d9a7bd0c8a93688d3cee857c6bb6",
       "revision": 1
     },
+    "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/sunnyvale-california-united-states-of-america/software-engineering-intern_1214146": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "hewlett packard enterprise",
+        "degrees": [],
+        "locations": [
+          "sunnyvale, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "4101c5ec18084d5e4466eccd7b4030f0ea40154c970c1c083602d1a941708429",
+      "revision": 1
+    },
     "url:https://hubcareers-docusign.icims.com/jobs/30578/job": {
       "eligible": true,
       "evidence": {
@@ -23668,7 +23691,6 @@
         ],
         "locations": [
           "arlington county, arlington, va",
-          "arlington, va",
           "seattle, wa",
           "seattle, wa +1"
         ],
@@ -23678,8 +23700,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "6fb5f89d7a59eca4db525dc564fe0eb9b8223afec47fe3f9230cd34b8b8422d2",
-      "revision": 3
+      "fingerprint": "55c356a466aec31cf574258dbaf3c409134c884fe211adae2aee10ec4f4d69dd",
+      "revision": 4
     },
     "url:https://job-boards.greenhouse.io/baidu/jobs/8197142": {
       "eligible": false,
@@ -46328,6 +46350,25 @@
       "fingerprint": "fa3f4c715b01d42e7910cf8308175571d522e1655c13af0f1d34e19efc0e1686",
       "revision": 0
     },
+    "url:https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/remote-us/internship--ai---agentic---machine-learning-development_r-10072": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "vsp vision",
+        "degrees": [],
+        "locations": [
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "agentic & machine learning development intern, ai"
+      },
+      "fingerprint": "1045c5d1b9de5b66c145d14f25e43ec557aa3fc5097096938bfb1d1d2264cbc6",
+      "revision": 1
+    },
     "url:https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/remote-us/internship--software-engineer_r-10046": {
       "eligible": true,
       "evidence": {
@@ -49263,6 +49304,8 @@
     "https://go.vansh.nyc/10w": 21,
     "https://go.vansh.nyc/10y": 21,
     "https://go.vansh.nyc/10z": 22,
+    "https://go.vansh.nyc/111": 27,
+    "https://go.vansh.nyc/113": 27,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -49941,6 +49984,8 @@
     "https://go.vansh.nyc/10w": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1",
     "https://go.vansh.nyc/10y": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
     "https://go.vansh.nyc/10z": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern_R22585",
+    "https://go.vansh.nyc/111": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146",
+    "https://go.vansh.nyc/113": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -50597,7 +50642,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 26,
+  "scan_sequence": 27,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

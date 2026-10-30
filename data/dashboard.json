@@ -4030,21 +4030,6 @@
       "company": "Booz Allen",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "b3ade087b339628c2e30399fc3c3c97b3f487b35157029d6192f2292e19cdfaa",
-      "locations": [
-        "El Segundo, CA"
-      ],
-      "posted_at": "2026-08-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Scientist Intern - University - Summer Games",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050"
-    },
-    {
-      "company": "Booz Allen",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "b74a72e5c03876ede9c875a181aee7a3c27ef18609234af6eefd01abfa338896",
       "locations": [
         "Fort Walton Beach, FL"
@@ -4460,36 +4445,6 @@
       "source": "simplify",
       "title": "Systems Engineer Intern - University",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"
-    },
-    {
-      "company": "Booz Allen",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "3586998aab96dfd364ec5956e7d773c6ca317760a6937fed48adef20e53336e3",
-      "locations": [
-        "Rome, NY"
-      ],
-      "posted_at": "2026-09-01",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Systems Engineer Intern - University",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386"
-    },
-    {
-      "company": "Booz Allen",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "35afac49eea250511b2f8a7a635b8c7c5ac6e0e34eb24734181f3384c2263447",
-      "locations": [
-        "Annapolis Junction, MD"
-      ],
-      "posted_at": "2026-09-01",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Systems Engineer Intern - University - 2027 Summer Games",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384"
     },
     {
       "company": "Bosch Home Comfort",
@@ -10796,6 +10751,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a9ce94df0afa521e66d1afe25dd57438e0ca1516152b05434e99d744d6133c52",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146"
     },
     {
       "company": "Hewlett Packard Enterprise",
@@ -18109,21 +18079,6 @@
       "url": "https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern"
     },
     {
-      "company": "Ragle Inc",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "99e99c919b677c4811c374628f9c5b277af41cabe997de3767b9b1d770839673",
-      "locations": [
-        "North Richland Hills, TX"
-      ],
-      "posted_at": "2026-09-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analytics Intern",
-      "url": "https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027"
-    },
-    {
       "company": "RAVE Aerospace",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -24657,6 +24612,22 @@
       "company": "VSP Vision",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "cd98006da04fa825558ec3ecea35004b69d46bd3280f600e6741692e516762fc",
+      "locations": [
+        "Remote",
+        "United States"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Agentic & Machine Learning Development Intern, AI",
+      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072"
+    },
+    {
+      "company": "VSP Vision",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "91c60395aa1b6adfc702687922cf2799a0e9a4ce0369ce3adfd03417df3228fa",
       "locations": [
         "Remote in USA"
@@ -24896,21 +24867,6 @@
       "source": "greenhouse",
       "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
-    },
-    {
-      "company": "Wellmark",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "7b321c3feb13b3e40213826e175f5f7555514a5819d763c00f06e0d7f0a51510",
-      "locations": [
-        "Des Moines, IA"
-      ],
-      "posted_at": "2026-09-11",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analytics & Governance Internship",
-      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148917718"
     },
     {
       "company": "Wellmark",
@@ -25612,7 +25568,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-30T20:55:28.794617+00:00",
+  "last_checked": "2026-10-30T21:52:31.660043+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
