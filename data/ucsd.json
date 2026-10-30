@@ -9108,6 +9108,24 @@
       "fingerprint": "2b4f3c2fd6890856695cf9ca27b3e6d27750988673e0d2129da3fb11e3ee6267",
       "revision": 0
     },
+    "url:https://careers.mitre.org/us/en/job/r117833/trustworthy-ai-intern": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "mitre",
+        "degrees": [],
+        "locations": [
+          "mclean, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "trustworthy ai intern"
+      },
+      "fingerprint": "a3fe4f05f7a9ed234f33bfa8f2f04c2269fd3840ba9f94b570bc82fe344b6d3a",
+      "revision": 1
+    },
     "url:https://careers.msasafety.com/jobs/10243?icims=1": {
       "eligible": false,
       "fingerprint": "87f3e32cdf9c9f05f52442797a0cef0bfc61d0b7ca15c57bdd22690b133b7de3",
@@ -17100,7 +17118,7 @@
       "eligible": true,
       "evidence": {
         "category": "hardware",
-        "company": "rtx",
+        "company": "raytheon",
         "degrees": [
           "bachelor's",
           "master's"
@@ -17112,10 +17130,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "receiver \u2013 & processing architecture software engineer intern - exciter"
+        "title": "receiver - exciter - & processing architecture software engineer intern - summer 2027 - onsite"
       },
-      "fingerprint": "d3249a346b54623d7c9c39998a30cbad3475d3ea2ded9db580835af19fc134b9",
-      "revision": 0
+      "fingerprint": "441bbe1386f0d62b9b4bbdbb30e05c2fa2ef1d9770d8d08e94c2fc7c59224723",
+      "revision": 1
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-marlborough-ma2--1001-boston-post-rd--bldg-2/software-engineer-co-op--january-2027-_01885371": {
       "eligible": true,
@@ -48807,6 +48825,7 @@
     "https://go.vansh.nyc/10l": 8,
     "https://go.vansh.nyc/10o": 9,
     "https://go.vansh.nyc/10p": 9,
+    "https://go.vansh.nyc/10r": 18,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -49471,6 +49490,7 @@
     "https://go.vansh.nyc/10l": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
     "https://go.vansh.nyc/10o": "https://jobs.nvidia.com/careers/job/893398073452",
     "https://go.vansh.nyc/10p": "https://jobs.nvidia.com/careers/job/893398311676",
+    "https://go.vansh.nyc/10r": "https://careers.mitre.org/us/en/job/R117833/Trustworthy-AI-Intern",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -50127,7 +50147,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 17,
+  "scan_sequence": 18,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
