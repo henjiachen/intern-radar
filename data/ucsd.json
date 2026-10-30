@@ -1020,6 +1020,11 @@
       "fingerprint": "6292da2664bbefb568dd28eb5854efdcc0477c43253b48910b71de88c20fe7e3",
       "revision": 0
     },
+    "url:https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/franklin-tennessee---united-states-of-america/procurement-transformation---summer-2027---franklin--tn_r00214279": {
+      "eligible": false,
+      "fingerprint": "a22d18dbb6ec37e95e143876d6de83f87e23f89e958911b8ef05a57809489f34",
+      "revision": 1
+    },
     "url:https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/franklin-tennessee---united-states-of-america/purchasing-aftersales-intern---summer-2027---franklin--tn_r00214278": {
       "eligible": true,
       "evidence": {
@@ -1039,6 +1044,26 @@
       },
       "fingerprint": "5a70b3d4b32182f56585087d3871c4f866fe3936ee82eaf6f4db47b8c5a0acc2",
       "revision": 0
+    },
+    "url:https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/franklin-tennessee---united-states-of-america/purchasing-transformation-intern---summer-2027---franklin--tn_r00214282": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "nissan",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "franklin, tn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "purchasing transformation intern"
+      },
+      "fingerprint": "ee25f4da794a3252145c789636d538694e41e8cc23860c1c49d483060f38a35a",
+      "revision": 1
     },
     "url:https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/irving-texas---united-states-of-america/ai-intern---summer-2027---dallas--tx-or-franklin--tn_r00214219": {
       "eligible": true,
@@ -8815,6 +8840,11 @@
       "fingerprint": "834500d7b280d89bdfe8f6dfe1fe7110ed79c4bd3680ab72252cb213b1368238",
       "revision": 0
     },
+    "url:https://careers.jhuapl.edu/jobs/60742?icims=1": {
+      "eligible": false,
+      "fingerprint": "860d42988fb0298382c4d30d55f3a11154cb820f893497c76c5632e240fb943d",
+      "revision": 1
+    },
     "url:https://careers.keysight.com/jobs/54353": {
       "eligible": true,
       "evidence": {
@@ -16236,6 +16266,11 @@
       "fingerprint": "a1c132956b72acd7c68026ef6f5b76e768769231fc698105d7112d4052416ced",
       "revision": 0
     },
+    "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/software-engineering-intern_r5057006-1": {
+      "eligible": false,
+      "fingerprint": "436563b6a2ea1a1c188cccef5542e76c363b89f84d69c3eddb288ae60e352438",
+      "revision": 1
+    },
     "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/atlanta/scs-commercial-intern------ai-data-mining-agent_r5055036-2": {
       "eligible": false,
       "fingerprint": "a4fd49a3a9e899c673b035a2e5f4ff8b18b43db8bc519a7581759e792842cf21",
@@ -16339,6 +16374,11 @@
       },
       "fingerprint": "a1c132956b72acd7c68026ef6f5b76e768769231fc698105d7112d4052416ced",
       "revision": 0
+    },
+    "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/software-engineering-intern_r5057006-2": {
+      "eligible": false,
+      "fingerprint": "436563b6a2ea1a1c188cccef5542e76c363b89f84d69c3eddb288ae60e352438",
+      "revision": 1
     },
     "url:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/atlanta-georgia/data-engineering-internship_r-57330": {
       "eligible": true,
@@ -23302,6 +23342,11 @@
       "fingerprint": "29b8c2693ef51f74b8aa039f2586586756f76e91b99a31c5fb63de9e859bf0ea",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005": {
+      "eligible": false,
+      "fingerprint": "2f8bd295adde9e7d52a9522fddada8d4976473460e173e81b6b2e56de66635d9",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/astranis/jobs/4704595006": {
       "eligible": false,
       "fingerprint": "2916c7ae6ceb929851402957991c0a967aa80112bf08b40f39011c0d2c481099",
@@ -23701,6 +23746,11 @@
       "eligible": false,
       "fingerprint": "a8b48e89422204a31de04d028dd630ccc99cb82fef14a7bb06c1f7cca52380ec",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/co-op_intern/jobs/4473614009": {
+      "eligible": false,
+      "fingerprint": "9250abce1d0976987c236298f7794548923846a30d457a218d95338b31ad7570",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008": {
       "eligible": true,
@@ -24204,6 +24254,11 @@
       "eligible": false,
       "fingerprint": "5384968f05611c3fe8d2a1a97f8011a31ac8c8e6d5458150e877e24873843623",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003": {
+      "eligible": false,
+      "fingerprint": "f0c3e0a490c34bb2637aa8bba5ffbac5bba1530390e5249832e6d235ebc752ae",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/figureai/jobs/4601309006": {
       "eligible": false,
@@ -25114,6 +25169,11 @@
       "eligible": false,
       "fingerprint": "86ca190818807c47a9c57cb47e62494939d71f59f0e52ba1495c3c58858057c4",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/lilasciences/jobs/4469148009": {
+      "eligible": false,
+      "fingerprint": "d09e29ebfe6b84d91e1d3fb37d780ebbd09df42700f5100226c3091f2eab4eda",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/lilasciences/jobs/4469150009": {
       "eligible": false,
@@ -28029,6 +28089,11 @@
       "eligible": false,
       "fingerprint": "a0fe64ac43445fec5a6f766d7ae4241ebd669e6f3fec2dcd4950004635d3776c",
       "revision": 0
+    },
+    "url:https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f": {
+      "eligible": false,
+      "fingerprint": "39f9878048dc9fcbe40d74201f420191efb463affefb075be07032b1bb9ee616",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082": {
       "eligible": true,
@@ -41094,6 +41159,11 @@
       "fingerprint": "32862876b703f858c5f521ba55b070ccef9e7a42b781cb792e4ea5f7195f9a72",
       "revision": 0
     },
+    "url:https://ptc.wd1.myworkdayjobs.com/ptc/job/cambridge-united-kingdom/software-engineering-summer-internship-2027---cambridge_jr112998": {
+      "eligible": false,
+      "fingerprint": "e0d1fbb8e150e8dd56c44685dd3e09e54ab5f8ce679940e46a0a6cacd1603bfd",
+      "revision": 1
+    },
     "url:https://ptc.wd1.myworkdayjobs.com/ptc/job/usa-san-mateo-ca/arena-engineering-intern_jr112955": {
       "eligible": true,
       "evidence": {
@@ -43129,26 +43199,9 @@
       "revision": 0
     },
     "url:https://selinc.wd1.myworkdayjobs.com/sel/job/washington---pullman/software-engineer-intern_2026-24190": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "schweitzer engineering laboratories",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "pullman, wa",
-          "washington, dc +1"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "4e53d82964a50c27b333d246c4a9570530e4f12cc1b2599f8fc84b3810207c8e",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "f185c95a51d9594529e75eec6b6509c5b45973fc9a1d5d81043fbce97607b6ed",
+      "revision": 2
     },
     "url:https://selinc.wd1.myworkdayjobs.com/sel/job/washington---spokane-valley/software-engineer-intern_2026-21231": {
       "eligible": true,
@@ -47399,6 +47452,11 @@
       "fingerprint": "13767ba758d52a8697308df9a1f8a4975c0d6e60de8046f8e15a92a460a95baa",
       "revision": 0
     },
+    "url:https://www.metacareers.com/jobs/1358944629494375": {
+      "eligible": false,
+      "fingerprint": "8b39ced4097225323b0fb7efe6744e7c7d548e89b77b8877c7c9727d4b467dc8",
+      "revision": 1
+    },
     "url:https://www.metacareers.com/jobs/1416549056773684": {
       "eligible": false,
       "fingerprint": "e54d38261d9d631fbe75584c32fe4572ed89f733ae409f29570600250010e2b6",
@@ -50167,7 +50225,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 19,
+  "scan_sequence": 20,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
