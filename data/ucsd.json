@@ -42921,6 +42921,7 @@
         "company": "salesforce",
         "degrees": [],
         "locations": [
+          "2 locations",
           "bellevue, wa",
           "california, usa +2",
           "sf"
@@ -42931,8 +42932,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "f859054a81e34a2553abda0ee3a0ec9597a583fa0f7d9c57693b86f04444a444",
-      "revision": 0
+      "fingerprint": "3afe8559aefddb7c43f28ce2bc1f6720a27ac65b7e901d376b0cf5fddd6d56bf",
+      "revision": 1
     },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---software-engineer_jr340771-1": {
       "eligible": true,
@@ -44603,6 +44604,25 @@
       "eligible": false,
       "fingerprint": "da0d4c4f2f9c17361c21eed75fef20b9e725025cec666c5db9a85b970bff8f5b",
       "revision": 0
+    },
+    "url:https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/davidson-north-carolina/xmlname-2027-ai---analytics-intern_jr-7591-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "trane technologies",
+        "degrees": [],
+        "locations": [
+          "davidson, nc",
+          "minneapolis, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai & analytics intern"
+      },
+      "fingerprint": "bf8b77424cf7d03e32ad39d756578c03d9751feeb2822a526a09d760acce1454",
+      "revision": 1
     },
     "url:https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/st-paul-minnesota/software-development-engineering-intern_jr-15648": {
       "eligible": true,
@@ -46566,6 +46586,24 @@
       },
       "fingerprint": "cf74ca8464d35c1d6408b3085b15e2333fe0468ba5866c863af6c41d3425456b",
       "revision": 2
+    },
+    "url:https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "amazon",
+        "degrees": [],
+        "locations": [
+          "seattle, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development engineer intern, machine learning/automated reasoning"
+      },
+      "fingerprint": "06115c29f81a04e4c8cb5c54707eecc55a3004144d006193e78c6bc8ad921ff5",
+      "revision": 1
     },
     "url:https://www.amazon.jobs/jobs/10529525/apply": {
       "eligible": true,
@@ -48903,6 +48941,8 @@
     "https://go.vansh.nyc/10p": 9,
     "https://go.vansh.nyc/10r": 18,
     "https://go.vansh.nyc/10t": 19,
+    "https://go.vansh.nyc/10w": 21,
+    "https://go.vansh.nyc/10y": 21,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -49569,6 +49609,8 @@
     "https://go.vansh.nyc/10p": "https://jobs.nvidia.com/careers/job/893398311676",
     "https://go.vansh.nyc/10r": "https://careers.mitre.org/us/en/job/R117833/Trustworthy-AI-Intern",
     "https://go.vansh.nyc/10t": "https://careers.mitre.org/us/en/job/R117661/Data-Science-and-Engineering-Intern",
+    "https://go.vansh.nyc/10w": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1",
+    "https://go.vansh.nyc/10y": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -50225,7 +50267,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 20,
+  "scan_sequence": 21,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

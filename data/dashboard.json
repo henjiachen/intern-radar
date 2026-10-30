@@ -1628,6 +1628,21 @@
       "company": "Amazon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "99c05cdc80d355be0a808356a5c0da524e1651bd9b847e91a47773b138d09a67",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning",
+      "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"
+    },
+    {
+      "company": "Amazon",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "1545cdf22a2f671326ffb8a7537775c3b447164de98de2c05f8b11a5bd02511e",
       "locations": [
         "North Reading, MA"
@@ -23322,6 +23337,22 @@
       "company": "Trane Technologies",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "93278e4916f911499b393e407a75c50a840b80da5b4b63aa6dd4b3834b696df8",
+      "locations": [
+        "Davidson, NC",
+        "Minneapolis, MN"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI & Analytics Intern",
+      "url": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1"
+    },
+    {
+      "company": "Trane Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "0a3a5647cb7759e1aa7b0359a6a7ed3831d7e0318f480b8df27414582b23f10b",
       "locations": [
         "St Paul, MN"
@@ -25628,7 +25659,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-30T15:08:37.683435+00:00",
+  "last_checked": "2026-10-30T16:02:34.407248+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
