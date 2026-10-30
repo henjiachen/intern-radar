@@ -18262,6 +18262,11 @@
       "fingerprint": "e39f6653713f82ee3d0716add9b0e162a4b17833e6ed593e03b87523c9e5ac8e",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/gc": {
+      "eligible": false,
+      "fingerprint": "8db7869dca20d84dc690518a007b83be3551f2b11dd507cbb3217f0677c81c4c",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/gk": {
       "eligible": false,
       "fingerprint": "72923c34822660975eb2697af00ac06f5c1c32973e889e8b12b09ecb9bf21f65",
@@ -19560,8 +19565,8 @@
     },
     "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---finance-application-developer-intern_r0059477": {
       "eligible": false,
-      "fingerprint": "1f76c35380a562c54c36c0da34f1f9f0357156ca243ad07b0af64eb88fc8c37b",
-      "revision": 2
+      "fingerprint": "99acd21053ac525ae748a4b6c9ab3d0f768a2b35f3ee856c476b25733dd4aa21",
+      "revision": 3
     },
     "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---finance-data---analytics-developer-intern_r0059478": {
       "eligible": false,
@@ -25303,25 +25308,9 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/memx/jobs/5450442008": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "memx",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "new york, ny",
-          "nyc"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "data engineer intern"
-      },
-      "fingerprint": "1e2099bdb7171ebe318d51a17edde2b7ec0ce1cfa93d5cfc6fa41bb0c7cda5d4",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "e90117489b6eb4183f549574b7a60689912a738721f8f05aa62c158b6bb7ffc5",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/mill/jobs/4737741005": {
       "eligible": true,
@@ -43123,8 +43112,8 @@
     },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/arkansas---remote/summer-2027-intern---forward-deployed-engineer---global-public-sector_jr366026-1": {
       "eligible": false,
-      "fingerprint": "a5ad994f94d00e4be7695e026c1524f0e13792514af47f2af558e2151166024e",
-      "revision": 0
+      "fingerprint": "5b51f653f8558f5afb27848f8714e081cab7f91d7b041aadfe75ea6a19694c99",
+      "revision": 1
     },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---palo-alto/summer-2027-intern---ai-research_jr365111-1": {
       "eligible": false,
@@ -43163,7 +43152,6 @@
         "company": "salesforce",
         "degrees": [],
         "locations": [
-          "2 locations",
           "bellevue, wa",
           "california, usa +2",
           "sf"
@@ -43174,8 +43162,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "3afe8559aefddb7c43f28ce2bc1f6720a27ac65b7e901d376b0cf5fddd6d56bf",
-      "revision": 1
+      "fingerprint": "f859054a81e34a2553abda0ee3a0ec9597a583fa0f7d9c57693b86f04444a444",
+      "revision": 2
     },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---software-engineer_jr340771-1": {
       "eligible": true,
@@ -50609,7 +50597,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 25,
+  "scan_sequence": 26,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
