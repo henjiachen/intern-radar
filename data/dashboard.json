@@ -109,36 +109,6 @@
       "url": "https://jobs.nvidia.com/careers/job/893397026185"
     },
     {
-      "company": "nvidia",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "a10fd17be235c74866ab0a71ad564128bb671cbfac5b3b5dc0c6111e37cce96f",
-      "locations": [
-        "US, CA, Santa Clara"
-      ],
-      "posted_at": "",
-      "priority": 7,
-      "priority_program": false,
-      "source": "workday",
-      "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496"
-    },
-    {
-      "company": "nvidia",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "9522b65ced196dee697b0ba20c82ac8411ed1ea43e1f3e48248cbea024f98ae6",
-      "locations": [
-        "US, CA, Santa Clara"
-      ],
-      "posted_at": "",
-      "priority": 7,
-      "priority_program": false,
-      "source": "workday",
-      "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491"
-    },
-    {
       "company": "NVIDIA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -1750,6 +1720,29 @@
       "url": "https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa"
     },
     {
+      "company": "Amazon",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f40386b5c962ca6fa86940b71bb6e73a25051816b820cb80ee6c869c97909aad",
+      "locations": [
+        "Boston, MA",
+        "Seattle, WA",
+        "Austin, TX",
+        "Irvine, CA",
+        "Arlington County, Arlington, VA",
+        "NYC",
+        "Bellevue, WA",
+        "Sunnyvale, CA",
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Machine Learning/Automated Reasoning",
+      "url": "https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"
+    },
+    {
       "company": "AMCA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -2103,6 +2096,38 @@
       "source": "simplify",
       "title": "Enterprise Data Intern - Enablement, Service & Support",
       "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39527"
+    },
+    {
+      "company": "American Family Insurance Group",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "56f9e6787195cdee07ee7029f868c7cec3c06bf3119d8a99e4f1800314032e65",
+      "locations": [
+        "Madison, WI",
+        "Boston, MA"
+      ],
+      "posted_at": "2026-10-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "GenAI Intern",
+      "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-Intern_R39561"
+    },
+    {
+      "company": "American Family Insurance Group",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "b6b3bd9c98a154ca35c121b79f3721b6d1e9a409ffb0192093f8b3d093563cc4",
+      "locations": [
+        "Madison, WI",
+        "Boston, MA"
+      ],
+      "posted_at": "2026-10-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "GenAI/ML Intern",
+      "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514"
     },
     {
       "company": "American Family Insurance Group",
@@ -4557,14 +4582,14 @@
       "graduation_status": "unknown",
       "id": "0453c6c7658a7eb204de91ea2b3b7d7d9e113934be6982b71ecb976f00245e2f",
       "locations": [
-        "San Francisco, CA"
+        "SF"
       ],
       "posted_at": "2026-09-12",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "AI Platform Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a"
+      "url": "https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a/application?embed=true"
     },
     {
       "company": "Brain Co.",
@@ -4572,14 +4597,14 @@
       "graduation_status": "unknown",
       "id": "139ce74c6cd40de426a6fefe290ff1cda782e29fa51b2010123a8dad831eb5bb",
       "locations": [
-        "San Francisco, CA"
+        "SF"
       ],
       "posted_at": "2026-09-12",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "AI Product Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b"
+      "source": "simplify",
+      "title": "AI Product Intern",
+      "url": "https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b/application?embed=true"
     },
     {
       "company": "Brain Co.",
@@ -4602,14 +4627,14 @@
       "graduation_status": "unknown",
       "id": "61c022f5d82a2329f039299c632d9329d58f8b943c825145acfc5705c4fdc76c",
       "locations": [
-        "San Francisco, CA"
+        "SF"
       ],
       "posted_at": "2026-09-14",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Machine Learning Engineer Intern, Applied AI",
-      "url": "https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9"
+      "source": "simplify",
+      "title": "Machine Learning Engineer \u2013 Applied AI Intern",
+      "url": "https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9/application?embed=true"
     },
     {
       "company": "Brevan Howard",
@@ -5274,6 +5299,21 @@
       "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006"
     },
     {
+      "company": "Cadillac Formula 1 Team",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "8842c77dba9832c365cb9fa36d399b73e1b2832723cb44f9b5d5756d9585912f",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Aerodynamics AI Industrial Placement Intern",
+      "url": "https://apply.workable.com/cadillacf1team/j/7995A5E448"
+    },
+    {
       "company": "Campbell Soup Company",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -5684,6 +5724,24 @@
       "source": "simplify",
       "title": "Business Analytics Intern",
       "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472"
+    },
+    {
+      "company": "Cigna Group",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "7708d63b7abc2a16f670b9fccd977b8c773c6f55e0510c6941b9ff628373f320",
+      "locations": [
+        "Bloomington, MN",
+        "Morris Plains, NJ",
+        "St. Louis, MO",
+        "Bloomfield, CT"
+      ],
+      "posted_at": "2026-09-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data & Analytics Engineering Intern - Technology Development Program",
+      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533"
     },
     {
       "company": "Cigna Group",
@@ -7357,16 +7415,46 @@
       "company": "Dow Jones",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "bac5835df3064e4730c67694f05cea96e131113e644700a261f7087ea1c234ea",
+      "id": "97dcc9f5ccd6a886d7dac3f0fae39c135fa7cbeabf01df7bd8f6bafd8652fb27",
       "locations": [
-        "New York, NY"
+        "Houston, TX"
       ],
       "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
-      "url": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55892"
+      "source": "simplify",
+      "title": "Research Analyst Intern",
+      "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55874"
+    },
+    {
+      "company": "Dow Jones",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "b1d6627236b25be987143a56aa5e5de0aff8a30ceda433019b426ec80719dbda",
+      "locations": [
+        "Houston, TX"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Research Analyst Intern",
+      "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55875"
+    },
+    {
+      "company": "Dow Jones",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "bac5835df3064e4730c67694f05cea96e131113e644700a261f7087ea1c234ea",
+      "locations": [
+        "NYC"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55892"
     },
     {
       "company": "DP World",
@@ -14131,6 +14219,21 @@
       "company": "Life Fitness",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "b9ff5b9b200aeabbbfa0bb556b8dff510b7d1f59e41bacba6e1cc0782a2c505e",
+      "locations": [
+        "Rosemont, IL"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "IT Intern",
+      "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323"
+    },
+    {
+      "company": "Life Fitness",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "e2720fe21894a33a4f99596a85b314f4e8aa9caf67f834faf618a962e28e2d5e",
       "locations": [
         "Rosemont, IL"
@@ -16423,6 +16526,21 @@
       "company": "Northrop Grumman",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "e314f5359a2c3ba640737b8cbee6f3e0ffb4c847731753d3d9aa072260af6b53",
+      "locations": [
+        "Linthicum Heights, MD"
+      ],
+      "posted_at": "2026-09-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+    },
+    {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "3eca0ee399196cd0ab6f934ed6703c50937f99429158a5d0325a1eb9af5f7371",
       "locations": [
         "Beavercreek, OH"
@@ -16523,6 +16641,21 @@
       "source": "simplify",
       "title": "Data Science / Structured Problem Solving Intern - Summer 2027",
       "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037"
+    },
+    {
+      "company": "Obsidian Entertainment",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "463e0a65b82682ba50090e8146cb41e7c8c15d679215142f273b0b2196356588",
+      "locations": [
+        "Irvine, CA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Gameplay Engineer Intern",
+      "url": "https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship"
     },
     {
       "company": "OCC",
@@ -17625,8 +17758,8 @@
       "posted_at": "2026-10-27",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/protagonist/jobs/6236620004"
     },
     {
@@ -19060,6 +19193,21 @@
       "company": "Royal Bank of Canada",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "601af74c3d7d52a447f91588c3245c648515c4cdc6d95b252e77ea445f462778",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "posted_at": "2026-10-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Capital Markets Intern - Quantitative Technology Services",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675"
+    },
+    {
+      "company": "Royal Bank of Canada",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "17b04e5993a4dfa5fe9eb5a5dcfa4e47c508568d60bd2f269b7717ffe7472f59",
       "locations": [
         "Montreal, Canada"
@@ -20024,9 +20172,9 @@
       "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Firmware Engineering Intern",
-      "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219"
+      "source": "simplify",
+      "title": "Firmware Engineer Intern",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219"
     },
     {
       "company": "Sierra Nevada Corporation",
@@ -20405,6 +20553,21 @@
       "source": "simplify",
       "title": "Software Product Manager Intern",
       "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1"
+    },
+    {
+      "company": "Sophinea",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "24b4189aff42839a39258e783ca680b3399791091cde9ed3b7c9c375d4972c64",
+      "locations": [
+        "Manassas, VA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Mobile App Developer Intern",
+      "url": "https://apply.workable.com/sophinea/j/B392177653"
     },
     {
       "company": "SoundExchange",
@@ -20797,6 +20960,21 @@
       "source": "vanshb03",
       "title": "Quantitative Strategy Developer Intern",
       "url": "https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us"
+    },
+    {
+      "company": "Symbotic",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f85d059a79b25fd24f0b3c3c10d7605e5ad50f059e1d1fd65ccb5b321d1f7847",
+      "locations": [
+        "Wilmington, MA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Customer Success Intern",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Customer-Success_R8234"
     },
     {
       "company": "Symbotic",
@@ -25132,15 +25310,14 @@
       "graduation_status": "unknown",
       "id": "958b315382bb3fe2f1c320bfffa546187b30318c4b2793c1d9c1bece84730f0e",
       "locations": [
-        "Remote",
-        "United States"
+        "Remote in USA"
       ],
       "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Software Engineer Intern",
-      "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern_R22585"
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern_R22585"
     },
     {
       "company": "WhatNot",
@@ -25568,7 +25745,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-30T21:52:31.660043+00:00",
+  "last_checked": "2026-10-30T22:51:35.826569+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
