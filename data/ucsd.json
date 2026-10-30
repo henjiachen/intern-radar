@@ -16552,20 +16552,27 @@
     "url:https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/united-states---california---foster-city/intern---research---strategy--innovation---portfolio_r0054502": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "gilead sciences",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "jd",
+          "master's",
+          "mba",
+          "phd"
+        ],
         "locations": [
           "foster city, ca"
         ],
         "requirements": [],
         "terms": [
+          "summer 2026",
           "summer 2027"
         ],
-        "title": "research intern, strategy, innovation & portfolio - ai"
+        "title": "research intern - strategy, innovation & portfolio - ai"
       },
-      "fingerprint": "e0fb1378cbb4882264c8cd3e25c3a101d838940407e63764892be7adc6d4d516",
-      "revision": 1
+      "fingerprint": "287e105b3cc0e3f1a74b7b64df31af761ba92e502ab92a1ea98b83606845e59c",
+      "revision": 2
     },
     "url:https://globalcareers-sas.icims.com/jobs/42645/job": {
       "eligible": true,
@@ -38525,27 +38532,9 @@
       "revision": 0
     },
     "url:https://marmon.wd501.myworkdayjobs.com/marmon_msip_internships/job/milwaukee-wi/data-engineering-intern-or-student-co-op_jr0000037453": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "marmon holdings",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "milwaukee, wi"
-        ],
-        "requirements": [],
-        "terms": [
-          "fall 2027",
-          "spring 2027",
-          "summer 2027",
-          "winter 2027"
-        ],
-        "title": "data engineering intern/co-op"
-      },
-      "fingerprint": "7a3ee5f6d14cd4240b8e8ece8766e4801d4f37985cfc8748fe134edb30311947",
-      "revision": 0
+      "eligible": false,
+      "fingerprint": "190e030aa0470fb9ed59ae2cc1ab16e79e5976bc804bb6e4c5dc341a1889833c",
+      "revision": 1
     },
     "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/burlington-vt/sram-software-engineer-intern--bs---summer-2027_2603760-1": {
       "eligible": false,
@@ -47935,6 +47924,11 @@
       "fingerprint": "ce26c258339d0a5b333fb26f2c52537daf887e51dd25c56e9c8107e769399c9f",
       "revision": 0
     },
+    "url:https://www.sagesure.com/careers/current-job-openings?gh_jid=4719503006": {
+      "eligible": false,
+      "fingerprint": "10d3b4ce898e95c7bdc236b2354455b411d74492611cf9dd198d305368040ac7",
+      "revision": 1
+    },
     "url:https://www.sagesure.com/careers/current-job-openings?gh_jid=4719514006": {
       "eligible": false,
       "fingerprint": "62ee68b28e5fd215b6c18afee8bce16380b7ff0605f2be0e6072fddb9cb7a11f",
@@ -50126,7 +50120,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 13,
+  "scan_sequence": 14,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
