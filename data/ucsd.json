@@ -17334,6 +17334,16 @@
       "fingerprint": "5dde97c8e955cff4d5933cc055bc21a2c5a4729f16f35eb834d09c45e9e61679",
       "revision": 2
     },
+    "url:https://go.vansh.nyc/10h": {
+      "eligible": false,
+      "fingerprint": "0634556e31f0323a57be55f22006cbf03c7724b223effb4dd088455f5ba9412e",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/10i": {
+      "eligible": false,
+      "fingerprint": "4c70b4c83e05454fdfeacf032e8b93ed75e0d1adbe68a1ae7dc730695c8d9510",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/10n": {
       "eligible": false,
       "fingerprint": "94f4864c605055f47de08f43dbfdfe7b81cdc53eb16b0c117094a144100f7552",
@@ -19479,50 +19489,14 @@
       "revision": 0
     },
     "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---finance-application-developer-intern_r0059477": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "hcsc",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "chicago, il",
-          "chicago, il +1",
-          "richardson, tx"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "finance application developer intern"
-      },
-      "fingerprint": "7bb55ba01598e12a198c1bca6ceb1e8609f49dc05e7b967d21d7b0beb1778559",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "1f76c35380a562c54c36c0da34f1f9f0357156ca243ad07b0af64eb88fc8c37b",
+      "revision": 2
     },
     "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---finance-data---analytics-developer-intern_r0059478": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "hcsc",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "chicago, il",
-          "chicago, il +1",
-          "richardson, tx"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "finance data & analytics developer intern"
-      },
-      "fingerprint": "c9af61e6f154179d8a00d0ed280b8b35baece4483e097dee46b05370327fdc1c",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "08d751748b4d19a42917ef77aa9979e18d5c060be18680e6c9df12e708529a30",
+      "revision": 2
     },
     "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---product-engineering-developer-associate-intern_r0059493": {
       "eligible": false,
@@ -33331,6 +33305,11 @@
       "fingerprint": "ee549d7aae7f5e27d7babb6aeeae77ab6fd8cb9ac99e0e441ebc20af786de6a4",
       "revision": 0
     },
+    "url:https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495": {
+      "eligible": false,
+      "fingerprint": "3a759cd087a94cfc3b24acf44b202c2202bf463a14b50cb8a7359073ac53b761",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2": {
       "eligible": true,
       "evidence": {
@@ -38632,9 +38611,20 @@
       "revision": 1
     },
     "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/burlington-vt/sram-software-engineer-intern--bs---summer-2027_2603760-1": {
-      "eligible": false,
-      "fingerprint": "42d35fc49b307062dbec41bc6bf1e2920a2456f3c4c3f67c83103abf98eabdb0",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "marvell",
+        "degrees": [],
+        "locations": [
+          "burlington, vt"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "sram software engineer intern - bs - summer 2027"
+      },
+      "fingerprint": "7e9bc19661b1f6dee0c21c45c7511e86d52cd568c29ebabae90fc224554076b5",
+      "revision": 1
     },
     "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/ottawa-canada/firmware-engineer-intern---winter-2027_2604738": {
       "eligible": false,
@@ -41548,7 +41538,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "ragle inc",
+        "company": "ragle",
         "degrees": [
           "bachelor's",
           "master's"
@@ -41562,8 +41552,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "20909a9fccf16c8189848a5482aaab2fdf206143f1a00caff7d9e8ef26cd193d",
-      "revision": 0
+      "fingerprint": "0abece30aa0ffc7b51524b5184622b54be5b7b259dbf22f09289a8840254d690",
+      "revision": 1
     },
     "url:https://rb.wd5.myworkdayjobs.com/frs/job/atlanta-ga/xmlname-2027-summer-internship-program---community-and-economic-development-intern_r-0000033895": {
       "eligible": true,
@@ -42901,6 +42891,11 @@
       "fingerprint": "26abdce21cbfdedbfc6349b888f5f7fb6933f1423dc5ed5df921acbe2c6263b7",
       "revision": 0
     },
+    "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/ai-labs-summer-internship--emerging-talent_jr366248": {
+      "eligible": false,
+      "fingerprint": "0499c0a310e8f3ea09f18bd0ce6349b0f053443af79b4e337cc6d69571fce724",
+      "revision": 1
+    },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911-1": {
       "eligible": true,
       "evidence": {
@@ -43188,8 +43183,8 @@
     },
     "url:https://selinc.wd1.myworkdayjobs.com/sel/job/washington---pullman/software-engineer-intern_2026-24190": {
       "eligible": false,
-      "fingerprint": "f185c95a51d9594529e75eec6b6509c5b45973fc9a1d5d81043fbce97607b6ed",
-      "revision": 2
+      "fingerprint": "7455626d25da32f21df3c96a153d4dd9039e3d76f360a667f29108c1e62b4948",
+      "revision": 3
     },
     "url:https://selinc.wd1.myworkdayjobs.com/sel/job/washington---spokane-valley/software-engineer-intern_2026-21231": {
       "eligible": true,
@@ -43370,6 +43365,24 @@
       },
       "fingerprint": "8377536a3dfae44b2f0811482f9ca444071fe7ec5ce0678660dc772878aa101a",
       "revision": 0
+    },
+    "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/folsom-ca/firmware-engineering-intern_r0031219": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "sierra nevada corporation",
+        "degrees": [],
+        "locations": [
+          "folsom, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "firmware engineering intern"
+      },
+      "fingerprint": "e6c35b25d9622e6688afdaa57ecf150fc37f56e7e18fe776854dcedf75d17243",
+      "revision": 1
     },
     "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/folsom-ca/software-engineering-intern--summer-2027-_r0030761-1": {
       "eligible": true,
@@ -48961,6 +48974,7 @@
     "https://go.vansh.nyc/105": 3,
     "https://go.vansh.nyc/106": 3,
     "https://go.vansh.nyc/109": 4,
+    "https://go.vansh.nyc/10G": 23,
     "https://go.vansh.nyc/10k": 8,
     "https://go.vansh.nyc/10l": 8,
     "https://go.vansh.nyc/10o": 9,
@@ -49630,6 +49644,7 @@
     "https://go.vansh.nyc/105": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123",
     "https://go.vansh.nyc/106": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181",
     "https://go.vansh.nyc/109": "https://apply.workable.com/waggoner-financial/j/FA0B644142",
+    "https://go.vansh.nyc/10G": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219",
     "https://go.vansh.nyc/10k": "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471",
     "https://go.vansh.nyc/10l": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
     "https://go.vansh.nyc/10o": "https://jobs.nvidia.com/careers/job/893398073452",
@@ -50295,7 +50310,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 22,
+  "scan_sequence": 23,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
