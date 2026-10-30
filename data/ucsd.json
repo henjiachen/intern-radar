@@ -9438,27 +9438,9 @@
       "revision": 0
     },
     "url:https://careers.qorvo.com/job/greensboro-digital-systems-engineering-intern-nc-27409/1432264400?ats=successfactors": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "qorvo",
-        "degrees": [
-          "bachelor's",
-          "master's",
-          "phd"
-        ],
-        "locations": [
-          "greensboro, nc"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "digital systems engineer intern"
-      },
-      "fingerprint": "a6277077dd468c6201b75b0012464ae9cd70c5dbcae3971f01c3c87d63b0e078",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "3c6b3dc0473107eba176e301c4b87b98c523e1e8df97317edf0890a0e8031d51",
+      "revision": 2
     },
     "url:https://careers.qorvo.com/job/greensboro-software-engineering-intern,-swr-nc-27409/1421982000?ats=successfactors": {
       "eligible": false,
@@ -13787,6 +13769,11 @@
       "fingerprint": "e3df9edb559f47da9817040832fe80e706f2ea0d18b5750f7dbf6fd73eb53370",
       "revision": 0
     },
+    "url:https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004": {
+      "eligible": false,
+      "fingerprint": "d03765b81c0f1831ee4f8aed256b73c722e1318f21817572a3269977cd8a477a",
+      "revision": 1
+    },
     "url:https://epyc.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/167672": {
       "eligible": true,
       "evidence": {
@@ -17344,8 +17331,8 @@
     },
     "url:https://go.vansh.nyc/10a": {
       "eligible": false,
-      "fingerprint": "c21b19b2a0d233208176f5dba58415395ebf74ff97bae444c473756c65f4a4a4",
-      "revision": 1
+      "fingerprint": "5dde97c8e955cff4d5933cc055bc21a2c5a4729f16f35eb834d09c45e9e61679",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/10n": {
       "eligible": false,
@@ -43726,6 +43713,26 @@
       "fingerprint": "ad4fad6b5860fd9da1729287aac8522047161d3d9b66779e52a15633d5c57711",
       "revision": 0
     },
+    "url:https://stripe.com/jobs/search?gh_jid=8328662": {
+      "eligible": false,
+      "fingerprint": "2331e62dcc0bd6cef06d4803472a364cb327d11eae693ad92936a5e2feed8366",
+      "revision": 1
+    },
+    "url:https://stripe.com/jobs/search?gh_jid=8328664": {
+      "eligible": false,
+      "fingerprint": "39d5b4070033f482e38bac861495d2b66d41629b17aa9006aa461b72ee797005",
+      "revision": 1
+    },
+    "url:https://stripe.com/jobs/search?gh_jid=8333074": {
+      "eligible": false,
+      "fingerprint": "5eca9762b3f5450e0dbe0d30cb1d03027d68df67582284f07a5970a514336922",
+      "revision": 1
+    },
+    "url:https://stripe.com/jobs/search?gh_jid=8333122": {
+      "eligible": false,
+      "fingerprint": "c7179b983b40f941a90f0382fb32910fbe7f95c804032bfc7224484b5aa417df",
+      "revision": 1
+    },
     "url:https://stryker.wd1.myworkdayjobs.com/strykercareers/job/cary-illinois/customer-one-intern--data-analyst----cary--il_r572734": {
       "eligible": false,
       "fingerprint": "16ecb0fbb8f2d42a10074af73b606ed94bf0573a2a589605fc700aa7f6807548",
@@ -46315,6 +46322,25 @@
       "eligible": false,
       "fingerprint": "045234a06d7e1fd6fafd4045874b88b2d6fb3dae969c813dcf221464bb66ae53",
       "revision": 0
+    },
+    "url:https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/software-engineer-intern_r22585": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "wex",
+        "degrees": [],
+        "locations": [
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "38278c288a6bed2e20a10f573b87a2c2faacb99b5f3daf091a6cffa4c377e445",
+      "revision": 1
     },
     "url:https://wgu.wd5.myworkdayjobs.com/external/job/salt-lake-city-ut/intern---technical-writing_jr-026370": {
       "eligible": false,
@@ -48943,6 +48969,7 @@
     "https://go.vansh.nyc/10t": 19,
     "https://go.vansh.nyc/10w": 21,
     "https://go.vansh.nyc/10y": 21,
+    "https://go.vansh.nyc/10z": 22,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -49611,6 +49638,7 @@
     "https://go.vansh.nyc/10t": "https://careers.mitre.org/us/en/job/R117661/Data-Science-and-Engineering-Intern",
     "https://go.vansh.nyc/10w": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1",
     "https://go.vansh.nyc/10y": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
+    "https://go.vansh.nyc/10z": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern_R22585",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -50267,7 +50295,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 21,
+  "scan_sequence": 22,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
