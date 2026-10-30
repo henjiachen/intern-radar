@@ -26925,9 +26925,11 @@
     "url:https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "voyager technologies",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "long beach, ca"
         ],
@@ -26935,10 +26937,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "software engineer intern"
       },
-      "fingerprint": "7f26584df4894251722267decfb8e54bdb2f0a4f291568116be38b93f84646c4",
-      "revision": 1
+      "fingerprint": "49167de3b6957f24d7ec4a47a3b6947fb4c9adfdfbe613e7230a8377ce6404fc",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/wfclainc/jobs/6226220004": {
       "eligible": false,
@@ -33899,6 +33901,11 @@
       "eligible": false,
       "fingerprint": "6133a19cbd4dc7e0f716d87706f4ed719022e746624b58883a348574a375afb3",
       "revision": 0
+    },
+    "url:https://jobs.smartrecruiters.com/infinitequant/744000147163879": {
+      "eligible": false,
+      "fingerprint": "ac48c6d4c443cfe22aad059cbfe31173bac728a0cf806daface1753752b75c0a",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/interco/744000158581114": {
       "eligible": true,
@@ -50120,7 +50127,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 14,
+  "scan_sequence": 15,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

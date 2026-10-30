@@ -1971,21 +1971,6 @@
       "company": "American Express",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "5ea238002ad49fc8f89cadd7561fb25eff74490335f79b50fe4dfd137cc1296f",
-      "locations": [
-        "Sunrise, FL"
-      ],
-      "posted_at": "2026-09-01",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Engineer Intern - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831"
-    },
-    {
-      "company": "American Express",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "ebe12304efb09fe786e9c0bf5109e07dacb010ec778d83bfdb22e8406d2f59ce",
       "locations": [
         "Phoenix, AZ"
@@ -2463,6 +2448,21 @@
       "source": "simplify",
       "title": "IT / AI Engineer Intern",
       "url": "https://jobs.aon.com/jobs/110099?icims=1"
+    },
+    {
+      "company": "APEX Analytix",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "68deaf4d474cb53dca1d677284271d317400eb0e08ddd0888f16ed20660ed381",
+      "locations": [
+        "Greensboro, NC"
+      ],
+      "posted_at": "2026-09-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Automation Developer Intern",
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7"
     },
     {
       "company": "APEX Analytix",
@@ -6381,21 +6381,6 @@
       "company": "CoStar Group",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "0d683fb30580e2c73d407a5cde8e67b42feefa67d8876e94383fb4c4c1ab2890",
-      "locations": [
-        "Irvine, CA"
-      ],
-      "posted_at": "2026-09-16",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Technology Intern",
-      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673"
-    },
-    {
-      "company": "CoStar Group",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "cdd963a6f0e6d8d4857458c4ef8946afb1b85c8dd26f711eebae5cf4a05319e9",
       "locations": [
         "Sunnyvale, CA"
@@ -7579,6 +7564,21 @@
       "source": "simplify",
       "title": "AI Consulting Associate Program Product Owner Intern",
       "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003"
+    },
+    {
+      "company": "DriveWealth",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c4f1473e2c433edddae460949ddda13f43d8983045d6e26e94ea9914d56f0d41",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-10-20",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Consulting Associate Program Product Owner Intern",
+      "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true"
     },
     {
       "company": "DriveWealth",
@@ -15998,21 +15998,6 @@
       "source": "simplify",
       "title": "Sales AI & Analytics Developer Intern",
       "url": "https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors"
-    },
-    {
-      "company": "Newmont",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "06f48757c3456861cecb86171369333d0f62965df3eb8afc68d076d641577c09",
-      "locations": [
-        "Denver, CO"
-      ],
-      "posted_at": "2026-10-30",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Resource Modeling Intern",
-      "url": "https://jobs.newmont.com/us/en/job/45053"
     },
     {
       "company": "Newrez",
@@ -24696,8 +24681,8 @@
       "posted_at": "2026-09-28",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009"
     },
     {
@@ -25643,7 +25628,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-30T09:11:47.864629+00:00",
+  "last_checked": "2026-10-30T10:04:26.948707+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
