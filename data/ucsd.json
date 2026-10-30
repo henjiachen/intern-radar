@@ -10422,23 +10422,9 @@
       "revision": 0
     },
     "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/ai-engineer-intern--undergraduate---summer-2027-_1667739": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "centene corporation",
-        "degrees": [],
-        "locations": [
-          "missouri",
-          "united states"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "ai engineer intern"
-      },
-      "fingerprint": "b1755e9881a6ae6794d6031ae3ef5481ba87d3f2ada0f304ec38b01990a49076",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "3664f6dde0812ba5831805abf4545e22693006201f72dc0a924f6257955b2d7c",
+      "revision": 3
     },
     "url:https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/business-technical-analyst-undergraduate-summer-intern_1667829": {
       "eligible": false,
@@ -28275,25 +28261,24 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "kastle ai",
+        "company": "kastle",
         "degrees": [
           "bachelor's",
           "bootcamp",
           "master's"
         ],
         "locations": [
-          "san francisco, ca",
-          "sf"
+          "san francisco, ca"
         ],
         "requirements": [],
         "terms": [
           "summer 2026",
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineer - intern"
       },
-      "fingerprint": "4c79e982f168cfd01f1ca0a1e0deaa3c16796569f519b77b803a8a6eb802cf7a",
-      "revision": 1
+      "fingerprint": "fd995e188fe26d1ebf34dc17e0218f7f48ccd21dc2665f45da0ea08454d24a07",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5": {
       "eligible": false,
@@ -49953,7 +49938,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 10,
+  "scan_sequence": 11,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
