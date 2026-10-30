@@ -37,6 +37,21 @@
       "company": "NVIDIA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "154b8519884188556032981094bfc70b4f7c49926385df01968c4b00dcc4e0a2",
+      "locations": [
+        "Austin, TX"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 7,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Systems Software Engineering Intern",
+      "url": "https://jobs.nvidia.com/careers/job/893398073452"
+    },
+    {
+      "company": "NVIDIA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "a6c41fc1ba52237ac2e8a314ea3ce39456cb53e83648e06d287e0b23655af31d",
       "locations": [
         "Redmond, WA"
@@ -47,6 +62,21 @@
       "source": "simplify",
       "title": "Compiler Software Engineer Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607"
+    },
+    {
+      "company": "NVIDIA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "afbf21c3eb7004c1b88aaf79684149d43ec7daa4da7afd3510001d56014fd910",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 7,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Compiler Software Engineering Intern",
+      "url": "https://jobs.nvidia.com/careers/job/893398311676"
     },
     {
       "company": "NVIDIA",
@@ -15034,21 +15064,6 @@
       "company": "Micron Technology",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "aa450e73e63871910aca7644591ac58cdf0b7c76fa5b046eb878557d90b565c9",
-      "locations": [
-        "Boise, ID"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineering-Intern_JR115959"
-    },
-    {
-      "company": "Micron Technology",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "caecfcf9afa79d70a5380c03afcc7bb745b4a516810355c9a8ffcc12bb2d6361",
       "locations": [
         "Boise, ID"
@@ -25673,7 +25688,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-30T03:01:31.562189+00:00",
+  "last_checked": "2026-10-30T04:01:47.957623+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

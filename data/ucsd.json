@@ -17273,6 +17273,16 @@
       "fingerprint": "c21b19b2a0d233208176f5dba58415395ebf74ff97bae444c473756c65f4a4a4",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/10n": {
+      "eligible": false,
+      "fingerprint": "94f4864c605055f47de08f43dbfdfe7b81cdc53eb16b0c117094a144100f7552",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/10q": {
+      "eligible": false,
+      "fingerprint": "2e36b9cda53e5d017022006866281f6b9171b58325b5db6af6303c2dc7588388",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/13": {
       "eligible": false,
       "fingerprint": "2dba11eb18e973b04eec563e905fa22ff1d46d8b859d9615ade33e796384bd13",
@@ -33256,6 +33266,42 @@
       "fingerprint": "7cb0fb9ff7915b062838b403f78c30e76cdc2ad964047631bf5c10def028a8d5",
       "revision": 1
     },
+    "url:https://jobs.nvidia.com/careers/job/893398073452": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nvidia",
+        "degrees": [],
+        "locations": [
+          "austin, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai systems software engineering intern"
+      },
+      "fingerprint": "fb2abfa51d6dc434a7ff98cf157cb5bd67f34e89dbae981959b0f9b38d2bf54a",
+      "revision": 1
+    },
+    "url:https://jobs.nvidia.com/careers/job/893398311676": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nvidia",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "compiler software engineering intern"
+      },
+      "fingerprint": "1c294260df11e8e900d79331dd13326fa1e7a821fa5be263676a7be964787363",
+      "revision": 1
+    },
     "url:https://jobs.paccar.com/job/kirkland-summer-2027-application-developer-intern-(oh)-wa-98033/1451927133?ats=successfactors": {
       "eligible": true,
       "evidence": {
@@ -38831,26 +38877,9 @@
       "revision": 0
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---sig-building/embedded-software-engineering-intern_jr115959": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "micron technology",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "boise, id"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "embedded software engineer intern"
-      },
-      "fingerprint": "287ded09584096fdf849d3728fa0bfc9dd93e5f3eeeb705717bfa74eeb6105de",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "c329f010f3a70f4b9bd40c0a38d04419d9d6b9126ecc5f139ff447f59941f06e",
+      "revision": 2
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/longmont-max--office-co/intern---data-center-ssd-firmware_jr111461": {
       "eligible": false,
@@ -48602,6 +48631,8 @@
     "https://go.vansh.nyc/109": 4,
     "https://go.vansh.nyc/10k": 8,
     "https://go.vansh.nyc/10l": 8,
+    "https://go.vansh.nyc/10o": 9,
+    "https://go.vansh.nyc/10p": 9,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -49264,6 +49295,8 @@
     "https://go.vansh.nyc/109": "https://apply.workable.com/waggoner-financial/j/FA0B644142",
     "https://go.vansh.nyc/10k": "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471",
     "https://go.vansh.nyc/10l": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
+    "https://go.vansh.nyc/10o": "https://jobs.nvidia.com/careers/job/893398073452",
+    "https://go.vansh.nyc/10p": "https://jobs.nvidia.com/careers/job/893398311676",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -49920,7 +49953,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 8,
+  "scan_sequence": 9,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
