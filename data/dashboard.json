@@ -15097,6 +15097,21 @@
       "company": "MITRE",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "c3102b3de9ad6da971da5618d09471f7c2b4ecc2bf3713e46f775548c2a8e4cd",
+      "locations": [
+        "McLean, VA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data Science and Engineering Intern",
+      "url": "https://careers.mitre.org/us/en/job/R117661/Data-Science-and-Engineering-Intern"
+    },
+    {
+      "company": "MITRE",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "95ed156df6da96c80080ed82108881671490218bcda013a76d0050e2ec7078c0",
       "locations": [
         "McLean, VA"
@@ -17069,36 +17084,6 @@
       "source": "simplify",
       "title": "Digital Development Intern",
       "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155"
-    },
-    {
-      "company": "Path Robotics",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "74bd418a6c7d94221eda61563482774df96e48849667d58848ae2f3457b62cbb",
-      "locations": [
-        "Columbus, OH"
-      ],
-      "posted_at": "2026-10-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Machine Learning & Robotics Intern",
-      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8924241002"
-    },
-    {
-      "company": "Path Robotics",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "fa29e0f1bed22749c3605303f609b1dabb2c556a23ca7b99af2c05bc9a7fb81f",
-      "locations": [
-        "Columbus, OH"
-      ],
-      "posted_at": "2026-10-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Machine Learning & Robotics Intern",
-      "url": "https://go.vansh.nyc/ZJ"
     },
     {
       "company": "Patreon",
@@ -19960,12 +19945,12 @@
       "locations": [
         "Westfield, IN"
       ],
-      "posted_at": "2026-09-14",
+      "posted_at": "2026-09-11",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply"
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Summer 2027 - In person",
+      "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178"
     },
     {
       "company": "ServiceNow",
@@ -25643,7 +25628,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-30T13:12:06.578632+00:00",
+  "last_checked": "2026-10-30T14:12:35.223926+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

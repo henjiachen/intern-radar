@@ -9108,6 +9108,24 @@
       "fingerprint": "2b4f3c2fd6890856695cf9ca27b3e6d27750988673e0d2129da3fb11e3ee6267",
       "revision": 0
     },
+    "url:https://careers.mitre.org/us/en/job/r117661/data-science-and-engineering-intern": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "mitre",
+        "degrees": [],
+        "locations": [
+          "mclean, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science and engineering intern"
+      },
+      "fingerprint": "52e507fa60d4ec28de1e96c9db5ba8183d2c00228daf29fd2d31fb77b4aa8597",
+      "revision": 1
+    },
     "url:https://careers.mitre.org/us/en/job/r117833/trustworthy-ai-intern": {
       "eligible": true,
       "evidence": {
@@ -10132,8 +10150,8 @@
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8248060": {
       "eligible": false,
-      "fingerprint": "0529df30d3bbf16025cfd271c1120213104c56c4a8ea447800e64bb5e6350405",
-      "revision": 0
+      "fingerprint": "4b4f0534ee6b40284aaa9c1852ba874f10a0a7fc9c02dd8b872264424464d2bf",
+      "revision": 1
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8250220": {
       "eligible": false,
@@ -33082,10 +33100,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern - summer 2027 - in person"
       },
-      "fingerprint": "e8328195c65813501a22a7f6c9fe60ec752145d573aa4c6539dcb8519883326d",
-      "revision": 0
+      "fingerprint": "621d9c02f7407b1d71e71d00e48840f6a56f3152fadbbaced9de5dad58f679ae",
+      "revision": 1
     },
     "url:https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010": {
       "eligible": true,
@@ -48826,6 +48844,7 @@
     "https://go.vansh.nyc/10o": 9,
     "https://go.vansh.nyc/10p": 9,
     "https://go.vansh.nyc/10r": 18,
+    "https://go.vansh.nyc/10t": 19,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -49491,6 +49510,7 @@
     "https://go.vansh.nyc/10o": "https://jobs.nvidia.com/careers/job/893398073452",
     "https://go.vansh.nyc/10p": "https://jobs.nvidia.com/careers/job/893398311676",
     "https://go.vansh.nyc/10r": "https://careers.mitre.org/us/en/job/R117833/Trustworthy-AI-Intern",
+    "https://go.vansh.nyc/10t": "https://careers.mitre.org/us/en/job/R117661/Data-Science-and-Engineering-Intern",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -50147,7 +50167,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 18,
+  "scan_sequence": 19,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
