@@ -23473,6 +23473,7 @@
         ],
         "locations": [
           "arlington county, arlington, va",
+          "arlington, va",
           "seattle, wa"
         ],
         "requirements": [],
@@ -23481,8 +23482,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "c0da0a37d48830a3f0d798e8162ce9d1a8baa2ff8b1cc3d15d4829d8aea38d0f",
-      "revision": 1
+      "fingerprint": "23ef5c14535a3fabbc5588678244d34fbd954d66c583e66933dbd540ddf5dfc4",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/baidu/jobs/8197142": {
       "eligible": false,
@@ -48599,6 +48600,8 @@
     "https://go.vansh.nyc/105": 3,
     "https://go.vansh.nyc/106": 3,
     "https://go.vansh.nyc/109": 4,
+    "https://go.vansh.nyc/10k": 8,
+    "https://go.vansh.nyc/10l": 8,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -49259,6 +49262,8 @@
     "https://go.vansh.nyc/105": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123",
     "https://go.vansh.nyc/106": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Full-Stack-AI-Development-Intern-1_R14181",
     "https://go.vansh.nyc/109": "https://apply.workable.com/waggoner-financial/j/FA0B644142",
+    "https://go.vansh.nyc/10k": "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471",
+    "https://go.vansh.nyc/10l": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -49915,7 +49920,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 7,
+  "scan_sequence": 8,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
