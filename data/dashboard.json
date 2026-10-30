@@ -1102,7 +1102,7 @@
       "url": "https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors"
     },
     {
-      "company": "AiDASH",
+      "company": "AiDash",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
       "id": "82e57b64246fd4f74a082ba9691e6a18ed1b3707a6975911e67921f9fc8034bc",
@@ -1112,8 +1112,8 @@
       "posted_at": "2026-10-16",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern, Backend",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Backend",
       "url": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009"
     },
     {
@@ -2654,6 +2654,21 @@
       "source": "simplify",
       "title": "Industrial Engineering Intern",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710"
+    },
+    {
+      "company": "Applied Materials",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2ecc1a3d70af9206484c4aa5d629cb1e241ce8178d8237f13df663dda1816c31",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "posted_at": "2026-10-20",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672"
     },
     {
       "company": "Aptiv",
@@ -4560,6 +4575,21 @@
       "source": "vanshb03",
       "title": "Software & Systems Testing Engineering Intern",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813862694"
+    },
+    {
+      "company": "Boston Scientific",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c22db11fcf6de52c7470514deb34cd01e67e04ea87db6f5b495304421deac28d",
+      "locations": [
+        "Waltham, MA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Test Engineer Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813568250"
     },
     {
       "company": "Brain Co.",
@@ -8774,6 +8804,36 @@
       "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810"
     },
     {
+      "company": "Farmers Mutual Hail",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5d013caab508a423c2009b322361e7033079ec852f515b04b24d6826301bbe66",
+      "locations": [
+        "West Des Moines, IA"
+      ],
+      "posted_at": "2026-10-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Architect Intern",
+      "url": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009"
+    },
+    {
+      "company": "Farmers Mutual Hail",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "dc4e96a15cc98c02c5b495c703c5c420f3fc04a7a4e404adf78e91bd7889fce0",
+      "locations": [
+        "West Des Moines, IA"
+      ],
+      "posted_at": "2026-09-11",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4403596009"
+    },
+    {
       "company": "Federal Home Loan Bank of Indianapolis",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -10121,6 +10181,36 @@
       "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
     },
     {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171565?type=students"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/171553?type=students"
+    },
+    {
       "company": "Gordon Food Service",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -10851,8 +10941,8 @@
       "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
       "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146"
     },
     {
@@ -12163,6 +12253,21 @@
       "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133"
     },
     {
+      "company": "Hyster-Yale Materials Handling",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "47b21b2e51f14006b1d620291260da12b4e0eb78504d92744df1bc2d4501cf3a",
+      "locations": [
+        "Greenville, NC"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Business Analytics Intern",
+      "url": "https://hysteryale.wd1.myworkdayjobs.com/hyster-yalecareers/job/HY-US-Greenville-NC-Headquarters/Summer-2027-Business-Analytics-Intern_R8539"
+    },
+    {
       "company": "IAT Insurance Group",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -13150,6 +13255,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158"
+    },
+    {
+      "company": "John D. and Catherine T. MacArthur Foundation",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "6a84bd09dbb4752bd385bb9616560fe8b49eb47558689bb28bb8ceb6f2b053d2",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Evaluation & Learning Intern",
+      "url": "https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Evaluation---Learning-Intern---Summer-2027_REQ-000362"
     },
     {
       "company": "John Deere",
@@ -15269,6 +15389,21 @@
       "source": "vanshb03",
       "title": "Trustworthy AI Intern",
       "url": "https://careers.mitre.org/us/en/job/R117833/Trustworthy-AI-Intern"
+    },
+    {
+      "company": "Molina Healthcare",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ca9c2c7972a272368290e58e6f13c0205bcb94845d914e7988800a5cd2ac2013",
+      "locations": [
+        "Remote in USA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Customer Experience & Analytics Intern - Undergraduate",
+      "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169"
     },
     {
       "company": "Momentive",
@@ -20773,6 +20908,21 @@
       "url": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004"
     },
     {
+      "company": "Strada Education Foundation",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "83253cb30e2e68fbf2e46714ba69f1423ce7e92633ae2ad19704738ddcc999cc",
+      "locations": [
+        "Washington, DC"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Clear Outcomes and Data Science Intern",
+      "url": "https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply"
+    },
+    {
       "company": "Stratolaunch",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -21497,20 +21647,48 @@
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949"
     },
     {
-      "company": "The Aerospace Corporation",
+      "company": "The Boeing Company",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "f5e2da386ceca286782feeacfe1c6dfdd4d2997242feb75e84c17c44214b0d89",
+      "id": "9aa585b2bb59d460135ead87836db0417e57b1e0b3a8f69cbcdad0f5929f90ee",
       "locations": [
-        "Chantilly, VA",
+        "Ridley Park, PA",
+        "Seattle, WA",
+        "Long Beach, CA",
+        "Mesa, AZ",
+        "Colorado Springs, CO",
+        "Renton, WA",
+        "Dallas, TX",
+        "Fairfax, VA",
+        "Plano, TX",
+        "Chicago, IL",
+        "Seal Beach, CA",
+        "Tukwila, WA",
+        "St Charles, MO",
+        "San Antonio, TX",
+        "Arlington County, Arlington, VA",
+        "Everett, WA",
+        "Berkeley, MO",
+        "Auburn, WA",
+        "Oklahoma City, OK",
+        "Kent, WA",
+        "Charleston, SC",
+        "Bellevue, WA",
+        "Herndon, VA",
+        "Atlanta, GA",
+        "Huntsville, AL",
+        "North Charleston, SC",
+        "Huntington Beach, CA",
+        "Hazelwood, MO",
+        "Mukilteo, WA",
         "El Segundo, CA"
       ],
-      "posted_at": "2026-10-07",
+      "posted_at": "2026-08-03",
       "priority": 11,
       "priority_program": false,
       "source": "simplify",
-      "title": "Embedded Systems / Software Engineer Intern",
-      "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804"
+      "title": "Data Analytics Intern",
+      "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976"
     },
     {
       "company": "The Brattle Group",
@@ -24006,6 +24184,21 @@
       "url": "https://jobs.uhsinc.com/jobs/367247?icims=1"
     },
     {
+      "company": "University of Miami",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "b451f92cf590933d2e530a195bac9fafeb02461d2281df4e762cafb9d6be2756",
+      "locations": [
+        "Miami, FL"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Science & AI Intern",
+      "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102549"
+    },
+    {
       "company": "Ursa Major",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -24792,14 +24985,13 @@
       "graduation_status": "unknown",
       "id": "cd98006da04fa825558ec3ecea35004b69d46bd3280f600e6741692e516762fc",
       "locations": [
-        "Remote",
-        "United States"
+        "Remote in USA"
       ],
       "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Agentic & Machine Learning Development Intern, AI",
+      "source": "simplify",
+      "title": "AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development",
       "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072"
     },
     {
@@ -25745,7 +25937,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-30T22:51:35.826569+00:00",
+  "last_checked": "2026-10-30T23:49:30.282998+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
