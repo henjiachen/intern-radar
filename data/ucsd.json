@@ -44903,7 +44903,6 @@
         "company": "salesforce",
         "degrees": [],
         "locations": [
-          "2 locations",
           "san francisco, ca",
           "seattle, wa"
         ],
@@ -44913,8 +44912,8 @@
         ],
         "title": "ai labs intern, emerging talent"
       },
-      "fingerprint": "8bfd28a24c738a851b53d0adabda6f77c0a9262bd497b5d59a703a766cc993f9",
-      "revision": 2
+      "fingerprint": "0abb4cc2178ae5582d688e32193326b632309efd57623039476b623777e2adc7",
+      "revision": 3
     },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911-1": {
       "eligible": true,
@@ -52693,7 +52692,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 51,
+  "scan_sequence": 52,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
