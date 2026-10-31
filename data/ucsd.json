@@ -129,6 +129,11 @@
       "fingerprint": "4821d95c1da615fe36e617d19670a44c745297f9e980fcee985fc5d58f501ca8",
       "revision": 0
     },
+    "url:https://a16z.com/about/jobs?gh_jid=8046730003": {
+      "eligible": false,
+      "fingerprint": "595ee53882d3a1717d749ae97f1668bdde361fd02bc484b6e54a45e60b48d5a4",
+      "revision": 1
+    },
     "url:https://aaaie.wd1.myworkdayjobs.com/csaacareers2/job/arizona---home-teleworkers/data-science-intern_r8002": {
       "eligible": true,
       "evidence": {
@@ -469,9 +474,20 @@
       "revision": 0
     },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/chantilly-va/xmlname-2027-embedded-systems---software-engineering-undergrad-intern_r016804": {
-      "eligible": false,
-      "fingerprint": "2e569c8d848b97b2ad43b23dd9d30d8c4a8d78ed9f41a92430dc203e128f8246",
-      "revision": 3
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "aerospace",
+        "degrees": [],
+        "locations": [
+          "chantilly, va +1"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "2027 embedded systems / software engineering undergrad intern"
+      },
+      "fingerprint": "5d62c3927c22b9f76b01214eaf0efba274742ed997ce3d7f3d858b4bdfbba8f0",
+      "revision": 4
     },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/chantilly-va/xmlname-2027-software-engineering-grad-intern_r016759": {
       "eligible": false,
@@ -24104,18 +24120,16 @@
           "bachelor's"
         ],
         "locations": [
-          "arlington county, arlington, va",
-          "seattle, wa",
           "seattle, wa +1"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "2027 us software engineering internship - dedrone"
       },
-      "fingerprint": "55c356a466aec31cf574258dbaf3c409134c884fe211adae2aee10ec4f4d69dd",
-      "revision": 4
+      "fingerprint": "0ac28b22a1a80724dbddafa5e47a53c132b8cdba661060450fe8ef0c06922f6e",
+      "revision": 5
     },
     "url:https://job-boards.greenhouse.io/baidu/jobs/8197142": {
       "eligible": false,
@@ -24470,6 +24484,24 @@
       "eligible": false,
       "fingerprint": "87f2271366b98bae4e0c8f81d61c93aaef78b183b7734a7fcdf39755850a3306",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/divergent/jobs/5393519008": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "divergent technologies",
+        "degrees": [],
+        "locations": [
+          "torrance, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "business intelligence intern"
+      },
+      "fingerprint": "dfb6ee30a8b8614b0bf7f7de27571581ad500d5543645bf77fa008f8e2c9a2bc",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/docugami/jobs/4014838003": {
       "eligible": false,
@@ -33066,10 +33098,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "scientific software engineer intern"
+        "title": "intern - scientific software engineer - summer 2027"
       },
-      "fingerprint": "e9237f4454e143ac17d8b801c66f82e18255966b5b7dccfa378e2c3c2c0be260",
-      "revision": 0
+      "fingerprint": "1df76dc4a985365743bc75e7b9c8a0b02139fd75d3d8b66e07d5b17722bf953a",
+      "revision": 1
     },
     "url:https://jobs.lever.co/colibrigroup/dda06cac-4ba7-4291-bcdc-6b6873c98488": {
       "eligible": false,
@@ -33144,20 +33176,24 @@
     "url:https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "firework",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "san mateo, ca"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "data engineer intern"
       },
-      "fingerprint": "f46c2abfc615bf1d9e1fd73fa2924f94ce57b44b83ccecb9b6cfc4c515968742",
-      "revision": 1
+      "fingerprint": "5e56c488d5b184585fc7c548a6e166a2ad99613adf64b28ca51967a82bf5fd01",
+      "revision": 2
     },
     "url:https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70": {
       "eligible": true,
@@ -41089,18 +41125,25 @@
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning-computer-architecture_jr2023491": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "nvidia",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
         "locations": [
+          "santa clara, ca",
           "us, ca, santa clara"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "nvidia 2027 internships: deep learning computer architecture"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "deep learning computer architecture intern"
       },
-      "fingerprint": "6c3c4ee7a365288553f43fa670e7cdf957e8d1cf647e6b8511f294eb8d39c75d",
-      "revision": 0
+      "fingerprint": "19ddc534ba6c591699e61c28e4ac0f36d56f30d8ba7c066679a703898edd0e23",
+      "revision": 1
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--software-engineering_jr2023495": {
       "eligible": true,
@@ -41133,8 +41176,8 @@
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-spring-2027-internships--developer-and-performance-technology_jr2023499": {
       "eligible": false,
-      "fingerprint": "edcf289c2f45978cd0a0ba3376c200f322ed805489d7f7b8188918aaef6d4f53",
-      "revision": 2
+      "fingerprint": "9febf0c3fb3d65cb99be9ec23ca8c6071c89eaa2873c8e09ae647c6c89091b92",
+      "revision": 3
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--ai-accelerator-design-and-vlsi---2027_jr2026584-1": {
       "eligible": false,
@@ -48693,6 +48736,11 @@
       "fingerprint": "a12a6c85453449d352ac4cda4e6a63775eb5fb23c8da05d39c1e98412f9ed40c",
       "revision": 0
     },
+    "url:https://www.metacareers.com/jobs/1553890293163197": {
+      "eligible": false,
+      "fingerprint": "d7580402bce63194e7bd24d12aabe182b79d0bc3917a4331e497f761a678978d",
+      "revision": 1
+    },
     "url:https://www.metacareers.com/jobs/1567168005156007": {
       "eligible": false,
       "fingerprint": "a9ae7f0c94004484ab358a795470381796d9b4bbdea61d7629ddd9aa48da6fc6",
@@ -51476,7 +51524,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 30,
+  "scan_sequence": 31,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
