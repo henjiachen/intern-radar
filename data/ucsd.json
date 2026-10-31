@@ -12658,6 +12658,11 @@
       "fingerprint": "98216f6cdb99b2068daf2d30ba432e570413ba45264b74d382cfe84f5290a8e7",
       "revision": 2
     },
+    "url:https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/nyc---1211-ave-of-the-americas/summer-2027-internship-program---subscription-experimentation-intern_job_req_55879": {
+      "eligible": false,
+      "fingerprint": "e7baa1893f50eec5dd45b12e25e20ef91aeee7c6578dbe2d9a935ce202ab8d22",
+      "revision": 1
+    },
     "url:https://draftkings.wd1.myworkdayjobs.com/campus_career_portal/job/boston-ma/analyst-intern--summer-2027-_jr14927": {
       "eligible": true,
       "evidence": {
@@ -17534,7 +17539,7 @@
       "eligible": true,
       "evidence": {
         "category": "hardware",
-        "company": "rtx",
+        "company": "raytheon",
         "degrees": [
           "bachelor's",
           "master's",
@@ -17547,10 +17552,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "embedded software engineer intern"
+        "title": "embedded software engineering intern - summer 2027"
       },
-      "fingerprint": "3c5b14a06869154c32714c93e6874689b063c90b67408ddf94d4390a7b651236",
-      "revision": 0
+      "fingerprint": "21b0e9de4150ecf7e20fd857cb3749927fc4c5ad88d2d9d39cb9f16707c2a8a1",
+      "revision": 1
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-san-diego-sd1--8650-balboa-ave--san-antonio-bldg/software-engineering--intern--summer-2027-_01884532": {
       "eligible": true,
@@ -18016,6 +18021,11 @@
     "url:https://go.vansh.nyc/11s": {
       "eligible": false,
       "fingerprint": "34400478795a787ad98fc6c791273afe0cf271f3b229e995a07ff79ef59595f6",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/12i": {
+      "eligible": false,
+      "fingerprint": "2bd02fd3861081cc3e7f7e5623623974dbc8ee302e18f3f87bc0b302686cd9e4",
       "revision": 1
     },
     "url:https://go.vansh.nyc/13": {
@@ -34740,6 +34750,42 @@
       "fingerprint": "eb78ed162c3ad0621e4415a6c15dac326fe871ff2b5ba53778a7345af1e37622",
       "revision": 1
     },
+    "url:https://jobs.nvidia.com/careers/job/893397026205": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nvidia",
+        "degrees": [],
+        "locations": [
+          "santa clara, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "5a1abcc8587ab24198e95f258a43dc11017bf1a4b0a10aab9aa605a4d0988fd2",
+      "revision": 1
+    },
+    "url:https://jobs.nvidia.com/careers/job/893397026226": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nvidia",
+        "degrees": [],
+        "locations": [
+          "santa clara, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "autonomous vehicles and robotics intern"
+      },
+      "fingerprint": "972fe3cb1cc580e68ee685b1850563b19dc0f1750cf546f877d44b673bf5043f",
+      "revision": 1
+    },
     "url:https://jobs.nvidia.com/careers/job/893397883732": {
       "eligible": true,
       "evidence": {
@@ -50974,6 +51020,8 @@
     "https://go.vansh.nyc/122": 32,
     "https://go.vansh.nyc/128": 38,
     "https://go.vansh.nyc/129": 38,
+    "https://go.vansh.nyc/12g": 42,
+    "https://go.vansh.nyc/12h": 42,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -51675,6 +51723,8 @@
     "https://go.vansh.nyc/122": "https://otto-engineering-inc.breezy.hr/p/c0fdaec6842c-embedded-software-intern-communications-summer-2027",
     "https://go.vansh.nyc/128": "https://spa.jibeapply.com/jobs/23698?icims=1",
     "https://go.vansh.nyc/129": "https://firstcitizens.jibeapply.com/jobs/36311?icims=1",
+    "https://go.vansh.nyc/12g": "https://jobs.nvidia.com/careers/job/893397026205",
+    "https://go.vansh.nyc/12h": "https://jobs.nvidia.com/careers/job/893397026226",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -52331,7 +52381,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 41,
+  "scan_sequence": 42,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

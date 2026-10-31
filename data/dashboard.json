@@ -82,6 +82,21 @@
       "company": "NVIDIA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "d4c72c0936866ddc43d50cbc2dcc231e7f53933ee20e88c50fd997efb865041e",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "posted_at": "2026-10-31",
+      "priority": 7,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Autonomous Vehicles and Robotics Intern",
+      "url": "https://jobs.nvidia.com/careers/job/893397026226"
+    },
+    {
+      "company": "NVIDIA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "a6c41fc1ba52237ac2e8a314ea3ce39456cb53e83648e06d287e0b23655af31d",
       "locations": [
         "Redmond, WA"
@@ -168,6 +183,21 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
+    },
+    {
+      "company": "NVIDIA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "1deebfbe0b32399f5393add7c96b6d894840a4494c02a7d9177db049139bf31c",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "posted_at": "2026-10-31",
+      "priority": 7,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.nvidia.com/careers/job/893397026205"
     },
     {
       "company": "NVIDIA",
@@ -16769,21 +16799,6 @@
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803"
     },
     {
-      "company": "Northrop Grumman",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "994ee8c0799ed246973031558db49f35f8d936fa136752cb8044ec2018a3eded",
-      "locations": [
-        "Woodland Hills, LA"
-      ],
-      "posted_at": "2026-10-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Systems Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1"
-    },
-    {
       "company": "NOV",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -18568,6 +18583,21 @@
       "company": "Raytheon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "6d07ab2bb6bdf8c3b7ad8b2c96352f88eff955af1e340eed14827b808de8e1ae",
+      "locations": [
+        "Goleta, CA"
+      ],
+      "posted_at": "2026-10-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Embedded Software Engineering Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782"
+    },
+    {
+      "company": "Raytheon",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "d5ff40f8c5a74deaf8802eb58ef6849094a53b15430701c16d33b5550c15e420",
       "locations": [
         "Woburn, MA"
@@ -19586,21 +19616,6 @@
       "source": "simplify",
       "title": "Embedded Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014"
-    },
-    {
-      "company": "RTX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "6d07ab2bb6bdf8c3b7ad8b2c96352f88eff955af1e340eed14827b808de8e1ae",
-      "locations": [
-        "Goleta, CA"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782"
     },
     {
       "company": "RTX",
@@ -26174,7 +26189,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-31T11:50:15.393407+00:00",
+  "last_checked": "2026-10-31T13:03:25.858366+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
