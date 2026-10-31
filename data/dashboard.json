@@ -124,6 +124,36 @@
       "url": "https://jobs.nvidia.com/careers/job/893397026185"
     },
     {
+      "company": "nvidia",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a10fd17be235c74866ab0a71ad564128bb671cbfac5b3b5dc0c6111e37cce96f",
+      "locations": [
+        "US, CA, Santa Clara"
+      ],
+      "posted_at": "",
+      "priority": 7,
+      "priority_program": false,
+      "source": "workday",
+      "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496"
+    },
+    {
+      "company": "nvidia",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f4a7bfe04fc88b9104f039c716b11d59e6e447a98ab3f43c2a4e919f9885121c",
+      "locations": [
+        "US, CA, Santa Clara"
+      ],
+      "posted_at": "",
+      "priority": 7,
+      "priority_program": false,
+      "source": "workday",
+      "title": "NVIDIA 2027 Internships: Computer Architecture",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489"
+    },
+    {
       "company": "NVIDIA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -26249,9 +26279,9 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-31T07:10:05.491792+00:00",
+  "last_checked": "2026-10-31T08:01:24.476045+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
-  "source_failures": 9,
+  "source_failures": 0,
   "sources_checked": 104,
   "version": 1
 }
