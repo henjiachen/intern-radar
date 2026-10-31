@@ -10373,6 +10373,27 @@
       "fingerprint": "5884f38edbfc9b7d6e6899aff59b4c5da5a40ce3f6a9697ed0a3f62a51cbb1e3",
       "revision": 0
     },
+    "url:https://careers.tranetechnologies.com/global/en/job/jr-7591": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "trane technologies",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "davidson, nc",
+          "minneapolis, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai & analytics intern"
+      },
+      "fingerprint": "710c235c56ca2a95fd23c23cb44014e3f951ecd46308372c54997e9d37b0a343",
+      "revision": 1
+    },
     "url:https://careers.trccompanies.com/jobs/26840?icims=1": {
       "eligible": false,
       "fingerprint": "964df8345563ee4d1a24364b547d7596bcb5b95843cb428660bdc8467f478f7e",
@@ -52692,7 +52713,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 52,
+  "scan_sequence": 53,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
