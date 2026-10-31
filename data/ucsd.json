@@ -17784,7 +17784,7 @@
       "eligible": true,
       "evidence": {
         "category": "hardware",
-        "company": "rtx",
+        "company": "raytheon",
         "degrees": [
           "bachelor's",
           "master's",
@@ -17797,10 +17797,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "secure software intern"
+        "title": "secure software intern - summer 2027"
       },
-      "fingerprint": "670fd8312fd344258c339d417bfc062b41ee498440e00bce69aa15e445803254",
-      "revision": 0
+      "fingerprint": "8aad0b101773882453bbb5764d5c2427b857d1d3bda8c9e7bfd59f0eea8d79d6",
+      "revision": 1
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-woburn-wb2--225-presidential-way--goddard-bldg/systems-engineering-intern--onsite_01875985": {
       "eligible": false,
@@ -19049,6 +19049,11 @@
       "fingerprint": "28148a61f6dbb2b089004f27ca968b330b3568001b548d288b8e446b4302bcfc",
       "revision": 0
     },
+    "url:https://go.vansh.nyc/jn": {
+      "eligible": false,
+      "fingerprint": "ee586df121e70feba6fc41e280693ac7db3532f5dc5996a06d5bb471180c7bdc",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/jq": {
       "eligible": false,
       "fingerprint": "4f82950dc18ab22177efd526a2d00121597691656dc26312d8bfa22f892c8fb3",
@@ -19741,6 +19746,11 @@
       "eligible": false,
       "fingerprint": "a8bd8035e61f26bc9e7ab790cc840ce8f55c239fd3d57f1f956894f2c8336ed3",
       "revision": 2
+    },
+    "url:https://go.vansh.nyc/zm": {
+      "eligible": false,
+      "fingerprint": "5953a95aea68a78df589abbf609939002f969c70c203df39ba538401f1ffcd24",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/zv": {
       "eligible": false,
@@ -40882,10 +40892,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "2027 software engineering intern - beavercreek oh"
       },
-      "fingerprint": "84a60bdde6dfc81ef973102532ff47a579fc2b4e4c6790b16882db73bb546961",
-      "revision": 0
+      "fingerprint": "987f7acd8a507e03cc937c953bd8fb407454538f15ef56e307b0cb6b63a6aced",
+      "revision": 1
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-wright-patterson-afb/software-engineer---cloudworks--skillbridge-_r10211395": {
       "eligible": false,
@@ -43894,25 +43904,9 @@
       "revision": 0
     },
     "url:https://rollsroyce.wd3.myworkdayjobs.com/intern_graduate/job/indianapolis/integrated-control-systems-engineer-intern--software-_jr6161452": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "rolls-royce",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "indianapolis, in"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "integrated control systems engineer intern - software"
-      },
-      "fingerprint": "6b094428997c9fba0ac03924841be14fc9fe21720a473cfb51929661696306fe",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "cda181e03cbee3f12e6974431aff281607ae402f174f2f0199960a0a4c1e9606",
+      "revision": 2
     },
     "url:https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/edmonton/business-intelligence-consulting-intern---summer-2027_jr122066-1": {
       "eligible": false,
@@ -51777,7 +51771,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 33,
+  "scan_sequence": 34,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
