@@ -33141,6 +33141,24 @@
       "fingerprint": "9422a6d5d1c8a2e81d823bf567099a1d4bea0e92e45416314e265483225cf77f",
       "revision": 0
     },
+    "url:https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "firework",
+        "degrees": [],
+        "locations": [
+          "san mateo, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "f46c2abfc615bf1d9e1fd73fa2924f94ce57b44b83ccecb9b6cfc4c515968742",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70": {
       "eligible": true,
       "evidence": {
@@ -41057,16 +41075,16 @@
           "phd"
         ],
         "locations": [
-          "santa clara, ca"
+          "us, ca, santa clara"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "computer architecture intern"
+        "title": "nvidia 2027 internships: computer architecture"
       },
-      "fingerprint": "8c5656605a7aa7d08ba1cebbdd9186410c7b5a82c0827811dcecc772bbd3602b",
-      "revision": 1
+      "fingerprint": "cbd7350a303b984c7b4d9cec3cae59801eb521f254c70bcb02ac0e81dd429c3f",
+      "revision": 2
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning-computer-architecture_jr2023491": {
       "eligible": true,
@@ -41096,7 +41114,8 @@
         ],
         "locations": [
           "canada",
-          "santa clara, ca"
+          "santa clara, ca",
+          "us, ca, santa clara"
         ],
         "requirements": [],
         "terms": [
@@ -41104,18 +41123,18 @@
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "08b7f10b1959656b88bfc09ddd927266fc46735ec94e85f59870e0b66d9fe933",
-      "revision": 1
+      "fingerprint": "11559cba0989c3fdad9fec0d533976dd1eb3774cded59f4a53023fc637303123",
+      "revision": 2
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--systems-software-engineering_jr2023492": {
       "eligible": false,
-      "fingerprint": "841e11a31695de396332da0d8756a2d660b0a6387a30ee0feaee132d86923242",
-      "revision": 1
+      "fingerprint": "3bf512e1a45b0e32930183181eeb6f72a2b5c2eb6c003867fa1dde5c13798744",
+      "revision": 2
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-spring-2027-internships--developer-and-performance-technology_jr2023499": {
       "eligible": false,
-      "fingerprint": "6fd58d638a59b2e7aebb39fe9ac42a9b5c17d7d530b78b1d16475ef77d1943bb",
-      "revision": 1
+      "fingerprint": "edcf289c2f45978cd0a0ba3376c200f322ed805489d7f7b8188918aaef6d4f53",
+      "revision": 2
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--ai-accelerator-design-and-vlsi---2027_jr2026584-1": {
       "eligible": false,
@@ -50110,6 +50129,7 @@
     "https://go.vansh.nyc/111": 27,
     "https://go.vansh.nyc/113": 27,
     "https://go.vansh.nyc/119": 28,
+    "https://go.vansh.nyc/11I": 30,
     "https://go.vansh.nyc/11a": 28,
     "https://go.vansh.nyc/11b": 28,
     "https://go.vansh.nyc/11g": 29,
@@ -50795,6 +50815,7 @@
     "https://go.vansh.nyc/111": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146",
     "https://go.vansh.nyc/113": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072",
     "https://go.vansh.nyc/119": "https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship",
+    "https://go.vansh.nyc/11I": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09",
     "https://go.vansh.nyc/11a": "https://apply.workable.com/sophinea/j/B392177653",
     "https://go.vansh.nyc/11b": "https://apply.workable.com/cadillacf1team/j/7995A5E448",
     "https://go.vansh.nyc/11g": "https://bostonscientific.eightfold.ai/careers/job/563602813568250",
@@ -51455,7 +51476,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 29,
+  "scan_sequence": 30,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

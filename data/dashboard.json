@@ -82,21 +82,6 @@
       "company": "NVIDIA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "f4a7bfe04fc88b9104f039c716b11d59e6e447a98ab3f43c2a4e919f9885121c",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "posted_at": "2026-08-19",
-      "priority": 7,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Computer Architecture Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489"
-    },
-    {
-      "company": "NVIDIA",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "df414f9dbfbd84d87ba935b612be13c4dc62c1252ebe4b777cdccd938e59b5b8",
       "locations": [
         "Santa Clara, CA"
@@ -107,6 +92,51 @@
       "source": "vanshb03",
       "title": "Deep Learning Computer Architecture Intern",
       "url": "https://jobs.nvidia.com/careers/job/893397026185"
+    },
+    {
+      "company": "nvidia",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a10fd17be235c74866ab0a71ad564128bb671cbfac5b3b5dc0c6111e37cce96f",
+      "locations": [
+        "US, CA, Santa Clara"
+      ],
+      "posted_at": "",
+      "priority": 7,
+      "priority_program": false,
+      "source": "workday",
+      "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496"
+    },
+    {
+      "company": "nvidia",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f4a7bfe04fc88b9104f039c716b11d59e6e447a98ab3f43c2a4e919f9885121c",
+      "locations": [
+        "US, CA, Santa Clara"
+      ],
+      "posted_at": "",
+      "priority": 7,
+      "priority_program": false,
+      "source": "workday",
+      "title": "NVIDIA 2027 Internships: Computer Architecture",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489"
+    },
+    {
+      "company": "nvidia",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "9522b65ced196dee697b0ba20c82ac8411ed1ea43e1f3e48248cbea024f98ae6",
+      "locations": [
+        "US, CA, Santa Clara"
+      ],
+      "posted_at": "",
+      "priority": 7,
+      "priority_program": false,
+      "source": "workday",
+      "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491"
     },
     {
       "company": "NVIDIA",
@@ -1139,7 +1169,7 @@
       "locations": [
         "Fort Worth, TX +4"
       ],
-      "posted_at": "2026-09-03",
+      "posted_at": "2026-09-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1446,7 +1476,7 @@
       "locations": [
         "Redmond, WA"
       ],
-      "posted_at": "2026-10-06",
+      "posted_at": "2026-10-07",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1461,7 +1491,7 @@
       "locations": [
         "Redmond, WA"
       ],
-      "posted_at": "2026-10-23",
+      "posted_at": "2026-10-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1476,7 +1506,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-09-30",
+      "posted_at": "2026-10-01",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1491,7 +1521,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-09-29",
+      "posted_at": "2026-09-30",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1543,7 +1573,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-09-10",
+      "posted_at": "2026-09-11",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1558,7 +1588,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-09-25",
+      "posted_at": "2026-09-26",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1633,7 +1663,7 @@
       "locations": [
         "North Reading, MA"
       ],
-      "posted_at": "2026-09-04",
+      "posted_at": "2026-09-05",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -2303,7 +2333,7 @@
       "locations": [
         "Costa Mesa, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -2318,7 +2348,7 @@
       "locations": [
         "Costa Mesa, CA"
       ],
-      "posted_at": "2026-09-16",
+      "posted_at": "2026-09-17",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -2438,7 +2468,7 @@
       "locations": [
         "Los Angeles, CA"
       ],
-      "posted_at": "2026-09-16",
+      "posted_at": "2026-09-17",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -3290,22 +3320,6 @@
       "url": "https://job-boards.greenhouse.io/atoms/jobs/8919596002"
     },
     {
-      "company": "Aurora Innovation",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "274dc81816dba7c40b677d07b7779cefe315153cc4e0c73bbdff805d9bb9135c",
-      "locations": [
-        "SF",
-        "Mountain View, CA"
-      ],
-      "posted_at": "2026-09-24",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Simulation Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true"
-    },
-    {
       "company": "Auto-Owners Insurance",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -3676,7 +3690,7 @@
       "locations": [
         "Urbandale, IA"
       ],
-      "posted_at": "2026-09-17",
+      "posted_at": "2026-09-18",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -4674,7 +4688,7 @@
       "locations": [
         "New York City, NY"
       ],
-      "posted_at": "2026-09-10",
+      "posted_at": "2026-09-11",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -5214,7 +5228,7 @@
       "locations": [
         "Denver, CO +1"
       ],
-      "posted_at": "2026-10-23",
+      "posted_at": "2026-10-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -5812,7 +5826,7 @@
       "locations": [
         "Austin, TX"
       ],
-      "posted_at": "2026-09-12",
+      "posted_at": "2026-09-13",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -6624,7 +6638,7 @@
       "locations": [
         "Atlanta, GA"
       ],
-      "posted_at": "2026-10-26",
+      "posted_at": "2026-10-27",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -7172,7 +7186,7 @@
       "locations": [
         "Chicago, IL"
       ],
-      "posted_at": "2026-07-24",
+      "posted_at": "2026-07-25",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -7629,7 +7643,7 @@
       "locations": [
         "Boston, MA"
       ],
-      "posted_at": "2026-09-01",
+      "posted_at": "2026-09-02",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -8249,7 +8263,7 @@
       "locations": [
         "Durham, NC +1"
       ],
-      "posted_at": "2026-09-04",
+      "posted_at": "2026-09-05",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -8279,7 +8293,7 @@
       "locations": [
         "St. Louis, MO"
       ],
-      "posted_at": "2026-10-09",
+      "posted_at": "2026-10-10",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -8294,7 +8308,7 @@
       "locations": [
         "St. Louis, MO"
       ],
-      "posted_at": "2026-09-16",
+      "posted_at": "2026-09-17",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -8924,6 +8938,21 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"
     },
     {
+      "company": "Firework",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "d514ddb94f8f9b0ceb3b8d59f75c8fdcbf40b25db8c6a6130fbafda20b7c462c",
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "posted_at": "2026-10-31",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data Engineer Intern",
+      "url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09"
+    },
+    {
       "company": "First National Bank",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -8991,7 +9020,7 @@
       "locations": [
         "Somerville, MA"
       ],
-      "posted_at": "2026-09-28",
+      "posted_at": "2026-09-29",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -9006,7 +9035,7 @@
       "locations": [
         "Somerville, MA"
       ],
-      "posted_at": "2026-09-22",
+      "posted_at": "2026-09-23",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -9051,7 +9080,7 @@
       "locations": [
         "Fort Wayne, IN"
       ],
-      "posted_at": "2026-09-24",
+      "posted_at": "2026-09-25",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -9261,7 +9290,7 @@
       "locations": [
         "Bossier City, LA"
       ],
-      "posted_at": "2026-09-26",
+      "posted_at": "2026-09-27",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -9276,7 +9305,7 @@
       "locations": [
         "Bossier City, LA"
       ],
-      "posted_at": "2026-09-26",
+      "posted_at": "2026-09-27",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -9712,7 +9741,7 @@
       "locations": [
         "Sunnyvale, CA"
       ],
-      "posted_at": "2026-10-05",
+      "posted_at": "2026-10-06",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -12108,7 +12137,7 @@
       "locations": [
         "San Francisco, CA"
       ],
-      "posted_at": "2026-09-01",
+      "posted_at": "2026-09-02",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -12590,7 +12619,7 @@
       "locations": [
         "Redondo Beach, CA"
       ],
-      "posted_at": "2026-10-20",
+      "posted_at": "2026-10-21",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -12620,7 +12649,7 @@
       "locations": [
         "Redondo Beach, CA"
       ],
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -12680,7 +12709,7 @@
       "locations": [
         "Winston-Salem, NC"
       ],
-      "posted_at": "2026-09-15",
+      "posted_at": "2026-09-16",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -12695,7 +12724,7 @@
       "locations": [
         "Pittsburgh, PA"
       ],
-      "posted_at": "2026-09-04",
+      "posted_at": "2026-09-05",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -12755,7 +12784,7 @@
       "locations": [
         "Acton, MA"
       ],
-      "posted_at": "2026-09-16",
+      "posted_at": "2026-09-17",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -12770,7 +12799,7 @@
       "locations": [
         "Acton, MA"
       ],
-      "posted_at": "2026-09-10",
+      "posted_at": "2026-09-11",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -12785,7 +12814,7 @@
       "locations": [
         "Acton, MA"
       ],
-      "posted_at": "2026-09-29",
+      "posted_at": "2026-09-30",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -12834,7 +12863,7 @@
       "locations": [
         "Greenwich, CT"
       ],
-      "posted_at": "2026-08-19",
+      "posted_at": "2026-08-20",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -13022,7 +13051,7 @@
       "locations": [
         "McLean, VA +3"
       ],
-      "posted_at": "2026-09-30",
+      "posted_at": "2026-10-01",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -14664,7 +14693,7 @@
       "locations": [
         "Boston, MA"
       ],
-      "posted_at": "2026-08-03",
+      "posted_at": "2026-08-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -14679,7 +14708,7 @@
       "locations": [
         "Cincinnati, OH"
       ],
-      "posted_at": "2026-08-03",
+      "posted_at": "2026-08-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -14847,7 +14876,7 @@
       "locations": [
         "Burlington, VT"
       ],
-      "posted_at": "2026-09-17",
+      "posted_at": "2026-09-18",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -14955,7 +14984,7 @@
       "locations": [
         "Longmont, CO"
       ],
-      "posted_at": "2026-09-02",
+      "posted_at": "2026-09-03",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -16635,7 +16664,7 @@
       "locations": [
         "Azusa, CA"
       ],
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -16650,7 +16679,7 @@
       "locations": [
         "Roy, UT"
       ],
-      "posted_at": "2026-10-29",
+      "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -17497,7 +17526,7 @@
       "locations": [
         "Plano, TX"
       ],
-      "posted_at": "2026-09-02",
+      "posted_at": "2026-09-03",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -17512,7 +17541,7 @@
       "locations": [
         "Topeka, KS"
       ],
-      "posted_at": "2026-10-08",
+      "posted_at": "2026-10-09",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -17527,7 +17556,7 @@
       "locations": [
         "Herndon, VA +1"
       ],
-      "posted_at": "2026-09-08",
+      "posted_at": "2026-09-09",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -17770,7 +17799,7 @@
       "locations": [
         "Raleigh, NC"
       ],
-      "posted_at": "2026-09-01",
+      "posted_at": "2026-09-02",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -18339,7 +18368,7 @@
       "locations": [
         "North Richland Hills, TX"
       ],
-      "posted_at": "2026-09-11",
+      "posted_at": "2026-09-12",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -18354,7 +18383,7 @@
       "locations": [
         "Laramie, WY"
       ],
-      "posted_at": "2026-09-15",
+      "posted_at": "2026-09-16",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -20151,7 +20180,7 @@
       "locations": [
         "Westfield, IN"
       ],
-      "posted_at": "2026-09-10",
+      "posted_at": "2026-09-11",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -20166,7 +20195,7 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -20181,7 +20210,7 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -20425,7 +20454,7 @@
       "locations": [
         "Fredericksburg, VA"
       ],
-      "posted_at": "2026-09-15",
+      "posted_at": "2026-09-16",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -20764,7 +20793,7 @@
       "locations": [
         "Bastrop, TX +6"
       ],
-      "posted_at": "2026-08-03",
+      "posted_at": "2026-08-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -20900,7 +20929,7 @@
       "locations": [
         "Kent, WA"
       ],
-      "posted_at": "2026-09-01",
+      "posted_at": "2026-09-02",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -21271,7 +21300,7 @@
       "locations": [
         "Greenville, SC +1"
       ],
-      "posted_at": "2026-09-21",
+      "posted_at": "2026-09-22",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -22044,7 +22073,7 @@
       "locations": [
         "Remote - Minnesota, USA"
       ],
-      "posted_at": "2026-10-23",
+      "posted_at": "2026-10-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -22059,7 +22088,7 @@
       "locations": [
         "Remote - Minnesota, USA"
       ],
-      "posted_at": "2026-10-23",
+      "posted_at": "2026-10-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -23544,7 +23573,7 @@
       "locations": [
         "San Francisco, CA"
       ],
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -23772,7 +23801,7 @@
       "locations": [
         "Syracuse, NY"
       ],
-      "posted_at": "2026-09-28",
+      "posted_at": "2026-09-29",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -24792,7 +24821,7 @@
       "locations": [
         "Foster City, CA"
       ],
-      "posted_at": "2026-10-29",
+      "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25338,7 +25367,7 @@
       "locations": [
         "Cincinnati, OH"
       ],
-      "posted_at": "2026-09-02",
+      "posted_at": "2026-09-03",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25353,7 +25382,7 @@
       "locations": [
         "Cincinnati, OH"
       ],
-      "posted_at": "2026-09-02",
+      "posted_at": "2026-09-03",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25383,7 +25412,7 @@
       "locations": [
         "San Jose, CA"
       ],
-      "posted_at": "2026-08-13",
+      "posted_at": "2026-08-14",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25552,7 +25581,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25567,7 +25596,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25582,7 +25611,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25597,7 +25626,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25612,7 +25641,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25627,7 +25656,7 @@
       "locations": [
         "Omaha, NE"
       ],
-      "posted_at": "2026-10-04",
+      "posted_at": "2026-10-05",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25762,7 +25791,7 @@
       "locations": [
         "Denver, CO"
       ],
-      "posted_at": "2026-09-11",
+      "posted_at": "2026-09-12",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25937,7 +25966,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-30T23:49:30.282998+00:00",
+  "last_checked": "2026-10-31T01:17:00.567872+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
