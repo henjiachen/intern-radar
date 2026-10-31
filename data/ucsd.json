@@ -5671,6 +5671,11 @@
       "fingerprint": "24544fadf085468cda2e5a821aef78d6afebefc37bfbd9488829c4eb051ff756",
       "revision": 0
     },
+    "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/glasgow-campus/xmlname-2027-customer-and-digital---data-and-analytics-summer-internship-programme-glasgow_jr-0000129278": {
+      "eligible": false,
+      "fingerprint": "7505b2ca221bb3aab25cf88b49b61f8a6489a1b707f01602040fd27373f9bd32",
+      "revision": 1
+    },
     "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/knutsford-radbroke-hall/xmlname-2027-technology-developer-summer-internship-programme-knutsford_jr-0000129381": {
       "eligible": false,
       "fingerprint": "af9a67df88d9e4f8512f780f3e448fb4973cd9baa3467879e5a81ab48c08f4c4",
@@ -8403,6 +8408,11 @@
         "title": "software engineer-on call intern"
       },
       "fingerprint": "ad352f29a27ddeac669d3ee8077f66a821970a1d028b92b88ecc78ac167ee2b4",
+      "revision": 1
+    },
+    "url:https://careers.axa.com/jobs/25498?icims=1": {
+      "eligible": false,
+      "fingerprint": "3462efd9dc68d32de278d3df646cf5678198fbcdc41932f744a57335ebc4185d",
       "revision": 1
     },
     "url:https://careers.bcg.com/global/en/job/56634": {
@@ -41625,6 +41635,11 @@
       "fingerprint": "19ddc534ba6c591699e61c28e4ac0f36d56f30d8ba7c066679a703898edd0e23",
       "revision": 3
     },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning_jr2023497-1": {
+      "eligible": false,
+      "fingerprint": "2e130a5f2868de76bac5cc0b2014e17423cca8877d592cd66ad19bbf812cddb2",
+      "revision": 1
+    },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--software-engineering_jr2023495": {
       "eligible": true,
       "evidence": {
@@ -52296,7 +52311,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 39,
+  "scan_sequence": 40,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
