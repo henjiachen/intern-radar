@@ -1720,7 +1720,6 @@
           "master's"
         ],
         "locations": [
-          "northridge, ca",
           "northridge, la",
           "redmond, wa"
         ],
@@ -1731,8 +1730,8 @@
         ],
         "title": "software engineer intern - embedded systems"
       },
-      "fingerprint": "fc84b9207002b9aad745b5700a69d8d3a00054d61b54ee0f609893f0ff15cec0",
-      "revision": 1
+      "fingerprint": "6e2c11a012ba33896a74976938c5623f9dce26672d74f4f2219f6a1844f35ef3",
+      "revision": 2
     },
     "url:https://amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027": {
       "eligible": false,
@@ -3335,9 +3334,22 @@
       "revision": 0
     },
     "url:https://apply.workable.com/syntiant/j/468b53b345": {
-      "eligible": false,
-      "fingerprint": "b5bdb53e07ccec5c9d4238ee23f546c4c2ff3e62b459fce79a56aca0d401f59e",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "syntiant",
+        "degrees": [],
+        "locations": [
+          "irvine, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "devops machine learning infrastructure intern"
+      },
+      "fingerprint": "1d55bb82f81d6c1e09950be62b3f04cf902fcaf6d83fcac1b3e474902335ecbe",
+      "revision": 2
     },
     "url:https://apply.workable.com/tmeic-corporation-americas/j/fd4c9770ff": {
       "eligible": false,
@@ -5710,10 +5722,59 @@
       "fingerprint": "d32dbf3b8232f115ac38b27ac4606991476fdf754dcd89e846c61754d81679a6",
       "revision": 0
     },
+    "url:https://beli.breezy.hr/p/2fc40eefdc15-software-engineer-intern-summer-2027": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "beli",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "a993125cad0a850c21be18717c56eba39faf795ab40f40a24d8c20b2b9105047",
+      "revision": 1
+    },
+    "url:https://beli.breezy.hr/p/7faefc00059e-data-science-intern-summer-2027": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "beli",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "4497b6828cb5f8881ef8ceb22f37e58adb54fd8c4ffcddf57e76230a26d4700c",
+      "revision": 1
+    },
     "url:https://benchmark-space-systems-inc.breezy.hr/p/da54fac87273-software-engineering-intern": {
-      "eligible": false,
-      "fingerprint": "4791c5a1b0d5b6502de4b3a164b9ecb6e5d77536db396c581ac15e1a5551066e",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "benchmark space systems",
+        "degrees": [],
+        "locations": [
+          "burlington, vt"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "2acbc2a31217dc89ac7ecea1bc5733545dae61a6ccb3a3b8d4a35c6e3c8d30fc",
+      "revision": 1
     },
     "url:https://berkshiregrey.bamboohr.com/careers/768": {
       "eligible": false,
@@ -7489,6 +7550,96 @@
       },
       "fingerprint": "d9426e01289c79cc55d43abb39259641699e5af5fa11d9440d9e73691d28a8c8",
       "revision": 0
+    },
+    "url:https://career41.sapsf.com/career?career_ns=job_listing&company=mativholdi&career_job_req_id=2179": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "mativ",
+        "degrees": [],
+        "locations": [
+          "alpharetta, ga"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science and business analytics intern"
+      },
+      "fingerprint": "a8c156be4264d0f23d54f3f6577e22f3c91554573082185e72c73eae97b92a71",
+      "revision": 1
+    },
+    "url:https://career5.successfactors.eu/career?career_ns=job_listing&company=paccarinc&career_job_req_id=73733": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "paccar",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "042721ac706328a78f7e1c45c237af48285ee42baafc57ff3ec900915fba51a7",
+      "revision": 1
+    },
+    "url:https://career55.sapsf.eu/career?career_ns=job_listing&company=SephoraUS&career_job_req_id=297534": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "sephora",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai platform infrastructure intern, technology"
+      },
+      "fingerprint": "a286b9919d17c291fc121b70a1e6aa1f62aa08fa736d3c26a76e8f5beb5f326b",
+      "revision": 1
+    },
+    "url:https://career55.sapsf.eu/career?career_ns=job_listing&company=SephoraUS&career_job_req_id=298054": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "sephora",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai automation intern, wms & dc systems"
+      },
+      "fingerprint": "d4494018cd83c0298ecb261d6ee81a0227e15bd2806edb4271202787ae4f1a6f",
+      "revision": 1
+    },
+    "url:https://career55.sapsf.eu/career?career_ns=job_listing&company=SephoraUS&career_job_req_id=298603": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "sephora",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai & distribution analytics intern"
+      },
+      "fingerprint": "015182952d9e36839266ab426bae083ccdf268186a45a15a9a17115a51528a10",
+      "revision": 1
     },
     "url:https://careers-berkley.icims.com/jobs/14437/job": {
       "eligible": true,
@@ -9634,6 +9785,24 @@
     "url:https://careers.nintendo.com?gh_jid=4472147009": {
       "eligible": false,
       "fingerprint": "9bcfc7096c4359d57a798db263b04b7a1275ca09ca195a649fef301eeab2b526",
+      "revision": 1
+    },
+    "url:https://careers.nintendo.com?gh_jid=4473550009": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nintendo",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, graphics"
+      },
+      "fingerprint": "f7621e528a47cb250561d54ac8c2a83677b5df3bc9a4414ae7474be945de3193",
       "revision": 1
     },
     "url:https://careers.phillips66.com/job/bartlesville-west-2027-university-intern-eri-analytical-solutions-ok-74004/1439555700?ats=successfactors": {
@@ -17776,11 +17945,6 @@
       "fingerprint": "34400478795a787ad98fc6c791273afe0cf271f3b229e995a07ff79ef59595f6",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/11w": {
-      "eligible": false,
-      "fingerprint": "7e10ac5727310a6f94d775c72d1b015e78453a88a66c6a41aa6cccf6da4c4e2c",
-      "revision": 1
-    },
     "url:https://go.vansh.nyc/13": {
       "eligible": false,
       "fingerprint": "2dba11eb18e973b04eec563e905fa22ff1d46d8b859d9615ade33e796384bd13",
@@ -19422,6 +19586,11 @@
       "eligible": false,
       "fingerprint": "86ded074a182ffc30baae5419118d058c4e464e0a567f4fe4353a1d6429dedbc",
       "revision": 0
+    },
+    "url:https://go.vansh.nyc/wf": {
+      "eligible": false,
+      "fingerprint": "a9ceacbe5eaaaba529300a28adab882ddfba6a3a836eb935247a4aadee403a83",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/wx": {
       "eligible": false,
@@ -27566,6 +27735,28 @@
       "eligible": false,
       "fingerprint": "c26fb9335c5ebb4c88cdd0ca938e0865fbd5c8caa689f5447d55e389f39ec2d8",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/veritiongroupllcinternships/jobs/5275320007": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "verition group",
+        "degrees": [],
+        "locations": [
+          "greenwich, ct",
+          "miami, fl",
+          "new york, ny",
+          "norwalk, ct",
+          "san francisco, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai associate intern, equity long/short"
+      },
+      "fingerprint": "cd96d187a494b81b1958e67f86a8752ea3db9c9ad4c366a67a8c87ececa64699",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/verkada/jobs/5210813007": {
       "eligible": false,
@@ -41534,6 +41725,24 @@
       "fingerprint": "6b25c70397204026914e9e6d2002f7541e5f798dcbc441124a9932d0a6ab4ed9",
       "revision": 0
     },
+    "url:https://otto-engineering-inc.breezy.hr/p/c0fdaec6842c-embedded-software-intern-communications-summer-2027": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "otto engineering",
+        "degrees": [],
+        "locations": [
+          "carpentersville, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded software intern, communications"
+      },
+      "fingerprint": "8db8be6fced3c27731d4ca8c920c6f62aae20f95d9dfe43e0343616d3ee2f6ff",
+      "revision": 1
+    },
     "url:https://pacificlife.wd1.myworkdayjobs.com/pacificlifecareers/job/newport-beach-ca-700/summer-2027-data-engineering-internship_r17828": {
       "eligible": true,
       "evidence": {
@@ -45206,6 +45415,24 @@
     "url:https://synopsys.avature.net/careers/jobdetail/19536": {
       "eligible": false,
       "fingerprint": "9cd85ab84ae16c38f564bfca80facca6bc76608a45894e547f8d9191ee6d009c",
+      "revision": 1
+    },
+    "url:https://taec.applytojob.com/apply/oieuvnty52/5053-firmware-engineer-intern": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "toshiba international corporation",
+        "degrees": [],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "firmware engineer intern"
+      },
+      "fingerprint": "37fb46d9d76341ae58fe0b15a415520016fbc0f37e0624541c8b5e4124f91227",
       "revision": 1
     },
     "url:https://taylor.wd1.myworkdayjobs.com/external/job/oh-remote/enablement-data---insights-intern--temporary-_r30448": {
@@ -50178,10 +50405,23 @@
     "https://go.vansh.nyc/113": 27,
     "https://go.vansh.nyc/119": 28,
     "https://go.vansh.nyc/11I": 30,
+    "https://go.vansh.nyc/11M": 32,
+    "https://go.vansh.nyc/11N": 32,
+    "https://go.vansh.nyc/11O": 32,
+    "https://go.vansh.nyc/11Q": 32,
+    "https://go.vansh.nyc/11R": 32,
+    "https://go.vansh.nyc/11S": 32,
+    "https://go.vansh.nyc/11T": 32,
+    "https://go.vansh.nyc/11U": 32,
+    "https://go.vansh.nyc/11V": 32,
+    "https://go.vansh.nyc/11X": 32,
+    "https://go.vansh.nyc/11Y": 32,
     "https://go.vansh.nyc/11a": 28,
     "https://go.vansh.nyc/11b": 28,
     "https://go.vansh.nyc/11g": 29,
     "https://go.vansh.nyc/11t": 29,
+    "https://go.vansh.nyc/121": 32,
+    "https://go.vansh.nyc/122": 32,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -50864,10 +51104,23 @@
     "https://go.vansh.nyc/113": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072",
     "https://go.vansh.nyc/119": "https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship",
     "https://go.vansh.nyc/11I": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09",
+    "https://go.vansh.nyc/11M": "https://career55.sapsf.eu/career?career_ns=job_listing&company=SephoraUS&career_job_req_id=298054",
+    "https://go.vansh.nyc/11N": "https://career55.sapsf.eu/career?career_ns=job_listing&company=SephoraUS&career_job_req_id=297534",
+    "https://go.vansh.nyc/11O": "https://taec.applytojob.com/apply/OIeuVNTY52/5053-Firmware-Engineer-Intern",
+    "https://go.vansh.nyc/11Q": "https://career55.sapsf.eu/career?career_ns=job_listing&company=SephoraUS&career_job_req_id=298603",
+    "https://go.vansh.nyc/11R": "https://career5.successfactors.eu/career?career_ns=job_listing&company=paccarinc&career_job_req_id=73733",
+    "https://go.vansh.nyc/11S": "https://job-boards.greenhouse.io/veritiongroupllcinternships/jobs/5275320007",
+    "https://go.vansh.nyc/11T": "https://beli.breezy.hr/p/2fc40eefdc15-software-engineer-intern-summer-2027",
+    "https://go.vansh.nyc/11U": "https://beli.breezy.hr/p/7faefc00059e-data-science-intern-summer-2027",
+    "https://go.vansh.nyc/11V": "https://apply.workable.com/syntiant/j/468B53B345",
+    "https://go.vansh.nyc/11X": "https://benchmark-space-systems-inc.breezy.hr/p/da54fac87273-software-engineering-intern",
+    "https://go.vansh.nyc/11Y": "https://career41.sapsf.com/career?career_ns=job_listing&company=mativholdi&career_job_req_id=2179",
     "https://go.vansh.nyc/11a": "https://apply.workable.com/sophinea/j/B392177653",
     "https://go.vansh.nyc/11b": "https://apply.workable.com/cadillacf1team/j/7995A5E448",
     "https://go.vansh.nyc/11g": "https://bostonscientific.eightfold.ai/careers/job/563602813568250",
     "https://go.vansh.nyc/11t": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102549",
+    "https://go.vansh.nyc/121": "https://careers.nintendo.com/?gh_jid=4473550009",
+    "https://go.vansh.nyc/122": "https://otto-engineering-inc.breezy.hr/p/c0fdaec6842c-embedded-software-intern-communications-summer-2027",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -51524,7 +51777,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 31,
+  "scan_sequence": 32,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
