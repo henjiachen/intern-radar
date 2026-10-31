@@ -9819,29 +9819,112 @@
       "revision": 0
     },
     "url:https://careers.nintendo.com?gh_jid=4469762009": {
-      "eligible": false,
-      "fingerprint": "7eb6e5a98aa013da35bf3a5d6ad06be2dd933c700e76e5dfaa7902ab31d9150e",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nintendo",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, cpu profiler"
+      },
+      "fingerprint": "5c83e900b61895428bba68c6483a24ea75d0e354810ace93fc10550be64de656",
+      "revision": 1
     },
     "url:https://careers.nintendo.com?gh_jid=4469778009": {
-      "eligible": false,
-      "fingerprint": "2f8006d00183ce711b831396a5751e7e9deaed50a7fe7d2ad4f217bbb539d34c",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nintendo",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, platform security"
+      },
+      "fingerprint": "eddcaf7a89d4bbb68a5d6f8df7abdffcc0028296348f70b9ce467e5371956ce8",
+      "revision": 1
     },
     "url:https://careers.nintendo.com?gh_jid=4470048009": {
-      "eligible": false,
-      "fingerprint": "734f274c4156a3ec5cb9f96dff72545f4e6da388b2cf59e2e827cb509b4e5c73",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nintendo",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, audio"
+      },
+      "fingerprint": "bab260859dbf0b4b2b294133c41499aaa8d9711f5eabe0236d48bc3cd6c23c8c",
+      "revision": 1
     },
     "url:https://careers.nintendo.com?gh_jid=4471972009": {
-      "eligible": false,
-      "fingerprint": "0b6230305d86c0a8254e1631944b6cd4a8a7c7a6c287a635131384163b454904",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nintendo",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, cpu debugger"
+      },
+      "fingerprint": "773ccbab8f95bfa74d3b2e8bf0ce5ccf54e8d21d207843bf5f2d7cf061db3fd1",
+      "revision": 1
+    },
+    "url:https://careers.nintendo.com?gh_jid=4472002009": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nintendo",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, devops"
+      },
+      "fingerprint": "d56852eff456b1cac99779133c8dd46b36767c7f7fa64b6145a00cd75e38daf1",
+      "revision": 1
     },
     "url:https://careers.nintendo.com?gh_jid=4472147009": {
-      "eligible": false,
-      "fingerprint": "9bcfc7096c4359d57a798db263b04b7a1275ca09ca195a649fef301eeab2b526",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nintendo",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, connectivity"
+      },
+      "fingerprint": "d6782081864d748b195950223871c33043e153a9368e9523ece0ebaedc785663",
+      "revision": 2
     },
     "url:https://careers.nintendo.com?gh_jid=4473550009": {
       "eligible": true,
@@ -9862,9 +9945,22 @@
       "revision": 1
     },
     "url:https://careers.nintendo.com?gh_jid=4473568009": {
-      "eligible": false,
-      "fingerprint": "fcb609a2b33b6bb99cc41fbfd6ebd5419cde2b204ed2f4008afbdbd2f412df16",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nintendo",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, performance tools"
+      },
+      "fingerprint": "2a4bc9c8728298106ff57e74d72c9abe4f4406f61b535802100413e08b92d28c",
+      "revision": 2
     },
     "url:https://careers.phillips66.com/job/bartlesville-west-2027-university-intern-eri-analytical-solutions-ok-74004/1439555700?ats=successfactors": {
       "eligible": true,
@@ -52498,7 +52594,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 48,
+  "scan_sequence": 49,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
