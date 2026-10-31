@@ -188,6 +188,21 @@
       "company": "NVIDIA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "e417df3994c8a1a9bda3f46005d6444db35df5918a800be319c5597e54ccc734",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "posted_at": "2026-10-21",
+      "priority": 7,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Systems Software Intern - Aerial PHY- Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530"
+    },
+    {
+      "company": "NVIDIA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "6e87fbfc6bb323404f1f4b320fd06cbb596e0038498b4df2aa8bbcda73def6ef",
       "locations": [
         "Santa Clara, CA"
@@ -214,21 +229,6 @@
       "source": "simplify",
       "title": "Forward Deployed Engineer Intern",
       "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958"
-    },
-    {
-      "company": "Microsoft",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "8fde7362f77b8d54bb53cc2d410f87252424218ceef1e49afb6b6b2d9455c912",
-      "locations": [
-        "United States"
-      ],
-      "posted_at": "2026-10-23",
-      "priority": 9,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Security & Identity",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771"
     },
     {
       "company": "Microsoft",
@@ -334,6 +334,21 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Security & Identity",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765"
+    },
+    {
+      "company": "Microsoft",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "8fde7362f77b8d54bb53cc2d410f87252424218ceef1e49afb6b6b2d9455c912",
+      "locations": [
+        "United States"
+      ],
+      "posted_at": "2026-10-23",
+      "priority": 9,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Security & Identity",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771"
     },
     {
       "company": "Salesforce",
@@ -2096,21 +2111,6 @@
       "source": "simplify",
       "title": "Business Intelligence Enablement Intern",
       "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531"
-    },
-    {
-      "company": "American Family Insurance Group",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "c232cd209a4632d2220bcc348bea6989d6da28ef9c76317bec8ef975db09fdc6",
-      "locations": [
-        "Madison, WI"
-      ],
-      "posted_at": "2026-10-12",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analyst Intern - Agency Performance, Insights and Operations",
-      "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513"
     },
     {
       "company": "American Family Insurance Group",
@@ -26144,7 +26144,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-31T08:56:10.294068+00:00",
+  "last_checked": "2026-10-31T09:54:06.446019+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

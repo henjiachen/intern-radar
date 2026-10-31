@@ -2669,13 +2669,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
-        "title": "software engineer intern - security & identity"
+        "title": "software engineer intern, security & identity"
       },
-      "fingerprint": "e382719f93b60e694c669feb24c787071517c9e5f1a877633d19b778f22d0c73",
-      "revision": 1
+      "fingerprint": "234a26e39b34b36a7ee6213b0cf562fe789e54ba609e986b4a237aa1278ad2ad",
+      "revision": 2
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393557045445": {
       "eligible": false,
@@ -23125,8 +23124,8 @@
     },
     "url:https://intel.wd1.myworkdayjobs.com/external/job/us-arizona-phoenix/ai-software-engineering-phd-intern_jr0286730": {
       "eligible": false,
-      "fingerprint": "84a4573658baac43c670a0499d08f1b877de4a08e0b40e42ac15de6016a4e1cf",
-      "revision": 0
+      "fingerprint": "c3be6d33981191abb82524cedceac32c17e98d045380daa86a586ac1bcd627c6",
+      "revision": 1
     },
     "url:https://intel.wd1.myworkdayjobs.com/external/job/us-arizona-phoenix/operations-research--engineering-analytics-graduate-intern_jr0286502": {
       "eligible": false,
@@ -41761,9 +41760,20 @@
       "revision": 0
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/systems-software-intern--aerial-phy--summer-2027_jr2026530": {
-      "eligible": false,
-      "fingerprint": "fa6f952f88911edd825d38a030e29d40fce9af58247c3c5ddf032fd092b0f630",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nvidia",
+        "degrees": [],
+        "locations": [
+          "santa clara, ca"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "systems software intern - aerial phy- summer 2027"
+      },
+      "fingerprint": "685a7e41b69061c763ebf2bc66a104a71518de975229555774ac9b9e584dce31",
+      "revision": 1
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/vlsi-cad-timing-intern--applied-ai---summer-2027_jr2026799": {
       "eligible": false,
@@ -41852,6 +41862,11 @@
       "eligible": false,
       "fingerprint": "eb5c6d4563ead5c7884e6b4eda83d217ef3d02b22aa60d52d2c596068fccfb7a",
       "revision": 0
+    },
+    "url:https://nyp.wd1.myworkdayjobs.com/nypcareers/job/nypweill-cornell-medical-center/summer-2027-finance-internship-program--patient-access-westchester_00888341": {
+      "eligible": false,
+      "fingerprint": "127182d11f7541324924b62e6e87a0655b97bb54bf585bd36b0c24b8a64a96e1",
+      "revision": 1
     },
     "url:https://obsidian.applytojob.com/apply/zxhj1epgcr/gameplay-engineer-2027-summer-internship": {
       "eligible": true,
@@ -52281,7 +52296,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 38,
+  "scan_sequence": 39,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
