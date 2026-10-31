@@ -792,6 +792,11 @@
       "fingerprint": "f7c468c5e6b280750a46f6fa356245377bf043254eb6565ef85e0ce14de1471c",
       "revision": 0
     },
+    "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/golden-co/summer-intern---summer-intern---software-engineering---quality-assurance_jr37856": {
+      "eligible": false,
+      "fingerprint": "85707f143dc3361df7916ce93636c6295e4518aedaeac90967910b1015bccbea",
+      "revision": 1
+    },
     "url:https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/canton-mississippi---united-states-of-america/systems-engineer-intern---summer-2027---canton--ms_r00214882": {
       "eligible": true,
       "evidence": {
@@ -9856,6 +9861,11 @@
       "fingerprint": "f7621e528a47cb250561d54ac8c2a83677b5df3bc9a4414ae7474be945de3193",
       "revision": 1
     },
+    "url:https://careers.nintendo.com?gh_jid=4473568009": {
+      "eligible": false,
+      "fingerprint": "fcb609a2b33b6bb99cc41fbfd6ebd5419cde2b204ed2f4008afbdbd2f412df16",
+      "revision": 1
+    },
     "url:https://careers.phillips66.com/job/bartlesville-west-2027-university-intern-eri-analytical-solutions-ok-74004/1439555700?ats=successfactors": {
       "eligible": true,
       "evidence": {
@@ -10721,6 +10731,11 @@
       "eligible": false,
       "fingerprint": "d06c3fa911413a60308bba41706d3d2869b9309fde3d796644d65d13bf937791",
       "revision": 0
+    },
+    "url:https://careersus-shure.icims.com/jobs/4964/job": {
+      "eligible": false,
+      "fingerprint": "71ba8074d9e3dc3361913ce864c657de5cf70c33961e7b9f1cb40745bcd88a56",
+      "revision": 1
     },
     "url:https://careersus-shure.icims.com/jobs/4976/job": {
       "eligible": false,
@@ -11716,6 +11731,16 @@
       "eligible": false,
       "fingerprint": "9c7e752ba64f5c17aa87d75b548ed3450484ec4a8bece0c47f3d7aab079baf3b",
       "revision": 0
+    },
+    "url:https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/full-stack-software-development-intern_2025287-1": {
+      "eligible": false,
+      "fingerprint": "3ac7457f0a5883ccba777fe6504bad12b7f6bf12a55423f87a0f384aae9c93bc",
+      "revision": 1
+    },
+    "url:https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/full-stack-software-development-intern_2025287-2": {
+      "eligible": false,
+      "fingerprint": "3ac7457f0a5883ccba777fe6504bad12b7f6bf12a55423f87a0f384aae9c93bc",
+      "revision": 1
     },
     "url:https://cna.wd1.myworkdayjobs.com/cna_careers/job/chicago-il-usa/technology-internship-program--agile-product-design-_r-8125": {
       "eligible": false,
@@ -16420,7 +16445,6 @@
         ],
         "locations": [
           "sunnyvale, ca",
-          "sunnyvale, ca +1",
           "warren, mi"
         ],
         "requirements": [],
@@ -16429,8 +16453,8 @@
         ],
         "title": "software engineer intern - av/ai platform"
       },
-      "fingerprint": "27c919e781e7af55dd1978e4e22017befa320794a4c6a133979dc0f55eb25722",
-      "revision": 0
+      "fingerprint": "94bc3a2a03e48ca86377a0116b24f906f1b2ca0da01453a78036546cdd49df64",
+      "revision": 1
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/milford-michigan-united-states-of-america/xmlname-2027-summer-intern--systems-engineer--asd_jr-202621989": {
       "eligible": true,
@@ -16740,6 +16764,22 @@
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---vehicle-health-management_jr-202622258": {
       "eligible": false,
       "fingerprint": "9e461b8d2c9fea8ac45504bf1341aaa1751a55d18f276c1450ce98b14e1064ca",
+      "revision": 1
+    },
+    "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---software-verification-engineer--av-ai-platform_jr-202621697": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "general motors",
+        "degrees": [],
+        "locations": [
+          "warren, mi"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "2027 summer intern - software verification engineer - av/ai platform"
+      },
+      "fingerprint": "b8c6698d17de2aa264c67429ea721f0a64e3488a6898fb1994b086a480ebf872",
       "revision": 1
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern--adas-software-engineer--adpt_jr-202621820": {
@@ -21696,9 +21736,26 @@
       "revision": 0
     },
     "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-quality-assurance-intern_uni4802-1": {
-      "eligible": false,
-      "fingerprint": "e02b97aff9eabc7ad30fa4a45e185b39a5c48b8afec2af78240a104f2a259e3d",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "hp inc.",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software quality assurance intern"
+      },
+      "fingerprint": "c02558cde9b05624d9877a1a64df98b5d75b454056aedef76d2da718c69f1b60",
+      "revision": 1
     },
     "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-systems-intern_uni4801-1": {
       "eligible": true,
@@ -21772,25 +21829,9 @@
       "revision": 0
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern---hp-iq_uni4806": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "hp inc.",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "san francisco, ca",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "9a3ea2a00b8efc2745926e96122e87f34f5efddd9dd1dc2550b897e252c31318",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "7ddbdf0f3cc2036c9a86bb0e5e64724b711cd43b2acd3a6f5815eb3419aea63d",
+      "revision": 2
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--connectivity---hp-iq_uni4812": {
       "eligible": true,
@@ -27617,8 +27658,8 @@
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005": {
       "eligible": false,
-      "fingerprint": "f6cb5705c17e6ae7a78a91f1a48ade07e298982b0167653228794359c6231cdb",
-      "revision": 1
+      "fingerprint": "c980499f1eb9daaf4bade57f4504dd1f90baf123887d9ec44c4f64dee35a3133",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008": {
       "eligible": false,
@@ -41221,7 +41262,8 @@
           "bachelor's"
         ],
         "locations": [
-          "linthicum heights, md"
+          "linthicum heights, md",
+          "linthicum, md"
         ],
         "requirements": [],
         "terms": [
@@ -41229,8 +41271,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "40b73e16c8590f288abbc08e79c189fa65918743219f411fc962ef0c0df4e225",
-      "revision": 1
+      "fingerprint": "496a64496ed8ccff624bf03817e0546e1276d22bb264e518d808733862bd6408",
+      "revision": 2
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-beavercreek/xmlname-2027-software-engineering-intern---beavercreek-oh_r10257656": {
       "eligible": true,
@@ -45809,6 +45851,43 @@
       "fingerprint": "e360da7152ad55d3198629405c58658cb85da0d56fdf8580a3942351c01ef674",
       "revision": 0
     },
+    "url:https://studentopportunities-lutron.icims.com/jobs/5384/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lutron",
+        "degrees": [],
+        "locations": [
+          "philadelphia, pa"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "summer 2027 - software engineering intern - philadelphia - pa"
+      },
+      "fingerprint": "18ce6f1678fb6cfc0c4072e04993f4c1c5d8f0b5596efd985b7bde1ab747ef2e",
+      "revision": 1
+    },
+    "url:https://studentopportunities-lutron.icims.com/jobs/5386/job": {
+      "eligible": false,
+      "fingerprint": "58691a46e5ad5d1bb431dc3904c39034c39ef9f7e1bc01e03d6707b7b08b67c1",
+      "revision": 1
+    },
+    "url:https://studentopportunities-lutron.icims.com/jobs/5387/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lutron",
+        "degrees": [],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "summer 2027 - software engineering intern - boston - ma"
+      },
+      "fingerprint": "1f9d4fa0d95a4abebb5d00e465f90f013aca8e77ce2dc30148e48ac534f73a6d",
+      "revision": 1
+    },
     "url:https://studentopportunities-lutron.icims.com/jobs/5392/job": {
       "eligible": true,
       "evidence": {
@@ -48343,6 +48422,7 @@
         ],
         "locations": [
           "remote",
+          "remote - usa",
           "remote in usa",
           "united states"
         ],
@@ -48353,8 +48433,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "5220b7bce281805b3c3d732651172932a75f86935153b4728ca631a899606b99",
-      "revision": 2
+      "fingerprint": "80479cfef5d9cd21e524cab95eaefe28f3379d474ed654f8f2ec79d81957081b",
+      "revision": 3
     },
     "url:https://wgu.wd5.myworkdayjobs.com/external/job/salt-lake-city-ut/intern---technical-writing_jr-026370": {
       "eligible": false,
@@ -48761,6 +48841,22 @@
       },
       "fingerprint": "e1f38f2cd259d7ef362e0dba0745d8d8978467603aa5c026699c4b440cd4dba9",
       "revision": 0
+    },
+    "url:https://www.amazon.jobs/jobs/10593521/apply": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "amazon",
+        "degrees": [],
+        "locations": [
+          "seattle, wa"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "software development engineer intern - machine learning/automated reasoning- summer 2027"
+      },
+      "fingerprint": "c22615e3e037e7d8a844946a1078ec43755b041a1960e2e02f3fd948998ca539",
+      "revision": 1
     },
     "url:https://www.american-equity.com/about/careers/openings?gh_jid=5233862007": {
       "eligible": false,
@@ -52402,7 +52498,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 46,
+  "scan_sequence": 47,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
