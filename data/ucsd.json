@@ -41132,6 +41132,27 @@
       "fingerprint": "03cb92ba51be250ea051dede4e7123d6d31792d87662212da640403f5772717f",
       "revision": 1
     },
+    "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern-product-support---data-scientist_r10258679": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "northrop grumman",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "san diego, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data scientist intern - product support"
+      },
+      "fingerprint": "7b32251e70bb810ab5b82e902d5da539abe2a71293326a4b0fc3e1ce64cd9b0d",
+      "revision": 1
+    },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-woodland-hills/xmlname-2027-systems-engineer-intern---woodland-hills-ca_r10249319-1": {
       "eligible": true,
       "evidence": {
@@ -52381,7 +52402,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 42,
+  "scan_sequence": 43,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

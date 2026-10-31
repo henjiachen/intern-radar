@@ -16757,6 +16757,21 @@
       "company": "Northrop Grumman",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "06a50770c06b22940d2e4c8811450d319605c6b5ca74e56db9905bdb554c91d9",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Scientist Intern - Product Support",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679"
+    },
+    {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "e314f5359a2c3ba640737b8cbee6f3e0ffb4c847731753d3d9aa072260af6b53",
       "locations": [
         "Linthicum Heights, MD"
@@ -26189,7 +26204,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-10-31T13:03:25.858366+00:00",
+  "last_checked": "2026-10-31T13:55:50.651065+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
