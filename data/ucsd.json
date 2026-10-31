@@ -17268,29 +17268,9 @@
       "revision": 0
     },
     "url:https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/united-states---california---foster-city/intern---research---strategy--innovation---portfolio_r0054502": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "gilead sciences",
-        "degrees": [
-          "bachelor's",
-          "jd",
-          "master's",
-          "mba",
-          "phd"
-        ],
-        "locations": [
-          "foster city, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2026",
-          "summer 2027"
-        ],
-        "title": "research intern - strategy, innovation & portfolio - ai"
-      },
-      "fingerprint": "287e105b3cc0e3f1a74b7b64df31af761ba92e502ab92a1ea98b83606845e59c",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "646e7f88b075d2b19e13866315288e6841f818937ba06c85372344538a162ba8",
+      "revision": 3
     },
     "url:https://globalcareers-sas.icims.com/jobs/42645/job": {
       "eligible": true,
@@ -18526,25 +18506,9 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/cr": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "national bank of canada",
-        "degrees": [],
-        "locations": [
-          "aurora, co",
-          "canada",
-          "remote",
-          "united states"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "artificial intelligence developer intern"
-      },
-      "fingerprint": "ad0b78263bd7633c7360351c8ce4482f8bc7b72ff2ecf1ce13413ceab3cc2808",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "89e61ae76963a695ca2b4245b39f884382e6edeb79e5b54ad9dfc678ff04481c",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/cs": {
       "eligible": false,
@@ -18749,6 +18713,11 @@
     "url:https://go.vansh.nyc/f4": {
       "eligible": false,
       "fingerprint": "9e3d96c58aa6de3576e359a8fcaa254488f4d6fd335e80c567761710d51191f3",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/f5": {
+      "eligible": false,
+      "fingerprint": "c192a8a0fa94ae9bfe3431d82bd9eeaaf80175e3ed37ad162b66a1f04f883b04",
       "revision": 1
     },
     "url:https://go.vansh.nyc/fk": {
@@ -19248,6 +19217,11 @@
       "eligible": false,
       "fingerprint": "6b8a419169d1cbf188cc9bf96bff38a3fd14b218fae54f166f912be82f38b071",
       "revision": 0
+    },
+    "url:https://go.vansh.nyc/mc": {
+      "eligible": false,
+      "fingerprint": "f6d884accb1fde62f2555b8a014c0dd3f347da9740a26d44b9d167c09bc3c0bd",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/mp": {
       "eligible": true,
@@ -23966,14 +23940,17 @@
           "san francisco, california, united states",
           "sf"
         ],
-        "requirements": [],
+        "requirements": [
+          "[only keep this if we do not sponsor the role] please note that visa sponsorship is not available for this position.",
+          "please note that visa sponsorship is not available for this position."
+        ],
         "terms": [
           "summer 2027"
         ],
         "title": "software engineer (machine learning) intern (summer 2027)"
       },
-      "fingerprint": "d5becc3067e153c22e344977fa1de9efbd2ee3f6a163f52bfc7bde80a3aa2cf0",
-      "revision": 0
+      "fingerprint": "969ac13b83dab4e0c30afebaf6c0d36e0e0df136cce72a802a486cd5cd63ca2e",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/affirm/jobs/8011375003": {
       "eligible": true,
@@ -46494,8 +46471,7 @@
         "company": "trane technologies",
         "degrees": [],
         "locations": [
-          "saint paul, mn",
-          "st paul, mn"
+          "saint paul, mn"
         ],
         "requirements": [],
         "terms": [
@@ -46503,8 +46479,8 @@
         ],
         "title": "software development engineering intern"
       },
-      "fingerprint": "f9cebebb55304463795bb03196aed5f69fc32858845f7ee2eeef7d39d34cc24e",
-      "revision": 1
+      "fingerprint": "d8f8963e03bf64f3a6eb6366896eb03e39620522be911f67b5c164c6c2705a4f",
+      "revision": 2
     },
     "url:https://transamerica.wd5.myworkdayjobs.com/us/job/cedar-rapids-iowa/data-analytics-intern--spring-2027--full-time-hours-_r20062776": {
       "eligible": false,
@@ -50946,6 +50922,8 @@
     "https://go.vansh.nyc/11t": 29,
     "https://go.vansh.nyc/121": 32,
     "https://go.vansh.nyc/122": 32,
+    "https://go.vansh.nyc/128": 38,
+    "https://go.vansh.nyc/129": 38,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -51645,6 +51623,8 @@
     "https://go.vansh.nyc/11t": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102549",
     "https://go.vansh.nyc/121": "https://careers.nintendo.com/?gh_jid=4473550009",
     "https://go.vansh.nyc/122": "https://otto-engineering-inc.breezy.hr/p/c0fdaec6842c-embedded-software-intern-communications-summer-2027",
+    "https://go.vansh.nyc/128": "https://spa.jibeapply.com/jobs/23698?icims=1",
+    "https://go.vansh.nyc/129": "https://firstcitizens.jibeapply.com/jobs/36311?icims=1",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -52301,7 +52281,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 37,
+  "scan_sequence": 38,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
