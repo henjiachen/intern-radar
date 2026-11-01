@@ -455,13 +455,13 @@
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-university-graduate---technical-support-consultant_r172785": {
       "eligible": false,
-      "fingerprint": "078286817e5066ed22883eefd5a192f3b73659a36891898b90d83816abebb531",
-      "revision": 2
+      "fingerprint": "7f6a8eb1eda08f3bb59e2dd1ce068923613096b11618a3ffc73765d5cbfa001b",
+      "revision": 3
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-university-graduate---technical-support-consultant_r172786": {
       "eligible": false,
-      "fingerprint": "078286817e5066ed22883eefd5a192f3b73659a36891898b90d83816abebb531",
-      "revision": 2
+      "fingerprint": "7f6a8eb1eda08f3bb59e2dd1ce068923613096b11618a3ffc73765d5cbfa001b",
+      "revision": 3
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/yerevan/xmlname-2027-intern--software-engineer_r173019": {
       "eligible": false,
@@ -13748,14 +13748,40 @@
       "revision": 0
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011082": {
-      "eligible": false,
-      "fingerprint": "c4a6fcacb7aa13d7af4eeb5e17c0ccd9345b2eb98154beae57b3b49684469b06",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "american express",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, enterprise technology services"
+      },
+      "fingerprint": "2c042ba6f719a62e45b3e3b46206f6506062ef4d4c306121996f70988f51a7f9",
+      "revision": 2
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011084": {
-      "eligible": false,
-      "fingerprint": "6bff41d480ea6ac9879b65e98aff7ff106cca865745e4c2406817822020d7245",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "american express",
+        "degrees": [],
+        "locations": [
+          "sunrise, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, enterprise technology services"
+      },
+      "fingerprint": "5c8fc665fb93e9aa256c025c9eef9bf57ce83fc20868e579412326138e5fa23e",
+      "revision": 1
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011607": {
       "eligible": false,
@@ -13818,10 +13844,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - enterprise technology services"
+        "title": "software engineer intern, enterprise technology services"
       },
-      "fingerprint": "a48b9499ed82c231a0c0e1506922a4b6b7ef809109ef8cc3d93147ba67309c31",
-      "revision": 0
+      "fingerprint": "75c4d8379b70f4c5ccba59f5a6e70f41b5005453758e9a05be38c686eed0b749",
+      "revision": 1
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011831": {
       "eligible": true,
@@ -13890,9 +13916,22 @@
       "revision": 1
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26012392": {
-      "eligible": false,
-      "fingerprint": "8a005ebe4b9b11835999b4534e0630b83ed36efd524df401bc99d7e821eb899a",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "american express",
+        "degrees": [],
+        "locations": [
+          "phoenix, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineer intern, enterprise technology services"
+      },
+      "fingerprint": "33c4009e7dd9f64665b693b8ea961b507993ac20a199721d23249aa1a1d0507c",
+      "revision": 1
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26012668": {
       "eligible": false,
@@ -33919,13 +33958,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
-        "title": "associate \u2013 software engineering intern"
+        "title": "associate software engineering intern"
       },
-      "fingerprint": "f7f3323c2e929f593c5aa5eea037e8cd9246fada6a1132c65a819ec33c03a63e",
-      "revision": 1
+      "fingerprint": "b8732aa2ceb53d33d9ccf0f07f1258398579ed4d6ae62ec81e554b387f972aa3",
+      "revision": 2
     },
     "url:https://jobs.l3harris.com/job/lynchburg-software-engineer-intern-va-24501-6952/1428447700?ats=successfactors": {
       "eligible": false,
@@ -53536,7 +53574,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 58,
+  "scan_sequence": 59,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
