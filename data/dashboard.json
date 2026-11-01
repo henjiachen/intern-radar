@@ -5208,6 +5208,21 @@
       "company": "ByteDance",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "f90ac665daea2f7998240b3831c745016793ca6754e588cdc12900d6e338b753",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-11-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform",
+      "url": "https://joinbytedance.com/search/7670359660813895989"
+    },
+    {
+      "company": "ByteDance",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "6df2ed689eee795a546282f168aff3b9144e4e3d425027a5d5ef188ef1944de0",
       "locations": [
         "San Jose, CA"
@@ -6849,6 +6864,21 @@
       "source": "greenhouse",
       "title": "Software Engineer Intern",
       "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
+    },
+    {
+      "company": "Collier Aerospace",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ed44bbc5ab0e850db01f50d9ddf8ee53e1d623cd72c18492252720c176dc51a0",
+      "locations": [
+        "Newport News, VA"
+      ],
+      "posted_at": "2026-09-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51"
     },
     {
       "company": "Collier Aerospace",
@@ -15006,6 +15036,21 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://careers.l3harris.com/en/job/carlsbad/software-engineering-intern-carlsbad-ca/4832/102563115568"
+    },
+    {
+      "company": "L3Harris Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c8ed7531541aa6d5dfdbbdf13640dceb0e161010e94b437d88a7905844e4c3a7",
+      "locations": [
+        "Bristol, PA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.l3harris.com/en/job/bristol/software-engineering-intern/4832/100436665344"
     },
     {
       "company": "Lawrence Livermore National Laboratory (LLNL)",
@@ -27112,7 +27157,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-01T09:00:03.487895+00:00",
+  "last_checked": "2026-11-01T09:57:29.784485+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

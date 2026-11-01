@@ -9661,6 +9661,24 @@
       "fingerprint": "c7ec8d95e7d0e5d163554a87ffdb662c1e0ab9d4293a2a63203960430715735e",
       "revision": 0
     },
+    "url:https://careers.l3harris.com/en/job/bristol/software-engineering-intern/4832/100436665344": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "l3harris technologies",
+        "degrees": [],
+        "locations": [
+          "bristol, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "06e07716a2452f14ae90d1ea5669a85c8e97ad2e9c895e3953c87e4091bf7163",
+      "revision": 1
+    },
     "url:https://careers.l3harris.com/en/job/carlsbad/software-engineering-intern-carlsbad-ca/4832/102563115568": {
       "eligible": true,
       "evidence": {
@@ -18594,6 +18612,11 @@
     "url:https://go.vansh.nyc/14v": {
       "eligible": false,
       "fingerprint": "ab9395304b1f87dbe676930e38ac1779a1a143e776a1db204cb70d5d1b14606e",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/15e": {
+      "eligible": false,
+      "fingerprint": "5dcc626f3ca838d0dba6a3d33546fcb3856466b57f508a7152698cf7cfbe2f17",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1a": {
@@ -37338,6 +37361,24 @@
       "fingerprint": "2d09c40c2895d1039e81cd25fc577f9691143d4f2cfe3f6ef7799f7bd877a4d6",
       "revision": 1
     },
+    "url:https://joinbytedance.com/search/7670359660813895989": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "bytedance",
+        "degrees": [],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "multi-cloud cdn scheduling platform engineer intern, cdn platform"
+      },
+      "fingerprint": "73af7af274640d12f677c6884515cf77c0352f7443eb39300e7b878d52d10804",
+      "revision": 1
+    },
     "url:https://joinbytedance.com/search/7670690923748870405": {
       "eligible": true,
       "evidence": {
@@ -52695,6 +52736,8 @@
     "https://go.vansh.nyc/14x": 60,
     "https://go.vansh.nyc/14y": 60,
     "https://go.vansh.nyc/14z": 60,
+    "https://go.vansh.nyc/15G": 62,
+    "https://go.vansh.nyc/15J": 62,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -53483,6 +53526,8 @@
     "https://go.vansh.nyc/14x": "https://joinbytedance.com/search/7670772641439041797",
     "https://go.vansh.nyc/14y": "https://joinbytedance.com/search/7670778018960542005",
     "https://go.vansh.nyc/14z": "https://joinbytedance.com/search/7668315137242351925",
+    "https://go.vansh.nyc/15G": "https://joinbytedance.com/search/7670359660813895989",
+    "https://go.vansh.nyc/15J": "https://careers.l3harris.com/en/job/bristol/software-engineering-intern/4832/100436665344",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -54139,7 +54184,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 61,
+  "scan_sequence": 62,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
