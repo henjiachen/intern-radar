@@ -15008,6 +15008,21 @@
       "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
     },
     {
+      "company": "KnowBe4",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "335e475a0144d97122498a75232d9f04971af91085eafdab3cbfcbd1955517f6",
+      "locations": [
+        "Clearwater, FL"
+      ],
+      "posted_at": "2026-11-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002"
+    },
+    {
       "company": "Koch Industries",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -27338,7 +27353,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-01T20:50:49.742483+00:00",
+  "last_checked": "2026-11-01T21:50:20.055592+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

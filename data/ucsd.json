@@ -18698,14 +18698,9 @@
       "fingerprint": "fc59081015038ef0c41289015c2770256f121c16c536f7ba7d0a8fba6ae14d66",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/18x": {
+    "url:https://go.vansh.nyc/190": {
       "eligible": false,
-      "fingerprint": "80b99d01a819025f58073d2cdc7f1e5a8350914dc22d360e23d5d085fb780530",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/18y": {
-      "eligible": false,
-      "fingerprint": "68697246c6765a3ff17ba6fd874eb226240f073d78121e4b741a5a9cffe92ddb",
+      "fingerprint": "727ce22e4b7ef72d862e468967ddff0c533554fd22e9392a1c106e2e1b141ad1",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1a": {
@@ -26951,6 +26946,24 @@
       "eligible": false,
       "fingerprint": "aec1c857b3c56a0fae6e8b88150f663dd23cca0898e447a8bbaa074b360331a1",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/knowbe4/jobs/8919280002": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "knowbe4",
+        "degrees": [],
+        "locations": [
+          "clearwater, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "1f0fcb7848b9c89785d963afc1adfcaba002e218857641245e57ffbb2cba5133",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/kodiak/jobs/4396622009": {
       "eligible": false,
@@ -53176,6 +53189,7 @@
     "https://go.vansh.nyc/18s": 63,
     "https://go.vansh.nyc/18t": 63,
     "https://go.vansh.nyc/18u": 63,
+    "https://go.vansh.nyc/191": 74,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -54024,6 +54038,7 @@
     "https://go.vansh.nyc/18s": "https://lifeattiktok.com/search/7675159726676101381",
     "https://go.vansh.nyc/18t": "https://lifeattiktok.com/search/7646621925436131637",
     "https://go.vansh.nyc/18u": "https://lifeattiktok.com/search/7672926068681951493",
+    "https://go.vansh.nyc/191": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -54680,7 +54695,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 73,
+  "scan_sequence": 74,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
