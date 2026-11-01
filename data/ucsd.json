@@ -2726,7 +2726,6 @@
           "master's"
         ],
         "locations": [
-          "tulsa, ok",
           "united states"
         ],
         "requirements": [],
@@ -2735,8 +2734,8 @@
         ],
         "title": "software engineer intern, security & identity"
       },
-      "fingerprint": "234a26e39b34b36a7ee6213b0cf562fe789e54ba609e986b4a237aa1278ad2ad",
-      "revision": 2
+      "fingerprint": "93f08067e97022b5d5c5a55d6dc026633224cb3511b7eba47d78896ebed4dbe0",
+      "revision": 3
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393557045445": {
       "eligible": false,
@@ -16965,6 +16964,7 @@
         ],
         "locations": [
           "sunnyvale, ca",
+          "sunnyvale, ca +1",
           "warren, mi"
         ],
         "requirements": [],
@@ -16973,8 +16973,8 @@
         ],
         "title": "software engineer intern - av/ai platform"
       },
-      "fingerprint": "94bc3a2a03e48ca86377a0116b24f906f1b2ca0da01453a78036546cdd49df64",
-      "revision": 1
+      "fingerprint": "27c919e781e7af55dd1978e4e22017befa320794a4c6a133979dc0f55eb25722",
+      "revision": 2
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/milford-michigan-united-states-of-america/xmlname-2027-summer-intern--systems-engineer--asd_jr-202621989": {
       "eligible": true,
@@ -22459,16 +22459,13 @@
       "revision": 0
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern---hp-iq_uni4806": {
-      "eligible": false,
-      "fingerprint": "7ddbdf0f3cc2036c9a86bb0e5e64724b711cd43b2acd3a6f5815eb3419aea63d",
-      "revision": 2
-    },
-    "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--connectivity---hp-iq_uni4812": {
       "eligible": true,
       "evidence": {
-        "category": "hardware",
+        "category": "software",
         "company": "hp inc.",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "san francisco, ca",
           "sf"
@@ -22477,10 +22474,15 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - connectivity"
+        "title": "software engineer intern"
       },
-      "fingerprint": "bfeeecac61f886883b1c39d19ae9a82675f78500b5668865db940680feffd286",
-      "revision": 0
+      "fingerprint": "9a3ea2a00b8efc2745926e96122e87f34f5efddd9dd1dc2550b897e252c31318",
+      "revision": 3
+    },
+    "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--connectivity---hp-iq_uni4812": {
+      "eligible": false,
+      "fingerprint": "1c35a1cfa8bd6ac6806c58239b2c71360bea599f2ea90fccb80fc0e6e728642f",
+      "revision": 1
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-product-security-intern---hp-iq_uni4810-1": {
       "eligible": true,
@@ -54678,7 +54680,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 70,
+  "scan_sequence": 71,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
