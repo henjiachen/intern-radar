@@ -2914,6 +2914,31 @@
       "fingerprint": "950f130f44ee21e0dd614a238207d7e866643a984d75adcb21c30c065c91cdab",
       "revision": 1
     },
+    "url:https://apply.edisoncareers.com/job/alhambra-2027-summer-internship-computer-science-(alhambrarosemeadpomona)-ca-91803-0000/1425151100?ats=successfactors": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "edison international",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "mba",
+          "phd"
+        ],
+        "locations": [
+          "alhambra, ca",
+          "pomona, ca",
+          "rosemead, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "computer science intern"
+      },
+      "fingerprint": "550563c11b046b6e1992932648a8ecf32d5d70e12ae9ebd9aa36349e547e3372",
+      "revision": 1
+    },
     "url:https://apply.edisoncareers.com/job/chino-2027-summer-internship-softwaredata-engineering-(chino)-ca-91710/1424663800?ats=successfactors": {
       "eligible": true,
       "evidence": {
@@ -37290,6 +37315,11 @@
       "fingerprint": "7c42b49718f5a8d9bd1c4f21e22c5a8da9479a42d3e7a90a0c0b663fed0d2257",
       "revision": 1
     },
+    "url:https://joinbytedance.com/search/7670330161462364421": {
+      "eligible": false,
+      "fingerprint": "5dcc626f3ca838d0dba6a3d33546fcb3856466b57f508a7152698cf7cfbe2f17",
+      "revision": 1
+    },
     "url:https://joinbytedance.com/search/7670359288608114949": {
       "eligible": true,
       "evidence": {
@@ -54109,7 +54139,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 60,
+  "scan_sequence": 61,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

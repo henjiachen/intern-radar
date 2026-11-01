@@ -2159,32 +2159,16 @@
       "company": "American Century Investments",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "5bdf99c130de0731881a7364caab29ea0af30ebf65cd66ca499e89d9118516e6",
-      "locations": [
-        "Southlake, TX",
-        "Kansas City, MO"
-      ],
-      "posted_at": "2026-09-25",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Enterprise Data Intern",
-      "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Enterprise-Data-Intern_R0005751"
-    },
-    {
-      "company": "American Century Investments",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "76627c6e34e6821cb3314bcd71744c13568f6d09f0a74bb59c86e08c2d40ce03",
       "locations": [
         "Kansas City, MO"
       ],
-      "posted_at": "2026-09-25",
+      "posted_at": "2026-09-26",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "speedyapply",
       "title": "Software Developer Intern",
-      "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1"
+      "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/americancenturyinvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1"
     },
     {
       "company": "American Express",
@@ -6870,21 +6854,6 @@
       "company": "Collier Aerospace",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "ed44bbc5ab0e850db01f50d9ddf8ee53e1d623cd72c18492252720c176dc51a0",
-      "locations": [
-        "Newport News, VA"
-      ],
-      "posted_at": "2026-09-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51"
-    },
-    {
-      "company": "Collier Aerospace",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "5dc9f6aaf83d4eb7fdf9430769592a08f5fc55012ca8b4b9a1aece723ee18074",
       "locations": [
         "Newport News, VA"
@@ -8603,6 +8572,23 @@
       "source": "simplify",
       "title": "Computer Science Intern",
       "url": "https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors"
+    },
+    {
+      "company": "Edison International",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "fd4799b8593a82ff91c6c7860ca00f80c0b9a8b1728019f2277b3c8005c04b07",
+      "locations": [
+        "Alhambra, CA",
+        "Pomona, CA",
+        "Rosemead, CA"
+      ],
+      "posted_at": "2026-09-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Computer Science Intern",
+      "url": "https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors"
     },
     {
       "company": "Edison International",
@@ -27126,7 +27112,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-01T08:13:30.971046+00:00",
+  "last_checked": "2026-11-01T09:00:03.487895+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
