@@ -18693,16 +18693,6 @@
       "fingerprint": "14f9f6a94217b6f1b3248e97e7d2581adf40ed2e38f16c09cd8ea16d83f4f6b9",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/18n": {
-      "eligible": false,
-      "fingerprint": "91c787f30ce20b4b877f95cbff99d03e50e675eff76702c322474bc17a52c119",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/18q": {
-      "eligible": false,
-      "fingerprint": "51f1225a13788bff6749906f6a201ab602ecc97e4244a13cb0e807b960b0d407",
-      "revision": 1
-    },
     "url:https://go.vansh.nyc/18v": {
       "eligible": false,
       "fingerprint": "fc59081015038ef0c41289015c2770256f121c16c536f7ba7d0a8fba6ae14d66",
@@ -25639,9 +25629,26 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/divcowest/jobs/4244219009": {
-      "eligible": false,
-      "fingerprint": "87f2271366b98bae4e0c8f81d61c93aaef78b183b7734a7fcdf39755850a3306",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "divcowest",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "ai intern"
+      },
+      "fingerprint": "368730e3a2800c5693d9447e6f13dea2e807165fbb94cd285ccfcbd9abc12488",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/divergent/jobs/5393519008": {
       "eligible": true,
@@ -26629,9 +26636,28 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/insomniac/jobs/6226611004": {
-      "eligible": false,
-      "fingerprint": "9b8350b6e072c020e6d97ed4ade6c8f31d58e1aa653ffee4a780ed6acb8c4a65",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "insomniac games",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "burbank, ca",
+          "remote",
+          "remote in usa",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "gameplay programmer intern"
+      },
+      "fingerprint": "1246b9660d2d2b40dc2eab34716bb4ab5d45de00422af7e01b5b19bb7844d67b",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/insomniac/jobs/6227080004": {
       "eligible": true,
@@ -53085,6 +53111,8 @@
     "https://go.vansh.nyc/18F": 63,
     "https://go.vansh.nyc/18G": 63,
     "https://go.vansh.nyc/18H": 63,
+    "https://go.vansh.nyc/18L": 66,
+    "https://go.vansh.nyc/18P": 66,
     "https://go.vansh.nyc/18a": 63,
     "https://go.vansh.nyc/18c": 63,
     "https://go.vansh.nyc/18d": 63,
@@ -53929,6 +53957,8 @@
     "https://go.vansh.nyc/18F": "https://lifeattiktok.com/search/7629500062003218741",
     "https://go.vansh.nyc/18G": "https://lifeattiktok.com/search/7621299118434961669",
     "https://go.vansh.nyc/18H": "https://lifeattiktok.com/search/7584179082162653445",
+    "https://go.vansh.nyc/18L": "https://job-boards.greenhouse.io/divcowest/jobs/4244219009",
+    "https://go.vansh.nyc/18P": "https://job-boards.greenhouse.io/insomniac/jobs/6226611004",
     "https://go.vansh.nyc/18a": "https://lifeattiktok.com/search/7681783406632782085",
     "https://go.vansh.nyc/18c": "https://lifeattiktok.com/search/7667338938890930437",
     "https://go.vansh.nyc/18d": "https://lifeattiktok.com/search/7674032146438162693",
@@ -54603,7 +54633,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 65,
+  "scan_sequence": 66,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

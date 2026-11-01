@@ -7960,6 +7960,21 @@
       "url": "https://www.disneycareers.com/en/job/glendale/product-and-technology-software-engineering-intern-summer-2027/391/102343795584"
     },
     {
+      "company": "DivcoWest",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ee6bbbf5dc5ed57aea19936e458412e613fc0595af66142fafb446bf86459988",
+      "locations": [
+        "SF"
+      ],
+      "posted_at": "2026-05-08",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Intern",
+      "url": "https://job-boards.greenhouse.io/divcowest/jobs/4244219009"
+    },
+    {
       "company": "Divergent Technologies",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -13446,6 +13461,22 @@
       "source": "simplify",
       "title": "Engine and Tools Programming Intern",
       "url": "https://job-boards.greenhouse.io/insomniac/jobs/6227080004"
+    },
+    {
+      "company": "Insomniac Games",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "46a3fadab6ffd18f8ec7da3dbfcb8425204865ffd330f62a6eac408e60e9380b",
+      "locations": [
+        "Burbank, CA",
+        "Remote in USA"
+      ],
+      "posted_at": "2026-10-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Gameplay Programmer Intern",
+      "url": "https://job-boards.greenhouse.io/insomniac/jobs/6226611004"
     },
     {
       "company": "Insperity",
@@ -27382,7 +27413,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-01T13:05:41.790663+00:00",
+  "last_checked": "2026-11-01T13:57:05.858509+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
