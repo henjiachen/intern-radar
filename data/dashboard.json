@@ -369,6 +369,36 @@
       "company": "Microsoft",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "ee8adbf0ba60f5b8955c7aa7acb5db43f94da7e1105aae940257498447485826",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted_at": "2026-09-11",
+      "priority": 9,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221"
+    },
+    {
+      "company": "Microsoft",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "578f945416a10b6598dc3f85fa17fc911fce99f24cc2a4ce346202128e29406c",
+      "locations": [
+        "Reston, VA"
+      ],
+      "posted_at": "2026-09-11",
+      "priority": 9,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223"
+    },
+    {
+      "company": "Microsoft",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "3c6ef66be3a160d1a9ff512eac8ae4aa82e1d55d5525ff9403a9045c7a572fed",
       "locations": [
         "Redmond, WA"
@@ -1824,6 +1854,21 @@
       "company": "Amazon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "d86f9b9f2bb9745c04bf17f99bf2ebcea8e5e023f265f79e97adca663edd4440",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "posted_at": "2026-08-27",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027"
+    },
+    {
+      "company": "Amazon",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "9a42d7cc94746daa11a885e0f13aeb48781481e222b7d46bb748ab6fdafacaf1",
       "locations": [
         "Seattle, WA"
@@ -2602,11 +2647,11 @@
       "locations": [
         "Los Angeles, CA"
       ],
-      "posted_at": "2026-09-17",
+      "posted_at": "2026-09-16",
       "priority": 11,
       "priority_program": false,
-      "source": "speedyapply",
-      "title": "Multiphysics Software Intern - Summer 2027",
+      "source": "vanshb03",
+      "title": "Multiphysics Software Intern",
       "url": "https://jobs.ashbyhq.com/antares/922a527d-9826-446d-9aba-ffc611995830"
     },
     {
@@ -2683,21 +2728,6 @@
       "source": "simplify",
       "title": "Automation Developer Intern",
       "url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7"
-    },
-    {
-      "company": "APEX Analytix",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "d61efe0a6796eeeb8f111739c5408c1fadc976b1c1b701f4ac28f4831e9d0d84",
-      "locations": [
-        "Greensboro, NC"
-      ],
-      "posted_at": "2026-09-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analyst Intern - Summer 2027",
-      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef"
     },
     {
       "company": "APEX Analytix",
@@ -5178,6 +5208,21 @@
       "company": "ByteDance",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "047104ac7bde38b9aba932974cde48b85f8da8de5ac4533d61437c2f84213ae8",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "posted_at": "2026-11-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Machine Learning Engineer Intern, AML-Engine-Orchestration",
+      "url": "https://joinbytedance.com/search/7672382828525832501"
+    },
+    {
+      "company": "ByteDance",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "e7b194873ecbdd04fb4501bddf1b049030838598e41f2ce886b0c59b7907ffbe",
       "locations": [
         "San Jose, CA"
@@ -5323,6 +5368,21 @@
       "source": "simplify",
       "title": "Software Development Engineer Intern - Network Automation - 2027 Summer",
       "url": "https://jobs.bytedance.com/en/position/7671147251943213317/detail"
+    },
+    {
+      "company": "ByteDance",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "64ca1d5f85b774bbd483d529728de52ca8e76738aa2178041933ed0b504df61f",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-11-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Network Automation",
+      "url": "https://joinbytedance.com/search/7671147251943213317"
     },
     {
       "company": "ByteDance",
@@ -12832,6 +12892,21 @@
       "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors"
     },
     {
+      "company": "Hyphenate",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "7b4d4849008c1a8ca2a6a8ca6a8f921b6db61f3907196be9aaaac822da2c3de1",
+      "locations": [
+        "NYC"
+      ],
+      "posted_at": "2026-08-25",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/hyphenate/3ff6e57d-5430-4836-b6f0-19044d8ee6d8/application?embed=true"
+    },
+    {
       "company": "Hyster-Yale Materials Handling",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -13805,6 +13880,21 @@
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864"
     },
     {
+      "company": "Intuit",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "fb713f32af6345b5645f3f9b980cb5d13d1e470cbd456ad647c159f418386d1a",
+      "locations": [
+        "United States"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Full Stack",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/100620927520"
+    },
+    {
       "company": "Inversion Space",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -13928,6 +14018,21 @@
       "source": "simplify",
       "title": "Software Intern",
       "url": "https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233/application?embed=true"
+    },
+    {
+      "company": "IXL Learning",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "02f4407c91388e0ac58ead76ac8f83b3d7a323dd1eb05604e823fd5406969b65",
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "posted_at": "2026-10-07",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8862214002"
     },
     {
       "company": "J.M. Smucker",
@@ -23224,6 +23329,21 @@
       "company": "TikTok",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "6cf26c3223087dfd4b2aa604432f167f9e61ec494164f092a514de15905d5ca1",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-06-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Software Engineer Intern - Transaction Platform",
+      "url": "https://lifeattiktok.com/search/7646621925436131637"
+    },
+    {
+      "company": "TikTok",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "ab71af003c72431f82ca0ac99db52f60a3c125a9b1270454310b5dd6fc614548",
       "locations": [
         "San Jose, CA"
@@ -23479,6 +23599,21 @@
       "company": "TikTok",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "247410953072d1e6a9b09402a9128e395601daa3cbb6510c861cb48c7c1acd8d",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-09-22",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Engineer Intern - Data Platform - TikTok BP",
+      "url": "https://lifeattiktok.com/search/7681783406632782085"
+    },
+    {
+      "company": "TikTok",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "8ebf0dece07051d4f4ea8da5a28bb2b0fe64ca84315eae8c927e3232624c2522",
       "locations": [
         "San Jose, CA"
@@ -23549,6 +23684,21 @@
       "source": "simplify",
       "title": "Data Science Intern - TikTok Product",
       "url": "https://lifeattiktok.com/search/7669683639101884725"
+    },
+    {
+      "company": "TikTok",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "08b2e6c8be1212b3c82aa348e2ce20829790061130b137993b56ea9b935bb8f6",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-08-18",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Science Project Intern - Advertisement Team",
+      "url": "https://lifeattiktok.com/search/7675080308216154373"
     },
     {
       "company": "TikTok",
@@ -24584,6 +24734,51 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Trust and Safety Engineering",
       "url": "https://lifeattiktok.com/search/7662684280234232117"
+    },
+    {
+      "company": "TikTok",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "47bba1a34907623f11b6cf85a131da8a30ffcc3fa1c3ee6fa7c5add79723e469",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-03-26",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Project Intern - Content AI Infrastructure",
+      "url": "https://lifeattiktok.com/search/7621299118434961669"
+    },
+    {
+      "company": "TikTok",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "d5180535c742fbfbede329a78bbee76d262a85710fc45fe54ccc921003caf28b",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-06-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Project Intern - Lead Ads",
+      "url": "https://lifeattiktok.com/search/7584179082162653445"
+    },
+    {
+      "company": "TikTok",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "165c229981de90d63fbdb097f1bc52f957a62616d42ddae62fc4dcc380205ba2",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-04-20",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Project Intern - Recommendation Infrastructure",
+      "url": "https://lifeattiktok.com/search/7629500062003218741"
     },
     {
       "company": "Tive",
@@ -27157,7 +27352,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-01T09:57:29.784485+00:00",
+  "last_checked": "2026-11-01T10:53:11.685328+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

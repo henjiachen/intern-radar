@@ -2550,14 +2550,48 @@
       "revision": 0
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393556983221": {
-      "eligible": false,
-      "fingerprint": "a06520e6f68d83300c0a5c6d16d1ffdc908efefb832020145546facc37203698",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "microsoft",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "635a01cce673265581b7763d30f78b9bfe0e65450cf0d2fe775ae693c1f95e5b",
+      "revision": 1
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393556983223": {
-      "eligible": false,
-      "fingerprint": "db967cc71fe35ef1dd36a7333bd39c61493dad91d72b52e6dd3a56efdbbe5663",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "microsoft",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "reston, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "3af1787176b3c8e2ccbab868c309d3befc6371be7605a03fa8c64ee98023af5d",
+      "revision": 1
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393556986141": {
       "eligible": false,
@@ -18619,6 +18653,66 @@
       "fingerprint": "5dcc626f3ca838d0dba6a3d33546fcb3856466b57f508a7152698cf7cfbe2f17",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/17b": {
+      "eligible": false,
+      "fingerprint": "45e1af6fc0904119c0993360f94df0d70634fd8090c09f96107d05ea62d88553",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/17e": {
+      "eligible": false,
+      "fingerprint": "d67c2665a2ffeac06f56496097b798b7ced5de24fef28b2e15042bd3400d8567",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/17f": {
+      "eligible": false,
+      "fingerprint": "1000c7306f899a5c7c8de3ecaf939f9cc61117433b6fffd61cc2a6f81e22ace6",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/17i": {
+      "eligible": false,
+      "fingerprint": "83362dd7af4000394d10505e0531a1c8395b7befe0760863b46ffc78f2843d09",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/17r": {
+      "eligible": false,
+      "fingerprint": "ab24f93af0b2b3194288b569f349ad39e7cbcd152418812035ef1690a2a867d4",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/188": {
+      "eligible": false,
+      "fingerprint": "c2f6078e5f90d023c27eab9587377105a2e96e56d45d6627da078275827c31a5",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/18a": {
+      "eligible": false,
+      "fingerprint": "14f9f6a94217b6f1b3248e97e7d2581adf40ed2e38f16c09cd8ea16d83f4f6b9",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/18n": {
+      "eligible": false,
+      "fingerprint": "91c787f30ce20b4b877f95cbff99d03e50e675eff76702c322474bc17a52c119",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/18q": {
+      "eligible": false,
+      "fingerprint": "51f1225a13788bff6749906f6a201ab602ecc97e4244a13cb0e807b960b0d407",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/18v": {
+      "eligible": false,
+      "fingerprint": "fc59081015038ef0c41289015c2770256f121c16c536f7ba7d0a8fba6ae14d66",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/18x": {
+      "eligible": false,
+      "fingerprint": "80b99d01a819025f58073d2cdc7f1e5a8350914dc22d360e23d5d085fb780530",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/18y": {
+      "eligible": false,
+      "fingerprint": "68697246c6765a3ff17ba6fd874eb226240f073d78121e4b741a5a9cffe92ddb",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1a": {
       "eligible": false,
       "fingerprint": "5eac4b2520af69713b41cb3a5781359f3d1a7249d8abdaf4c60b1e3bb9e13488",
@@ -27725,8 +27819,8 @@
     },
     "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003": {
       "eligible": false,
-      "fingerprint": "7c523ca9d94c3a3f81c030318d2ec2791aaf14c3baa1fc571820630271be37a7",
-      "revision": 1
+      "fingerprint": "c279a642393abb396ccfcabca01c6459bde24734319b5496cd23bd868e1d5ea8",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/scaleai/jobs/4730834005": {
       "eligible": false,
@@ -29268,11 +29362,13 @@
           "los angeles, ca"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "multiphysics software intern - summer 2027"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "multiphysics software intern"
       },
-      "fingerprint": "7f0550f3994cecccdc0a0d32a8f72e39f080cf7010fe964be228d27352647aae",
-      "revision": 0
+      "fingerprint": "8705ded1a068f8a49bc7fbf3ce59cf8122838092b08ea4982f123e17841f0b68",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96": {
       "eligible": true,
@@ -30322,9 +30418,27 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/hyphenate/3ff6e57d-5430-4836-b6f0-19044d8ee6d8": {
-      "eligible": false,
-      "fingerprint": "134408e6d207ec05827c4190f79bd9ea745b5655a91d8abe0e82521e63875a2d",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "hyphenate",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "new york, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "cc549d84c9c5a806dd32724b35a93d79697547411c91f80730ada767d5744b5b",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269": {
       "eligible": true,
@@ -33475,6 +33589,24 @@
       },
       "fingerprint": "60dd94503514255ad15927ab08e6e4b88703fe71e7df8881ff2b672ef80b90be",
       "revision": 0
+    },
+    "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/100620927520": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intuit",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, full stack"
+      },
+      "fingerprint": "97c85f23804b8e66f0fd22fa5bbcad4672c805b642ad7d6be6071615cb000fa1",
+      "revision": 1
     },
     "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864": {
       "eligible": true,
@@ -37469,6 +37601,24 @@
       "fingerprint": "33edc65a22f2021eaf8694c81645e38466ae7aad7078b0d6d2b3945b5ed897dd",
       "revision": 1
     },
+    "url:https://joinbytedance.com/search/7671147251943213317": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "bytedance",
+        "degrees": [],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development engineer intern, network automation"
+      },
+      "fingerprint": "c2b6c06d8f20a974f9412149197ad4f75c03167578468079d7cf1c877ce85bbf",
+      "revision": 1
+    },
     "url:https://joinbytedance.com/search/7671162985123907845": {
       "eligible": true,
       "evidence": {
@@ -37503,6 +37653,24 @@
         "title": "machine learning engineer intern, aml-engine-orchestration"
       },
       "fingerprint": "a5bb212f00d7a288262b60779e7b260f1166c6c9b881eb2f642fbbe924d8cfa2",
+      "revision": 1
+    },
+    "url:https://joinbytedance.com/search/7672382828525832501": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "bytedance",
+        "degrees": [],
+        "locations": [
+          "seattle, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "machine learning engineer intern, aml-engine-orchestration"
+      },
+      "fingerprint": "c738ee9b22f1101007f5f2601659ab5f20183945d3266ecf7b47e15eae25775c",
       "revision": 1
     },
     "url:https://joinbytedance.com/search/7672386983965100341": {
@@ -38392,9 +38560,26 @@
       "revision": 0
     },
     "url:https://lifeattiktok.com/search/7584179082162653445": {
-      "eligible": false,
-      "fingerprint": "97ff10ac7a9719786d3d05fa9ab7c7b346245382a53a383c73dd87dea5091188",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "tiktok",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer project intern - lead ads"
+      },
+      "fingerprint": "2b04969d77b7a3b94817dd208fc69c13d38dd608eb6572628741d154abd5211e",
+      "revision": 1
     },
     "url:https://lifeattiktok.com/search/7595733632086591797": {
       "eligible": false,
@@ -38445,9 +38630,26 @@
       "revision": 0
     },
     "url:https://lifeattiktok.com/search/7621299118434961669": {
-      "eligible": false,
-      "fingerprint": "3eeb5580eaab87a5cf6e72975ae654cbbca4c87b50de2932edd00272e400daf3",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "tiktok",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer project intern - content ai infrastructure"
+      },
+      "fingerprint": "f285b282c7979a9da5c2e4e6cbf5ad1567397992a4db0cf046d4fa3b73fae8bf",
+      "revision": 1
     },
     "url:https://lifeattiktok.com/search/7624284785283746053": {
       "eligible": false,
@@ -38475,9 +38677,26 @@
       "revision": 0
     },
     "url:https://lifeattiktok.com/search/7629500062003218741": {
-      "eligible": false,
-      "fingerprint": "09a8fc06869b10871ac223eca3d5fbd9507bead576ad716d5f0c7988902846c7",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "tiktok",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer project intern - recommendation infrastructure"
+      },
+      "fingerprint": "2699b668d09e7f6c41eba637916d80d0814e9421b660b6623e92ed254af76a1c",
+      "revision": 1
     },
     "url:https://lifeattiktok.com/search/7630767896739154229": {
       "eligible": false,
@@ -38510,9 +38729,26 @@
       "revision": 0
     },
     "url:https://lifeattiktok.com/search/7646621925436131637": {
-      "eligible": false,
-      "fingerprint": "2ab766a013be00bd71a2aa586e0f207cc6aeb4666fa2f26b9c8bb59d7ae49481",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "tiktok",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "ai software engineer intern - transaction platform"
+      },
+      "fingerprint": "9cef3db4716c2c34923c0aeed93c71075bd2788a8a550884ed26279e5b232e0e",
+      "revision": 1
     },
     "url:https://lifeattiktok.com/search/7659527183984019765": {
       "eligible": false,
@@ -40322,9 +40558,25 @@
       "revision": 0
     },
     "url:https://lifeattiktok.com/search/7675080308216154373": {
-      "eligible": false,
-      "fingerprint": "0af32e4fcf6e00ef559c722277fe57cbcbb55819de97f088247cc47448fb7f4c",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "tiktok",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "data science project intern - advertisement team"
+      },
+      "fingerprint": "df69d214c828686169d2e5696a695c049e8c2527cb9390789b305b44a6bce7e6",
+      "revision": 1
     },
     "url:https://lifeattiktok.com/search/7675128776856029445": {
       "eligible": true,
@@ -40552,9 +40804,26 @@
       "revision": 0
     },
     "url:https://lifeattiktok.com/search/7681783406632782085": {
-      "eligible": false,
-      "fingerprint": "c7afebc10371e5f553d00400552bae9b51452b334be40d023ebff1d1db873dd3",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "tiktok",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "data engineer intern - data platform - tiktok bp"
+      },
+      "fingerprint": "977fb2fd3790188bcacd047d263334335b170d8783dbb35625e83123fe51da91",
+      "revision": 1
     },
     "url:https://lifeattiktok.com/search/7684612598114240821": {
       "eligible": true,
@@ -50147,6 +50416,24 @@
       "fingerprint": "297a06f209ad0c6a3f74801dd3b28637fca2734e1f3b7f8e9c289345c8fb6a17",
       "revision": 0
     },
+    "url:https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "amazon",
+        "degrees": [],
+        "locations": [
+          "cupertino, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development engineer intern, annapurna labs"
+      },
+      "fingerprint": "d056addbcabfef4e5a2a6636510b03ef57066d99abed8f88d85591aa5e1e0fe0",
+      "revision": 1
+    },
     "url:https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics": {
       "eligible": true,
       "evidence": {
@@ -50858,9 +51145,23 @@
       "revision": 0
     },
     "url:https://www.ixl.com/company/jobs?gh_jid=8862214002": {
-      "eligible": false,
-      "fingerprint": "8942484a40ba77f27b3a7f78961dcf0769eb9b8304ff3a8df62922ef9908651e",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "ixl learning",
+        "degrees": [],
+        "locations": [
+          "san mateo, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "33bf8e35c3ebf6d62edd0eb9cfd3ac2a0dbe089df0164ab40f5e5c66f17aaeb5",
+      "revision": 1
     },
     "url:https://www.janestreet.com/join-jane-street/position/8384490002": {
       "eligible": true,
@@ -52738,6 +53039,60 @@
     "https://go.vansh.nyc/14z": 60,
     "https://go.vansh.nyc/15G": 62,
     "https://go.vansh.nyc/15J": 62,
+    "https://go.vansh.nyc/17A": 63,
+    "https://go.vansh.nyc/17D": 63,
+    "https://go.vansh.nyc/17G": 63,
+    "https://go.vansh.nyc/17H": 63,
+    "https://go.vansh.nyc/17K": 63,
+    "https://go.vansh.nyc/17M": 63,
+    "https://go.vansh.nyc/17N": 63,
+    "https://go.vansh.nyc/17O": 63,
+    "https://go.vansh.nyc/17P": 63,
+    "https://go.vansh.nyc/17Q": 63,
+    "https://go.vansh.nyc/17R": 63,
+    "https://go.vansh.nyc/17S": 63,
+    "https://go.vansh.nyc/17U": 63,
+    "https://go.vansh.nyc/17V": 63,
+    "https://go.vansh.nyc/17W": 63,
+    "https://go.vansh.nyc/17X": 63,
+    "https://go.vansh.nyc/17Y": 63,
+    "https://go.vansh.nyc/17Z": 63,
+    "https://go.vansh.nyc/17t": 63,
+    "https://go.vansh.nyc/17u": 63,
+    "https://go.vansh.nyc/17x": 63,
+    "https://go.vansh.nyc/17y": 63,
+    "https://go.vansh.nyc/17z": 63,
+    "https://go.vansh.nyc/180": 63,
+    "https://go.vansh.nyc/181": 63,
+    "https://go.vansh.nyc/182": 63,
+    "https://go.vansh.nyc/183": 63,
+    "https://go.vansh.nyc/184": 63,
+    "https://go.vansh.nyc/189": 63,
+    "https://go.vansh.nyc/18B": 63,
+    "https://go.vansh.nyc/18C": 63,
+    "https://go.vansh.nyc/18D": 63,
+    "https://go.vansh.nyc/18E": 63,
+    "https://go.vansh.nyc/18F": 63,
+    "https://go.vansh.nyc/18G": 63,
+    "https://go.vansh.nyc/18H": 63,
+    "https://go.vansh.nyc/18a": 63,
+    "https://go.vansh.nyc/18c": 63,
+    "https://go.vansh.nyc/18d": 63,
+    "https://go.vansh.nyc/18e": 63,
+    "https://go.vansh.nyc/18f": 63,
+    "https://go.vansh.nyc/18g": 63,
+    "https://go.vansh.nyc/18h": 63,
+    "https://go.vansh.nyc/18i": 63,
+    "https://go.vansh.nyc/18j": 63,
+    "https://go.vansh.nyc/18k": 63,
+    "https://go.vansh.nyc/18l": 63,
+    "https://go.vansh.nyc/18m": 63,
+    "https://go.vansh.nyc/18o": 63,
+    "https://go.vansh.nyc/18p": 63,
+    "https://go.vansh.nyc/18r": 63,
+    "https://go.vansh.nyc/18s": 63,
+    "https://go.vansh.nyc/18t": 63,
+    "https://go.vansh.nyc/18u": 63,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -53528,6 +53883,60 @@
     "https://go.vansh.nyc/14z": "https://joinbytedance.com/search/7668315137242351925",
     "https://go.vansh.nyc/15G": "https://joinbytedance.com/search/7670359660813895989",
     "https://go.vansh.nyc/15J": "https://careers.l3harris.com/en/job/bristol/software-engineering-intern/4832/100436665344",
+    "https://go.vansh.nyc/17A": "https://jobs.ashbyhq.com/antares/922a527d-9826-446d-9aba-ffc611995830",
+    "https://go.vansh.nyc/17D": "https://www.ixl.com/company/jobs?gh_jid=8862214002",
+    "https://go.vansh.nyc/17G": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003",
+    "https://go.vansh.nyc/17H": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/100620927520",
+    "https://go.vansh.nyc/17K": "https://joinbytedance.com/search/7672382828525832501",
+    "https://go.vansh.nyc/17M": "https://joinbytedance.com/search/7671147251943213317",
+    "https://go.vansh.nyc/17N": "https://lifeattiktok.com/search/7668654528822954245",
+    "https://go.vansh.nyc/17O": "https://lifeattiktok.com/search/7669700822370945333",
+    "https://go.vansh.nyc/17P": "https://lifeattiktok.com/search/7667935738190465285",
+    "https://go.vansh.nyc/17Q": "https://lifeattiktok.com/search/7669700361976809733",
+    "https://go.vansh.nyc/17R": "https://lifeattiktok.com/search/7669682935444900149",
+    "https://go.vansh.nyc/17S": "https://lifeattiktok.com/search/7670875283026053381",
+    "https://go.vansh.nyc/17U": "https://lifeattiktok.com/search/7667934792727906565",
+    "https://go.vansh.nyc/17V": "https://lifeattiktok.com/search/7668881813744191749",
+    "https://go.vansh.nyc/17W": "https://lifeattiktok.com/search/7670839727059339525",
+    "https://go.vansh.nyc/17X": "https://lifeattiktok.com/search/7669709472078170373",
+    "https://go.vansh.nyc/17Y": "https://lifeattiktok.com/search/7669683639101884725",
+    "https://go.vansh.nyc/17Z": "https://lifeattiktok.com/search/7669711968043092229",
+    "https://go.vansh.nyc/17t": "https://jobs.ashbyhq.com/hyphenate/3ff6e57d-5430-4836-b6f0-19044d8ee6d8",
+    "https://go.vansh.nyc/17u": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+    "https://go.vansh.nyc/17x": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+    "https://go.vansh.nyc/17y": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+    "https://go.vansh.nyc/17z": "https://jobs.ashbyhq.com/antares/419ef2df-f0aa-4b68-994a-077e08a959e3",
+    "https://go.vansh.nyc/180": "https://lifeattiktok.com/search/7669698648817305909",
+    "https://go.vansh.nyc/181": "https://lifeattiktok.com/search/7669693163422845237",
+    "https://go.vansh.nyc/182": "https://lifeattiktok.com/search/7669707492914727221",
+    "https://go.vansh.nyc/183": "https://lifeattiktok.com/search/7676276048527214901",
+    "https://go.vansh.nyc/184": "https://lifeattiktok.com/search/7675517686256863541",
+    "https://go.vansh.nyc/189": "https://lifeattiktok.com/search/7668379675467761925",
+    "https://go.vansh.nyc/18B": "https://lifeattiktok.com/search/7667346576033777925",
+    "https://go.vansh.nyc/18C": "https://lifeattiktok.com/search/7670281449668905269",
+    "https://go.vansh.nyc/18D": "https://lifeattiktok.com/search/7670295535077427509",
+    "https://go.vansh.nyc/18E": "https://lifeattiktok.com/search/7670289874020993285",
+    "https://go.vansh.nyc/18F": "https://lifeattiktok.com/search/7629500062003218741",
+    "https://go.vansh.nyc/18G": "https://lifeattiktok.com/search/7621299118434961669",
+    "https://go.vansh.nyc/18H": "https://lifeattiktok.com/search/7584179082162653445",
+    "https://go.vansh.nyc/18a": "https://lifeattiktok.com/search/7681783406632782085",
+    "https://go.vansh.nyc/18c": "https://lifeattiktok.com/search/7667338938890930437",
+    "https://go.vansh.nyc/18d": "https://lifeattiktok.com/search/7674032146438162693",
+    "https://go.vansh.nyc/18e": "https://lifeattiktok.com/search/7675128776856029445",
+    "https://go.vansh.nyc/18f": "https://lifeattiktok.com/search/7671232204182276405",
+    "https://go.vansh.nyc/18g": "https://lifeattiktok.com/search/7670700387322300677",
+    "https://go.vansh.nyc/18h": "https://lifeattiktok.com/search/7670876223732762933",
+    "https://go.vansh.nyc/18i": "https://lifeattiktok.com/search/7670738362521520437",
+    "https://go.vansh.nyc/18j": "https://lifeattiktok.com/search/7667350291952765237",
+    "https://go.vansh.nyc/18k": "https://lifeattiktok.com/search/7675080308216154373",
+    "https://go.vansh.nyc/18l": "https://lifeattiktok.com/search/7668383643375257909",
+    "https://go.vansh.nyc/18m": "https://lifeattiktok.com/search/7668581636242016565",
+    "https://go.vansh.nyc/18o": "https://lifeattiktok.com/search/7672930401597671733",
+    "https://go.vansh.nyc/18p": "https://lifeattiktok.com/search/7665475460339665157",
+    "https://go.vansh.nyc/18r": "https://lifeattiktok.com/search/7668396597746862341",
+    "https://go.vansh.nyc/18s": "https://lifeattiktok.com/search/7675159726676101381",
+    "https://go.vansh.nyc/18t": "https://lifeattiktok.com/search/7646621925436131637",
+    "https://go.vansh.nyc/18u": "https://lifeattiktok.com/search/7672926068681951493",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -54184,7 +54593,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 62,
+  "scan_sequence": 63,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
