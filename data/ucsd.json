@@ -2544,6 +2544,11 @@
       "fingerprint": "6d5c858a32fad2318e9f0e4aee8b0b03c88e2e6738499820bf2142e959cdb4a8",
       "revision": 0
     },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393556922930": {
+      "eligible": false,
+      "fingerprint": "6970c1f8490717a8b6a659fcf54b65975664e49667aadebe6c28be4b13d8a5d6",
+      "revision": 1
+    },
     "url:https://apply.careers.microsoft.com/careers/job/1970393556982928": {
       "eligible": false,
       "fingerprint": "1aa25d34108d4b6c04690a0b63c44d79aec9bf95fdc84f9f57a0d8970ea145ec",
@@ -52366,6 +52371,11 @@
       "fingerprint": "46e88a85b7a256985fd734c3fa56cbbb756942e8199d3532305190fec64f65f3",
       "revision": 0
     },
+    "url:https://www.tesla.com/careers/search/job/283630": {
+      "eligible": false,
+      "fingerprint": "264057e43f1996811159c76268210070ae72db5b1b4dea39534772025815d94c",
+      "revision": 1
+    },
     "url:https://www.tesla.com/careers/search/job/283950": {
       "eligible": false,
       "fingerprint": "c0fb5cccf531ce956ad7769481cc6da95803da4ee69f051ebed3e0ad1ba5c4b3",
@@ -54593,7 +54603,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 63,
+  "scan_sequence": 64,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
