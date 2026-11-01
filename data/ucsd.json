@@ -13844,9 +13844,22 @@
       "revision": 0
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011987": {
-      "eligible": false,
-      "fingerprint": "91d3c5c6674e046366167e583311a5995bc17a36f99de8207df205b408ab2335",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "american express",
+        "degrees": [],
+        "locations": [
+          "charlotte, nc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, enterprise technology services"
+      },
+      "fingerprint": "8d6716994a7c5d6254f66463c1b6c372cd69a96eb63153d44225248f8f8edf4a",
+      "revision": 1
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011991": {
       "eligible": false,
@@ -13859,9 +13872,22 @@
       "revision": 0
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26012000": {
-      "eligible": false,
-      "fingerprint": "a0fe0749c95aca600ab253010978e4d179f5582541f011acaf1b0eeb6ad4f3a9",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "american express",
+        "degrees": [],
+        "locations": [
+          "atlanta, ga"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineer intern, enterprise technology services"
+      },
+      "fingerprint": "83505d8f1cb4494d6f75771ca65f7d0180593c88ca0ce6f04f59c09103031066",
+      "revision": 1
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26012392": {
       "eligible": false,
@@ -33936,13 +33962,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "3cde3b4af312bb0ba0eabaeda6040a549b6592bb20e9dfb1fa74ff53efabc36b",
-      "revision": 1
+      "fingerprint": "7d7e81abb6fe7c6afc3bb65331ba077faa91bd0a2b655386ea146948c79d9985",
+      "revision": 2
     },
     "url:https://jobs.l3harris.com/job/rochester-software-engineer-intern-ny-14609/1434927900?ats=successfactors": {
       "eligible": false,
@@ -53511,7 +53536,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 57,
+  "scan_sequence": 58,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

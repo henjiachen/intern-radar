@@ -2220,6 +2220,21 @@
       "company": "American Express",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "0a847b3adec877046a5fcf4ad57e9016bd8c3208a87ae1c1dd97a3e741f4611b",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "posted_at": "2026-08-21",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Engineer Intern, Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000"
+    },
+    {
+      "company": "American Express",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "ebe12304efb09fe786e9c0bf5109e07dacb010ec778d83bfdb22e8406d2f59ce",
       "locations": [
         "Phoenix, AZ"
@@ -2230,6 +2245,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784"
+    },
+    {
+      "company": "American Express",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "494128b9e7416f7c649d947b02e18488dfb4a4ef359a3d84e3aa035c943668ec",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "posted_at": "2026-08-21",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987"
     },
     {
       "company": "American Family Insurance Group",
@@ -14725,21 +14755,6 @@
       "company": "L3Harris Technologies",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "7aaf2f25eb602dfe0874c31938b52274e7d4f9052b0f48797cc8535d106c1ba5",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.l3harris.com/job/Rochester-Intern,-Software-Engineer-NY-14624/1443908600/?ats=successfactors"
-    },
-    {
-      "company": "L3Harris Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "8d81ba0f6060b27e606d5a6f699a2fc9123bab14f9924e42548bb0a2464b197c",
       "locations": [
         "Carlsbad, CA"
@@ -14750,6 +14765,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.l3harris.com/job/Carlsbad-Software-Engineering-Intern-(Carlsbad,-CA)-CA-92009/1444689600/?ats=successfactors"
+    },
+    {
+      "company": "L3Harris Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "7aaf2f25eb602dfe0874c31938b52274e7d4f9052b0f48797cc8535d106c1ba5",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "posted_at": "2026-10-27",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Rochester-Intern,-Software-Engineer-NY-14624/1443908600/?ats=successfactors"
     },
     {
       "company": "L3Harris Technologies",
@@ -26886,7 +26916,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-01T05:01:32.380918+00:00",
+  "last_checked": "2026-11-01T05:57:29.771895+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
