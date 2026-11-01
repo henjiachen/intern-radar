@@ -37114,6 +37114,42 @@
       "fingerprint": "5a41a7de04dc0485ae4dd1335db33213dd6fbb28333baa9798d561cb9bfc44fe",
       "revision": 0
     },
+    "url:https://jobs.sw.siemens.com/charlotte-mi/strategic-student-program-digital-enterprise-software-applications-internship-summer-2027-gscs/8d89e3d2343a4e86bc85950cd3257b3b/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "siemens digital industries software",
+        "degrees": [],
+        "locations": [
+          "charlotte, mi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "strategic student program digital enterprise software applications intern"
+      },
+      "fingerprint": "f467019d6073d7cfb94ad2a4f85d42cd5cdb1888741493c27001b4fc06f43a6c",
+      "revision": 1
+    },
+    "url:https://jobs.sw.siemens.com/chicago-il/strategic-student-program-digital-enterprise-software-applications-internship-summer-2027-gscs/ab07f3f4ad7548dbac579bd5394ec76c/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "siemens digital industries software",
+        "degrees": [],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "strategic student program digital enterprise software applications intern"
+      },
+      "fingerprint": "a087a0683eb241f8817beeee9b8f63f998f1ca62818d911a7d101a0bbbd235fd",
+      "revision": 1
+    },
     "url:https://jobs.uhsinc.com/jobs/367247?icims=1": {
       "eligible": true,
       "evidence": {
@@ -53118,6 +53154,8 @@
     "https://go.vansh.nyc/18H": 63,
     "https://go.vansh.nyc/18L": 66,
     "https://go.vansh.nyc/18P": 66,
+    "https://go.vansh.nyc/18U": 70,
+    "https://go.vansh.nyc/18V": 70,
     "https://go.vansh.nyc/18a": 63,
     "https://go.vansh.nyc/18c": 63,
     "https://go.vansh.nyc/18d": 63,
@@ -53964,6 +54002,8 @@
     "https://go.vansh.nyc/18H": "https://lifeattiktok.com/search/7584179082162653445",
     "https://go.vansh.nyc/18L": "https://job-boards.greenhouse.io/divcowest/jobs/4244219009",
     "https://go.vansh.nyc/18P": "https://job-boards.greenhouse.io/insomniac/jobs/6226611004",
+    "https://go.vansh.nyc/18U": "https://jobs.sw.siemens.com/charlotte-mi/strategic-student-program-digital-enterprise-software-applications-internship-summer-2027-gscs/8D89E3D2343A4E86BC85950CD3257B3B/job",
+    "https://go.vansh.nyc/18V": "https://jobs.sw.siemens.com/chicago-il/strategic-student-program-digital-enterprise-software-applications-internship-summer-2027-gscs/AB07F3F4AD7548DBAC579BD5394EC76C/job",
     "https://go.vansh.nyc/18a": "https://lifeattiktok.com/search/7681783406632782085",
     "https://go.vansh.nyc/18c": "https://lifeattiktok.com/search/7667338938890930437",
     "https://go.vansh.nyc/18d": "https://lifeattiktok.com/search/7674032146438162693",
@@ -54638,7 +54678,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 69,
+  "scan_sequence": 70,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
