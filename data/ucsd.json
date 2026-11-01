@@ -46781,6 +46781,11 @@
       "fingerprint": "bf5caadcd33c95214630b82dd2b5b1147d45df37dd2997d6da5fe61eeccaa35c",
       "revision": 0
     },
+    "url:https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US": {
+      "eligible": false,
+      "fingerprint": "b8ebbabbb219f5af5c693a2b4e8de90e22b71049e35b57dd644b75693e103d9a",
+      "revision": 1
+    },
     "url:https://selinc.wd1.myworkdayjobs.com/sel/job/idaho---boise/software-engineer-intern_2026-22958": {
       "eligible": false,
       "fingerprint": "748087d6b6515add41b04d7532ef6f65fa127be47c00e2e01746d5655120bdd0",
@@ -54633,7 +54638,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 67,
+  "scan_sequence": 68,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
