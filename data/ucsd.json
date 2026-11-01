@@ -26950,9 +26950,11 @@
     "url:https://job-boards.greenhouse.io/knowbe4/jobs/8919280002": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "knowbe4",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "clearwater, fl"
         ],
@@ -26962,8 +26964,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "1f0fcb7848b9c89785d963afc1adfcaba002e218857641245e57ffbb2cba5133",
-      "revision": 1
+      "fingerprint": "cd8d2731981380a5b26e38571b88d7634798f83b34e9d2424339a71e15efa599",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/kodiak/jobs/4396622009": {
       "eligible": false,
@@ -54695,7 +54697,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 75,
+  "scan_sequence": 76,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
