@@ -7548,6 +7548,24 @@
       "fingerprint": "1650f9d8a5ef38e509eb484afc3c726904d6124851898db9a64ff0ca34acd21e",
       "revision": 0
     },
+    "url:https://campus-us-corgan.icims.com/jobs/4109/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "corgan",
+        "degrees": [],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development intern"
+      },
+      "fingerprint": "3204dbddcae3c5c2e02a7c37356c28559b3d06194f6de015184f13b0f128eb2a",
+      "revision": 1
+    },
     "url:https://capitalone.wd12.myworkdayjobs.com/capital_one/job/new-york-ny/current-master-s--ai-engineering-internship-program---summer-2027_r249109-1": {
       "eligible": false,
       "fingerprint": "7b9f5aa09a492c42516bc55e3d95dc705056a412e9bc81739e68aebc7cacaa83",
@@ -7859,21 +7877,153 @@
       "fingerprint": "e63cd5b769d3a46a65bd5e5b4c36abc9e98411b39317b9a57288356c1df95881",
       "revision": 1
     },
+    "url:https://careers-ice.icims.com/jobs/14066/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intercontinental exchange",
+        "degrees": [],
+        "locations": [
+          "atlanta, ga"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development engineer in test intern"
+      },
+      "fingerprint": "d9c49fe461d76b74c4b2c88ef19adc52d2e5d398d517435947a69fe421b25f12",
+      "revision": 1
+    },
+    "url:https://careers-ice.icims.com/jobs/14070/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intercontinental exchange",
+        "degrees": [],
+        "locations": [
+          "jacksonville, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "agentic ai data science intern"
+      },
+      "fingerprint": "496f6226f23877c030df5e2cf44ce9a2ffb837a7735ade8bae5ca43e44dd93cd",
+      "revision": 1
+    },
+    "url:https://careers-ice.icims.com/jobs/14076/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intercontinental exchange",
+        "degrees": [],
+        "locations": [
+          "jacksonville, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern"
+      },
+      "fingerprint": "88b8ea3bfd21fbf54fbb80603243a255a6090132efed51f974d24e810b08a07b",
+      "revision": 1
+    },
+    "url:https://careers-ice.icims.com/jobs/14077/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intercontinental exchange",
+        "degrees": [],
+        "locations": [
+          "jacksonville, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "474dffe66a5acb3f23b1624b29875aac0f093da25ae938714d4b666f561e0f8f",
+      "revision": 1
+    },
+    "url:https://careers-ice.icims.com/jobs/14078/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intercontinental exchange",
+        "degrees": [],
+        "locations": [
+          "jacksonville, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, java"
+      },
+      "fingerprint": "c13181ef179005712d286a81ed20d5aeced9944fead4ef62f543d9dd012fbb19",
+      "revision": 1
+    },
+    "url:https://careers-ice.icims.com/jobs/14105/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intercontinental exchange",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "4b18db0018aeb5e46f5864511958df703de77bb9088668ddd21a477e11777caa",
+      "revision": 1
+    },
+    "url:https://careers-ice.icims.com/jobs/14113/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intercontinental exchange",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "4101ffc1e13a06e66c688f7c3b4cb462a2a8370ef428bc21b9cfd5f7c84615c0",
+      "revision": 1
+    },
     "url:https://careers-iridium.icims.com/jobs/5136/job": {
       "eligible": true,
       "evidence": {
         "category": "",
-        "company": "iridium satellite communications",
+        "company": "iridium communications",
         "degrees": [],
         "locations": [
-          "mclean, va +3"
+          "chandler, az",
+          "leesburg, va",
+          "mclean, va",
+          "mclean, va +3",
+          "tempe, az"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "iridium software engineering internship - summer 2027"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
       },
-      "fingerprint": "dec1bfee3913b39eb7940de4ef9eab72d0f7b2a606ef21c4f0680dcb1d32e50b",
-      "revision": 0
+      "fingerprint": "9849477f7e32b180d9133ef5ed3220582ead744e2b4fd3c38634f831a54a1dff",
+      "revision": 1
     },
     "url:https://careers-peraton.icims.com/jobs/169665/job": {
       "eligible": true,
@@ -7950,6 +8100,24 @@
       },
       "fingerprint": "421b647b6edde289ed9dc98b5d5f4ba4e249c4e3e42da0925bf24ac6492081d5",
       "revision": 0
+    },
+    "url:https://careers-thesilverlining.icims.com/jobs/3759/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "west bend insurance",
+        "degrees": [],
+        "locations": [
+          "west bend, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it software engineer intern"
+      },
+      "fingerprint": "82bf4a10ae8023e0840a88c0b5557a167b2c2bea7e6a482cf4884caf2e7b4a7e",
+      "revision": 1
     },
     "url:https://careers-westernsouthern.icims.com/jobs/25211/job": {
       "eligible": true,
@@ -12222,9 +12390,25 @@
       "revision": 0
     },
     "url:https://cswg.wd1.myworkdayjobs.com/cs_careers/job/edison-nj/is-internship---data-analytics---data-science_r-268963": {
-      "eligible": false,
-      "fingerprint": "6675e511e1156850fb700cb03fcabfb9a8160e640763c756a1f6a8eeb6e01f98",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "c&s wholesale grocers",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "edison, nj"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "is intern - data analytics & data science"
+      },
+      "fingerprint": "0ac52b4a863833d05c97b2fdd8cd68269135145c2f92c2c3b53f6e54809c54af",
+      "revision": 1
     },
     "url:https://cswg.wd1.myworkdayjobs.com/cs_careers/job/houston-tx/is-internship---web-applications_r-268964": {
       "eligible": false,
@@ -18216,20 +18400,55 @@
       "fingerprint": "34400478795a787ad98fc6c791273afe0cf271f3b229e995a07ff79ef59595f6",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/12i": {
-      "eligible": false,
-      "fingerprint": "2bd02fd3861081cc3e7f7e5623623974dbc8ee302e18f3f87bc0b302686cd9e4",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/12v": {
-      "eligible": false,
-      "fingerprint": "ea63243544a300fea359c7fd4a8d76c7fd7cbe5341c8b8dca1cc01ffb843503a",
-      "revision": 1
-    },
     "url:https://go.vansh.nyc/13": {
       "eligible": false,
       "fingerprint": "2dba11eb18e973b04eec563e905fa22ff1d46d8b859d9615ade33e796384bd13",
       "revision": 0
+    },
+    "url:https://go.vansh.nyc/13e": {
+      "eligible": false,
+      "fingerprint": "81d5098877685bd967630178e91b9fcedac48238d2e337c627a5aa4e848a51cf",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/13f": {
+      "eligible": false,
+      "fingerprint": "40eb9ef9dc7604a10b7b11433c2cfbba04c97373ce780201da0e4970efd574aa",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/13g": {
+      "eligible": false,
+      "fingerprint": "8ccccc6cfc993e390cfe2cfd0ef6e2d6f5ab3b16e04e15fdd37cca77927a6745",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/13j": {
+      "eligible": false,
+      "fingerprint": "ca9cb7f5e75277231ec7c9486f0b6123af87f7df24131678f0cb093906aceb41",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/13k": {
+      "eligible": false,
+      "fingerprint": "b0d737ad45be38be32444850145b468cf2535c28bc3dc4fb00ba07247269ca39",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/13l": {
+      "eligible": false,
+      "fingerprint": "97218de294ab10a5154a6fbc46ed790eadfac2d2d63404f1358fcf2bba3aa10a",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/13m": {
+      "eligible": false,
+      "fingerprint": "edcd621b17ea394083ffb385dd9e49faf1595b31e016a0bffc1ca3a6568ca8e4",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/13n": {
+      "eligible": false,
+      "fingerprint": "d4cbcfc25d9ad8906c673a88474d25e571329387dd7e96a9944c769900891729",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/13r": {
+      "eligible": false,
+      "fingerprint": "cd26af618432b1fdec8e2a5a69e465bd2a1eeb7236cea0defb3192d86afc4aae",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/14": {
       "eligible": false,
@@ -24382,9 +24601,25 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/arcesiumllc/jobs/5257176007": {
-      "eligible": false,
-      "fingerprint": "d408c839cad32bc9db0a1c9582fab5b5fc3b6f81af02c21bf026b2166b32595c",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "arcesium",
+        "degrees": [],
+        "locations": [
+          "new york city, ny",
+          "new york, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "79ab6e9e41bde9c5b4f459e772aa5bfa145d857c2330a9f0b98c1bf0689a6a6d",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/argmax/jobs/4067268009": {
       "eligible": false,
@@ -24834,9 +25069,27 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/braze/jobs/8301086": {
-      "eligible": false,
-      "fingerprint": "3eadf076a653df135764bab1fe65bacbd1dadd4fb5b7c3cc56aacc0c864394c0",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "braze",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "new york city, ny",
+          "new york, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "95063e89b3133215d46913bcb8b14d3605d5843f84a0e53a0ceb19c372f01b5f",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/brevium/jobs/4713683006": {
       "eligible": false,
@@ -25104,8 +25357,8 @@
     },
     "url:https://job-boards.greenhouse.io/datacor/jobs/5242412007": {
       "eligible": false,
-      "fingerprint": "52300722c14bcab3f1742d585d07f9c1ba173e72e01ec5742b270ff995869380",
-      "revision": 0
+      "fingerprint": "0dbbd933da26c7586beb1da2ca9b7afb87919e9ecea8272cc519ce67fd9213a8",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/didi/jobs/8198303": {
       "eligible": false,
@@ -26144,9 +26397,26 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/instead/jobs/7761472003": {
-      "eligible": false,
-      "fingerprint": "ce2fc1ce7273b7ff92e1f8c453674ffda27b5217d79b3999d34577b3d88d8f18",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "instead",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "3713657fd96d7503c4adea4d4ddbe1a84cfc769306e37e7de75ea0984c51573d",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/integra/jobs/5406092008": {
       "eligible": false,
@@ -26844,9 +27114,26 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/nyisointernships/jobs/5236084007": {
-      "eligible": false,
-      "fingerprint": "839647d432f35ee0cf2ad1778b47f18f04daadc7cd8a76f4b9fdcc73da303840",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "new york iso",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "rensselaer, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "information technology software development intern"
+      },
+      "fingerprint": "47f7baf5fd5224e8b9adff40ed98ef2b28a383d5eb2a8539e0cb337fc0e3341f",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/nyisointernships/jobs/5236684007": {
       "eligible": false,
@@ -28059,9 +28346,25 @@
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/usafacts/jobs/4472154009": {
-      "eligible": false,
-      "fingerprint": "cc9031d6758f0cb166b819f7d8f88c2f456e8663d130a22dc1eb31a223fa9ff1",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "usafacts",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "ai & software engineer intern"
+      },
+      "fingerprint": "9ddce92476cd9d88eaef05c1f328500dd4e42847d177d24664568b70ce549f3a",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221724004": {
       "eligible": false,
@@ -28388,9 +28691,29 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/wurljobs/jobs/4716249006": {
-      "eligible": false,
-      "fingerprint": "d539faf8b17f9325b0d75cd78ac0dc00771794d3842724fe7a13eb4663ab001f",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "wurl",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "remote",
+          "remote in usa",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "4b9edb3ab200be19695c5d56e9ba45dd1c1918f5fb87295d0b8b380fc38f5eb1",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/xai/jobs/5252108007": {
       "eligible": false,
@@ -28434,9 +28757,25 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455": {
-      "eligible": false,
-      "fingerprint": "afb41338f2fb20b923da294e14cacdb5e2c8be4f203d88f007aebc36612c09e0",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "ziprecruiter",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "santa monica, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "4f4c0524f58a12afffba962a6e3faa0513a782fcf79f80ddd0066880f261e04a",
+      "revision": 1
     },
     "url:https://jobs-cesi.icims.com/jobs/10965/job": {
       "eligible": false,
@@ -29120,9 +29459,27 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa": {
-      "eligible": false,
-      "fingerprint": "3614e60fc3cfbf83401ebd16000aa1badbdb1af359ae97f0f8b32aa561d063e6",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "clay",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "new york city, ny",
+          "new york, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "6f2d1d29b42dfe94a7fb57e87d5cd93b1762798d578b6c8819fc7eb763b771ad",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b": {
       "eligible": false,
@@ -29165,14 +29522,42 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a": {
-      "eligible": false,
-      "fingerprint": "de921c5bf2b8dc337f8649bfc4f08e694490e4022cd1cfd494af612904ddd18a",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "cowboy space",
+        "degrees": [],
+        "locations": [
+          "san carlos, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "31c4a386b34c286d33915c2828edc6a405c7f41552ff3a7e7b523b2670f21187",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f": {
-      "eligible": false,
-      "fingerprint": "2de3324ed1325aa0d701d3d0dc0d1b713e3d78aa1f7ef3f85210f3677e200a77",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "creatify lab",
+        "degrees": [],
+        "locations": [
+          "mountain view, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "93f5b971cd413b274bfdcbce6b753ef8f6685aec01b40027bd2b87ef24e7addd",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155": {
       "eligible": false,
@@ -29278,10 +29663,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "ai consulting associate program product owner intern"
+        "title": "product owner intern, ai consulting associate program (ai cap)"
       },
-      "fingerprint": "8954d878874d5019585fe3902ad4553550f939721e7bc6af71e276b7215319ad",
-      "revision": 0
+      "fingerprint": "6c9d397305ce85749e69450a2cf3de5a4e1c438ad489ce31e423872d86d410f4",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694": {
       "eligible": false,
@@ -29881,9 +30266,24 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233": {
-      "eligible": false,
-      "fingerprint": "57584e7ceab96d1798709da7d2b535ead44ae5b68b7825492daeb5b0a737ee13",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "ixian robotics",
+        "degrees": [],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software intern"
+      },
+      "fingerprint": "26b935b7254e01b703d6cd0e66b21df5117125f943452a8e79023de84da60a39",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a": {
       "eligible": false,
@@ -30203,9 +30603,28 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571": {
-      "eligible": false,
-      "fingerprint": "2e8fedfe51f3439fa8b5f65b86a373c8761fecc70cae030d465a06777b8a7454",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "one robot",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "machine learning intern"
+      },
+      "fingerprint": "1d13761b38d343892b24a349fea32b3f6adb494cf1d6304ee32fae9f53bac239",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254": {
       "eligible": true,
@@ -30280,6 +30699,7 @@
         ],
         "locations": [
           "new york city, ny",
+          "new york, ny",
           "nyc"
         ],
         "requirements": [],
@@ -30288,8 +30708,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "97bca1e796f31d13a5094190c031f3ab03c10b9992ed36bc9c0fea8c57f6a0b0",
-      "revision": 0
+      "fingerprint": "b5ea11d7af798417ef0a4f6dc9cd784d5ea5b6eba5ba08fdd42671a2bc703a32",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf": {
       "eligible": false,
@@ -30376,9 +30796,23 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b": {
-      "eligible": false,
-      "fingerprint": "e0d059a574c287cb3483892f370b6cc61f5e098eb68befd6e1c968e985047a15",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "powertown",
+        "degrees": [],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "machine learning engineer intern"
+      },
+      "fingerprint": "2637c5e0d0fb7a7dacd1690f2b4d0c18dedbd5212b2180adb34b59d842371b32",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/pramaana-labs/83f179da-9bc8-4146-b217-817b79e78fa0": {
       "eligible": false,
@@ -30489,9 +30923,26 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718": {
-      "eligible": false,
-      "fingerprint": "02d3f45bec08e5b8a6a631c771a68257266c0d199012b2e83fef533f1b2512f9",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "range",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "mclean, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "d53663de4cc991b6de2a876c1450cdb65002e7e24c81926409e164f61455bc49",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a": {
       "eligible": false,
@@ -30519,9 +30970,24 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e": {
-      "eligible": false,
-      "fingerprint": "a341ce9319617565c63e5a4e3815b2a623d291493fd603b83a1e9aa38eb5fd94",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "relling",
+        "degrees": [],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "robotics software engineering intern"
+      },
+      "fingerprint": "45614ef91ae55a5b52388033d8a1b065b654eb138f41a66231abeba83208a2a5",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea": {
       "eligible": false,
@@ -30585,9 +31051,26 @@
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5": {
-      "eligible": false,
-      "fingerprint": "c69b34ef170b5d220159eea90dc146b8c37bae8630f0c174094e340f2439ae77",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "rhoda ai",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "mountain view, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "robot software engineer intern"
+      },
+      "fingerprint": "a75ca4e00b16c347152d97411f3ae640787b1cc389ef07067c5af109a69a0fa5",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9": {
       "eligible": false,
@@ -31254,9 +31737,23 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/tensorwave/39091eeb-13fc-46a7-b7e5-0d4584ac53ab": {
-      "eligible": false,
-      "fingerprint": "a2619030c32fda9bf14ec6beb7dcad373170518399aa12fd238d012a10ebbbdd",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "tensorwave",
+        "degrees": [],
+        "locations": [
+          "las vegas, nv"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "2ebf2ab20d097f2a14137a50732135af583b8795048f702a0fe37fabed42a3c1",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5": {
       "eligible": true,
@@ -31443,14 +31940,45 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d": {
-      "eligible": false,
-      "fingerprint": "bdadd4ab8f34e4e40dcf6afed4d6ab7cdb416da3b05b591e25b9876f2432bf0a",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "webfx",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "harrisburg, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "web developer intern"
+      },
+      "fingerprint": "934cfbad94d72ada8f30785067b4259c50094348cf4e728c5f371741923764a4",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882": {
-      "eligible": false,
-      "fingerprint": "8e48b40006a6e065b6013c18b8e156610f7e7e5cc85ee40b9dfaf6758a8d85e0",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "western magnetics",
+        "degrees": [],
+        "locations": [
+          "south san francisco, ca",
+          "south sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "86e250e6fdc1d9516f52e18a95cbf8f56aba10de5b560e824f06bc5e7b17f123",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd": {
       "eligible": true,
@@ -34615,14 +35143,45 @@
       "revision": 0
     },
     "url:https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15": {
-      "eligible": false,
-      "fingerprint": "b5adaddc6edd6c2b9da80de25d34a04d42ff301b4710b3ad27d570f175c73dec",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "shopback",
+        "degrees": [],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "57a405c42da0be3025df96da6903225af68028f67843c8587e1d6abcbf39533d",
+      "revision": 1
     },
     "url:https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98": {
-      "eligible": false,
-      "fingerprint": "a47e87bc0624ee2d848a0b67a60dabc463143db168dc8d21b96aac41f4186922",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "shopback",
+        "degrees": [],
+        "locations": [
+          "new york city, ny",
+          "new york, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "ebaec28786ed32c56b47509da8ef98440b686d9d39ebf7be957e500d7eb4a4b9",
+      "revision": 1
     },
     "url:https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd": {
       "eligible": false,
@@ -35175,6 +35734,25 @@
       "fingerprint": "daece524e3d852661ec7026204afc270c46dda52c4d6af2dc903a32bd31af425",
       "revision": 0
     },
+    "url:https://jobs.smartrecruiters.com/aristanetworks/744000149101159": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "arista networks",
+        "degrees": [],
+        "locations": [
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, c/c++"
+      },
+      "fingerprint": "3beedcd9946cb3aecad4d201c817d9959530eabbb8bdb39f18894c3ec8bd996b",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/axleinformaticsllc/87331012": {
       "eligible": false,
       "fingerprint": "3350a2638cba315ccdb7a952d8e09a759d92fc93fe2dbcc09f584d6c7ac74eee",
@@ -35548,6 +36126,24 @@
       "eligible": false,
       "fingerprint": "6aacf6fe618b488545a1ada856cdbabd923e8354fdf07d971e2489dc00199d8d",
       "revision": 0
+    },
+    "url:https://jobs.smartrecruiters.com/keenfinity/744000152241469": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "keenfinity",
+        "degrees": [],
+        "locations": [
+          "lincoln, ne"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "a612f590ebd9f9e3579ede1fa7cb728233bf087256f4b9abd27507b994db88ed",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/linkedin3/744000156616169": {
       "eligible": true,
@@ -36856,14 +37452,48 @@
       "revision": 0
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineering-intern--c----unix-_2641325": {
-      "eligible": false,
-      "fingerprint": "a2fd8892a0667fe8fb4dcb93b40b91a7867664aa5fc9b9e06f61305bebcc1295",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "kla",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "milpitas, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software engineering intern - c++ - unix"
+      },
+      "fingerprint": "bdc7463deb2c1a435a3d0e491d6c3f6e98f298a4898ce1c74826a081d0e02431",
+      "revision": 1
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineering-intern_2641581": {
-      "eligible": false,
-      "fingerprint": "48d5c704efc58ada8a4e07db4bd73126e2f8c394692d3f7d12f4be1df26cb7ea",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "kla",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "milpitas, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "d4e495064720bbf4e2967092477117cfdb7d65a991363a4e14149bf8052d3363",
+      "revision": 1
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineering-intern_2642189": {
       "eligible": false,
@@ -40365,6 +40995,25 @@
       "fingerprint": "3c878bca1ae5853bafa3221fa4314fbcd1971c572fdd4138f844ccd5ef299aa6",
       "revision": 0
     },
+    "url:https://maxar.wd1.myworkdayjobs.com/vantor/job/remote-united-states/ai-engineer-intern_r24605": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "vantor",
+        "degrees": [],
+        "locations": [
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineer intern"
+      },
+      "fingerprint": "a27e790e75f7bf1dde761e7e7100f98188b2f6632d266328dc201f6d74a662e3",
+      "revision": 1
+    },
     "url:https://mckesson.wd3.myworkdayjobs.com/covermymeds_external_careers/job/usa-oh-columbus/cmm-technology-intern---summer-2027_jr0151979-2": {
       "eligible": true,
       "evidence": {
@@ -41558,9 +42207,25 @@
       "revision": 0
     },
     "url:https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/usa---rhode-island---east-providence/intern--software-engineering-_req53006": {
-      "eligible": false,
-      "fingerprint": "504444d52eb0f3e778c53c26f4f00f547e5e554512f066d4929ab5789b31b580",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "nordson",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "east providence, ri"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "ac5b4565afd836d81d29f42c920a5b102710ad4ab6675ddc503a6f7ca4aac2fb",
+      "revision": 1
     },
     "url:https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/milwaukee-wi-corporate/enterprise-sustainability---impact-intern---modeling---analytics--summer-2027_jr-46171": {
       "eligible": false,
@@ -47531,6 +48196,43 @@
       "fingerprint": "60778fa7c254e8be4d40ccf4ad268eea4707ae73a6180e7ea5482f7f8243d3bc",
       "revision": 1
     },
+    "url:https://uscareers-idemia.icims.com/jobs/8647/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "idemia",
+        "degrees": [],
+        "locations": [
+          "brentwood, tn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, enrollment and credentialing services"
+      },
+      "fingerprint": "c5afe1cf2cab3ec6e6a089e664a768c3e44926e9c349f8fbe2b40cbc8a6b2f03",
+      "revision": 1
+    },
+    "url:https://uscareers-idemia.icims.com/jobs/8650/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "idemia",
+        "degrees": [],
+        "locations": [
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "3f92f895c6c0057b29e6333c036fb382c56c7dfebe01205e40c79aede4f1aa53",
+      "revision": 1
+    },
     "url:https://uscareers-idemia.icims.com/jobs/8707/job": {
       "eligible": true,
       "evidence": {
@@ -51330,6 +52032,23 @@
     "https://go.vansh.nyc/122": 32,
     "https://go.vansh.nyc/128": 38,
     "https://go.vansh.nyc/129": 38,
+    "https://go.vansh.nyc/12B": 54,
+    "https://go.vansh.nyc/12C": 54,
+    "https://go.vansh.nyc/12D": 54,
+    "https://go.vansh.nyc/12E": 54,
+    "https://go.vansh.nyc/12H": 54,
+    "https://go.vansh.nyc/12K": 54,
+    "https://go.vansh.nyc/12L": 54,
+    "https://go.vansh.nyc/12M": 54,
+    "https://go.vansh.nyc/12N": 54,
+    "https://go.vansh.nyc/12O": 54,
+    "https://go.vansh.nyc/12P": 54,
+    "https://go.vansh.nyc/12R": 54,
+    "https://go.vansh.nyc/12U": 54,
+    "https://go.vansh.nyc/12W": 54,
+    "https://go.vansh.nyc/12X": 54,
+    "https://go.vansh.nyc/12Y": 54,
+    "https://go.vansh.nyc/12Z": 54,
     "https://go.vansh.nyc/12g": 42,
     "https://go.vansh.nyc/12h": 42,
     "https://go.vansh.nyc/12k": 50,
@@ -51343,6 +52062,37 @@
     "https://go.vansh.nyc/12s": 50,
     "https://go.vansh.nyc/12t": 50,
     "https://go.vansh.nyc/12u": 50,
+    "https://go.vansh.nyc/12z": 54,
+    "https://go.vansh.nyc/130": 54,
+    "https://go.vansh.nyc/131": 54,
+    "https://go.vansh.nyc/132": 54,
+    "https://go.vansh.nyc/133": 54,
+    "https://go.vansh.nyc/134": 54,
+    "https://go.vansh.nyc/135": 54,
+    "https://go.vansh.nyc/137": 54,
+    "https://go.vansh.nyc/138": 54,
+    "https://go.vansh.nyc/139": 54,
+    "https://go.vansh.nyc/13A": 54,
+    "https://go.vansh.nyc/13a": 54,
+    "https://go.vansh.nyc/13b": 54,
+    "https://go.vansh.nyc/13e": 54,
+    "https://go.vansh.nyc/13f": 54,
+    "https://go.vansh.nyc/13g": 54,
+    "https://go.vansh.nyc/13h": 54,
+    "https://go.vansh.nyc/13j": 54,
+    "https://go.vansh.nyc/13k": 54,
+    "https://go.vansh.nyc/13l": 54,
+    "https://go.vansh.nyc/13m": 54,
+    "https://go.vansh.nyc/13n": 54,
+    "https://go.vansh.nyc/13o": 54,
+    "https://go.vansh.nyc/13p": 54,
+    "https://go.vansh.nyc/13q": 54,
+    "https://go.vansh.nyc/13s": 54,
+    "https://go.vansh.nyc/13t": 54,
+    "https://go.vansh.nyc/13v": 54,
+    "https://go.vansh.nyc/13x": 54,
+    "https://go.vansh.nyc/13y": 54,
+    "https://go.vansh.nyc/13z": 54,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -52044,6 +52794,23 @@
     "https://go.vansh.nyc/122": "https://otto-engineering-inc.breezy.hr/p/c0fdaec6842c-embedded-software-intern-communications-summer-2027",
     "https://go.vansh.nyc/128": "https://spa.jibeapply.com/jobs/23698?icims=1",
     "https://go.vansh.nyc/129": "https://firstcitizens.jibeapply.com/jobs/36311?icims=1",
+    "https://go.vansh.nyc/12B": "https://jobs.smartrecruiters.com/AristaNetworks/744000149101159",
+    "https://go.vansh.nyc/12C": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009",
+    "https://go.vansh.nyc/12D": "https://job-boards.greenhouse.io/braze/jobs/8301086",
+    "https://go.vansh.nyc/12E": "https://cswg.wd1.myworkdayjobs.com/en-US/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963",
+    "https://go.vansh.nyc/12H": "https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa",
+    "https://go.vansh.nyc/12K": "https://campus-us-corgan.icims.com/jobs/4109/software-development-internship-%7c-summer-2027/job",
+    "https://go.vansh.nyc/12L": "https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a",
+    "https://go.vansh.nyc/12M": "https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f",
+    "https://go.vansh.nyc/12N": "https://job-boards.greenhouse.io/datacor/jobs/5242412007",
+    "https://go.vansh.nyc/12O": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a",
+    "https://go.vansh.nyc/12P": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87",
+    "https://go.vansh.nyc/12R": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4403596009",
+    "https://go.vansh.nyc/12U": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99",
+    "https://go.vansh.nyc/12W": "https://uscareers-idemia.icims.com/jobs/8650/software-engineer-internship---summer-2027/job",
+    "https://go.vansh.nyc/12X": "https://uscareers-idemia.icims.com/jobs/8647/software-engineering-internship---enrollment-and-credentialing-services/job",
+    "https://go.vansh.nyc/12Y": "https://job-boards.greenhouse.io/instead/jobs/7761472003",
+    "https://go.vansh.nyc/12Z": "https://careers-ice.icims.com/jobs/14113/summer-internship-program-2027---data-science-intern/job",
     "https://go.vansh.nyc/12g": "https://jobs.nvidia.com/careers/job/893397026205",
     "https://go.vansh.nyc/12h": "https://jobs.nvidia.com/careers/job/893397026226",
     "https://go.vansh.nyc/12k": "https://careers.nintendo.com/?gh_jid=4471972009",
@@ -52057,6 +52824,37 @@
     "https://go.vansh.nyc/12s": "https://studentsstartups.zohorecruit.com/jobs/careers/771729000005388012",
     "https://go.vansh.nyc/12t": "https://recruiting.ultipro.com/gas1003/jobboard/6eb19b1f-4963-9bbd-eff5-d321e7265519/opportunitydetail?opportunityid=52b782dd-a1b7-4a41-8bde-a39d265fc776",
     "https://go.vansh.nyc/12u": "https://economypolymers.isolvedhire.com/jobs/1894652",
+    "https://go.vansh.nyc/12z": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257176007",
+    "https://go.vansh.nyc/130": "https://careers-ice.icims.com/jobs/14105/summer-internship-program-2027---software-engineering-intern/job",
+    "https://go.vansh.nyc/131": "https://careers-ice.icims.com/jobs/14078/summer-internship-program-2027---software-engineering-intern%2c-java/job",
+    "https://go.vansh.nyc/132": "https://careers-ice.icims.com/jobs/14077/summer-internship-program-2027---software-engineering-intern/job",
+    "https://go.vansh.nyc/133": "https://careers-ice.icims.com/jobs/14076/summer-internship-program-2027---software-developer-intern/job",
+    "https://go.vansh.nyc/134": "https://careers-ice.icims.com/jobs/14070/summer-internship-program-2027---agentic-ai-data-science-intern/job",
+    "https://go.vansh.nyc/135": "https://careers-ice.icims.com/jobs/14066/summer-internship-program-2027---software-development-engineer-in-test-intern/job",
+    "https://go.vansh.nyc/137": "https://careers-iridium.icims.com/jobs/5136/iridium-software-engineering-internship-%e2%80%93-summer-2027/job",
+    "https://go.vansh.nyc/138": "https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233",
+    "https://go.vansh.nyc/139": "https://jobs.smartrecruiters.com/Keenfinity/744000152241469",
+    "https://go.vansh.nyc/13A": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455",
+    "https://go.vansh.nyc/13a": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern_2641581",
+    "https://go.vansh.nyc/13b": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325",
+    "https://go.vansh.nyc/13e": "https://modmed.wd501.myworkdayjobs.com/en-US/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148",
+    "https://go.vansh.nyc/13f": "https://job-boards.greenhouse.io/nyisointernships/jobs/5236084007",
+    "https://go.vansh.nyc/13g": "https://nordsonhcm.wd501.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ53006",
+    "https://go.vansh.nyc/13h": "https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571",
+    "https://go.vansh.nyc/13j": "https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c",
+    "https://go.vansh.nyc/13k": "https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b",
+    "https://go.vansh.nyc/13l": "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718",
+    "https://go.vansh.nyc/13m": "https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e",
+    "https://go.vansh.nyc/13n": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5",
+    "https://go.vansh.nyc/13o": "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15",
+    "https://go.vansh.nyc/13p": "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98",
+    "https://go.vansh.nyc/13q": "https://jobs.ashbyhq.com/tensorwave/39091eeb-13fc-46a7-b7e5-0d4584ac53ab",
+    "https://go.vansh.nyc/13s": "https://job-boards.greenhouse.io/usafacts/jobs/4472154009",
+    "https://go.vansh.nyc/13t": "https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605",
+    "https://go.vansh.nyc/13v": "https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d",
+    "https://go.vansh.nyc/13x": "https://careers-thesilverlining.icims.com/jobs/3759/summer-2027-internship---it-software-engineer/job",
+    "https://go.vansh.nyc/13y": "https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882",
+    "https://go.vansh.nyc/13z": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -52713,7 +53511,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 53,
+  "scan_sequence": 54,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
