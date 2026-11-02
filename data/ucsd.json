@@ -1272,25 +1272,9 @@
       "revision": 0
     },
     "url:https://alston.wd1.myworkdayjobs.com/externalcareer/job/atlanta/developer-intern_jr100986": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "alston & bird law firm",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "atlanta, ga"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "developer intern"
-      },
-      "fingerprint": "2335421fc30aecff49328da27ffd110258fd0d3da616a29dde6931810e82cbb9",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "8af67b44bd162b64f1c1e712741739fccaaf5c140d7b224d6ad21cd14eb634b2",
+      "revision": 2
     },
     "url:https://altera.wd1.myworkdayjobs.com/altera/job/marlow-buckinghamshire-united-kingdom/high-level-synthesis--hls--compiler-engineer--intern--_r03313": {
       "eligible": false,
@@ -53219,6 +53203,24 @@
       "fingerprint": "283095614a09abb6499bae660a470b145ace719fd61cb252f63920a7d8d4fc62",
       "revision": 0
     },
+    "url:https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/holtsville-new-york/xmlname-2027-summer-internship--us----software-ai-engineer--handheld-mobile-computers-_jr103632": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "zebra technologies",
+        "degrees": [],
+        "locations": [
+          "holtsville, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software/ai engineer intern, handheld mobile computers"
+      },
+      "fingerprint": "d89e300a9bf89a3c1d19de802c55b91ee1e2303b830b8f0971f2103f11e0ff15",
+      "revision": 1
+    },
     "url:https://zekelman.wd12.myworkdayjobs.com/careers/job/troy-mi/intern--business-intelligence_jr002769": {
       "eligible": true,
       "evidence": {
@@ -53498,6 +53500,7 @@
     "https://go.vansh.nyc/19e": 86,
     "https://go.vansh.nyc/19j": 87,
     "https://go.vansh.nyc/19k": 87,
+    "https://go.vansh.nyc/19p": 88,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -54352,6 +54355,7 @@
     "https://go.vansh.nyc/19e": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006",
     "https://go.vansh.nyc/19j": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180",
     "https://go.vansh.nyc/19k": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397",
+    "https://go.vansh.nyc/19p": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -55008,7 +55012,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 87,
+  "scan_sequence": 88,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

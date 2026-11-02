@@ -1447,21 +1447,6 @@
       "url": "https://jobsearch.alstom.com/job/Pittsburgh-Internship-ATC-Software-PA-15122/1445826833"
     },
     {
-      "company": "Alston & Bird Law Firm",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "09be1de65836ac17c7d59b4061f891064046ad2d6d51ee6c624b6f3be3dd83b3",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "posted_at": "2026-10-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Developer Intern",
-      "url": "https://alston.wd1.myworkdayjobs.com/ExternalCareer/job/Atlanta/Developer-Intern_JR100986"
-    },
-    {
       "company": "Amazon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -7921,51 +7906,6 @@
       "source": "simplify",
       "title": "Information Technology Intern",
       "url": "https://careers.div.energy/jobs/2734?icims=1"
-    },
-    {
-      "company": "DocuSign",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "05aa3d5e6fc88f4078987d2fda6dc1cd6193bb673c44916ae78ce23d21d9cc00",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "posted_at": "2026-10-23",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Agentic AI Engineer Intern",
-      "url": "https://hubcareers-docusign.icims.com/jobs/30587/agentic-ai-engineer-intern/job"
-    },
-    {
-      "company": "DocuSign",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "fb0b160af4f00dd5e39b9f56b0d20ad11a9c345827193d3b7e2579d9562ae12f",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "posted_at": "2026-10-23",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "AI Platform Engineer Intern",
-      "url": "https://hubcareers-docusign.icims.com/jobs/30578/ai-platform-engineer-intern/job"
-    },
-    {
-      "company": "DocuSign",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "33ec837fd15318f6122b1ea20872fd67187e40167f97791b143cb61c147281ac",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "posted_at": "2026-10-23",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Developer Intern",
-      "url": "https://careers.docusign.com/jobs/30571?lang=en-us"
     },
     {
       "company": "DocuSign",
@@ -27219,6 +27159,21 @@
       "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627"
     },
     {
+      "company": "Zebra Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "02c7e26d325e262cc978dc9d36500a830b903b9843a937ab69edcf9a4114a7dd",
+      "locations": [
+        "Holtsville, NY"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software/AI Engineer Intern, Handheld Mobile Computers",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632"
+    },
+    {
       "company": "Zekelman Industries",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -27386,7 +27341,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-02T16:16:26.647298+00:00",
+  "last_checked": "2026-11-02T17:18:47.559091+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
