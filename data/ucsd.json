@@ -8181,7 +8181,6 @@
           "chandler, az",
           "leesburg, va",
           "mclean, va",
-          "mclean, va +3",
           "tempe, az"
         ],
         "requirements": [],
@@ -8190,8 +8189,8 @@
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "9849477f7e32b180d9133ef5ed3220582ead744e2b4fd3c38634f831a54a1dff",
-      "revision": 1
+      "fingerprint": "9d1b91890da147d3f9b647f6ef86c343f4bf272f6e95173872de0ae84ed7acc7",
+      "revision": 2
     },
     "url:https://careers-peraton.icims.com/jobs/169665/job": {
       "eligible": true,
@@ -12234,8 +12233,8 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12183": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 1
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 2
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12184": {
       "eligible": false,
@@ -17879,7 +17878,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "gordon food service",
+        "company": "gordon food service canada",
         "degrees": [
           "bachelor's"
         ],
@@ -17892,13 +17891,13 @@
         ],
         "title": "software engineer intern - low code"
       },
-      "fingerprint": "a49f23aa3d24b4a78764a186f1ea3a4b250987532a8eca8196d141953c58086e",
-      "revision": 0
+      "fingerprint": "cef96b8b2ae76656377168bd9ba78ae02a363ed09df94c45b55ff97ed03707b5",
+      "revision": 1
     },
     "url:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/wyoming-michigan/software-engineer-intern--transportation-routing--_r-58374": {
       "eligible": false,
-      "fingerprint": "5909c847fadafa96c4b0bd9bf096ffebdebe9cbfbe342a74583c9bdb5afc6226",
-      "revision": 0
+      "fingerprint": "a24740d0a87ce1231b24d32644caf9d0dbac76bb93913d08d4855b6af763ce34",
+      "revision": 1
     },
     "url:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/wyoming-michigan/vendor---customer-master-data-internship_r-57341": {
       "eligible": true,
@@ -18913,6 +18912,21 @@
     "url:https://go.vansh.nyc/19m": {
       "eligible": false,
       "fingerprint": "d367556793c264e4efed6ea223d34b165dbc2f7fe6cdbc261977f83da8c85795",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/19p": {
+      "eligible": false,
+      "fingerprint": "419eb4df9bfefc9b5de072ef9927f0d0e806e216d06f47290001332775b0c2ba",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/19t": {
+      "eligible": false,
+      "fingerprint": "031b4b40a3142393e1cbd29f0700b550d5a11d0f5c57be16f1085e414bc59e48",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/19v": {
+      "eligible": false,
+      "fingerprint": "57f76659684c56c1bd4fa306b9780770d0763c11a5ad99f01eecf8ac0e07ee7b",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1a": {
@@ -22556,26 +22570,9 @@
       "revision": 0
     },
     "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-quality-assurance-intern_uni4802-1": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "hp inc.",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "san francisco, ca",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software quality assurance intern"
-      },
-      "fingerprint": "c02558cde9b05624d9877a1a64df98b5d75b454056aedef76d2da718c69f1b60",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "e02b97aff9eabc7ad30fa4a45e185b39a5c48b8afec2af78240a104f2a259e3d",
+      "revision": 2
     },
     "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-systems-intern_uni4801-1": {
       "eligible": true,
@@ -22649,13 +22646,16 @@
       "revision": 0
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern---hp-iq_uni4806": {
+      "eligible": false,
+      "fingerprint": "7ddbdf0f3cc2036c9a86bb0e5e64724b711cd43b2acd3a6f5815eb3419aea63d",
+      "revision": 4
+    },
+    "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--connectivity---hp-iq_uni4812": {
       "eligible": true,
       "evidence": {
-        "category": "software",
+        "category": "hardware",
         "company": "hp inc.",
-        "degrees": [
-          "bachelor's"
-        ],
+        "degrees": [],
         "locations": [
           "san francisco, ca",
           "sf"
@@ -22664,15 +22664,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineer intern - connectivity"
       },
-      "fingerprint": "9a3ea2a00b8efc2745926e96122e87f34f5efddd9dd1dc2550b897e252c31318",
-      "revision": 3
-    },
-    "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--connectivity---hp-iq_uni4812": {
-      "eligible": false,
-      "fingerprint": "1c35a1cfa8bd6ac6806c58239b2c71360bea599f2ea90fccb80fc0e6e728642f",
-      "revision": 1
+      "fingerprint": "bfeeecac61f886883b1c39d19ae9a82675f78500b5668865db940680feffd286",
+      "revision": 2
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-product-security-intern---hp-iq_uni4810-1": {
       "eligible": true,
@@ -37616,13 +37611,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "software engineering intern, technology"
       },
-      "fingerprint": "aa834726e14e27e28833854500f366c573b1201a1cce4cdecf4245fcc9db6738",
-      "revision": 1
+      "fingerprint": "e389fb6feb275a9b2a5b95f2031dd691b3ac180d35797d32408c2e31439020fc",
+      "revision": 2
     },
     "url:https://johndeere.eightfold.ai/careers/job/137483990019": {
       "eligible": false,
@@ -43313,6 +43307,24 @@
       "fingerprint": "ef499b4c09bdebefad7f590d33fe4f6b61290c50b15eae6eca8d06f2b1d6175f",
       "revision": 0
     },
+    "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-arizona-chandler/xmlname-2027-engineering-intern--software-mission-assurance-quality----chandler-az_r10258848": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "northrop grumman",
+        "degrees": [],
+        "locations": [
+          "chandler, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "engineering intern, software, mission assurance, quality"
+      },
+      "fingerprint": "353897ae77f9e7d3715a89926af3e1e033e61cbe96fb3c9b59e2c47af6d0a915",
+      "revision": 1
+    },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-azusa/xmlname-2027-software-engineer-intern---azusa-ca_r10257903": {
       "eligible": true,
       "evidence": {
@@ -48110,6 +48122,22 @@
       },
       "fingerprint": "e360da7152ad55d3198629405c58658cb85da0d56fdf8580a3942351c01ef674",
       "revision": 0
+    },
+    "url:https://studentopportunities-lutron.icims.com/jobs/5362/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lutron",
+        "degrees": [],
+        "locations": [
+          "boynton beach, fl"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "summer 2027 - embedded firmware engineering intern - boynton beach - fl"
+      },
+      "fingerprint": "e95b0ce2c6daff7e56027ae6a30c9042ae0747888afa18a1844e2617a2cf3ba6",
+      "revision": 1
     },
     "url:https://studentopportunities-lutron.icims.com/jobs/5384/job": {
       "eligible": true,
@@ -53435,6 +53463,24 @@
       "fingerprint": "d89e300a9bf89a3c1d19de802c55b91ee1e2303b830b8f0971f2103f11e0ff15",
       "revision": 1
     },
+    "url:https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/lincolnshire-illinois/xmlname-2027-summer-internship--us----ai_jr103639": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "zebra technologies",
+        "degrees": [],
+        "locations": [
+          "lincolnshire, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai intern"
+      },
+      "fingerprint": "7079c20849f745befe65cf49f1009302b1d12d950e2f69bf937def8fa85c081a",
+      "revision": 1
+    },
     "url:https://zekelman.wd12.myworkdayjobs.com/careers/job/troy-mi/intern--business-intelligence_jr002769": {
       "eligible": true,
       "evidence": {
@@ -53715,6 +53761,8 @@
     "https://go.vansh.nyc/19J": 91,
     "https://go.vansh.nyc/19L": 91,
     "https://go.vansh.nyc/19M": 91,
+    "https://go.vansh.nyc/19N": 92,
+    "https://go.vansh.nyc/19O": 92,
     "https://go.vansh.nyc/19c": 86,
     "https://go.vansh.nyc/19e": 86,
     "https://go.vansh.nyc/19j": 87,
@@ -54582,6 +54630,8 @@
     "https://go.vansh.nyc/19J": "https://job-boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002",
     "https://go.vansh.nyc/19L": "https://kla.wd1.myworkdayjobs.com/ur/job/Totowa-NJ/Software-Engineer-Intern_2642151",
     "https://go.vansh.nyc/19M": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
+    "https://go.vansh.nyc/19N": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848",
+    "https://go.vansh.nyc/19O": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639",
     "https://go.vansh.nyc/19c": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140",
     "https://go.vansh.nyc/19e": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006",
     "https://go.vansh.nyc/19j": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180",
@@ -55250,7 +55300,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 91,
+  "scan_sequence": 92,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
