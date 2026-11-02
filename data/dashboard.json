@@ -3631,6 +3631,21 @@
       "url": "https://award.co/position?gh_jid=4322220004"
     },
     {
+      "company": "AXA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "03e6548e5e47ae060c6ae1d4dab0ae76e70022754771706773ec26c525923855",
+      "locations": [
+        "Scottsdale, AZ"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Operations Metrics and Reporting Intern",
+      "url": "https://careers.axa.com/jobs/25497?icims=1"
+    },
+    {
       "company": "Axiom Space",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -4704,6 +4719,21 @@
       "source": "vanshb03",
       "title": "AI/Data Science Intern",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129"
+    },
+    {
+      "company": "Boston Scientific",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "80fbfbcd3729196baffdcc541b685bd1ffd83207b2245057ae624facf98780c5",
+      "locations": [
+        "Arden Hills, MN"
+      ],
+      "posted_at": "2026-10-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "R&D Firmware Engineer Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547667"
     },
     {
       "company": "Boston Scientific",
@@ -7083,9 +7113,9 @@
       "posted_at": "2026-11-02",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Data Science Intern",
-      "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140"
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140"
     },
     {
       "company": "CoStar Group",
@@ -8934,6 +8964,22 @@
       "url": "https://us-erac.icims.com/jobs/566721/intern---software-engineer%2c-summer-2027/job"
     },
     {
+      "company": "Entrust",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "91de27e9a561f988cccfc64e492fcf08147873348a013418cbafd68a75f627b4",
+      "locations": [
+        "Remote in Germany",
+        "Shakopee, MN"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Developer Intern",
+      "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397"
+    },
+    {
       "company": "Epic Games",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
@@ -9569,6 +9615,21 @@
       "source": "simplify",
       "title": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
       "url": "https://firstcitizens.jibeapply.com/jobs/36230?icims=1"
+    },
+    {
+      "company": "First Citizens BancShares",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "719671fc04ecf449372f12a512bbbf9413c025b0b69e0fb05e903ccd7579e63b",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
+      "url": "https://firstcitizens.jibeapply.com/jobs/36234?icims=1"
     },
     {
       "company": "First Citizens BancShares",
@@ -10751,6 +10812,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171565?type=students"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -14002,6 +14093,21 @@
       "company": "JM Family",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "8846a69517df4665f686536c688f52ff1fa6ee010307e0995aa9698435c8c8e7",
+      "locations": [
+        "Deerfield Beach, FL"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Intern",
+      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180"
+    },
+    {
+      "company": "JM Family",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "6312b3bb7f2f3221cd96ac3e87ca63185f3803c70d55e7ab216cf5ea08c10d4f",
       "locations": [
         "Deerfield Beach, FL"
@@ -14881,6 +14987,21 @@
       "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
     },
     {
+      "company": "KnowBe4",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "335e475a0144d97122498a75232d9f04971af91085eafdab3cbfcbd1955517f6",
+      "locations": [
+        "Clearwater, FL"
+      ],
+      "posted_at": "2026-11-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002"
+    },
+    {
       "company": "Koch Industries",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -15114,12 +15235,12 @@
       "locations": [
         "Annapolis Junction, MD"
       ],
-      "posted_at": "2026-10-29",
+      "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "speedyapply",
       "title": "Software Developer Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829"
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829"
     },
     {
       "company": "Life Fitness",
@@ -17564,6 +17685,21 @@
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
     },
     {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "994ee8c0799ed246973031558db49f35f8d936fa136752cb8044ec2018a3eded",
+      "locations": [
+        "Woodland Hills, LA"
+      ],
+      "posted_at": "2026-10-29",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Systems Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Systems-Engineer-Intern---Woodland-Hills-CA_R10249319-1"
+    },
+    {
       "company": "NOV",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -18231,6 +18367,21 @@
       "company": "ParetoHealth",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "bb76bf787dd1ba11b968e8ff721167d431f81f244fb5d84099954c3ff1e0a1cf",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Analytics Intern",
+      "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006"
+    },
+    {
+      "company": "ParetoHealth",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "f525d5e4beb67954dd83baf3b32bef3cf3529bbaf5ea626f4817f84d9c9c658c",
       "locations": [
         "Philadelphia, PA"
@@ -18238,8 +18389,8 @@
       "posted_at": "2026-11-02",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006"
     },
     {
@@ -21332,6 +21483,21 @@
       "source": "vanshb03",
       "title": "Strategic Student Program Digital Enterprise Software Applications Intern",
       "url": "https://jobs.sw.siemens.com/chicago-il/strategic-student-program-digital-enterprise-software-applications-internship-summer-2027-gscs/AB07F3F4AD7548DBAC579BD5394EC76C/job"
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "b0d8498922c9acadeb5a17fe0be67c459af2ae43e2b47f7cd7d77f2da01b5873",
+      "locations": [
+        "Sparks, NV"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Science Intern - Summer 2027",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257"
     },
     {
       "company": "Sierra Nevada Corporation",
@@ -25102,6 +25268,23 @@
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
     },
     {
+      "company": "Tyler Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "16dc7eb93500aa9ee329c737c74f4d38d27446e7f659c60289b0fca943b5f5ad",
+      "locations": [
+        "Yarmouth, ME",
+        "Orono, ME",
+        "Falmouth, ME"
+      ],
+      "posted_at": "2026-09-21",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Development Intern - Summer 2027",
+      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
+    },
+    {
       "company": "Uber",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -27203,7 +27386,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-02T15:08:41.711636+00:00",
+  "last_checked": "2026-11-02T16:16:26.647298+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

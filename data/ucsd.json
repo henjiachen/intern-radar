@@ -3475,6 +3475,11 @@
       "fingerprint": "1d55bb82f81d6c1e09950be62b3f04cf902fcaf6d83fcac1b3e474902335ecbe",
       "revision": 2
     },
+    "url:https://apply.workable.com/tecsys/j/d61d5fb9ab/apply": {
+      "eligible": false,
+      "fingerprint": "2ce43061b64a28fa91e09fc8d20f785dc0222c3cddb5ef18f48c3f8e383e50bb",
+      "revision": 1
+    },
     "url:https://apply.workable.com/tmeic-corporation-americas/j/fd4c9770ff": {
       "eligible": false,
       "fingerprint": "c4735eff4468f02e8799e099772fc864efab6fb0c9b74816c0a7aacc3540b9e1",
@@ -5796,9 +5801,24 @@
       "fingerprint": "24544fadf085468cda2e5a821aef78d6afebefc37bfbd9488829c4eb051ff756",
       "revision": 0
     },
+    "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/canary-wharf-1-churchill-place/xmlname-2027-customer-and-digital---data-and-analytics-summer-internship-programme-london_jr-0000129280": {
+      "eligible": false,
+      "fingerprint": "f690a9ae78ea34b8206b2f916401567bae9059f588326953df1422485e127f28",
+      "revision": 1
+    },
+    "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/canary-wharf-1-churchill-place/xmlname-2027-technology-developer-summer-internship-programme-london_jr-0000129397": {
+      "eligible": false,
+      "fingerprint": "a0682772232e284f2c82ec53bd46f1ff366bd2e966fff71348d1e634e41f4257",
+      "revision": 1
+    },
     "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/glasgow-campus/xmlname-2027-customer-and-digital---data-and-analytics-summer-internship-programme-glasgow_jr-0000129278": {
       "eligible": false,
       "fingerprint": "7505b2ca221bb3aab25cf88b49b61f8a6489a1b707f01602040fd27373f9bd32",
+      "revision": 1
+    },
+    "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/glasgow-campus/xmlname-2027-technology-developer-summer-internship-programme-glasgow_jr-0000129387": {
+      "eligible": false,
+      "fingerprint": "2b81e5d1b96e72f5c3d48d1909f56fecb0af812edaaceeaa7dca35506fc6dc68",
       "revision": 1
     },
     "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/knutsford-radbroke-hall/xmlname-2027-technology-developer-summer-internship-programme-knutsford_jr-0000129381": {
@@ -5809,6 +5829,11 @@
     "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/new-york-745-7th-avenue/chief-client-office---client-data---engineering-group-summer-internship-program-2027-new-york-city_jr-0000137731": {
       "eligible": false,
       "fingerprint": "0c8c24c5e46894b71fd2801fa477c7888ad9aa071d61e0fee47fe4d17f8af183",
+      "revision": 1
+    },
+    "url:https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/northampton-barclays-campus-pavilion-drive/xmlname-2027-technology-developer-summer-internship-programme-northampton_jr-0000129379": {
+      "eligible": false,
+      "fingerprint": "cf787016c5ddcb2c4f43e7bd4f9a604ad15fb914898b6af852c9b901d7a61395",
       "revision": 1
     },
     "url:https://basspro.wd1.myworkdayjobs.com/careers/job/springfield-mo-bass-pro-shops-base-camp/it-developer-intern-summer-2027_r267441-1": {
@@ -6537,8 +6562,8 @@
     },
     "url:https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002": {
       "eligible": false,
-      "fingerprint": "761f9353e6304c353e6790217972b88f81c1e8fcb4f5f3df8503839fb0fbe4c9",
-      "revision": 0
+      "fingerprint": "f4b282a67a3022be9256a2266e92352bdf31073b392ee513a914a95c755bbd41",
+      "revision": 1
     },
     "url:https://boards.greenhouse.io/figma/jobs/6143238004": {
       "eligible": false,
@@ -7026,6 +7051,27 @@
       },
       "fingerprint": "4fbd76bfa6bcbb3b116027a75353c298508804e6030c697db7ac7b4a4e265484",
       "revision": 0
+    },
+    "url:https://bostonscientific.eightfold.ai/careers/job/563602813547667": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "boston scientific",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "arden hills, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "r&d firmware engineer intern"
+      },
+      "fingerprint": "e4f7fc066b3cf42ef9fe4584d594cef152089a9b108515d80bf0263e9a359818",
+      "revision": 1
     },
     "url:https://bostonscientific.eightfold.ai/careers/job/563602813547675": {
       "eligible": true,
@@ -8701,6 +8747,24 @@
         "title": "software engineer-on call intern"
       },
       "fingerprint": "ad352f29a27ddeac669d3ee8077f66a821970a1d028b92b88ecc78ac167ee2b4",
+      "revision": 1
+    },
+    "url:https://careers.axa.com/jobs/25497?icims=1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "axa",
+        "degrees": [],
+        "locations": [
+          "scottsdale, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "operations metrics and reporting intern"
+      },
+      "fingerprint": "bc60da1bed6681db71b2575228f0c2a124bb362ee325118f7df91d688110bfca",
       "revision": 1
     },
     "url:https://careers.axa.com/jobs/25498?icims=1": {
@@ -12413,9 +12477,11 @@
     "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/us-va-richmond/data-science-intern---richmond--va--summer-2027-_r40140": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "costar group",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "richmond, va"
         ],
@@ -12425,8 +12491,8 @@
         ],
         "title": "data science intern"
       },
-      "fingerprint": "77201f58688c51f5656742119b62118a72fcda6beb88c2ed635d5062e3bf01f1",
-      "revision": 1
+      "fingerprint": "25f2fcba3ea123ee80ce58463d7d386d623f687a186e50370415e51758ff6b46",
+      "revision": 2
     },
     "url:https://countryfinancial.wd5.myworkdayjobs.com/countrycorporateinternships/job/bloomington-il/auto-product-analyst-intern_r26_0000000995": {
       "eligible": true,
@@ -13845,6 +13911,11 @@
       "fingerprint": "6198f610e095e861ee10e2fad3f8609640b57bbcf1f1369b43122377ca534329",
       "revision": 0
     },
+    "url:https://egay.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/45288": {
+      "eligible": false,
+      "fingerprint": "ad38624963b34ee85f6934a51a1d6f3023d6bb5aefbd29e1f38c2577ac67d88a",
+      "revision": 1
+    },
     "url:https://egmn.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/260188": {
       "eligible": true,
       "evidence": {
@@ -14689,6 +14760,29 @@
       "eligible": false,
       "fingerprint": "a33986ebfc5085b3d27c95642df629942a3b28fa313477191bcb94519562896f",
       "revision": 0
+    },
+    "url:https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/united-states---shakopee-mn-ghq/ai-developer-intern_r004397": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "entrust",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "remote in germany",
+          "shakopee, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "ai developer intern"
+      },
+      "fingerprint": "91138604d720e8cf3e27337677ad268e17794ef858902a115e2aa9fec229ae95",
+      "revision": 1
     },
     "url:https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/united-states---shakopee-mn-ghq/firmware-engineering-co-op_r004419": {
       "eligible": false,
@@ -16244,6 +16338,27 @@
       "revision": 0
     },
     "url:https://firstcitizens.jibeapply.com/jobs/36230?icims=1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "first citizens bancshares",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "raleigh, nc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analyst intern - enterprise data analyst - data products"
+      },
+      "fingerprint": "8d263acd405b508a32e9f2cc947be22988257cac6982c2ce26dfe3d29f3f3147",
+      "revision": 1
+    },
+    "url:https://firstcitizens.jibeapply.com/jobs/36234?icims=1": {
       "eligible": true,
       "evidence": {
         "category": "ai/ml/data",
@@ -18750,6 +18865,16 @@
     "url:https://go.vansh.nyc/19b": {
       "eligible": false,
       "fingerprint": "0756dc2f1a26905c5d1592204ce5be5368dc90e4916c4dd398461edb16539931",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/19l": {
+      "eligible": false,
+      "fingerprint": "851e5319a34b896c05b93f7309a7f94dd4158453ad94497766c8d167137d4983",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/19m": {
+      "eligible": false,
+      "fingerprint": "d367556793c264e4efed6ea223d34b165dbc2f7fe6cdbc261977f83da8c85795",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1a": {
@@ -24300,6 +24425,26 @@
       "fingerprint": "f74f7c0a70ca5da46dc4530b43131f08944e485492ac7a68b815e2d3100038da",
       "revision": 0
     },
+    "url:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/ai-intern_jr105180": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "jm family",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "deerfield beach, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai intern"
+      },
+      "fingerprint": "45206413caa94cb99817a71f5603efb0f2a3c40ba0a8d6607efce19d266e9731",
+      "revision": 1
+    },
     "url:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/automation---analytics-intern_jr105132": {
       "eligible": true,
       "evidence": {
@@ -27529,12 +27674,14 @@
       "fingerprint": "52631178055cb80b773abfad746c3114ca5a6c62a037a4b8df829d79c9ee79dd",
       "revision": 0
     },
-    "url:https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006": {
+    "url:https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "paretohealth",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "philadelphia, pa"
         ],
@@ -27542,10 +27689,30 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "analytics intern"
       },
-      "fingerprint": "81fa7c22ef925ecd7526b4eab83cd6f67d33b8698d1792bdb58ebe16f3856a2d",
+      "fingerprint": "fc4e645a9f9a55c6080cf75565c631994a7119fdba9ceffc72f3591820a7a110",
       "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "paretohealth",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "philadelphia, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "7b3178c497a1d1212e995634807298938ace99e62936a471f0fe2706b55d7336",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/pdtpartners/jobs/8077685": {
       "eligible": false,
@@ -27731,6 +27898,16 @@
       },
       "fingerprint": "197476a210933c1b1c8898ae6ab7ccd0eabe43aa8d362aae2fd66e6d709e1a5b",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926633002": {
+      "eligible": false,
+      "fingerprint": "bb86527cffcd23f7d4aa75d3f28a6edf1562ecd01c215dffa5e82794a475f6b6",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002": {
+      "eligible": false,
+      "fingerprint": "3422179b375d708b9f37faf2dfd3453be48a53d14d07f9e96523ad739a9e9301",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/queracomputinginc/jobs/5227710008": {
       "eligible": false,
@@ -33944,6 +34121,28 @@
       "fingerprint": "4911319cf4a1276e56b09ce596bea7216d1f1cf6fe91c981c9fe96c626c3f61b",
       "revision": 0
     },
+    "url:https://jobs.jobvite.com/tylertech/job/oxapafwg?nl=1&fr=false": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "tyler technologies",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "falmouth, me",
+          "orono, me",
+          "yarmouth, me"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development intern - summer 2027"
+      },
+      "fingerprint": "acb7c2456ca9e0713210b9bccfda17418935c2624d989fe29d1cfd8208ae148b",
+      "revision": 1
+    },
     "url:https://jobs.keysight.com/jobs/54319?icims=1": {
       "eligible": true,
       "evidence": {
@@ -38117,6 +38316,11 @@
       },
       "fingerprint": "de3656b9f52e724372dec27e02c9c45cc46837c57435636ed8eae32205677b25",
       "revision": 0
+    },
+    "url:https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/stockport-united-kingdom/campus-visit-dematic---placement-student_jr-0082859": {
+      "eligible": false,
+      "fingerprint": "67d86cabac2e90a52ebe398ed9c70648b9cf2467634031d3661703a47cc27458",
+      "revision": 1
     },
     "url:https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/grand-rapids-mi-united-states/software-analytics-co-op_jr-0096723-1": {
       "eligible": true,
@@ -46893,6 +47097,11 @@
       "fingerprint": "b8ebbabbb219f5af5c693a2b4e8de90e22b71049e35b57dd644b75693e103d9a",
       "revision": 1
     },
+    "url:https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/telecommuter-ma/data-analyst-intern_r79691": {
+      "eligible": false,
+      "fingerprint": "d7bf8d2fa5de478e2c1b84aba571f79d66c8624d39a7de3580bacc7be438ba27",
+      "revision": 1
+    },
     "url:https://selinc.wd1.myworkdayjobs.com/sel/job/idaho---boise/software-engineer-intern_2026-22958": {
       "eligible": false,
       "fingerprint": "748087d6b6515add41b04d7532ef6f65fa127be47c00e2e01746d5655120bdd0",
@@ -47149,6 +47358,26 @@
       },
       "fingerprint": "16aac1430c044994dd895d354d3fd446c8ea37c62c117dd0e2e022620b51e52f",
       "revision": 0
+    },
+    "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/sparks-nv/data-science-intern--summer-2027-_r0031257": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "sierra nevada corporation",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "sparks, nv"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern - summer 2027"
+      },
+      "fingerprint": "907f220f6a40e9cf7c1a38e1eb580cbf1bd32220bfb65c08cfee7742bdb5342a",
+      "revision": 1
     },
     "url:https://sonos.wd1.myworkdayjobs.com/sonos/job/boston-ma/data-quality-intern_r2876-1": {
       "eligible": true,
@@ -53267,6 +53496,8 @@
     "https://go.vansh.nyc/199": 81,
     "https://go.vansh.nyc/19c": 86,
     "https://go.vansh.nyc/19e": 86,
+    "https://go.vansh.nyc/19j": 87,
+    "https://go.vansh.nyc/19k": 87,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -54119,6 +54350,8 @@
     "https://go.vansh.nyc/199": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
     "https://go.vansh.nyc/19c": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140",
     "https://go.vansh.nyc/19e": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006",
+    "https://go.vansh.nyc/19j": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180",
+    "https://go.vansh.nyc/19k": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -54775,7 +55008,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 86,
+  "scan_sequence": 87,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
