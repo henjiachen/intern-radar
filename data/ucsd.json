@@ -18592,6 +18592,24 @@
       "fingerprint": "2878293822687bddf4094715d1b6c4a11257af99d677d2073ae73b83cb0cebc1",
       "revision": 0
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-woburn-wb2--225-presidential-way--goddard-bldg/internship---raytheon-systems-security-engineer--onsite_01874703": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "rtx",
+        "degrees": [],
+        "locations": [
+          "woburn, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "systems security engineer intern, raytheon"
+      },
+      "fingerprint": "52cc98dc41110d59595ebafd140492039042eb8ca1361475b9e5970a379b5f8e",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-woburn-wb2--225-presidential-way--goddard-bldg/secure-software-intern--summer-2027-_01884942": {
       "eligible": true,
       "evidence": {
@@ -26275,6 +26293,24 @@
         "title": "software developer intern"
       },
       "fingerprint": "1c618956147a44d330c524e75dc42dafb3dbc3d0f46d652590e577a9fdfa7559",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "flagship pioneering",
+        "degrees": [],
+        "locations": [
+          "cambridge, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ml intern"
+      },
+      "fingerprint": "493eee94d281bae49796427aee28ffacb8b8a3a62965cdf3367ae75eb9aa80d0",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/formlabsinternships/jobs/8188725": {
@@ -38675,6 +38711,24 @@
       "fingerprint": "cb3498d7c909636bbdb8dee5793c3ce925d3ae6164f0aaf701c64687b5284834",
       "revision": 1
     },
+    "url:https://kla.wd1.myworkdayjobs.com/ur/job/totowa-nj/software-engineer-intern_2642151": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "kla",
+        "degrees": [],
+        "locations": [
+          "totowa, nj"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "5b19bf5b85982d1e1583a11c68012e1ae190e200435520b95601ab9e45cb5e1e",
+      "revision": 1
+    },
     "url:https://koch.avature.net/en_us/careers/jobdetail/194813": {
       "eligible": true,
       "evidence": {
@@ -42961,6 +43015,30 @@
       },
       "fingerprint": "2b181d3b6298737f53caf1cf0a67f0c3d12f0c2058345dc0a01b5e77f75cae6e",
       "revision": 0
+    },
+    "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/virginia-remote-work/software-engineer-cybersecurity-services---2027-summer-internship_r69250": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "motorola solutions",
+        "degrees": [],
+        "locations": [
+          "ashburn, va",
+          "chicago, il",
+          "plantation, fl",
+          "remote",
+          "salt lake city, ut",
+          "schaumburg, il",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, cybersecurity services"
+      },
+      "fingerprint": "82ebff15ed8745e62fb36091d2778dd4a0740491eb5d3330557d1b51d1927e4b",
+      "revision": 1
     },
     "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/usa---massachusetts---cambridge-320-bent-street/xmlname-2027-future-talent-program---ai-ml-biomedical-imaging-and-computational-pathology---intern_r423515": {
       "eligible": false,
@@ -53633,6 +53711,10 @@
     "https://go.vansh.nyc/191": 74,
     "https://go.vansh.nyc/199": 81,
     "https://go.vansh.nyc/19B": 90,
+    "https://go.vansh.nyc/19I": 91,
+    "https://go.vansh.nyc/19J": 91,
+    "https://go.vansh.nyc/19L": 91,
+    "https://go.vansh.nyc/19M": 91,
     "https://go.vansh.nyc/19c": 86,
     "https://go.vansh.nyc/19e": 86,
     "https://go.vansh.nyc/19j": 87,
@@ -54496,6 +54578,10 @@
     "https://go.vansh.nyc/191": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
     "https://go.vansh.nyc/199": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
     "https://go.vansh.nyc/19B": "https://jobs.smartrecruiters.com/Intuitive/744000159218439",
+    "https://go.vansh.nyc/19I": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874703",
+    "https://go.vansh.nyc/19J": "https://job-boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002",
+    "https://go.vansh.nyc/19L": "https://kla.wd1.myworkdayjobs.com/ur/job/Totowa-NJ/Software-Engineer-Intern_2642151",
+    "https://go.vansh.nyc/19M": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
     "https://go.vansh.nyc/19c": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140",
     "https://go.vansh.nyc/19e": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006",
     "https://go.vansh.nyc/19j": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180",
@@ -55164,7 +55250,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 90,
+  "scan_sequence": 91,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

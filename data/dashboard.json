@@ -9587,6 +9587,21 @@
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008"
     },
     {
+      "company": "Flagship Pioneering",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "10dd746c549457d2ece8fe72981690e830e9b8f73948bd41133139002965b6ea",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "ML Intern",
+      "url": "https://job-boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002"
+    },
+    {
       "company": "FNBO",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -14780,6 +14795,21 @@
       "company": "KLA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "e559d97aeb0c579f0c36ed788a7623ad4318f0958069d0f9649932f2e611fd60",
+      "locations": [
+        "Totowa, NJ"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/ur/job/Totowa-NJ/Software-Engineer-Intern_2642151"
+    },
+    {
+      "company": "KLA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "e4ed76d9b2e1484372878af1efa606d4ba9588f29047731ad7b69d7a825d6118",
       "locations": [
         "Ann Arbor, MI"
@@ -16342,6 +16372,27 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125"
+    },
+    {
+      "company": "Motorola Solutions",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "512c525ec732c8aea768c0036cf4309412f7c83071073ad1bc27ebad6794f2fa",
+      "locations": [
+        "Remote",
+        "United States",
+        "Chicago, IL",
+        "Ashburn, VA",
+        "Plantation, FL",
+        "Schaumburg, IL",
+        "Salt Lake City, UT"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Cybersecurity Services",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250"
     },
     {
       "company": "MSA Safety",
@@ -20638,6 +20689,21 @@
       "source": "simplify",
       "title": "Systems Engineer Co-op - Spring/Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686"
+    },
+    {
+      "company": "RTX",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "697ef65701184c8ca878391fabf3564277f88e29a318af325111dcdf1bdce406",
+      "locations": [
+        "Woburn, MA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Systems Security Engineer Intern, Raytheon",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874703"
     },
     {
       "company": "Rugged Robotics",
@@ -27296,7 +27362,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-02T20:02:59.975669+00:00",
+  "last_checked": "2026-11-02T20:57:04.348477+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
