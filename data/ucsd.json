@@ -32132,8 +32132,6 @@
         "company": "tessera labs",
         "degrees": [],
         "locations": [
-          "nyc",
-          "remote in usa",
           "san jose, ca"
         ],
         "requirements": [],
@@ -32142,10 +32140,10 @@
           "spring 2027",
           "summer 2027"
         ],
-        "title": "full stack software engineer intern - full stack"
+        "title": "software engineering intern - full stack"
       },
-      "fingerprint": "aff09c12cbadfe9ae3b6eb43cdf47fcb9301e95365e47e33277f07a399cf35f8",
-      "revision": 0
+      "fingerprint": "2eec8cdcbb887063751d5eb13af0282916abe32403370ed4980d47340936f2f5",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac": {
       "eligible": true,
@@ -42839,6 +42837,11 @@
       "fingerprint": "85b0e8d8dba8fec30188b2d5c638203e51e8e34cdb9e759cc3c3b8f4204b3efb",
       "revision": 0
     },
+    "url:https://nebius.com/early-talent-program/swe-ml?gh_jid=5024729101": {
+      "eligible": false,
+      "fingerprint": "89fac483b0e31f376090682966cd1e33f32cde7c738ff39a2fec382f85939efe",
+      "revision": 1
+    },
     "url:https://neboagency.applytojob.com/apply/afmqe9jb7b/web-development-intern": {
       "eligible": false,
       "fingerprint": "a7613d875f5814abbc80050e3a003652f5e229d20c63570e2867c14b2a2a38c2",
@@ -46560,8 +46563,8 @@
     },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/arkansas---remote/summer-2027-intern---forward-deployed-engineer---global-public-sector_jr366026-1": {
       "eligible": false,
-      "fingerprint": "5b51f653f8558f5afb27848f8714e081cab7f91d7b041aadfe75ea6a19694c99",
-      "revision": 1
+      "fingerprint": "a5ad994f94d00e4be7695e026c1524f0e13792514af47f2af558e2151166024e",
+      "revision": 2
     },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---palo-alto/summer-2027-intern---ai-research_jr365111-1": {
       "eligible": false,
@@ -50023,20 +50026,19 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "vsp vision",
+        "company": "vsp vision care",
         "degrees": [],
         "locations": [
-          "remote - usa",
-          "remote in usa"
+          "remote - usa"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "internship - software engineer"
       },
-      "fingerprint": "cfff44a3dd34291ce208781724c99a952c82ba7a82824b0af252098372b52659",
-      "revision": 2
+      "fingerprint": "64953131e176256c36862899f7e015576b5d455588e96743c3f6ccc3de7a81e7",
+      "revision": 3
     },
     "url:https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/remote-us/internship--software-engineer_r-10068": {
       "eligible": true,
@@ -54739,7 +54741,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 83,
+  "scan_sequence": 84,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
