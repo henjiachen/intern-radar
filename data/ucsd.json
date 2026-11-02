@@ -19402,7 +19402,6 @@
         "locations": [
           "bellevue, wa",
           "champaign, il",
-          "columbus, oh",
           "toronto, on, canada"
         ],
         "requirements": [],
@@ -19411,8 +19410,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "9c316b03e2fb0810267666e676540b7a01272102fccfbc2a7139ce9e1dac553e",
-      "revision": 0
+      "fingerprint": "ae0d9a32f6898d6a971b4319219c02aebf096c184c860032208ed171be86d47e",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/cz": {
       "eligible": false,
@@ -30249,7 +30248,6 @@
           "phd"
         ],
         "locations": [
-          "san jose",
           "san jose, ca"
         ],
         "requirements": [
@@ -30262,8 +30260,8 @@
         ],
         "title": "chip simulation software intern"
       },
-      "fingerprint": "5b58e7a029f530a4db8c1465be8b8999b248a619b02af608bcc5da54e1f59cfa",
-      "revision": 0
+      "fingerprint": "9ff6935879ed5cddcb8ac195adbe576b620d27024dd2c163a22c1712eb4f529e",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc": {
       "eligible": false,
@@ -36742,6 +36740,24 @@
         "title": "data science intern"
       },
       "fingerprint": "d7d2638f4056fdcf257af165724678aad0730be4a9c788c7a13c55e96b82f2c7",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/intuitive/744000159218439": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intuitive",
+        "degrees": [],
+        "locations": [
+          "sunnyvale, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai/ml engineer intern"
+      },
+      "fingerprint": "e8be269a79de4653a2b6084ab9adbccc6d277df4112500181687303676740690",
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/keenfinity/744000151397189": {
@@ -53616,6 +53632,7 @@
     "https://go.vansh.nyc/18u": 63,
     "https://go.vansh.nyc/191": 74,
     "https://go.vansh.nyc/199": 81,
+    "https://go.vansh.nyc/19B": 90,
     "https://go.vansh.nyc/19c": 86,
     "https://go.vansh.nyc/19e": 86,
     "https://go.vansh.nyc/19j": 87,
@@ -54478,6 +54495,7 @@
     "https://go.vansh.nyc/18u": "https://lifeattiktok.com/search/7672926068681951493",
     "https://go.vansh.nyc/191": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
     "https://go.vansh.nyc/199": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
+    "https://go.vansh.nyc/19B": "https://jobs.smartrecruiters.com/Intuitive/744000159218439",
     "https://go.vansh.nyc/19c": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140",
     "https://go.vansh.nyc/19e": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006",
     "https://go.vansh.nyc/19j": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180",
@@ -55146,7 +55164,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 89,
+  "scan_sequence": 90,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

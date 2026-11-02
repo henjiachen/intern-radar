@@ -9187,19 +9187,19 @@
       "url": "https://apply.clearcompany.com/etcconnect?jobId=536234b0-0ab5-1521-21b7-1836e5ae3bd0"
     },
     {
-      "company": "etched",
+      "company": "Etched",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
       "id": "4ef119d21f66f5fddb10ad195d33910010baf31b1a6683c357c16eba016ae129",
       "locations": [
-        "San Jose"
+        "San Jose, CA"
       ],
-      "posted_at": "2026-05-19",
+      "posted_at": "2026-05-20",
       "priority": 11,
       "priority_program": false,
-      "source": "ashby",
+      "source": "simplify",
       "title": "Chip Simulation Software Intern",
-      "url": "https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8"
+      "url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application?embed=true"
     },
     {
       "company": "Eulerity",
@@ -13728,6 +13728,21 @@
       "company": "Intuitive",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "0f3e91a6df0775c6d87a7e55607f06e76f414b6c829439ca66a54283c7e4dc86",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI/ML Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/Intuitive/744000159218439"
+    },
+    {
+      "company": "Intuitive",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "4078626bfeb2b5889298931a99c095b5c10f50d7a5ad0ca722ec385daa7a7397",
       "locations": [
         "Sunnyvale, CA"
@@ -16851,21 +16866,6 @@
       "source": "simplify",
       "title": "Data Scientist Intern",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32460"
-    },
-    {
-      "company": "Navy Federal",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "270fee863f4ddb9c9468679aa42b0bff10aa678ff0f36f1e6dd47e0363a57bb6",
-      "locations": [
-        "Vienna, VA"
-      ],
-      "posted_at": "2026-09-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Fraud Analyst Intern",
-      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32293"
     },
     {
       "company": "Navy Federal",
@@ -27296,7 +27296,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-02T19:12:06.475494+00:00",
+  "last_checked": "2026-11-02T20:02:59.975669+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
