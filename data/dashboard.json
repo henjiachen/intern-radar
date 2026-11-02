@@ -2,6 +2,21 @@
   "email_alerts": false,
   "jobs": [
     {
+      "company": "Microsoft",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2fe3c637f183c3eb5252862b45f324e6417e5e415b8e19be9fb3f392efa46578",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 1,
+      "priority_program": true,
+      "source": "vanshb03",
+      "title": "First-Year Explore Program Engineering Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823"
+    },
+    {
       "company": "Activision Blizzard",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -23033,12 +23048,12 @@
       "locations": [
         "Hartford, CT"
       ],
-      "posted_at": "2026-08-24",
+      "posted_at": "2026-10-03",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Tech & Data Program",
-      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
+      "source": "speedyapply",
+      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern - Hartford",
+      "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
     },
     {
       "company": "The MJ Companies",
@@ -27323,7 +27338,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-02T05:17:14.307306+00:00",
+  "last_checked": "2026-11-02T06:22:34.475970+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

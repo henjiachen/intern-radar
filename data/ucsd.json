@@ -2549,6 +2549,24 @@
       "fingerprint": "6970c1f8490717a8b6a659fcf54b65975664e49667aadebe6c28be4b13d8a5d6",
       "revision": 1
     },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393556925823": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "microsoft",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "first-year explore program engineering intern"
+      },
+      "fingerprint": "af17813da2915b16cf13666baddd6ed9562a0fd86ae28d1d63b81b2e330fa3fc",
+      "revision": 1
+    },
     "url:https://apply.careers.microsoft.com/careers/job/1970393556982928": {
       "eligible": false,
       "fingerprint": "1aa25d34108d4b6c04690a0b63c44d79aec9bf95fdc84f9f57a0d8970ea145ec",
@@ -48242,10 +48260,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "data engineer intern, technology, data, ai, and operations"
+        "title": "data engineer intern - technology, data, ai, and operations"
       },
-      "fingerprint": "aa53e87a5f06ce2f45914c7ef85fc3ef72f6bac9113b425a6ad9a97156339abf",
-      "revision": 1
+      "fingerprint": "446ff3aa1ce4ee9bde8bfa7fed629d8470570cab2263a9f5c306d12b96cb4a09",
+      "revision": 2
     },
     "url:https://thehartford.wd5.myworkdayjobs.com/careers_external/job/hartford-ct/tech---data-program-summer-2027---software-engineer-intern--hartford-_r2626105-1": {
       "eligible": true,
@@ -48263,10 +48281,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - tech & data program"
+        "title": "tech & data program summer 2027 - software engineer intern - hartford"
       },
-      "fingerprint": "ccf0f9a146e2018d8fce2c6746184b18168ab4fd79f0545b338b835fd9718325",
-      "revision": 0
+      "fingerprint": "0e59a70cd896d8503236d917e08485e58dc10ad27bb8a891c045ade4f87b1f0a",
+      "revision": 1
     },
     "url:https://theirc.wd1.myworkdayjobs.com/external_careers/job/silver-spring-md-usa/development-data-and-research-intern----spring2027-_jr00005497": {
       "eligible": false,
@@ -53192,6 +53210,7 @@
     "https://go.vansh.nyc/18t": 63,
     "https://go.vansh.nyc/18u": 63,
     "https://go.vansh.nyc/191": 74,
+    "https://go.vansh.nyc/199": 81,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -54041,6 +54060,7 @@
     "https://go.vansh.nyc/18t": "https://lifeattiktok.com/search/7646621925436131637",
     "https://go.vansh.nyc/18u": "https://lifeattiktok.com/search/7672926068681951493",
     "https://go.vansh.nyc/191": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
+    "https://go.vansh.nyc/199": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -54697,7 +54717,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 80,
+  "scan_sequence": 81,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
