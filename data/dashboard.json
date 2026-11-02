@@ -2673,7 +2673,7 @@
       "company": "APEX Analytix",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "68deaf4d474cb53dca1d677284271d317400eb0e08ddd0888f16ed20660ed381",
+      "id": "d61efe0a6796eeeb8f111739c5408c1fadc976b1c1b701f4ac28f4831e9d0d84",
       "locations": [
         "Greensboro, NC"
       ],
@@ -2681,8 +2681,8 @@
       "priority": 11,
       "priority_program": false,
       "source": "simplify",
-      "title": "Automation Developer Intern",
-      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7"
+      "title": "Data Analyst Intern - Summer 2027",
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef"
     },
     {
       "company": "APEX Analytix",
@@ -17556,6 +17556,21 @@
       "company": "Northrop Grumman",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "edb5d7a1c2467d5b8ad1e82dd28a7393ff7d610821c66b2b892c2a0ea04333d5",
+      "locations": [
+        "Colorado Springs, CO"
+      ],
+      "posted_at": "2026-10-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "2027 Software Engineering Intern - Colorado Springs",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803"
+    },
+    {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "a4b84360f0e1467097cdf3fde65a4699ea7402277ff90b4860a58adb83bcdad8",
       "locations": [
         "Roy, UT"
@@ -17596,21 +17611,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
-    },
-    {
-      "company": "Northrop Grumman",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "edb5d7a1c2467d5b8ad1e82dd28a7393ff7d610821c66b2b892c2a0ea04333d5",
-      "locations": [
-        "Colorado Springs, CO"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803"
     },
     {
       "company": "NOV",
@@ -26261,21 +26261,6 @@
       "company": "VSP Vision",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "91c60395aa1b6adfc702687922cf2799a0e9a4ce0369ce3adfd03417df3228fa",
-      "locations": [
-        "Remote in USA"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068"
-    },
-    {
-      "company": "VSP Vision",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "023d8151760aecb13023c97c0aa110e521c45d381f60d49b16e30cc0d24557a8",
       "locations": [
         "Remote in USA"
@@ -26316,6 +26301,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Technology Innovation",
       "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020"
+    },
+    {
+      "company": "VSP Vision Care",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "91c60395aa1b6adfc702687922cf2799a0e9a4ce0369ce3adfd03417df3228fa",
+      "locations": [
+        "Remote - USA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Internship - Software Engineer",
+      "url": "https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068"
     },
     {
       "company": "W.W. Grainger",
@@ -27275,7 +27275,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-02T08:33:03.565717+00:00",
+  "last_checked": "2026-11-02T10:21:28.153747+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
