@@ -543,6 +543,24 @@
       "fingerprint": "89d132e9d42444de9d29f2797d71cfeb725ec8b736804558faef6da923701f8b",
       "revision": 0
     },
+    "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-software-engineering-undergrad-intern_r017102": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "aerospace corporation",
+        "degrees": [],
+        "locations": [
+          "el segundo, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering undergrad intern"
+      },
+      "fingerprint": "8ed31a31535bee289b450f555284a2cba9db4dc0da2d61c5657b31aa1a292d95",
+      "revision": 1
+    },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-software-tools-and-assurance-engineering-grad-intern_r016753": {
       "eligible": false,
       "fingerprint": "8069a1542cb400ab4c97ec5caa9ca4227305e22f0a9201e6a5c43ac18a9c5bf2",
@@ -11151,25 +11169,9 @@
       "revision": 0
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8234553": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "waymo",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "san francisco, california",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "2027 summer intern, bs, depot automation"
-      },
-      "fingerprint": "b654e8cce0d358302b5826cab22a067a77e7956004622906e3a8d7c23e9a9e96",
-      "revision": 0
+      "eligible": false,
+      "fingerprint": "c8c364fb00a712d20a8f774374365c283e2c5d5ea1e4ff5c628d245bf9ce86fd",
+      "revision": 1
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8234876": {
       "eligible": false,
@@ -18927,6 +18929,11 @@
     "url:https://go.vansh.nyc/19v": {
       "eligible": false,
       "fingerprint": "57f76659684c56c1bd4fa306b9780770d0763c11a5ad99f01eecf8ac0e07ee7b",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/19z": {
+      "eligible": false,
+      "fingerprint": "f0ee0dcf50e1b37c0a836560fba8b83215426aee94c3f362a901b766ef02ccda",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1a": {
@@ -28146,6 +28153,24 @@
       "eligible": false,
       "fingerprint": "c279a642393abb396ccfcabca01c6459bde24734319b5496cd23bd868e1d5ea8",
       "revision": 2
+    },
+    "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "samsung semiconductor",
+        "degrees": [],
+        "locations": [
+          "folsom, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai application engineer intern"
+      },
+      "fingerprint": "0c3a5ac046261c3254372f2557a020a3eb2b8365af1682dc93dde8d55eb1d6d2",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/scaleai/jobs/4730834005": {
       "eligible": false,
@@ -53763,6 +53788,8 @@
     "https://go.vansh.nyc/19M": 91,
     "https://go.vansh.nyc/19N": 92,
     "https://go.vansh.nyc/19O": 92,
+    "https://go.vansh.nyc/19W": 93,
+    "https://go.vansh.nyc/19X": 93,
     "https://go.vansh.nyc/19c": 86,
     "https://go.vansh.nyc/19e": 86,
     "https://go.vansh.nyc/19j": 87,
@@ -54632,6 +54659,8 @@
     "https://go.vansh.nyc/19M": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
     "https://go.vansh.nyc/19N": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848",
     "https://go.vansh.nyc/19O": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639",
+    "https://go.vansh.nyc/19W": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102",
+    "https://go.vansh.nyc/19X": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003",
     "https://go.vansh.nyc/19c": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140",
     "https://go.vansh.nyc/19e": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006",
     "https://go.vansh.nyc/19j": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180",
@@ -55300,7 +55329,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 92,
+  "scan_sequence": 93,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

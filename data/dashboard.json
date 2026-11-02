@@ -964,6 +964,21 @@
       "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119718"
     },
     {
+      "company": "Aerospace Corporation",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "78e2d35226f4f4deff763eb23b79d0cc23b84f1e4041b250b813b0bfb639e1fb",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Undergrad Intern",
+      "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102"
+    },
+    {
       "company": "Aerotech",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -6812,21 +6827,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51"
-    },
-    {
-      "company": "Collier Aerospace",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "5dc9f6aaf83d4eb7fdf9430769592a08f5fc55012ca8b4b9a1aece723ee18074",
-      "locations": [
-        "Newport News, VA"
-      ],
-      "posted_at": "2026-09-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Web Applications - Summer 2027",
-      "url": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77"
     },
     {
       "company": "Commerce Bank",
@@ -20841,6 +20841,21 @@
       "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659"
     },
     {
+      "company": "Samsung Semiconductor",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "fe645dde124075981415fb74f1500f8bad59dce519e903bc5c7a470b31fefe83",
+      "locations": [
+        "Folsom, CA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Application Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003"
+    },
+    {
       "company": "Sanofi",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -21050,21 +21065,6 @@
       "source": "vanshb03",
       "title": "Machine Learning for Corporate Strategy Intern",
       "url": "https://seagatecareers.com/job/Bloomington-Summer-Intern-Machine-Learning-for-Corporate-Strategy-MN/1439996000"
-    },
-    {
-      "company": "Seagate Technology",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "6c15c252c47a3f05dc191f2034525fc732cfbabdf2344d92b38332d6f4e485a9",
-      "locations": [
-        "Fremont, CA"
-      ],
-      "posted_at": "2026-10-18",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Recording Media R&D Intern, AI & Data Science",
-      "url": "https://seagatecareers.com/job/Fremont-Recording-Media-R&D-Intern%2C-AI-&-Data-Science-CA-94536/1441521800"
     },
     {
       "company": "Seagate Technology",
@@ -26426,21 +26426,6 @@
       "company": "Waymo",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
-      "id": "a480da2ffc41e601e7183cd9361189da16ce4492fdec0f8093d7f4d0acc66cc2",
-      "locations": [
-        "San Francisco, California"
-      ],
-      "posted_at": "2026-09-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "greenhouse",
-      "title": "2027 Summer Intern, BS, Depot Automation",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234553"
-    },
-    {
-      "company": "Waymo",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
       "id": "15cd1ea9118dd45e956a9c84e3808e6ef70788cc47e64276564c717673b53fbc",
       "locations": [
         "Mountain View, California"
@@ -27256,7 +27241,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-02T21:55:19.919713+00:00",
+  "last_checked": "2026-11-02T22:55:34.947928+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
