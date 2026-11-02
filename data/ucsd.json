@@ -2552,20 +2552,23 @@
     "url:https://apply.careers.microsoft.com/careers/job/1970393556925823": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "microsoft",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "redmond, wa"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
-        "title": "first-year explore program engineering intern"
+        "title": "explore program engineering intern"
       },
-      "fingerprint": "af17813da2915b16cf13666baddd6ed9562a0fd86ae28d1d63b81b2e330fa3fc",
-      "revision": 1
+      "fingerprint": "93e0f268e67dd9a20b75c604568ae21fbee3b3c72e263e423ed40e6528138cd0",
+      "revision": 2
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393556982928": {
       "eligible": false,
@@ -16495,8 +16498,8 @@
     },
     "url:https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/lawrence-ma-usa/software-engineering-co-op_r0271309": {
       "eligible": false,
-      "fingerprint": "b3b379059fbe96501d0fa2b285aae9d4005bcf10329117220f8b2280c0c86ae5",
-      "revision": 0
+      "fingerprint": "9f34764cb16de9aa34142c7ddd6be6b12032060dc9ea15bbe435caa236730ba8",
+      "revision": 1
     },
     "url:https://fticonsulting.wd108.myworkdayjobs.com/fticonsultingcareers/job/london-united-kingdom/xmlname-2027-summer-internship--data---analytics_jr260771": {
       "eligible": false,
@@ -18472,7 +18475,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "rtx",
+        "company": "raytheon",
         "degrees": [
           "bachelor's"
         ],
@@ -18483,10 +18486,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern - summer 2027"
       },
-      "fingerprint": "3f9e212c2424db32258b412fd135326c2c42e22320f46e27342e1934c62c7642",
-      "revision": 0
+      "fingerprint": "7e87a4db53cfc71e0888c90471416eb1095a3aeddae543d83690304a41b9ea80",
+      "revision": 1
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-va-sterling-291--22640-davis-dr--davis/software-engineering-intern--summer-2027-_01885791": {
       "eligible": true,
@@ -43023,10 +43026,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "2027 software engineering intern - boulder co"
       },
-      "fingerprint": "3800440dbecc7b414166155f2e9bdaeccf5f6447d73dac9906663dd907a759fb",
-      "revision": 0
+      "fingerprint": "be9f7b1d88a5abb38adfcd8ae294f4057d063ad621c71ebb5be31e7134ed3c4c",
+      "revision": 1
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-colorado-colorado-springs/xmlname-2027-software-engineering-intern---colorado-springs_r10257803": {
       "eligible": true,
@@ -52737,6 +52740,26 @@
       "fingerprint": "44aaf853d142f177f667dc3236cb3cd9b0290d550bedf86f0ed038739cfc4526",
       "revision": 0
     },
+    "url:https://www.weareroku.com/jobs/8258241?gh_jid=8258241": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "roku",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - ai engineering"
+      },
+      "fingerprint": "ea12bdf6f8c5d5c1f38c2a7dbf53a908f6cce2d1339c8e7f420eb45d2f867f85",
+      "revision": 1
+    },
     "url:https://www.williamblair.com/careers/job-description?gh_jid=5242280007": {
       "eligible": false,
       "fingerprint": "6ec7ef9a9fcb268e5f39d9118b1ba77ec2962de8cd8c2d39eaeb4c49119a7727",
@@ -54717,7 +54740,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 81,
+  "scan_sequence": 82,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
