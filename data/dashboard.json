@@ -608,55 +608,6 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
     },
     {
-      "company": "1Password",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "cac5239c82914abcdd35b8ea6629898e0c40d30d758adca16c5f5a29962d84a0",
-      "locations": [
-        "Remote in USA"
-      ],
-      "posted_at": "2026-10-22",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Developer Intern, Extension Excellence",
-      "url": "https://go.vansh.nyc/eC"
-    },
-    {
-      "company": "1Password",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "48143e624b374a191ada89179d101374565c27fe6e9b34257d931b7aca2c1c90",
-      "locations": [
-        "Remote",
-        "United States",
-        "Canada"
-      ],
-      "posted_at": "2026-10-22",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Developer Intern, Machine Identity",
-      "url": "https://go.vansh.nyc/eZ"
-    },
-    {
-      "company": "1Password",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "faea01197f7197bf779f9475bf7f18d274f8eb183c8e8e67bf24d30cc90dd587",
-      "locations": [
-        "Remote",
-        "United States",
-        "Canada"
-      ],
-      "posted_at": "2026-10-22",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Developer Intern, Vault Team",
-      "url": "https://go.vansh.nyc/f0"
-    },
-    {
       "company": "3M",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -7125,6 +7076,21 @@
       "company": "CoStar Group",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "447b0c8191ae2c841f138876a27a00cf9cddba79632ccc8300d9e50ce10e1277",
+      "locations": [
+        "Richmond, VA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data Science Intern",
+      "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140"
+    },
+    {
+      "company": "CoStar Group",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "d710e160d10f6249950bd2780a6fa57487c24d33b4bdae6455dc01f526eae860",
       "locations": [
         "Sunnyvale, CA"
@@ -7150,36 +7116,6 @@
       "source": "simplify",
       "title": "Technology Intern",
       "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945"
-    },
-    {
-      "company": "COUNTRY Financial",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "0505a84799e6be233fb389930e78e8f9bbcee2994def9749d5ff85332e1fa360",
-      "locations": [
-        "Bloomington, IL"
-      ],
-      "posted_at": "2026-09-08",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Auto Product Analyst Intern",
-      "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Auto-Product-Analyst-Intern_R26_0000000995"
-    },
-    {
-      "company": "COUNTRY Financial",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "a9001a6e43f8253fb80ebdf6974e5299a345bf8a64fbc70bfb7dd38159589971",
-      "locations": [
-        "Bloomington, IL"
-      ],
-      "posted_at": "2026-09-08",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Consumer Insights Intern",
-      "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Consumer-Insights-Intern_R26_0000001030"
     },
     {
       "company": "Courier Health",
@@ -9483,21 +9419,6 @@
       "source": "simplify",
       "title": "Technology Program Intern",
       "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810"
-    },
-    {
-      "company": "Farmers Mutual Hail",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "5d013caab508a423c2009b322361e7033079ec852f515b04b24d6826301bbe66",
-      "locations": [
-        "West Des Moines, IA"
-      ],
-      "posted_at": "2026-10-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Architect Intern",
-      "url": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009"
     },
     {
       "company": "Farmers Mutual Hail",
@@ -18307,6 +18228,21 @@
       "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155"
     },
     {
+      "company": "ParetoHealth",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f525d5e4beb67954dd83baf3b32bef3cf3529bbaf5ea626f4817f84d9c9c658c",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006"
+    },
+    {
       "company": "Patreon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -20631,21 +20567,6 @@
       "company": "RTX",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "350f673c4a6b0adbdc01b1c9b7e4a0ced4d034b9426b3b7ed943af12c35252f3",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "posted_at": "2026-08-14",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129"
-    },
-    {
-      "company": "RTX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "59b53273db8827ce70e51ab82c920f5a7ab93d9f8934dceb3cc4d5ab7c47585a",
       "locations": [
         "Cedar Rapids, IA"
@@ -20851,27 +20772,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843"
-    },
-    {
-      "company": "Ryan Companies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4b8076f023ffbb89fa1b970141c3502730ea1bd857036dabaad65bbd92b73c9d",
-      "locations": [
-        "Des Moines, IA",
-        "Austin, TX",
-        "Tampa, FL",
-        "Dallas, TX",
-        "Chicago, IL",
-        "Minneapolis, MN",
-        "Atlanta, GA"
-      ],
-      "posted_at": "2026-08-17",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Business Intelligence Intern - Mission Critical",
-      "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961"
     },
     {
       "company": "Safran",
@@ -27303,7 +27203,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-02T13:27:16.368753+00:00",
+  "last_checked": "2026-11-02T15:08:41.711636+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

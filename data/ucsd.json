@@ -12410,6 +12410,24 @@
       "fingerprint": "e4c623121ccc3d70696e6b63c8233feb7c773b5088d4c51992bfe1499fa69e75",
       "revision": 0
     },
+    "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/us-va-richmond/data-science-intern---richmond--va--summer-2027-_r40140": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "costar group",
+        "degrees": [],
+        "locations": [
+          "richmond, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "77201f58688c51f5656742119b62118a72fcda6beb88c2ed635d5062e3bf01f1",
+      "revision": 1
+    },
     "url:https://countryfinancial.wd5.myworkdayjobs.com/countrycorporateinternships/job/bloomington-il/auto-product-analyst-intern_r26_0000000995": {
       "eligible": true,
       "evidence": {
@@ -18604,6 +18622,11 @@
       "fingerprint": "34400478795a787ad98fc6c791273afe0cf271f3b229e995a07ff79ef59595f6",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/12i": {
+      "eligible": false,
+      "fingerprint": "2bd02fd3861081cc3e7f7e5623623974dbc8ee302e18f3f87bc0b302686cd9e4",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/13": {
       "eligible": false,
       "fingerprint": "2dba11eb18e973b04eec563e905fa22ff1d46d8b859d9615ade33e796384bd13",
@@ -19365,25 +19388,9 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/ez": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "cae",
-        "degrees": [],
-        "locations": [
-          "canada",
-          "montreal, canada",
-          "remote",
-          "united states"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "artificial intelligence intern"
-      },
-      "fingerprint": "c35a1df7db2ddf122095e0ba7f85c94cb43d99aad0c384983fe60c3fc743c131",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "e7c40f491226a89e72c94779399b9ddceabd5add38e98e94294df3177bbf84dc",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/f0": {
       "eligible": true,
@@ -27522,6 +27529,24 @@
       "fingerprint": "52631178055cb80b773abfad746c3114ca5a6c62a037a4b8df829d79c9ee79dd",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "paretohealth",
+        "degrees": [],
+        "locations": [
+          "philadelphia, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "81fa7c22ef925ecd7526b4eab83cd6f67d33b8698d1792bdb58ebe16f3856a2d",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/pdtpartners/jobs/8077685": {
       "eligible": false,
       "fingerprint": "e5b1b8f1fea52fbecb8b0ed233d33c5dc09b6c35391c0cac61537b97f96d3fbd",
@@ -29229,13 +29254,13 @@
     },
     "url:https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39": {
       "eligible": false,
-      "fingerprint": "c336e5e94811602660072d666c9fb4d1895fdb7e15c1edd2e40c555aee0e0adb",
-      "revision": 0
+      "fingerprint": "4b76f428a80c808a10f26a82bc9767c622a81ba0e4ac8219e93a015186b28735",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba": {
       "eligible": false,
-      "fingerprint": "d63834dd29ab9c8e269841ccdcc91147449c1b1e00afc5405bb20be8b1e61a34",
-      "revision": 0
+      "fingerprint": "57d4977598f169656462a19234d0a8b68998b5e2f572334fe4a3eadea640d3ae",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f": {
       "eligible": false,
@@ -29249,18 +29274,18 @@
     },
     "url:https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491": {
       "eligible": false,
-      "fingerprint": "20cfe51ce16771a51a05712378a795aa1b84828a44f070adcfb3eaefb26c4863",
-      "revision": 0
+      "fingerprint": "f62a1f72220df732421ebeac674820361c604ad8ffe55f521af40728f78d7e34",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779": {
       "eligible": false,
-      "fingerprint": "420e3a1cfd083c3ecd644276443dcfcc02bbd3c7c0458e5a72755f7942c9a580",
-      "revision": 0
+      "fingerprint": "4b6dd5a7947842b20ea282bd04282a1041b98b53a82c92acfe4874a249b34c8e",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9": {
       "eligible": false,
-      "fingerprint": "262bd7af008f6f678dc09908ea6c786d2a311fb70c6e71ec2ac26185f276af12",
-      "revision": 0
+      "fingerprint": "e2aa6d51841d4386c60c48285802678e2ad39dfb8d41f7eb5a149e5e614903d1",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/42dot/da2487a2-afa1-464e-9f08-bf448e2b2f3b": {
       "eligible": false,
@@ -53240,6 +53265,8 @@
     "https://go.vansh.nyc/18u": 63,
     "https://go.vansh.nyc/191": 74,
     "https://go.vansh.nyc/199": 81,
+    "https://go.vansh.nyc/19c": 86,
+    "https://go.vansh.nyc/19e": 86,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -54090,6 +54117,8 @@
     "https://go.vansh.nyc/18u": "https://lifeattiktok.com/search/7672926068681951493",
     "https://go.vansh.nyc/191": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
     "https://go.vansh.nyc/199": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
+    "https://go.vansh.nyc/19c": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140",
+    "https://go.vansh.nyc/19e": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -54746,7 +54775,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 85,
+  "scan_sequence": 86,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
