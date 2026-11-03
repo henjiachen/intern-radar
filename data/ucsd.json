@@ -3501,6 +3501,24 @@
       "fingerprint": "4bdff8be1b3f4ef9cecc920caebfec5db235f56a8ca5b827e9eb8fb418880072",
       "revision": 1
     },
+    "url:https://apply.workable.com/j/ca15908e0a": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "enfos",
+        "degrees": [],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "350efb4ed8cdd361ab575cea86194d80cf1f978224ec52401fd2a5fd53dc72be",
+      "revision": 1
+    },
     "url:https://apply.workable.com/javelin-global-commodities/j/caf64e75bf/apply": {
       "eligible": false,
       "fingerprint": "2d22cfb7fca97860cbac71271e048a7bf005e3255bd5a67ec4052813fd8156e1",
@@ -11633,6 +11651,11 @@
       "fingerprint": "57a675390bb34cf2a30f4dde710df1abb019bc98a592616f669e66452e17efc3",
       "revision": 0
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8301804": {
+      "eligible": false,
+      "fingerprint": "c2e3c8bb72493f106ea25288a72cf6a2071bc1d60b22ada733231aa9a9d92b0d",
+      "revision": 1
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8304574": {
       "eligible": false,
       "fingerprint": "772a52eb98eb4135afc53abc1d63593a2afeaf54173cf69df11070d799f5224e",
@@ -13698,14 +13721,47 @@
       "revision": 0
     },
     "url:https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/milwaukee-wi/ai-engineer-intern_req-2026-2553": {
-      "eligible": false,
-      "fingerprint": "c8000e979e2f592b47a77ad7f3d0ac3302592ee5f5f35cc4f5dac5913c92efdf",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "direct supply",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "milwaukee, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "ai engineer intern"
+      },
+      "fingerprint": "ca6f1662d076b2d57d526f45a43480497fa3dd128dd982d4aea13d684f547951",
+      "revision": 1
     },
     "url:https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/milwaukee-wi/software-engineer-intern_req-2026-2559": {
-      "eligible": false,
-      "fingerprint": "8f6502d270960411ab574c561ec814e3638ce32c403518597c77fcce7b9cc7ab",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "direct supply",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "durham, nc",
+          "milwaukee, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "903392d76a27cd310857a9a35661f59d08b208bc0677e1bb5d1140d8e3f9ccf8",
+      "revision": 1
     },
     "url:https://disney.wd5.myworkdayjobs.com/disneycareer/job/burbank-ca-usa/content-research-insights---analytics-intern--spring-2027_10164072-1": {
       "eligible": false,
@@ -19934,6 +19990,11 @@
       "fingerprint": "c1c70dfaaabdebf41d4772f67a235b851ad3d80461576aec4a7970100109a05c",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1bh": {
+      "eligible": false,
+      "fingerprint": "054139aa9685b5d4199e527bbce6c314952f037273f08467a1dcd1b2c0b9d44b",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1bk": {
       "eligible": false,
       "fingerprint": "0151051e10c77e1067c36f31b4491b6dd14306cd9b0ac115b085c56523d4e973",
@@ -19992,6 +20053,41 @@
     "url:https://go.vansh.nyc/1e8": {
       "eligible": false,
       "fingerprint": "e5cd729e8efddcbae01dd10874bf66fcf8f42e238c53177855e9eb2e45806f24",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ee": {
+      "eligible": false,
+      "fingerprint": "3e7fcdef783d1f8eb6f1078ecda071697d5ac705486a859f17f67aa27237792d",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ef": {
+      "eligible": false,
+      "fingerprint": "ef054e33d3f840dc80489277116e4f2b73cbac318fe64f9b14830f6f242bd941",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1eg": {
+      "eligible": false,
+      "fingerprint": "95498f7b245363ab13e2b9fddd0081f9da4b2f60f4467f4f0a1efc2f0efba642",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ej": {
+      "eligible": false,
+      "fingerprint": "2bbf464c101650650db6cb771bb230dd0209c9895220a56bb77deb1b83adcc81",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ek": {
+      "eligible": false,
+      "fingerprint": "ec23e2103fcd7b6fb360e48477a2c21fa1d1378f262fe52ac13486b46ddbc183",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1el": {
+      "eligible": false,
+      "fingerprint": "f5dbc024a489ad995fe246060a87e0eb37e32b4c7e15a354a25a0c8ad0dc9a47",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1en": {
+      "eligible": false,
+      "fingerprint": "5d3f1b31f6d80b0e3a57697be00bfef06553f48593cdfd74aaec7395be3dae96",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1k": {
@@ -28120,25 +28216,9 @@
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/insomniac/jobs/6227080004": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "insomniac games",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "burbank, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "engine and tools programming intern"
-      },
-      "fingerprint": "37a70da49816c3b660e9c0ceded142ce14befca8c15c6109799f543da2f92c35",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "c119ea8edfe5f80885165d59d767a1461d2b152548c18022e3b00e1aa9ecbf7f",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/instalilyai/jobs/4342089009": {
       "eligible": false,
@@ -31945,9 +32025,28 @@
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584": {
-      "eligible": false,
-      "fingerprint": "7581b4ca77cc46f45c1714017b71354fd0486cc1e26583cae2cd645031b98915",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "hadrian",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "la",
+          "los angeles, ca",
+          "torrance, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "robotics software engineer intern"
+      },
+      "fingerprint": "567aef620603ad5b8285598e6b9b05c96fd3eea98e89451b57931d2a3a4fa581",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e": {
       "eligible": true,
@@ -32309,7 +32408,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "megazonecloud",
+        "company": "megazone cloud us",
         "degrees": [
           "bachelor's"
         ],
@@ -32320,10 +32419,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer co-op"
+        "title": "software engineer co-op 2027"
       },
-      "fingerprint": "df62e5c99f3d6fd1137f5a085ec4e459e18faf8f7547e85a8f8cb6f8b8cfbe0e",
-      "revision": 0
+      "fingerprint": "e625ca469113dab11dbf0f1ea386ae3a940a8b18e2e722d1db92c22935ad09e9",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa": {
       "eligible": false,
@@ -56298,6 +56397,10 @@
     "https://go.vansh.nyc/1e5": 112,
     "https://go.vansh.nyc/1e6": 112,
     "https://go.vansh.nyc/1e7": 112,
+    "https://go.vansh.nyc/1em": 113,
+    "https://go.vansh.nyc/1eo": 113,
+    "https://go.vansh.nyc/1ep": 113,
+    "https://go.vansh.nyc/1eq": 113,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -57270,6 +57373,10 @@
     "https://go.vansh.nyc/1e5": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057",
     "https://go.vansh.nyc/1e6": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446",
     "https://go.vansh.nyc/1e7": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d",
+    "https://go.vansh.nyc/1em": "https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584",
+    "https://go.vansh.nyc/1eo": "https://apply.workable.com/j/CA15908E0A",
+    "https://go.vansh.nyc/1ep": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553",
+    "https://go.vansh.nyc/1eq": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -57926,7 +58033,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 112,
+  "scan_sequence": 113,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
