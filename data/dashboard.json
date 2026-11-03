@@ -3095,6 +3095,21 @@
       "url": "https://careers.arcfield.com/jobs/8759?icims=1"
     },
     {
+      "company": "Arch Capital Group",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "7865975726de83dd39418998b012b3017293a1e4f6e8e3b060becdd90b80f308",
+      "locations": [
+        "Farmington, CT"
+      ],
+      "posted_at": "2026-08-31",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data and Analytics Intern",
+      "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845"
+    },
+    {
       "company": "Arconic",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -7595,6 +7610,21 @@
       "company": "Cox",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "d7ddc40ece02cb65a777e001c4dabad1be59f6c7bd563653ad437c9b2b0f5c06",
+      "locations": [
+        "Austin, TX"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168"
+    },
+    {
+      "company": "Cox",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "2e7194648d867d1d52be3432826cc8afd5283380defefd50bfd57c9e4d9df27b",
       "locations": [
         "Atlanta, GA"
@@ -9869,21 +9899,6 @@
       "company": "Figma",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
-      "id": "6eecf2e9d113e361538ae1b4c0e2af1d3b6eac7ee6901f934a84c96a1ff2384f",
-      "locations": [
-        "San Francisco, CA \u2022 New York, NY"
-      ],
-      "posted_at": "2026-09-14",
-      "priority": 11,
-      "priority_program": false,
-      "source": "greenhouse",
-      "title": "Data Science Intern (2027)",
-      "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004"
-    },
-    {
-      "company": "Figma",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
       "id": "df9317867671b6b7d00ee4439e9dade279edc29360614ce8d07542d5515262a0",
       "locations": [
         "San Francisco, CA \u2022 New York, NY"
@@ -11106,36 +11121,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Americas - Engineering",
-      "url": "https://higher.gs.com/roles/171565?type=students"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Engineering",
-      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -16923,6 +16908,21 @@
       "source": "greenhouse",
       "title": "2027 - Software Engineering Intern, AMER",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134"
+    },
+    {
+      "company": "Mosaic",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ea02950c6d62586a0ebb5f14e6bdc7db86cdfe4aa62d5d811e84ac98240e5b02",
+      "locations": [
+        "Lithia, FL"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Artificial Intelligence Co-op Intern",
+      "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420"
     },
     {
       "company": "Motorola",
@@ -23900,21 +23900,6 @@
       "url": "https://job-boards.greenhouse.io/themjcos/jobs/5418283008"
     },
     {
-      "company": "The Mosaic Company",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "ea02950c6d62586a0ebb5f14e6bdc7db86cdfe4aa62d5d811e84ac98240e5b02",
-      "locations": [
-        "Tampa, FL"
-      ],
-      "posted_at": "2026-11-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Artificial Intelligence Co-op",
-      "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420"
-    },
-    {
       "company": "The Nuclear Company",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -27675,21 +27660,6 @@
       "company": "Westinghouse Electric Company",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "e8b2f0ba98a829ce33005cce20f4ba9ecd52ef1bd91dfbff926556bcf25b6d32",
-      "locations": [
-        "Cranberry Township, PA"
-      ],
-      "posted_at": "2026-09-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Enovia PLM Developer Intern - Enovia PLM",
-      "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/?ats=successfactors"
-    },
-    {
-      "company": "Westinghouse Electric Company",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "8066b89ad3e96a9543f9a9ab9b0e996891f85d5caad756ed43f643c514efc2fa",
       "locations": [
         "Warrendale, PA"
@@ -28187,7 +28157,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-03T15:03:30.603964+00:00",
+  "last_checked": "2026-11-03T16:06:03.736835+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
