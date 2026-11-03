@@ -20198,8 +20198,8 @@
     },
     "url:https://go.vansh.nyc/bf": {
       "eligible": false,
-      "fingerprint": "8d0115c083f1460da730d0f4d30d9567797a4e10c579065846fc87f25d5dce0c",
-      "revision": 0
+      "fingerprint": "3c070e6199dbb25a2847370564012b67f96469b61444f11555943058d3ce1395",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/bm": {
       "eligible": false,
@@ -43378,6 +43378,11 @@
       "fingerprint": "829c5e26555cf75c1c0c2e4d37d3152eed27adaf1b4d2135dd16d4e08f33f45f",
       "revision": 0
     },
+    "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/new-york-city-united-states/intern---software-engineer_r0124266-1": {
+      "eligible": false,
+      "fingerprint": "5276fb0f28d6a6f94c2a623ce9adb1ecca716e2dfdea621e82d115c78a0b5b96",
+      "revision": 1
+    },
     "url:https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/nottingham-united-kingdom/engineering-summer-internship-programme_r0124221": {
       "eligible": false,
       "fingerprint": "0a9c3ba4b10c7f14b5576048bd31c60ac0cf9dbf121f26257570c8d4b87c53d5",
@@ -51081,24 +51086,16 @@
           "bachelor's"
         ],
         "locations": [
-          "atlanta, ga",
-          "dayton, oh",
-          "knoxville, tn",
-          "lake oswego, or",
-          "portsmouth, nh",
-          "princeton, nj",
-          "sunnyvale, ca",
-          "westminster, co",
           "westminster, co +6"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern"
       },
-      "fingerprint": "85211ae0df5c7295970704058196d6130ccc62a0f8d1a9df119616f69bc757f0",
-      "revision": 0
+      "fingerprint": "2854bb8d08277885593f9bb70ed74c903d3823c6d22ed0b1694471aff7271721",
+      "revision": 1
     },
     "url:https://trustage.wd1.myworkdayjobs.com/trustage/job/wisconsin---remote/enterprise-information---technology-internship--hybrid-_r-012155": {
       "eligible": true,
@@ -57500,7 +57497,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 104,
+  "scan_sequence": 105,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
