@@ -19468,6 +19468,24 @@
       "fingerprint": "9bc77c307928ed4427e6326c74d1256440cf68bf625e22eacbd52f5e568ee679",
       "revision": 0
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ut-west-valley-city-338--1127--1128-w-2400-s--bldg-338/software-engineering-intern--summer-2027-_01886446": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "rtx",
+        "degrees": [],
+        "locations": [
+          "west valley city, ut"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "b1ae52b7536cc6df0597afb53883b74a2e7f0ecdc0a58788cc760cbbf953b0b3",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-va-sterling-291--22640-davis-dr--davis/software-engineering-intern--summer-2027-_01885169": {
       "eligible": true,
       "evidence": {
@@ -19971,6 +19989,11 @@
       "fingerprint": "0af335116cef26bf5a8262f8da2408595b33fac064fa6de99e2773044f1d6d69",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1e8": {
+      "eligible": false,
+      "fingerprint": "e5cd729e8efddcbae01dd10874bf66fcf8f42e238c53177855e9eb2e45806f24",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1k": {
       "eligible": false,
       "fingerprint": "ac2367ecdb86555ceb30e8e05ee043dce929e9a1493e8f2ec788c5fee382c4de",
@@ -20333,6 +20356,11 @@
       "eligible": false,
       "fingerprint": "abcbc5811e75244ffb8c21dd0bd71538810391a71c744c986c291948b4feab2c",
       "revision": 2
+    },
+    "url:https://go.vansh.nyc/bn": {
+      "eligible": false,
+      "fingerprint": "3de0346534ead035ec54cda68c8bf4da8066c30847d8f7dd97d0ebe9713e3a02",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/bo": {
       "eligible": false,
@@ -23610,6 +23638,24 @@
       "eligible": false,
       "fingerprint": "e02b97aff9eabc7ad30fa4a45e185b39a5c48b8afec2af78240a104f2a259e3d",
       "revision": 2
+    },
+    "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-quality-assurance-intern_uni4803-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "hewlett packard (hp)",
+        "degrees": [],
+        "locations": [
+          "san francisco, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, product & developer productivity"
+      },
+      "fingerprint": "07da139518d268c6e616d02470498339c00a1ed332ed5e8b8aa267fb409749d5",
+      "revision": 1
     },
     "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-systems-intern_uni4801-1": {
       "eligible": false,
@@ -36334,6 +36380,24 @@
       "fingerprint": "1df76dc4a985365743bc75e7b9c8a0b02139fd75d3d8b66e07d5b17722bf953a",
       "revision": 1
     },
+    "url:https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cfs energy",
+        "degrees": [],
+        "locations": [
+          "devens, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "e0ce7e564f3ad95a84911c5d4e113fd420d2613cec90635361365eac3fac696f",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/colibrigroup/dda06cac-4ba7-4291-bcdc-6b6873c98488": {
       "eligible": false,
       "fingerprint": "f7c14432846c70a2ba31ed695306852c64443fa2bca7b2e13e8b4c2af984a3e1",
@@ -45167,6 +45231,24 @@
         "title": "flight software engineer intern"
       },
       "fingerprint": "792bf2ec8c4fe07935e9e2700f90e46c2970d6d95e5da39b7f15c2775f4918aa",
+      "revision": 1
+    },
+    "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-redondo-beach/xmlname-2027-ground-software-engineer-intern---redondo-beach-ca_r10259057": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "northrop grumman",
+        "degrees": [],
+        "locations": [
+          "redondo beach, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ground software engineer intern"
+      },
+      "fingerprint": "7b6fa6ba8ca46ad40d13888e8d7aafd2e05e7ada88b10b80fa30a9127ea913f8",
       "revision": 1
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern-product-support---data-scientist_r10258679": {
@@ -56212,6 +56294,10 @@
     "https://go.vansh.nyc/1dr": 101,
     "https://go.vansh.nyc/1dz": 106,
     "https://go.vansh.nyc/1e0": 111,
+    "https://go.vansh.nyc/1e4": 112,
+    "https://go.vansh.nyc/1e5": 112,
+    "https://go.vansh.nyc/1e6": 112,
+    "https://go.vansh.nyc/1e7": 112,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -57180,6 +57266,10 @@
     "https://go.vansh.nyc/1dr": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors",
     "https://go.vansh.nyc/1dz": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229",
     "https://go.vansh.nyc/1e0": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1",
+    "https://go.vansh.nyc/1e4": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1",
+    "https://go.vansh.nyc/1e5": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057",
+    "https://go.vansh.nyc/1e6": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446",
+    "https://go.vansh.nyc/1e7": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -57836,7 +57926,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 111,
+  "scan_sequence": 112,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
