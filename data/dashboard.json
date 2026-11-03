@@ -3988,6 +3988,51 @@
       "company": "Bedrock Robotics",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "a264575fe8b187e30bc5d879e346ed5ae82914f68c9a0da31cdd601c8a83d719",
+      "locations": [
+        "SF"
+      ],
+      "posted_at": "2026-09-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Behavior Machine Learning Engineer Intern - World Models",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true"
+    },
+    {
+      "company": "Bedrock Robotics",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "45823ef29cc44101886e35564fcd57fcf585d3eb12883a13e3830d0805d088fa",
+      "locations": [
+        "SF"
+      ],
+      "posted_at": "2026-10-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Behavior ML Engineer Intern - Learned Manipulation Policies",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c/application?embed=true"
+    },
+    {
+      "company": "Bedrock Robotics",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "bbfc83486876b627da8e3f4e5afab17d5c8c0421c36e7644488311e8a9cf9905",
+      "locations": [
+        "SF"
+      ],
+      "posted_at": "2026-09-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Onboard Infrastructure Engineer Intern - ML Inference",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application?embed=true"
+    },
+    {
+      "company": "Bedrock Robotics",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "6f35d707443b8f603fa60c0038113f372f685a6faf1c6eb261eb42b1f15558ad",
       "locations": [
         "NYC"
@@ -6465,6 +6510,22 @@
       "url": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d"
     },
     {
+      "company": "Charta Health",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "277168e0ce3a5bcf566abc8805fcb5ffcf07eab87cb21427fc9c663d5712830b",
+      "locations": [
+        "SF",
+        "NYC"
+      ],
+      "posted_at": "2026-09-14",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Forward Deployed AI Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf/application?embed=true"
+    },
+    {
       "company": "Charter Manufacturing",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -7200,6 +7261,21 @@
       "source": "simplify",
       "title": "Engineering Intern",
       "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008"
+    },
+    {
+      "company": "ConductorAI",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "add6c813f4b93c9c3f8a2fc0b69b1e4c6c7987e4b0d501bf928a851df0611c84",
+      "locations": [
+        "NYC"
+      ],
+      "posted_at": "2026-09-08",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891/application?embed=true"
     },
     {
       "company": "Constellation Brands",
@@ -8902,6 +8978,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
+    },
+    {
+      "company": "Dynamic Catholic",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2bd9bde82cb60709043ba82057b8692fb043a918f293d52e0cc0b60ba5dcb0fa",
+      "locations": [
+        "Erlanger, KY"
+      ],
+      "posted_at": "2026-09-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Developer Intern - Commerce Cloud",
+      "url": "https://jobs.lever.co/dynamiccatholic/e94fa581-892c-4958-9515-0221f862ce57/apply"
     },
     {
       "company": "Eaton",
@@ -12121,21 +12212,6 @@
       "source": "simplify",
       "title": "Data Analyst Intern",
       "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826"
-    },
-    {
-      "company": "Highmark Health",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "7660d69217386ce51b427861a1685045b2882c6becffc7e5211910acbe430582",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "posted_at": "2026-10-19",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analyst Undergraduate Intern",
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017"
     },
     {
       "company": "Highmark Health",
@@ -16042,6 +16118,21 @@
       "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812"
     },
     {
+      "company": "M3USA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c37fd896187f3a8eddd406b0baf35cc02fb9ef45c57fc21692f9e636d29282f4",
+      "locations": [
+        "Fort Washington, PA"
+      ],
+      "posted_at": "2026-09-08",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/M3USA/744000148244649"
+    },
+    {
       "company": "Mach Industries",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -16291,16 +16382,14 @@
       "graduation_status": "unknown",
       "id": "44fb761a894a2331413ec394a413ce4340e04f4832668dffdc489ccbd6b4d3c7",
       "locations": [
-        "Pittsburgh, PA",
-        "Columbus, OH",
-        "Irving, TX"
+        "Irving, TX +3"
       ],
       "posted_at": "2026-10-07",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382"
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/external_careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382"
     },
     {
       "company": "McKesson",
@@ -17736,14 +17825,14 @@
       "graduation_status": "unknown",
       "id": "1294e47c210f2cac306ca66c2f017f816c98c11d7f4300d7f4d25c4d9f66cfaf",
       "locations": [
-        "SF"
+        "San Francisco, CA"
       ],
-      "posted_at": "2026-10-26",
+      "posted_at": "2026-10-27",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Native SDK & Mobile Platforms",
-      "url": "https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43/application?embed=true"
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Summer 2027 - Native SDK & Mobile Platforms",
+      "url": "https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43"
     },
     {
       "company": "Nissan",
@@ -20098,6 +20187,36 @@
       "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply"
     },
     {
+      "company": "RAVE Aerospace",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "40a58fd334fd4f3b5d51fb37c427f9dd1328ce3acf3625a32b05ff18c16ba118",
+      "locations": [
+        "Laramie, WY"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://apply.workable.com/j/739753C003"
+    },
+    {
+      "company": "Realm",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "9af17979b892ec93356ea609c79016993d5f9bf5949816e324b946fc8e7fc1e7",
+      "locations": [
+        "Remote in USA"
+      ],
+      "posted_at": "2026-08-26",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true"
+    },
+    {
       "company": "Realty Income",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -20405,6 +20524,70 @@
       "source": "simplify",
       "title": "Insurance Technology & AI Analytics Intern",
       "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Chicago-IL/Insurance-Technology---AI-Analytics-Intern--Summer-2027_JR104539"
+    },
+    {
+      "company": "Revel",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a55a421a7f6abba9af4ab149aab1fda467bfefcdf91bde9a8f22a45338b5ea37",
+      "locations": [
+        "SF",
+        "LA"
+      ],
+      "posted_at": "2026-09-08",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?embed=true"
+    },
+    {
+      "company": "Revel",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "bc09131287fdf13654d7e7100cfbd15c9ab417f62a394a57266946054b525da6",
+      "locations": [
+        "SF",
+        "LA"
+      ],
+      "posted_at": "2026-09-08",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Forward Deployed Engineer Intern - Software",
+      "url": "https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true"
+    },
+    {
+      "company": "Revel",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "48011c05128ca4f5c12645d8d2e3c6d8bf8b0122c945e2d108f23ca07337c603",
+      "locations": [
+        "SF",
+        "LA"
+      ],
+      "posted_at": "2026-09-08",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Full Stack Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?embed=true"
+    },
+    {
+      "company": "Revel",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "3d868b9569c5d1f6cd050fafea0f85b75704e721d056eeb6b3b7ecce31dcab18",
+      "locations": [
+        "Los Angeles, CA",
+        "San Francisco, CA"
+      ],
+      "posted_at": "2026-10-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Test",
+      "url": "https://jobs.ashbyhq.com/revel/f080b27d-92c7-4e1f-a85f-b4a7c166d738"
     },
     {
       "company": "Rhoda AI",
@@ -22790,6 +22973,21 @@
       "url": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004"
     },
     {
+      "company": "Strada",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "57cc748a17d8f9d14fbd1fe6aa6828af472451b14c1d5060278752621bf14372",
+      "locations": [
+        "SF"
+      ],
+      "posted_at": "2026-10-07",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/stradahq/d277be89-9d67-48cd-9e67-3b17bbab709e/application?embed=true"
+    },
+    {
       "company": "Strada Education Foundation",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -23188,6 +23386,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882"
+    },
+    {
+      "company": "T-Mobile",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "16a0be5c4e7dfae44ea06a9d8c32b3e4788812a21af1d6f5cc73e6c26be96721",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652"
+    },
+    {
+      "company": "T-Mobile",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4c7060cc4f5da1b5ff63cc2e16333836f31d05af98231a7bd8db5f2fb49455bf",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "T-Ads Software Engineering Intern",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234"
     },
     {
       "company": "Talos",
@@ -25668,6 +25896,21 @@
       "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155"
     },
     {
+      "company": "TruStage",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "3d174c78dad5d5e0f99f523c3bdba2311c618d217dea0140b44de6d5a272502c",
+      "locations": [
+        "Madison, WI"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "IT Intern, Innovation & AI Technology",
+      "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293"
+    },
+    {
       "company": "TWG Global",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -25681,6 +25924,21 @@
       "source": "simplify",
       "title": "AI Engineer Intern - Summer 2027",
       "url": "https://apply.workable.com/twgai/j/772CD136FF/apply"
+    },
+    {
+      "company": "TWG Global",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "8635715251d20e2852ea410671d26bed3dc59295539a9a5ff3f8382ec651a7e2",
+      "locations": [
+        "Santa Monica, CA"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Engineering Intern",
+      "url": "https://apply.workable.com/j/772CD136FF"
     },
     {
       "company": "TWG Global",
@@ -26145,6 +26403,22 @@
       "source": "simplify",
       "title": "Embedded Systems Engineer Intern",
       "url": "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223"
+    },
+    {
+      "company": "Valon",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "18ef2267163ed9a79c6f7a06cabbad46ca565eaa2ca274cc8c22cd21b3ab28a5",
+      "locations": [
+        "SF",
+        "NYC"
+      ],
+      "posted_at": "2026-09-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/Valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64/application?embed=true"
     },
     {
       "company": "Vanguard",
@@ -27498,6 +27772,21 @@
       "url": "https://wing.com/careers/8872476002?gh_jid=8872476002"
     },
     {
+      "company": "Winsupply",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5ca3f2cd4e2b9ce91e8be4187aa380e6b8490ec39a809cbbe9d92b7d1712d108",
+      "locations": [
+        "Moraine, OH"
+      ],
+      "posted_at": "2026-09-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/Winsupply1/3743990015014717"
+    },
+    {
       "company": "WoodmenLife",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -27628,8 +27917,8 @@
       "posted_at": "2026-09-11",
       "priority": 11,
       "priority_program": false,
-      "source": "speedyapply",
-      "title": "Summer 2027 Internship - Computational and Software Engineering",
+      "source": "vanshb03",
+      "title": "Computational and Software Engineering Intern",
       "url": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911"
     },
     {
@@ -27845,7 +28134,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-03T21:59:14.473217+00:00",
+  "last_checked": "2026-11-03T22:58:49.441638+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
