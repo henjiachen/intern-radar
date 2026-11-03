@@ -11174,7 +11174,9 @@
           "master's"
         ],
         "locations": [
-          "mountain view, california, united states; san francisco, california, united states"
+          "mountain view, ca",
+          "mountain view, california, united states; san francisco, california, united states",
+          "sf"
         ],
         "requirements": [],
         "terms": [
@@ -11182,8 +11184,8 @@
         ],
         "title": "2027 summer intern, bs/ms, software engineering, commercialization"
       },
-      "fingerprint": "e416cebfcbfff141acd6cb44e83e8b436babf4585a33f9cb2c0db2899637ceb0",
-      "revision": 1
+      "fingerprint": "39bafd05957650c1bd68d225a8780c1a5cfba332b376bc026c8b09be8d323dcd",
+      "revision": 2
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8199365": {
       "eligible": false,
@@ -29755,8 +29757,8 @@
     },
     "url:https://job-boards.greenhouse.io/vercel/jobs/6181755004": {
       "eligible": false,
-      "fingerprint": "8647b7adb360f69ae129e933a97274b4b8cf0bf4d4e835d5768613a51ed2396a",
-      "revision": 1
+      "fingerprint": "c7ccbfcd878478d4dbcc1cce2a6b63d702a2e420d4b42bcc34f5dff0c59fcfbf",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/vercel/jobs/6181759004": {
       "eligible": false,
@@ -32691,6 +32693,24 @@
       "fingerprint": "13502c647c3dece5f85511aff425c4f093980ab4c3ea42bd13864e5880c61581",
       "revision": 0
     },
+    "url:https://jobs.ashbyhq.com/shield/621d736b-5ae1-4d62-8f05-088753318d29": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "shield",
+        "degrees": [],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded firmware intern"
+      },
+      "fingerprint": "439123e0688616afb2d5731b6969d314acf95edf5cbe43092283dbf86f408f0f",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e": {
       "eligible": false,
       "fingerprint": "6599636e1d1ccb858c5205e749336572dae6c7a23013c4450a307f75bbd7e222",
@@ -33031,8 +33051,8 @@
     },
     "url:https://jobs.ashbyhq.com/tensorwave/39091eeb-13fc-46a7-b7e5-0d4584ac53ab": {
       "eligible": false,
-      "fingerprint": "a2619030c32fda9bf14ec6beb7dcad373170518399aa12fd238d012a10ebbbdd",
-      "revision": 2
+      "fingerprint": "0b60cca35f2756cc156a274a4a6035768650469c4500e2255de689123a00383b",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5": {
       "eligible": true,
@@ -44904,6 +44924,30 @@
       "fingerprint": "f8e712230ac7d12f58f62b177797a87a54b082a722f996390f6bc418f95c7239",
       "revision": 0
     },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/math-libraries-intern--cuest---summer-2027_jr2028449": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "nvidia",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "canada",
+          "santa clara, ca",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "math libraries intern"
+      },
+      "fingerprint": "692b09a0f014a370969f63fe79dcc69b93b926d6eb166bad6f8fc609d0323260",
+      "revision": 1
+    },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--autonomous-vehicles-and-robotics_jr2023496": {
       "eligible": true,
       "evidence": {
@@ -48514,6 +48558,46 @@
         "title": "python backend developer intern - energy flexibility platform"
       },
       "fingerprint": "bbe602de4c7c581e91f2bf70c0f7e3c4b3a73496ba2062d09ae96e4ef74ba73c",
+      "revision": 1
+    },
+    "url:https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/support-center---akron-oh/data-analytics-intern_req_84317": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "signet jewelers",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "akron, oh"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics intern"
+      },
+      "fingerprint": "abfbf8d0f8058f5af61be389905791c43b567e4d13bdbc020a24ef90a89bee05",
+      "revision": 1
+    },
+    "url:https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/support-center---akron-oh/data-analytics-intern_req_84318-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "signet jewelers",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "akron, oh"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics intern"
+      },
+      "fingerprint": "abfbf8d0f8058f5af61be389905791c43b567e4d13bdbc020a24ef90a89bee05",
       "revision": 1
     },
     "url:https://simisinc.applytojob.com/apply/u1yosyvkvh/aerospaceaviation-artificial-intelligence-developer-intern": {
@@ -53457,6 +53541,11 @@
       "fingerprint": "c5d76d1e2c69cc87dee02676cdf524c582290758945637f27b41f3e40ef5a19c",
       "revision": 1
     },
+    "url:https://www.metacareers.com/jobs/1903232531024141": {
+      "eligible": false,
+      "fingerprint": "5118b30017d6025b57d712e1e595ea4fc73eba41ec8c7d1ff6fada28014cc52c",
+      "revision": 1
+    },
     "url:https://www.metacareers.com/jobs/1940312740718917": {
       "eligible": false,
       "fingerprint": "d172992560716cdae1b7816723376045787b4cbb88200a7a73a843a34de4e956",
@@ -55056,6 +55145,7 @@
     "https://go.vansh.nyc/1bA": 95,
     "https://go.vansh.nyc/1bB": 95,
     "https://go.vansh.nyc/1bC": 95,
+    "https://go.vansh.nyc/1bJ": 96,
     "https://go.vansh.nyc/1bb": 94,
     "https://go.vansh.nyc/1bc": 94,
     "https://go.vansh.nyc/1be": 94,
@@ -55947,6 +56037,7 @@
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
     "https://go.vansh.nyc/1bB": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11013",
     "https://go.vansh.nyc/1bC": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10993",
+    "https://go.vansh.nyc/1bJ": "https://jobs.ashbyhq.com/shield/621d736b-5ae1-4d62-8f05-088753318d29",
     "https://go.vansh.nyc/1bb": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--A-_JR226736",
     "https://go.vansh.nyc/1bc": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980",
     "https://go.vansh.nyc/1be": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743",
@@ -56618,7 +56709,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 95,
+  "scan_sequence": 96,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
