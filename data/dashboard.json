@@ -172,6 +172,21 @@
       "company": "NVIDIA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "83ae0904cc817287930e80ecdf5cecac74411ed56c5770342b7463fb011143ad",
+      "locations": [
+        "Austin, TX"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 7,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Compiler and Kernel Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"
+    },
+    {
+      "company": "NVIDIA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "d16b2a8c48a7aa001d0ee2e795029fca45c0e33b2ac675b2f52d973907ee9797",
       "locations": [
         "Austin, TX"
@@ -1313,21 +1328,6 @@
       "company": "Alcon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "2abe8ba8a7ae8149d46030df6dc99919cf4ace12595b16b40af7796d9bb6402e",
-      "locations": [
-        "Fort Worth, TX +4"
-      ],
-      "posted_at": "2026-09-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "speedyapply",
-      "title": "2027 Summer Software - Data & AI Engineering Interns",
-      "url": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Software--Data---AI-Engineering-Interns_R-2026-49480"
-    },
-    {
-      "company": "Alcon",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "a61aa92071e8fc88de07d34a99c98ce35050fb4622266e3057305bd6b286d857",
       "locations": [
         "Fort Worth, TX",
@@ -1342,6 +1342,71 @@
       "source": "vanshb03",
       "title": "Electrical & Computer Engineering Intern",
       "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Electrical---Computer-Engineering-Intern_R-2026-49479"
+    },
+    {
+      "company": "Alcon",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2abe8ba8a7ae8149d46030df6dc99919cf4ace12595b16b40af7796d9bb6402e",
+      "locations": [
+        "Fort Worth, TX",
+        "Lake Forest, CA",
+        "Johns Creek, GA",
+        "Houston, TX",
+        "Goleta, CA"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software, Data & AI Engineering Intern",
+      "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Software--Data---AI-Engineering-Interns_R-2026-49480"
+    },
+    {
+      "company": "Allegion",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "bf9ad1d6038bdb4105af3180e9a44a4b94f625e5f20ec40369b5eca9a4590283",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Firmware Engineer Intern, Advanced Development",
+      "url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458"
+    },
+    {
+      "company": "Allegion",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "06804c880d892d20a1a7f7272e59c482d2c5b0bda63d58139e69f1a76cfaceba",
+      "locations": [
+        "Golden, CO"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795"
+    },
+    {
+      "company": "Allegion",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "fe2bd9054bdb0971e77c4d2863bbe1a6766f54c34a68d77b90563e73f66fb679",
+      "locations": [
+        "Carmel, IN",
+        "Golden, CO"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, DevOps",
+      "url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Carmel-IN/Summer-Intern---Software-Engineering---DevOps_JR37379"
     },
     {
       "company": "Allegion",
@@ -1417,6 +1482,21 @@
       "source": "simplify",
       "title": "Computer Vision Intern - Machine Learning",
       "url": "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?embed=true"
+    },
+    {
+      "company": "AllianceBernstein",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "baea5aed0842a0e054c4232b72167ab257f86b610872e5f2108fa6b3640c4121",
+      "locations": [
+        "Nashville, TN"
+      ],
+      "posted_at": "2026-09-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771"
     },
     {
       "company": "Allstate",
@@ -3486,6 +3566,21 @@
       "company": "Auto-Owners Insurance",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "295fb8c82d3dbc0adbfb089d4e3de042147abb29a921872996f92e8d3eae6439",
+      "locations": [
+        "Lansing, MI"
+      ],
+      "posted_at": "2026-08-26",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Analytics Web Systems Developer Intern",
+      "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intern---Analytics-Web-Systems-Developer_R_14272"
+    },
+    {
+      "company": "Auto-Owners Insurance",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "62e538db7be7f1d3f8ddd9bb8e874d3d8e9e15af52683efe75dd36a080593884",
       "locations": [
         "Lansing, MI"
@@ -3556,6 +3651,21 @@
       "source": "simplify",
       "title": "IT Document Automation Developer Intern",
       "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471"
+    },
+    {
+      "company": "Auto-Owners Insurance",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2aeeeae129111ad40a851c6b6e0127a481963aadf3ac51d4dddad322816bde3f",
+      "locations": [
+        "Lansing, MI"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "IT Security Engineer Intern",
+      "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477"
     },
     {
       "company": "Auto-Owners Insurance",
@@ -3736,6 +3846,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern - R&D Program",
       "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003"
+    },
+    {
+      "company": "Axos Bank",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "05e5cce7144ab38d3ceb0753f59622d88fee35f3bdb9349ea2b4972c51cd6bb8",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-10-07",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Engineer Intern",
+      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658"
+    },
+    {
+      "company": "Axos Bank",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "e4d79bf5c3ae2483ea5b10a1bb57ce3d7b6042257c7cedfee8f86efb11236d4f",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-10-07",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647"
     },
     {
       "company": "Badger Meter",
@@ -4841,6 +4981,21 @@
       "source": "vanshb03",
       "title": "Software Test Engineer Intern",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813568250"
+    },
+    {
+      "company": "Bracco",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f758cfe6e4afd16b100f57fe1b7c3b52d0c919d38bf59a7f6835ac339ca4b18b",
+      "locations": [
+        "Eden Prairie, MN"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328"
     },
     {
       "company": "Brain Co.",
@@ -27812,7 +27967,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-03T04:06:42.452353+00:00",
+  "last_checked": "2026-11-03T05:09:05.341267+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

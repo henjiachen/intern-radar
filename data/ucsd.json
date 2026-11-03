@@ -293,9 +293,25 @@
       "revision": 0
     },
     "url:https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/nashville-tennessee/software-development-summer-intern_r0019771": {
-      "eligible": false,
-      "fingerprint": "e2309f97f6323096a5fdbf065269a51d83c51acb8a323cc369768037cf64bdf7",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "alliancebernstein",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "nashville, tn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software development intern"
+      },
+      "fingerprint": "baead1a75649e8f71d514737f3127b02b7e945182c3a4e9b4d6d8554a256032c",
+      "revision": 1
     },
     "url:https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/ontario---toronto/industry-x----mes---supply-chain-engineering-co-op-analyst---toronto---naelfy27_r00365351": {
       "eligible": false,
@@ -735,14 +751,21 @@
         "company": "alcon",
         "degrees": [],
         "locations": [
-          "fort worth, tx +4"
+          "fort worth, tx",
+          "fort worth, tx +4",
+          "goleta, ca",
+          "houston, tx",
+          "johns creek, ga",
+          "lake forest, ca"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "2027 summer software - data & ai engineering interns"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software, data & ai engineering intern"
       },
-      "fingerprint": "071d47969465ba22f72501844c889f99a32133b7c8d4002a49b1b67f784cd55e",
-      "revision": 0
+      "fingerprint": "debbafbde4e6403d308538777d605add4ed10a634c5c860e6c137a1b7135b31c",
+      "revision": 1
     },
     "url:https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/ca---oakville-3---office/manufacturing-excellence-co-op-student--winter-2027---etudiant-coop-excellence-manufacturire--hiver-2027_r-58664-2": {
       "eligible": false,
@@ -831,10 +854,47 @@
       "fingerprint": "fea510c3bfb8a57c75c5f118f203b9c1c7790c1558232d05890f7dbaea1db978",
       "revision": 0
     },
+    "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/carmel-in/summer-intern---software-engineering---devops_jr37379": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "allegion",
+        "degrees": [],
+        "locations": [
+          "carmel, in",
+          "golden, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, devops"
+      },
+      "fingerprint": "dcad3bcd7f0c66f9ed38f679b1d152b89943bfdafb1ca5a2d8e30524543c4a1d",
+      "revision": 1
+    },
     "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/golden-co/summer-intern---software-engineering---quality-assurance_jr37472": {
       "eligible": false,
       "fingerprint": "85707f143dc3361df7916ce93636c6295e4518aedaeac90967910b1015bccbea",
       "revision": 0
+    },
+    "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/golden-co/summer-intern---software-engineering_jr37795": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "allegion",
+        "degrees": [],
+        "locations": [
+          "golden, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "8037bb3197c8a776bd189769a33534b456eb1c6fae87b10468dcd9cc2a657162",
+      "revision": 1
     },
     "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/golden-co/summer-intern---software-systems-engineering_jr37395": {
       "eligible": false,
@@ -844,6 +904,24 @@
     "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/golden-co/summer-intern---summer-intern---software-engineering---quality-assurance_jr37856": {
       "eligible": false,
       "fingerprint": "85707f143dc3361df7916ce93636c6295e4518aedaeac90967910b1015bccbea",
+      "revision": 1
+    },
+    "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/indianapolis-in---hague-rd/summer-intern---firmware-engineer--advanced-development----indianapolis--in_jr37458": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "allegion",
+        "degrees": [],
+        "locations": [
+          "indianapolis, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "firmware engineer intern, advanced development"
+      },
+      "fingerprint": "fb9d6b3cf3914e9284c6acd65dac4a3947a140486cd439acd091fe51c079045d",
       "revision": 1
     },
     "url:https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/canton-mississippi---united-states-of-america/systems-engineer-intern---summer-2027---canton--ms_r00214882": {
@@ -2393,9 +2471,25 @@
       "revision": 0
     },
     "url:https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/intern---analytics-web-systems-developer_r_14272": {
-      "eligible": false,
-      "fingerprint": "db18af686d015d37cd9c096ce270df7278a81eba93ee56aeded84c43e62b029b",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "auto-owners insurance",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "lansing, mi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "analytics web systems developer intern"
+      },
+      "fingerprint": "3a1175720b8728d61f1a7719a4830fdb4079565e67bd3ab84f09994f7218e43f",
+      "revision": 1
     },
     "url:https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/it-document-automation-developer-internship---summer-2027_r_14471": {
       "eligible": true,
@@ -2416,6 +2510,24 @@
       },
       "fingerprint": "5802e7ff628c3377ae175541ce1a84df0b8390d7884a6b84afed09b25172ca21",
       "revision": 0
+    },
+    "url:https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/it-security-engineer-internship---summer-2027_r_14477": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "auto-owners insurance",
+        "degrees": [],
+        "locations": [
+          "lansing, mi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it security engineer intern"
+      },
+      "fingerprint": "606a4b7b4d0af965c029b637ccf17386a6b95fe4235afd1b4b4cd324cffcfb8b",
+      "revision": 1
     },
     "url:https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/predictive-modeler-intern---summer-2022_r_3833": {
       "eligible": true,
@@ -4892,9 +5004,23 @@
       "revision": 0
     },
     "url:https://axos.wd5.myworkdayjobs.com/axos/job/hq---san-diego-ca/ai-engineer-intern_jr5658": {
-      "eligible": false,
-      "fingerprint": "8463e39e8ea7898579a18ed3b97b9d8b00891268557066d8a1386361d4a9a3eb",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "axos bank",
+        "degrees": [],
+        "locations": [
+          "san diego, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "ai engineer intern"
+      },
+      "fingerprint": "651c9c3cbd9f34e4068e57fa83c8e013aab4c0493d8a6d4f5638509f4bbec36c",
+      "revision": 1
     },
     "url:https://axos.wd5.myworkdayjobs.com/axos/job/hq---san-diego-ca/automation-analyst-intern_jr4507": {
       "eligible": false,
@@ -4907,9 +5033,23 @@
       "revision": 0
     },
     "url:https://axos.wd5.myworkdayjobs.com/axos/job/hq---san-diego-ca/software-development-intern_jr5647": {
-      "eligible": false,
-      "fingerprint": "59c15a557f781ffbcc5e8bd5d0b424c91a676b21ba4ca17472c94f91c984ffe4",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "axos bank",
+        "degrees": [],
+        "locations": [
+          "san diego, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software development intern"
+      },
+      "fingerprint": "0ac19bd42ebb39768ad5813b1ad615b35d8edfa18b44a3b9c14ab0c872ceef9c",
+      "revision": 1
     },
     "url:https://axos.wd5.myworkdayjobs.com/axos/job/omaha-ne/data-intern_jr5642": {
       "eligible": false,
@@ -7351,9 +7491,22 @@
       "revision": 0
     },
     "url:https://bracco.wd103.myworkdayjobs.com/braccocareers/job/usa-eden-prairie-minnesota-55344/software-engineering-intern_jr100328": {
-      "eligible": false,
-      "fingerprint": "b10b310da73636362c985d6acb8b2952c9ab0f3440f5e07600b4b1473fb5a366",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "bracco",
+        "degrees": [],
+        "locations": [
+          "eden prairie, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "9bfcdae50adbadbbf7a3ff3802d47062cb8ca2230bc1c88d3e6f0b8a8169d0f6",
+      "revision": 1
     },
     "url:https://bracco.wd103.myworkdayjobs.com/braccocareers/job/usa-pleasanton-california-94566/firmware-engineering-co-op_jr100319": {
       "eligible": false,
@@ -19493,6 +19646,11 @@
       "eligible": false,
       "fingerprint": "297251101f78dace9ddfd5a5e18794578550b66e19c42f1403167a6b671d99b6",
       "revision": 0
+    },
+    "url:https://go.vansh.nyc/1c8": {
+      "eligible": false,
+      "fingerprint": "ca198976357e2fdc746cf7fd3da312adf74135f0fa0483b96f1027a7dc68a6e9",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/1e": {
       "eligible": false,
@@ -45229,6 +45387,24 @@
       "fingerprint": "80cb56e1799f526263d690120bba6264a71f40d35356c9947e259078b9c7cacf",
       "revision": 1
     },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-tx-austin/ai-compiler-and-kernel-intern---summer-2027_jr2029220-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nvidia",
+        "degrees": [],
+        "locations": [
+          "austin, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai compiler and kernel intern"
+      },
+      "fingerprint": "5673b352f566f27205360ed7ccdf40c0b2a5893071181158200868bcb73247d9",
+      "revision": 1
+    },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-tx-austin/ai-systems-software-engineering-intern---summer-2027_jr2027170": {
       "eligible": true,
       "evidence": {
@@ -55213,6 +55389,12 @@
     "https://go.vansh.nyc/1bJ": 96,
     "https://go.vansh.nyc/1bL": 97,
     "https://go.vansh.nyc/1bN": 97,
+    "https://go.vansh.nyc/1bR": 98,
+    "https://go.vansh.nyc/1bT": 98,
+    "https://go.vansh.nyc/1bU": 98,
+    "https://go.vansh.nyc/1bX": 98,
+    "https://go.vansh.nyc/1bY": 98,
+    "https://go.vansh.nyc/1bZ": 98,
     "https://go.vansh.nyc/1bb": 94,
     "https://go.vansh.nyc/1bc": 94,
     "https://go.vansh.nyc/1be": 94,
@@ -55228,6 +55410,13 @@
     "https://go.vansh.nyc/1bx": 95,
     "https://go.vansh.nyc/1by": 95,
     "https://go.vansh.nyc/1bz": 95,
+    "https://go.vansh.nyc/1c0": 98,
+    "https://go.vansh.nyc/1c1": 98,
+    "https://go.vansh.nyc/1c3": 98,
+    "https://go.vansh.nyc/1c4": 98,
+    "https://go.vansh.nyc/1c5": 98,
+    "https://go.vansh.nyc/1c6": 98,
+    "https://go.vansh.nyc/1c7": 98,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -56107,6 +56296,12 @@
     "https://go.vansh.nyc/1bJ": "https://jobs.ashbyhq.com/shield/621d736b-5ae1-4d62-8f05-088753318d29",
     "https://go.vansh.nyc/1bL": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036",
     "https://go.vansh.nyc/1bN": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a",
+    "https://go.vansh.nyc/1bR": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+    "https://go.vansh.nyc/1bT": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647",
+    "https://go.vansh.nyc/1bU": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658",
+    "https://go.vansh.nyc/1bX": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328",
+    "https://go.vansh.nyc/1bY": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771",
+    "https://go.vansh.nyc/1bZ": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Software--Data---AI-Engineering-Interns_R-2026-49480",
     "https://go.vansh.nyc/1bb": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--A-_JR226736",
     "https://go.vansh.nyc/1bc": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980",
     "https://go.vansh.nyc/1be": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743",
@@ -56122,6 +56317,13 @@
     "https://go.vansh.nyc/1bx": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19813",
     "https://go.vansh.nyc/1by": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19817",
     "https://go.vansh.nyc/1bz": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19814",
+    "https://go.vansh.nyc/1c0": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Carmel-IN/Summer-Intern---Software-Engineering---DevOps_JR37379",
+    "https://go.vansh.nyc/1c1": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458",
+    "https://go.vansh.nyc/1c3": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795",
+    "https://go.vansh.nyc/1c4": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intern---Analytics-Web-Systems-Developer_R_14272",
+    "https://go.vansh.nyc/1c5": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474",
+    "https://go.vansh.nyc/1c6": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
+    "https://go.vansh.nyc/1c7": "https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -56778,7 +56980,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 97,
+  "scan_sequence": 98,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
