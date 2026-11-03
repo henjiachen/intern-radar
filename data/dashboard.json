@@ -401,14 +401,29 @@
       "graduation_status": "unknown",
       "id": "89c266af949247bd024606fc75c816dbd366736280f2af8ef69ce62e5756dbf5",
       "locations": [
-        "Aliso Viejo, CA"
+        "United States"
       ],
       "posted_at": "2026-11-02",
       "priority": 9,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764"
+    },
+    {
+      "company": "Microsoft",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "769b6f0b820ff27f85f4488d3d8e3c3df6a1a39755cfe149b7d3e46a3491a5cd",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted_at": "2026-08-03",
+      "priority": 9,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - CoreAI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950"
     },
     {
       "company": "Microsoft",
@@ -454,21 +469,6 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, CoreAI",
       "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0"
-    },
-    {
-      "company": "Microsoft",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "769b6f0b820ff27f85f4488d3d8e3c3df6a1a39755cfe149b7d3e46a3491a5cd",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 9,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, CoreAI",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950"
     },
     {
       "company": "Microsoft",
@@ -926,7 +926,7 @@
       "locations": [
         "Westminster, CO"
       ],
-      "posted_at": "2026-08-24",
+      "posted_at": "2026-08-25",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -962,21 +962,6 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119718"
-    },
-    {
-      "company": "Aerospace Corporation",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "78e2d35226f4f4deff763eb23b79d0cc23b84f1e4041b250b813b0bfb639e1fb",
-      "locations": [
-        "El Segundo, CA"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Undergrad Intern",
-      "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102"
     },
     {
       "company": "Aerotech",
@@ -1315,7 +1300,7 @@
       "locations": [
         "Fort Worth, TX +4"
       ],
-      "posted_at": "2026-09-03",
+      "posted_at": "2026-09-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1607,7 +1592,7 @@
       "locations": [
         "Redmond, WA"
       ],
-      "posted_at": "2026-10-06",
+      "posted_at": "2026-10-07",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1622,7 +1607,7 @@
       "locations": [
         "Redmond, WA"
       ],
-      "posted_at": "2026-10-23",
+      "posted_at": "2026-10-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1637,7 +1622,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-09-30",
+      "posted_at": "2026-10-01",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1652,7 +1637,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-09-28",
+      "posted_at": "2026-09-29",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1667,7 +1652,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1719,7 +1704,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-09-09",
+      "posted_at": "2026-09-10",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1734,7 +1719,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-09-24",
+      "posted_at": "2026-09-25",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1824,7 +1809,7 @@
       "locations": [
         "North Reading, MA"
       ],
-      "posted_at": "2026-09-04",
+      "posted_at": "2026-09-05",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -2140,6 +2125,21 @@
       "company": "American Express",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "652a5b532e93f905efc68860b76f82514a4ac93fe7b0cd16f4184faceace356d",
+      "locations": [
+        "Phoenix, AZ"
+      ],
+      "posted_at": "2026-08-17",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375"
+    },
+    {
+      "company": "American Express",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "ae43ebc3faccc2b4f7a0df1ad678710f962b59aaa6b6399c3624de13ac6a19ba",
       "locations": [
         "Sunrise, FL"
@@ -2418,7 +2418,7 @@
       "locations": [
         "Costa Mesa, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -2433,7 +2433,7 @@
       "locations": [
         "Costa Mesa, CA"
       ],
-      "posted_at": "2026-09-15",
+      "posted_at": "2026-09-16",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -2784,6 +2784,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672"
+    },
+    {
+      "company": "Applied Materials",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ce0a252027230c5fa88be93339b974e76e2b53dca2f7c796c82a8340547093ca",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003"
     },
     {
       "company": "Aptiv",
@@ -3865,7 +3880,7 @@
       "locations": [
         "Urbandale, IA"
       ],
-      "posted_at": "2026-09-17",
+      "posted_at": "2026-09-18",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -4484,6 +4499,21 @@
       "company": "Booz Allen",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "d8f8faad6acce5ed505d6346cf7e9d1b3c1b5440b840e112aedc2ef64edc5060",
+      "locations": [
+        "Detroit, MI"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Games Data Scientist Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783"
+    },
+    {
+      "company": "Booz Allen",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "f14c5d9041537c5c108b0e4fb6d7595255cfb63055b865788c6392511e7a57a1",
       "locations": [
         "Detroit, MI"
@@ -4893,7 +4923,7 @@
       "locations": [
         "New York City, NY"
       ],
-      "posted_at": "2026-09-10",
+      "posted_at": "2026-09-11",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -5838,7 +5868,7 @@
       "locations": [
         "Denver, CO +1"
       ],
-      "posted_at": "2026-10-23",
+      "posted_at": "2026-10-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -5859,6 +5889,21 @@
       "source": "vanshb03",
       "title": "Embedded Software Engineer Co-op",
       "url": "https://go.vansh.nyc/Lu"
+    },
+    {
+      "company": "CACI",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "83a4e50626aab0917c4f3477314b274f5426aa87c8ba6ac21d28d9fd9ca4fefe",
+      "locations": [
+        "Ashburn, VA"
+      ],
+      "posted_at": "2026-10-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051"
     },
     {
       "company": "CACI",
@@ -6387,7 +6432,7 @@
       "locations": [
         "Austin, TX"
       ],
-      "posted_at": "2026-09-12",
+      "posted_at": "2026-09-13",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -6685,7 +6730,7 @@
       "locations": [
         "Wauwatosa, WI"
       ],
-      "posted_at": "2026-10-19",
+      "posted_at": "2026-10-20",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -7102,6 +7147,111 @@
       "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945"
     },
     {
+      "company": "Costco",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c329d71bcf2d36b0833f193ed55ff04a257e2326c6d85e000e00f22ff7a19d70",
+      "locations": [
+        "Issaquah, WA"
+      ],
+      "posted_at": "2026-10-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "CDS Intern - ECM Platform Management",
+      "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11010"
+    },
+    {
+      "company": "Costco",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5e3c7d1958e08c54d7f3920bd5fb522ecfafe4b016d03612b5b57cfabfc727a4",
+      "locations": [
+        "Issaquah, WA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "CDS Intern - Innovation",
+      "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10998"
+    },
+    {
+      "company": "Costco",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f6f79f40be001c2fc49ee8b538b3e69ab2c4103b8c71fea1a892059305a74433",
+      "locations": [
+        "Issaquah, WA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "CDS Intern - Powerapps Developer - ECM Digital Workflow",
+      "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11001"
+    },
+    {
+      "company": "Costco",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "b0fc80ba9853ce54a27af7db7054843b91e30cf17d5061f914fefebac4148208",
+      "locations": [
+        "Issaquah, WA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "CDS Intern - Software Engineer - IT Retail Media",
+      "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11013"
+    },
+    {
+      "company": "Costco",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "14736b108e66307fc69cfc4068422cf9a59b4a700bbb807972005f97de662e3e",
+      "locations": [
+        "Issaquah, WA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Costco Digital Services Intern - Infosec AI/ML",
+      "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994"
+    },
+    {
+      "company": "Costco",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "6d56019c8585ad4238ec3b9e2f072de2600e4fbb37c080eab987bb80ae5ae70d",
+      "locations": [
+        "Issaquah, WA"
+      ],
+      "posted_at": "2026-10-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Developer Intern - Software Engineer - Costco Travel",
+      "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11021"
+    },
+    {
+      "company": "Costco",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "0586810b50554aa9a2a6f5b2b7f92864ec6d47f7599de2ecebc45c3533c82189",
+      "locations": [
+        "Issaquah, WA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - International Depot",
+      "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10993"
+    },
+    {
       "company": "Courier Health",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -7199,7 +7349,7 @@
       "locations": [
         "Atlanta, GA"
       ],
-      "posted_at": "2026-10-26",
+      "posted_at": "2026-10-27",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -7762,7 +7912,7 @@
       "locations": [
         "Chicago, IL"
       ],
-      "posted_at": "2026-07-24",
+      "posted_at": "2026-07-25",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -8219,7 +8369,7 @@
       "locations": [
         "Boston, MA"
       ],
-      "posted_at": "2026-09-01",
+      "posted_at": "2026-09-02",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -8835,7 +8985,7 @@
       "locations": [
         "Durham, NC +1"
       ],
-      "posted_at": "2026-09-04",
+      "posted_at": "2026-09-05",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -8865,7 +9015,7 @@
       "locations": [
         "St. Louis, MO"
       ],
-      "posted_at": "2026-10-09",
+      "posted_at": "2026-10-10",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -8880,7 +9030,7 @@
       "locations": [
         "St. Louis, MO"
       ],
-      "posted_at": "2026-09-16",
+      "posted_at": "2026-09-17",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -9668,7 +9818,7 @@
       "locations": [
         "Somerville, MA"
       ],
-      "posted_at": "2026-09-28",
+      "posted_at": "2026-09-29",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -9683,7 +9833,7 @@
       "locations": [
         "Somerville, MA"
       ],
-      "posted_at": "2026-09-22",
+      "posted_at": "2026-09-23",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -9728,7 +9878,7 @@
       "locations": [
         "Fort Wayne, IN"
       ],
-      "posted_at": "2026-09-24",
+      "posted_at": "2026-09-25",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -9923,7 +10073,7 @@
       "locations": [
         "Bossier City, LA"
       ],
-      "posted_at": "2026-09-26",
+      "posted_at": "2026-09-27",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -9938,7 +10088,7 @@
       "locations": [
         "Bossier City, LA"
       ],
-      "posted_at": "2026-09-26",
+      "posted_at": "2026-09-27",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -10239,7 +10389,7 @@
       "locations": [
         "Pittsburgh, PA"
       ],
-      "posted_at": "2026-10-30",
+      "posted_at": "2026-10-31",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -10359,7 +10509,7 @@
       "locations": [
         "Sunnyvale, CA"
       ],
-      "posted_at": "2026-10-05",
+      "posted_at": "2026-10-06",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -10835,7 +10985,7 @@
       "locations": [
         "Wyoming, MI"
       ],
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-19",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -11132,6 +11282,21 @@
       "source": "simplify",
       "title": "IT Graduate Internship - Multiple Teams",
       "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182"
+    },
+    {
+      "company": "H&R Block",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "baa4e65042aa1fabe3b86feec73f82001022fd32fc33cb2ac4d3c83209728bdd",
+      "locations": [
+        "Kansas City, MO"
+      ],
+      "posted_at": "2026-09-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.hrblock.com/jobs/76987?icims=1"
     },
     {
       "company": "Hadrian",
@@ -12635,7 +12800,7 @@
       "locations": [
         "San Francisco, CA"
       ],
-      "posted_at": "2026-08-31",
+      "posted_at": "2026-09-01",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -13103,7 +13268,7 @@
       "locations": [
         "Redondo Beach, CA"
       ],
-      "posted_at": "2026-10-20",
+      "posted_at": "2026-10-21",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -13133,7 +13298,7 @@
       "locations": [
         "Redondo Beach, CA"
       ],
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -13193,7 +13358,7 @@
       "locations": [
         "Winston-Salem, NC"
       ],
-      "posted_at": "2026-09-15",
+      "posted_at": "2026-09-16",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -13208,7 +13373,7 @@
       "locations": [
         "Pittsburgh, PA"
       ],
-      "posted_at": "2026-09-03",
+      "posted_at": "2026-09-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -13299,7 +13464,7 @@
       "locations": [
         "Acton, MA"
       ],
-      "posted_at": "2026-09-16",
+      "posted_at": "2026-09-17",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -13314,7 +13479,7 @@
       "locations": [
         "Acton, MA"
       ],
-      "posted_at": "2026-09-29",
+      "posted_at": "2026-09-30",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -13363,7 +13528,7 @@
       "locations": [
         "Greenwich, CT"
       ],
-      "posted_at": "2026-08-19",
+      "posted_at": "2026-08-20",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -14087,6 +14252,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158"
+    },
+    {
+      "company": "JM Family",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4550362f739594b963ef454322c07229868e607389ccec03306da6cfcc854194",
+      "locations": [
+        "Deerfield Beach, FL"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182"
     },
     {
       "company": "John D. and Catherine T. MacArthur Foundation",
@@ -15175,7 +15355,7 @@
       "locations": [
         "Annapolis Junction, MD"
       ],
-      "posted_at": "2026-10-29",
+      "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -15556,7 +15736,7 @@
       "locations": [
         "Boston, MA"
       ],
-      "posted_at": "2026-08-03",
+      "posted_at": "2026-08-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -15571,7 +15751,7 @@
       "locations": [
         "Boynton Beach, FL"
       ],
-      "posted_at": "2026-08-03",
+      "posted_at": "2026-08-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -15862,7 +16042,7 @@
       "locations": [
         "Longmont, CO"
       ],
-      "posted_at": "2026-09-02",
+      "posted_at": "2026-09-03",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -17576,7 +17756,7 @@
       "locations": [
         "Boulder, CO"
       ],
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -17587,26 +17767,11 @@
       "company": "Northrop Grumman",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "edb5d7a1c2467d5b8ad1e82dd28a7393ff7d610821c66b2b892c2a0ea04333d5",
-      "locations": [
-        "Colorado Springs, CO"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "speedyapply",
-      "title": "2027 Software Engineering Intern - Colorado Springs",
-      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803"
-    },
-    {
-      "company": "Northrop Grumman",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "a4b84360f0e1467097cdf3fde65a4699ea7402277ff90b4860a58adb83bcdad8",
       "locations": [
         "Roy, UT"
       ],
-      "posted_at": "2026-10-29",
+      "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -17639,8 +17804,8 @@
       "posted_at": "2026-11-02",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Engineering Intern, Software, Mission Assurance, Quality",
+      "source": "simplify",
+      "title": "Engineering Intern - Multiple Teams",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848"
     },
     {
@@ -17654,7 +17819,7 @@
       "posted_at": "2026-11-02",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Engineering Software and Analysis Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Engineering-Software-and-Analysis-Intern_R10258772"
     },
@@ -17672,6 +17837,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+    },
+    {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "aae77a2c3067b1402176615aff3005e76090e8e2f4f897d6b7a01f933199e0f9",
+      "locations": [
+        "Colorado Springs, CO"
+      ],
+      "posted_at": "2026-10-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259"
+    },
+    {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "edb5d7a1c2467d5b8ad1e82dd28a7393ff7d610821c66b2b892c2a0ea04333d5",
+      "locations": [
+        "Colorado Springs, CO"
+      ],
+      "posted_at": "2026-10-27",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803"
     },
     {
       "company": "Northrop Grumman",
@@ -17732,6 +17927,21 @@
       "source": "simplify",
       "title": "Data Science / Structured Problem Solving Intern - Summer 2027",
       "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037"
+    },
+    {
+      "company": "NXP Semiconductors",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "df1de47c69275f1c03c06d91165e3dd11c2ed637e9173b16200e84063f61f60d",
+      "locations": [
+        "Chandler, AZ"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Hardware/Software System and Application Engineer Intern",
+      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708"
     },
     {
       "company": "Obsidian Entertainment",
@@ -18635,7 +18845,7 @@
       "locations": [
         "Topeka, KS"
       ],
-      "posted_at": "2026-10-08",
+      "posted_at": "2026-10-09",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -18650,7 +18860,7 @@
       "locations": [
         "Herndon, VA +1"
       ],
-      "posted_at": "2026-09-08",
+      "posted_at": "2026-09-09",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -18908,7 +19118,7 @@
       "locations": [
         "Raleigh, NC"
       ],
-      "posted_at": "2026-09-01",
+      "posted_at": "2026-09-02",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -19552,7 +19762,7 @@
       "locations": [
         "Laramie, WY"
       ],
-      "posted_at": "2026-09-15",
+      "posted_at": "2026-09-16",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -19582,7 +19792,7 @@
       "locations": [
         "Cedar Rapids, IA"
       ],
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -19805,6 +20015,82 @@
       "source": "simplify",
       "title": "Strategic Operations Intern",
       "url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Summer-2027_JR-007635"
+    },
+    {
+      "company": "Resideo",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "3521f56265cb790c6fc17bf37cd47bed533f3b6b65b13239047b6cd0ce5957fa",
+      "locations": [
+        "Austin, TX",
+        "Golden Valley, MN"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Science Intern",
+      "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19817"
+    },
+    {
+      "company": "Resideo",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a15966e75b834cc8816d50e8041ee71727328d3db97bed7f09901277591a0b4d",
+      "locations": [
+        "Melville, NY"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Embedded Firmware Engineer Intern",
+      "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19812"
+    },
+    {
+      "company": "Resideo",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "dbd3d0e3bf65ea9f9d4049f2510af4df973112f8665db7f8f36a2db16790cbf3",
+      "locations": [
+        "Aurora, IL"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Firmware Engineer Intern",
+      "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19813"
+    },
+    {
+      "company": "Resideo",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "9d8cc39b5001f7fe2d94d151281fbe626b84795f8bf3c9ddb70a24bf23e60d35",
+      "locations": [
+        "Golden Valley, MN"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Firmware Engineer Intern",
+      "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19814"
+    },
+    {
+      "company": "Resideo",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "cae72569fdc76b5d61e2a4c92186f856af35bcb054d11e1f64f13b857a262696",
+      "locations": [
+        "Austin, TX"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Mobile Software Engineer Intern",
+      "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19816"
     },
     {
       "company": "Revantage Corporate Services",
@@ -21011,7 +21297,7 @@
       "locations": [
         "New York City, NY"
       ],
-      "posted_at": "2026-08-24",
+      "posted_at": "2026-08-25",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -21035,17 +21321,17 @@
       "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659"
     },
     {
-      "company": "Samsung Semiconductor",
+      "company": "Samsung",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
       "id": "fe645dde124075981415fb74f1500f8bad59dce519e903bc5c7a470b31fefe83",
       "locations": [
-        "Folsom, CA"
+        "San Jose, CA"
       ],
       "posted_at": "2026-11-02",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "AI Application Engineer Intern",
       "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003"
     },
@@ -21343,7 +21629,7 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -21358,7 +21644,7 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -21424,9 +21710,9 @@
       "posted_at": "2026-11-02",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Embedded Firmware Intern",
-      "url": "https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4"
+      "url": "https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4/apply"
     },
     {
       "company": "Shield AI",
@@ -21722,7 +22008,7 @@
       "locations": [
         "Fredericksburg, VA"
       ],
-      "posted_at": "2026-09-15",
+      "posted_at": "2026-09-16",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -21949,7 +22235,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-10-28",
+      "posted_at": "2026-10-29",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -22061,7 +22347,7 @@
       "locations": [
         "Bastrop, TX +6"
       ],
-      "posted_at": "2026-08-03",
+      "posted_at": "2026-08-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -22197,7 +22483,7 @@
       "locations": [
         "Kent, WA"
       ],
-      "posted_at": "2026-09-01",
+      "posted_at": "2026-09-02",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -22658,7 +22944,7 @@
       "locations": [
         "Greenville, SC +1"
       ],
-      "posted_at": "2026-09-21",
+      "posted_at": "2026-09-22",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -22888,7 +23174,7 @@
       "locations": [
         "San Jose, CA"
       ],
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -22985,6 +23271,21 @@
       "source": "simplify",
       "title": "Embedded Software Engineer Intern - Multiple Teams",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949"
+    },
+    {
+      "company": "The Aerospace Corporation",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "78e2d35226f4f4deff763eb23b79d0cc23b84f1e4041b250b813b0bfb639e1fb",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Software Process and Architecture Department - Information Systems and Cyber Division",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102"
     },
     {
       "company": "The Boeing Company",
@@ -23339,7 +23640,7 @@
       "locations": [
         "Remote - Minnesota, USA"
       ],
-      "posted_at": "2026-10-23",
+      "posted_at": "2026-10-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -23354,7 +23655,7 @@
       "locations": [
         "Remote - Minnesota, USA"
       ],
-      "posted_at": "2026-10-23",
+      "posted_at": "2026-10-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -24929,7 +25230,7 @@
       "locations": [
         "San Francisco, CA"
       ],
-      "posted_at": "2026-10-26",
+      "posted_at": "2026-10-27",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25111,6 +25412,21 @@
       "url": "https://careers.trccompanies.com/jobs/27074?icims=1"
     },
     {
+      "company": "Tria Federal",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "e9e652eb011821751e25eea19bf50c42a55c6566ccbd441fe5523dd3e5cf3948",
+      "locations": [
+        "Arlington County, Arlington, VA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Growth Operations Intern",
+      "url": "https://triafed.com/jobs/?gh_jid=5470246008"
+    },
+    {
       "company": "Trimble",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -25173,7 +25489,7 @@
       "locations": [
         "Syracuse, NY"
       ],
-      "posted_at": "2026-09-28",
+      "posted_at": "2026-09-29",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25673,6 +25989,21 @@
       "source": "vanshb03",
       "title": "AI and Data Engineering Intern",
       "url": "https://go.vansh.nyc/Yo"
+    },
+    {
+      "company": "Valmont",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "19e4f1a0ad28e22ffaa94d4dddf7ac2a06309a5d403a5f745948eeedde98013d",
+      "locations": [
+        "Valley, NE"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Embedded Systems Engineer Intern",
+      "url": "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223"
     },
     {
       "company": "Vanguard",
@@ -26468,7 +26799,7 @@
       "locations": [
         "Remote - USA"
       ],
-      "posted_at": "2026-10-29",
+      "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -26618,6 +26949,21 @@
       "company": "Waymo",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
+      "id": "1393b0b664735e0b07fd4983db8adb6c6e53c25e30e2c877a7e50d0d8676d530",
+      "locations": [
+        "Mountain View, California, United States; San Francisco, California, United States"
+      ],
+      "posted_at": "2026-09-14",
+      "priority": 11,
+      "priority_program": false,
+      "source": "greenhouse",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
+    },
+    {
+      "company": "Waymo",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "fbdfa9699493c9c0955143bfa62b7f3f039aba36db92aa09b3954d7fb339086f",
       "locations": [
         "San Francisco, California"
@@ -26693,6 +27039,21 @@
       "company": "Wellmark",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "48bf85bd88c800e658a79872e936858a9fc9cd0c748030539dfc7ff0074adbbc",
+      "locations": [
+        "Des Moines, IA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - AI Platform Team",
+      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000159260670"
+    },
+    {
+      "company": "Wellmark",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "3dff1fbfd803dd3ad01a27d3f22e3c2a39479a899fecae0ac9f7b84d2e86e8d1",
       "locations": [
         "Des Moines, IA"
@@ -26733,21 +27094,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Technology Healthcare Innovation",
       "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768"
-    },
-    {
-      "company": "Wellmark",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "48bf85bd88c800e658a79872e936858a9fc9cd0c748030539dfc7ff0074adbbc",
-      "locations": [
-        "Des Moines, IA"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, AI Platform Team",
-      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000159260670"
     },
     {
       "company": "Wells Fargo",
@@ -26804,7 +27150,7 @@
       "locations": [
         "San Jose, CA"
       ],
-      "posted_at": "2026-08-12",
+      "posted_at": "2026-08-13",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -26988,7 +27334,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -27003,7 +27349,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -27018,7 +27364,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -27033,7 +27379,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -27048,7 +27394,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -27063,7 +27409,7 @@
       "locations": [
         "Omaha, NE"
       ],
-      "posted_at": "2026-10-04",
+      "posted_at": "2026-10-05",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -27213,7 +27559,7 @@
       "locations": [
         "Denver, CO"
       ],
-      "posted_at": "2026-09-11",
+      "posted_at": "2026-09-12",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -27433,7 +27779,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-02T23:50:08.701314+00:00",
+  "last_checked": "2026-11-03T01:21:04.276417+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
