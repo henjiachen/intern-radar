@@ -11138,6 +11138,36 @@
       "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
     },
     {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171565?type=students"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/171553?type=students"
+    },
+    {
       "company": "Gordon Food Service",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -17741,21 +17771,6 @@
       "source": "simplify",
       "title": "Sales AI & Analytics Developer Intern",
       "url": "https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors"
-    },
-    {
-      "company": "Newmont",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "06f48757c3456861cecb86171369333d0f62965df3eb8afc68d076d641577c09",
-      "locations": [
-        "Denver, CO"
-      ],
-      "posted_at": "2026-10-30",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Resource Modeling Intern",
-      "url": "https://jobs.newmont.com/us/en/job/45053"
     },
     {
       "company": "Newrez",
@@ -25892,17 +25907,14 @@
       "graduation_status": "unknown",
       "id": "827599e381e73936408a36715d920d126c7414e3e9dcea9c8a7fa5ce633799c1",
       "locations": [
-        "Dayton, OH",
-        "Portsmouth, NH",
-        "Lake Oswego, OR",
-        "Westminster, CO"
+        "Westminster, CO +2"
       ],
-      "posted_at": "2026-09-08",
+      "posted_at": "2026-10-20",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "speedyapply",
       "title": "Hardware/Software Testing Intern",
-      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1"
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1"
     },
     {
       "company": "Trimble",
@@ -28224,7 +28236,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-03T10:08:12.517371+00:00",
+  "last_checked": "2026-11-03T11:08:11.425285+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

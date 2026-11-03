@@ -10476,6 +10476,11 @@
       "fingerprint": "66a7235af8967dc2bc4b987a3659cd7119785c07106605e7fa638d64b7a20616",
       "revision": 0
     },
+    "url:https://careers.nebius.com?gh_jid=4883829101": {
+      "eligible": false,
+      "fingerprint": "89fac483b0e31f376090682966cd1e33f32cde7c738ff39a2fec382f85939efe",
+      "revision": 1
+    },
     "url:https://careers.nintendo.com/jobs/4417311009": {
       "eligible": false,
       "fingerprint": "83abb71b93e28d469c35eb6682070225e2aaa54343caae9ee8f2cb9cf52d92d3",
@@ -48225,6 +48230,11 @@
       "fingerprint": "eabad350984f86d10b976e6027d67245d04def30fd65282fca6821b8bb126a1c",
       "revision": 1
     },
+    "url:https://relx.wd3.myworkdayjobs.com/elsevierjobs/job/london-wall/intern-data-science_r120607": {
+      "eligible": false,
+      "fingerprint": "fad4a0ed0ce24a205afd818e8912a906258d85ef2652ba4329fb8439ef8e1f99",
+      "revision": 1
+    },
     "url:https://relx.wd3.myworkdayjobs.com/risksolutions/job/alpharetta-ga-alderman/data-science-intern_r118955": {
       "eligible": true,
       "evidence": {
@@ -51041,10 +51051,6 @@
           "bachelor's"
         ],
         "locations": [
-          "dayton, oh",
-          "lake oswego, or",
-          "portsmouth, nh",
-          "westminster, co",
           "westminster, co +2"
         ],
         "requirements": [],
@@ -51053,8 +51059,8 @@
         ],
         "title": "hardware/software testing intern"
       },
-      "fingerprint": "80ab45e0590ca405a9872ba7cccb16663566e160d189165a57d9c155b54f66b1",
-      "revision": 0
+      "fingerprint": "94445e33388867504e90790b5e36fae084eff88456a9e6de9e21ddc36601896c",
+      "revision": 1
     },
     "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---co-westminster/software-engineering-intern_r57676": {
       "eligible": true,
@@ -57484,7 +57490,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 102,
+  "scan_sequence": 103,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
