@@ -39782,6 +39782,11 @@
       "fingerprint": "de3656b9f52e724372dec27e02c9c45cc46837c57435636ed8eae32205677b25",
       "revision": 0
     },
+    "url:https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/stockport-united-kingdom/campus-visit-dematic---placement-student_jr-0082859-1": {
+      "eligible": false,
+      "fingerprint": "67d86cabac2e90a52ebe398ed9c70648b9cf2467634031d3661703a47cc27458",
+      "revision": 1
+    },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/ann-arbor-mi/ai-ml-software-engineer---intern_2641701-1": {
       "eligible": false,
       "fingerprint": "959a8272691fa57606fbd605ce876563c49005856eef17f9e995d49014044fe4",
@@ -45477,6 +45482,11 @@
       "eligible": false,
       "fingerprint": "501a56d50f3859a52e6dfde6775e93b9b1741d6b5ce0e5459fdc74a8e4c5ed6a",
       "revision": 0
+    },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/germany-munich/software-engineering-intern---2027_jr2029184": {
+      "eligible": false,
+      "fingerprint": "87651432d4997bef5020b0967f9fc459242343a986d013743cf2b743ef312f29",
+      "revision": 1
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/singapore-pasir-panjang/research-intern--robotics---2027_jr2028499": {
       "eligible": false,
@@ -57490,7 +57500,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 103,
+  "scan_sequence": 104,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
