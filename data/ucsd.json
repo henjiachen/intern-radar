@@ -3321,6 +3321,16 @@
       "fingerprint": "8738e80700b8d37b13dccb13aa44d5482adb5eeeb69d666274cdd286ff3f0fe4",
       "revision": 0
     },
+    "url:https://apply.workable.com/botpress/j/16c68a50a7/apply": {
+      "eligible": false,
+      "fingerprint": "5589193901e644fe3101471a5f07dc50e56b0854bf5d596564072e8c618ff768",
+      "revision": 1
+    },
+    "url:https://apply.workable.com/botpress/j/9b3cb646e8/apply": {
+      "eligible": false,
+      "fingerprint": "cb1ae32dd77570e51f2de1e88f702048e70d2378c0f213e77ddf3a6ce00fd422",
+      "revision": 1
+    },
     "url:https://apply.workable.com/cadillacf1team/j/7995a5e448": {
       "eligible": true,
       "evidence": {
@@ -4058,6 +4068,22 @@
       },
       "fingerprint": "9e0ccc2dd27465744b12c763db00ae456d5e24ebf3462ddd0ff6a90f163fbaa1",
       "revision": 2
+    },
+    "url:https://arrowstreetcapital.wd5.myworkdayjobs.com/campus_careers/job/boston/software-engineer-intern--summer-2027_r1561": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "arrowstreetcapital",
+        "degrees": [],
+        "locations": [
+          "boston"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "software engineer intern, summer 2027"
+      },
+      "fingerprint": "997a16ecf61d4df7f081e7d960509a623ef8236d4a414b5d7a69f7f1c1d92be6",
+      "revision": 1
     },
     "url:https://asmglobal.wd1.myworkdayjobs.com/careers/job/culver-city-ca/hospitality-and-merchandise-insights-intern_r100122329": {
       "eligible": false,
@@ -14772,6 +14798,11 @@
       "fingerprint": "04b894a1739f303db9525153c554cf8480ee6f472b3e0c47d0fbb0c1b7d742cf",
       "revision": 0
     },
+    "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26015722": {
+      "eligible": false,
+      "fingerprint": "e1f7c5f16867209d36ba75689b575f21f1991b5b0a4e5880a934902625a0d24a",
+      "revision": 1
+    },
     "url:https://egup.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/20270351": {
       "eligible": false,
       "fingerprint": "a95c37b8defac416f102ed3583082e4980954e23dc8edfb15573a47dc2fad398",
@@ -19293,24 +19324,25 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "raytheon",
+        "company": "rtx",
         "degrees": [
           "bachelor's",
           "master's",
           "phd"
         ],
         "locations": [
-          "marlborough, ma"
+          "marlborough, ma",
+          "tewksbury, ma"
         ],
         "requirements": [],
         "terms": [
           "summer 2027",
           "winter 2027"
         ],
-        "title": "software engineer co-op - january 2027"
+        "title": "software engineer co-op"
       },
-      "fingerprint": "13e564e0c42e2075d20deb6433fbb879554e0af3b22f0265c2e4a73ab3ba8dd6",
-      "revision": 1
+      "fingerprint": "1e9d08822290699814dfcd1deaa69cc32f59a502ef7595e701870540d04347a7",
+      "revision": 2
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-tewksbury-tb3--50-apple-hill-dr--concord-bldg-tewksbury-tb3-300-concord/systems-engineer---intern--onsite_01879053": {
       "eligible": false,
@@ -19848,11 +19880,6 @@
     "url:https://go.vansh.nyc/1da": {
       "eligible": false,
       "fingerprint": "1b5cd4de2fba6866cc569d5ee41d42f4a743cbf3a75e99627e68f6675dcda702",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1di": {
-      "eligible": false,
-      "fingerprint": "28bbf2a3d74bb259c3f9f0d9ffb3e047a5f2e14b58fc7c93b6544f44afd3755d",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1dj": {
@@ -30041,6 +30068,11 @@
         "title": "undergrad software engineering intern"
       },
       "fingerprint": "12df67384a6b874170bccbd2373ffe39810b5ffc046c2112ec27882380f073a9",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004": {
+      "eligible": false,
+      "fingerprint": "f0641ecdd902cdb997997d2074d028d8bf401c5c861e368732c840d41e831eee",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004": {
@@ -55983,6 +56015,7 @@
     "https://go.vansh.nyc/1dB": 106,
     "https://go.vansh.nyc/1dD": 106,
     "https://go.vansh.nyc/1dF": 107,
+    "https://go.vansh.nyc/1dH": 108,
     "https://go.vansh.nyc/1da": 100,
     "https://go.vansh.nyc/1db": 100,
     "https://go.vansh.nyc/1dc": 100,
@@ -56940,6 +56973,7 @@
     "https://go.vansh.nyc/1dB": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420",
     "https://go.vansh.nyc/1dD": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
     "https://go.vansh.nyc/1dF": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168",
+    "https://go.vansh.nyc/1dH": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722",
     "https://go.vansh.nyc/1da": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284",
     "https://go.vansh.nyc/1db": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Greenville-Wisconsin-United-States/Engineer-Intern---Software--Summer-2027-_R49745",
     "https://go.vansh.nyc/1dc": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
@@ -57608,7 +57642,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 107,
+  "scan_sequence": 108,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

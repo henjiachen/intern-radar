@@ -3156,6 +3156,21 @@
       "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506"
     },
     {
+      "company": "arrowstreetcapital",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a1046e18b9dc0459ec2d62eb14d5839d568e573e13264036013e8183ba35815d",
+      "locations": [
+        "Boston"
+      ],
+      "posted_at": "",
+      "priority": 11,
+      "priority_program": false,
+      "source": "workday",
+      "title": "Software Engineer Intern, Summer 2027",
+      "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561"
+    },
+    {
       "company": "ASML",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -7610,21 +7625,6 @@
       "company": "Cox",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "d7ddc40ece02cb65a777e001c4dabad1be59f6c7bd563653ad437c9b2b0f5c06",
-      "locations": [
-        "Austin, TX"
-      ],
-      "posted_at": "2026-11-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168"
-    },
-    {
-      "company": "Cox",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "2e7194648d867d1d52be3432826cc8afd5283380defefd50bfd57c9e4d9df27b",
       "locations": [
         "Atlanta, GA"
@@ -11121,6 +11121,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171565?type=students"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -20175,21 +20205,6 @@
       "company": "Raytheon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "962948b62310d65a4935515103c6ab63a64a1437ad2665bc5dfde726646df4c0",
-      "locations": [
-        "Marlborough, MA"
-      ],
-      "posted_at": "2026-10-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "speedyapply",
-      "title": "Software Engineer Co-op - January 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371"
-    },
-    {
-      "company": "Raytheon",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "66b29e10eba9ca875f686359066eb569625e277ff080e291709395aec1ac6f18",
       "locations": [
         "Sterling, VA"
@@ -21364,6 +21379,22 @@
       "company": "RTX",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "962948b62310d65a4935515103c6ab63a64a1437ad2665bc5dfde726646df4c0",
+      "locations": [
+        "Marlborough, MA",
+        "Tewksbury, MA"
+      ],
+      "posted_at": "2026-10-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371"
+    },
+    {
+      "company": "RTX",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "96f014698af83d11a47dc8f1670e4a75e431bddf71e9fe54d539e92da85e34a5",
       "locations": [
         "Cambridge, MA"
@@ -21404,6 +21435,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520"
+    },
+    {
+      "company": "RTX",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "0e746dafd1c17922d70b09bfd6c3eb6a5637ca2539c24eb9085a489cd83e1396",
+      "locations": [
+        "East Hartford, CT"
+      ],
+      "posted_at": "2026-10-29",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Sustainment Data and Analytics Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Sustainment-Data-and-Analytics-Intern--Summer-2027-_01885110"
     },
     {
       "company": "RTX",
@@ -28157,7 +28203,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-03T16:06:03.736835+00:00",
+  "last_checked": "2026-11-03T17:12:11.364026+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
