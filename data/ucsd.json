@@ -306,7 +306,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "ace hardware corporation",
+        "company": "ace hardware",
         "degrees": [
           "bachelor's"
         ],
@@ -317,10 +317,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "it associate software engineer intern"
+        "title": "it associate software engineer 2027 summer internship - full time/paid/12 weeks"
       },
-      "fingerprint": "96d02192fbd5ba94931c9e60d33ea77379e9aa7cf6ebdb66aafff173378f3873",
-      "revision": 1
+      "fingerprint": "8382b00a7e53331f80f453e8f03f39eb2361ce8604f9864e3fb139961ffcbaae",
+      "revision": 2
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/basel/xmlname-2027-intern--software-engineer_r173015": {
       "eligible": false,
@@ -2811,6 +2811,24 @@
       "eligible": false,
       "fingerprint": "ec7cde12df499c30882928951fb3fb3733d220e6f6278fc4caf3a49c4060edfc",
       "revision": 0
+    },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557037859": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "microsoft",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, teamwork experiences"
+      },
+      "fingerprint": "93b74079f4f059187e413893ee945b2af3828d8ef0b6cbc9413eb8c73011e429",
+      "revision": 1
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393557039243": {
       "eligible": false,
@@ -8389,6 +8407,16 @@
       "fingerprint": "e63cd5b769d3a46a65bd5e5b4c36abc9e98411b39317b9a57288356c1df95881",
       "revision": 1
     },
+    "url:https://careers-gdms.icims.com/jobs/76785/job": {
+      "eligible": false,
+      "fingerprint": "b21242d4c9f905fc24e60651e5ccf3a37b6ac2d25ebadfc4e6f86436707463f0",
+      "revision": 1
+    },
+    "url:https://careers-hrblock.icims.com/jobs/76987/job": {
+      "eligible": false,
+      "fingerprint": "7a99ff41675da71ab0c3ec801fe2032c055891344b2507993372774641612296",
+      "revision": 1
+    },
     "url:https://careers-ice.icims.com/jobs/14066/job": {
       "eligible": true,
       "evidence": {
@@ -12747,8 +12775,8 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12183": {
       "eligible": false,
-      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
-      "revision": 2
+      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
+      "revision": 3
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12184": {
       "eligible": false,
@@ -13214,25 +13242,9 @@
       "revision": 0
     },
     "url:https://cswg.wd1.myworkdayjobs.com/cs_careers/job/edison-nj/is-internship---data-analytics---data-science_r-268963": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "c&s wholesale grocers",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "edison, nj"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2026",
-          "summer 2027"
-        ],
-        "title": "is intern - data analytics & data science"
-      },
-      "fingerprint": "0ac52b4a863833d05c97b2fdd8cd68269135145c2f92c2c3b53f6e54809c54af",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "6675e511e1156850fb700cb03fcabfb9a8160e640763c756a1f6a8eeb6e01f98",
+      "revision": 2
     },
     "url:https://cswg.wd1.myworkdayjobs.com/cs_careers/job/houston-tx/is-internship---web-applications_r-268964": {
       "eligible": false,
@@ -15710,7 +15722,8 @@
         ],
         "locations": [
           "cary, nc",
-          "cary,north carolina,united states"
+          "cary,north carolina,united states",
+          "pittsburgh, pa +1"
         ],
         "requirements": [
           "- partner with senior engineers to design and implement ui components and user flows for the social overlay experience",
@@ -15722,8 +15735,8 @@
         ],
         "title": "frontend programmer intern"
       },
-      "fingerprint": "1ec9b18b27aa30049df58a23a0aa54e3910eb76cc2f11a75a420eafa28a0b06c",
-      "revision": 0
+      "fingerprint": "86b670bf93e35aa9c6cd0ee8a3ff90d50679119353ecf9bd214960ab77e9cdcb",
+      "revision": 1
     },
     "url:https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004": {
       "eligible": true,
@@ -17901,7 +17914,6 @@
         ],
         "locations": [
           "sunnyvale, ca",
-          "sunnyvale, ca +1",
           "warren, mi"
         ],
         "requirements": [],
@@ -17910,8 +17922,8 @@
         ],
         "title": "software engineer intern - av/ai platform"
       },
-      "fingerprint": "27c919e781e7af55dd1978e4e22017befa320794a4c6a133979dc0f55eb25722",
-      "revision": 2
+      "fingerprint": "94bc3a2a03e48ca86377a0116b24f906f1b2ca0da01453a78036546cdd49df64",
+      "revision": 3
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/milford-michigan-united-states-of-america/xmlname-2027-summer-intern--systems-engineer--asd_jr-202621989": {
       "eligible": true,
@@ -19112,7 +19124,8 @@
           "bachelor's"
         ],
         "locations": [
-          "east hartford, ct"
+          "east hartford, ct",
+          "east hartford-etc, ct"
         ],
         "requirements": [],
         "terms": [
@@ -19120,8 +19133,8 @@
         ],
         "title": "embedded software engineer intern"
       },
-      "fingerprint": "1c65917125bf39dd3ccb55223228d8a6aaa9bf87615d08e2bc6128cdca139921",
-      "revision": 0
+      "fingerprint": "9669466ca6551b954258585f151af91b67838870176b6aed74b244a882c88e74",
+      "revision": 1
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ct-east-hartford-g--400-main-st--bldg-g/summer-2027-software-engineering-intern--onsite-_01873645": {
       "eligible": true,
@@ -20433,11 +20446,6 @@
       "eligible": false,
       "fingerprint": "02d246b6b2cfb2a1d534c49499fad00c7b9cdbddca7e16fc07739484063b2bd4",
       "revision": 1
-    },
-    "url:https://go.vansh.nyc/ct": {
-      "eligible": false,
-      "fingerprint": "8cee19d4469e7a563ce367b878bd416c89ec9f8590f10e16d46a8f2f676ab1ec",
-      "revision": 2
     },
     "url:https://go.vansh.nyc/cz": {
       "eligible": false,
@@ -23556,6 +23564,24 @@
       "fingerprint": "9a3ea2a00b8efc2745926e96122e87f34f5efddd9dd1dc2550b897e252c31318",
       "revision": 1
     },
+    "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--aiml-platform---hp-iq_uni4800-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "hewlett packard (hp)",
+        "degrees": [],
+        "locations": [
+          "san francisco, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, aiml platform"
+      },
+      "fingerprint": "88a5462f48222f7c69043b2a0e93d1ef403f84bb8a33905a05f7307ac22d6350",
+      "revision": 1
+    },
     "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--connectivity---hp-iq_uni4812-1": {
       "eligible": true,
       "evidence": {
@@ -23586,25 +23612,9 @@
       "revision": 2
     },
     "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-systems-intern_uni4801-1": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "hp inc.",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "san francisco, ca",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software systems intern - iq"
-      },
-      "fingerprint": "39800bda7f94ca408d912510232b4dffe59471a67aa3eb34d90f13111452e255",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "64cd168443a383d68e915c7e2f6d8e9d55c83a58104e60fe74c9d32e92bd448c",
+      "revision": 2
     },
     "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/spring-texas-united-states-of-america/finance-intern_uni4241-1": {
       "eligible": false,
@@ -25571,6 +25581,24 @@
       },
       "fingerprint": "f74f7c0a70ca5da46dc4530b43131f08944e485492ac7a68b815e2d3100038da",
       "revision": 0
+    },
+    "url:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/ai---decision-science-intern_jr105095": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "jm family enterprises",
+        "degrees": [],
+        "locations": [
+          "deerfield beach, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai & decision science intern"
+      },
+      "fingerprint": "b24db69923936bde1c4dde6d2f811f23e555d1869b56c20546cc3233128834f2",
+      "revision": 1
     },
     "url:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/ai-intern_jr105180": {
       "eligible": true,
@@ -34848,6 +34876,22 @@
       "fingerprint": "f16d5f9929a5b2bba81799a8154feb7c3c85ec0f1ade5e781ee9e92c78249d7a",
       "revision": 0
     },
+    "url:https://jobs.dayforcehcm.com/en-us/woodmenlife/candidateportal/jobs/2923": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "woodmenlife",
+        "degrees": [],
+        "locations": [
+          "omaha, ne"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "2027 summer software engineer intern"
+      },
+      "fingerprint": "f16d5f9929a5b2bba81799a8154feb7c3c85ec0f1ade5e781ee9e92c78249d7a",
+      "revision": 1
+    },
     "url:https://jobs.dayforcehcm.com/en-us/yss/candidateportal/jobs/3805": {
       "eligible": false,
       "fingerprint": "60ee110ae3c6de5bae9aa7bcea6cfab9eded6a6b49adc690d7c8a48e68953382",
@@ -38898,6 +38942,11 @@
       "fingerprint": "c57fd8129456290e86f3f55a120e152b91d4c5861ce727b7bcf1db6af7a85f77",
       "revision": 2
     },
+    "url:https://jobs.smartrecruiters.com/wellmarkinc/744000159260670-software-engineer-internship-ai-platform-team?oga=true": {
+      "eligible": false,
+      "fingerprint": "6034a4cf1f4da5c031f7712579c91400c3fa76cbaeee2b32649dde70a32420ab",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/westerndigital/744000143171017": {
       "eligible": true,
       "evidence": {
@@ -39939,8 +39988,8 @@
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/austin-tx/software-engineer--ai-ml--intern_2642125-1": {
       "eligible": false,
-      "fingerprint": "6b9a94bbb28c5db133bdbf87d558ed42317c1bdaf7e3e38207cedf843cccd564",
-      "revision": 1
+      "fingerprint": "98411827f8fbbcc31d46528e78fd9b3c8132bd51ea68faed48eb909ee8e66c79",
+      "revision": 2
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/austin-tx/software-engineering-intern_2642004-1": {
       "eligible": true,
@@ -40089,8 +40138,8 @@
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/austin-tx/software-engineer--ai-ml--intern_2642125": {
       "eligible": false,
-      "fingerprint": "6b9a94bbb28c5db133bdbf87d558ed42317c1bdaf7e3e38207cedf843cccd564",
-      "revision": 1
+      "fingerprint": "98411827f8fbbcc31d46528e78fd9b3c8132bd51ea68faed48eb909ee8e66c79",
+      "revision": 2
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/austin-tx/software-engineering-intern_2642004": {
       "eligible": true,
@@ -44360,8 +44409,7 @@
         "company": "micron technology",
         "degrees": [],
         "locations": [
-          "longmont, co",
-          "longmont-max, co"
+          "longmont, co"
         ],
         "requirements": [],
         "terms": [
@@ -44369,8 +44417,8 @@
         ],
         "title": "ssd firmware intern, cicd"
       },
-      "fingerprint": "73254292e526a2d4357f14fb2afa6e79758e19660e4ff4726cfcce2346fdb9c6",
-      "revision": 2
+      "fingerprint": "ecfe8249759b14c505b8768a81af3e621c197dd76735892167abeca093c5a80b",
+      "revision": 3
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/richardson-tx/intern---hbm-data-scientist_jr115127": {
       "eligible": false,
@@ -44746,6 +44794,7 @@
           "chicago, il",
           "plantation, fl",
           "remote",
+          "remote - virginia, usa +38",
           "remote in usa",
           "salt lake city, ut",
           "schaumburg, il",
@@ -44757,8 +44806,8 @@
         ],
         "title": "software engineer cybersecurity services intern"
       },
-      "fingerprint": "d5f7d9f08df6fcd109b97e3a2605f7766da2a5daf9741674343194523d633f87",
-      "revision": 2
+      "fingerprint": "5ec6604ed880501c4f7dc2a7bbda9084aed42ac76b03aa238f6c9f7a890bd3cc",
+      "revision": 3
     },
     "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/usa---massachusetts---cambridge-320-bent-street/xmlname-2027-future-talent-program---ai-ml-biomedical-imaging-and-computational-pathology---intern_r423515": {
       "eligible": false,
@@ -45100,6 +45149,24 @@
         "title": "2027 software engineer intern - azusa ca"
       },
       "fingerprint": "03cb92ba51be250ea051dede4e7123d6d31792d87662212da640403f5772717f",
+      "revision": 1
+    },
+    "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-manhattan-beach/xmlname-2027-flight-software-engineer-intern---redondo-beach-ca_r10259032": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "northrop grumman",
+        "degrees": [],
+        "locations": [
+          "manhattan beach, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "flight software engineer intern"
+      },
+      "fingerprint": "792bf2ec8c4fe07935e9e2700f90e46c2970d6d95e5da39b7f15c2775f4918aa",
       "revision": 1
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern-product-support---data-scientist_r10258679": {
@@ -46904,6 +46971,22 @@
       "eligible": false,
       "fingerprint": "399c33fdc2da68d52aa4d6c63cfbb78ec5f150b36ad5eef18114207fce6f137b",
       "revision": 0
+    },
+    "url:https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/neenah-wi/intern---software-engineer--fall-2026-_r035782": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "plexus",
+        "degrees": [],
+        "locations": [
+          "neenah, wi"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "intern - software engineer - summer 2027"
+      },
+      "fingerprint": "c689e748daf3f414e5d41e1a5605b3eea8edcf2aeaa28d3bf315051b5cd9c94f",
+      "revision": 1
     },
     "url:https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/raleigh-nc/intern---software-engineer--summer-2027-_r040424": {
       "eligible": true,
@@ -50274,6 +50357,22 @@
       "fingerprint": "1f9d4fa0d95a4abebb5d00e465f90f013aca8e77ce2dc30148e48ac534f73a6d",
       "revision": 1
     },
+    "url:https://studentopportunities-lutron.icims.com/jobs/5388/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lutron",
+        "degrees": [],
+        "locations": [
+          "austin, tx"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "summer 2027 - software engineering intern - austin - tx"
+      },
+      "fingerprint": "6456dddadf49ec07124f843777a269f9533819451649448f63d838ee8c46f3a6",
+      "revision": 1
+    },
     "url:https://studentopportunities-lutron.icims.com/jobs/5392/job": {
       "eligible": true,
       "evidence": {
@@ -50986,6 +51085,7 @@
           "master's"
         ],
         "locations": [
+          "new york city, ny",
           "new york, ny",
           "nyc"
         ],
@@ -50995,8 +51095,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "3784616df6fd31422c599edddb741d341f8bf3f5388852c24005827a91f3ac71",
-      "revision": 2
+      "fingerprint": "a7e4bb991691add31ee6b5292acfdf22f1edb1b7ac3839fb7621354ab3bc162b",
+      "revision": 3
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/overland-park-kansas/summer-2027-assoc-ai-engineer-internship_req380484": {
       "eligible": true,
@@ -53958,7 +54058,6 @@
         "company": "jane street",
         "degrees": [],
         "locations": [
-          "new york city, ny",
           "new york, ny"
         ],
         "requirements": [],
@@ -53967,8 +54066,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "991e4146d782b87671bc9e9cf6b281001f474720be1e3c40c6a576f12eddf017",
-      "revision": 1
+      "fingerprint": "41703c9fdebfe210cd40ae3e21394868289f8b91393ba33e88306901dab3e4d6",
+      "revision": 2
     },
     "url:https://www.janestreet.com/join-jane-street/position/8611307002": {
       "eligible": true,
@@ -54147,6 +54246,11 @@
     "url:https://www.keenfootwear.com/careers-list.html?4748595005=&gh_jid=4748595005": {
       "eligible": false,
       "fingerprint": "73c36bd446cffe0cdc45c63095b75d5ba50ed6e1f12c5d3643feb7bdec11445e",
+      "revision": 1
+    },
+    "url:https://www.keenfootwear.com/careers-list.html?4749923005=&gh_jid=4749923005": {
+      "eligible": false,
+      "fingerprint": "b75a3730b1541f6933b801bf5479df2e5535cf5276f791bcde339f4860bc9491",
       "revision": 1
     },
     "url:https://www.mastercontrol.com/careers/job-listings/role?role=4738478005&gh_jid=4738478005": {
@@ -55405,7 +55509,6 @@
         ],
         "locations": [
           "chicago, il",
-          "chicago, il +1",
           "new york, chicago",
           "nyc"
         ],
@@ -55417,8 +55520,8 @@
         ],
         "title": "quantitative developer intern - summer 2027"
       },
-      "fingerprint": "d3c5ba0b3f2f37bf520ae3eb77340cadcc31a63e1c59d92d9a53a4b3d40eee7b",
-      "revision": 0
+      "fingerprint": "215423af7baa6f93d796d3eb2d0d8d74d75e45ecade500d3b15e99aba29fc0ce",
+      "revision": 1
     },
     "url:https://www.tower-research.com/open-positions?gh_jid=8138524": {
       "eligible": false,
@@ -55474,6 +55577,11 @@
       "eligible": false,
       "fingerprint": "b113c61a65c2949278f481fa51e1da94a26c51f5045717b150b995e94e0882f9",
       "revision": 0
+    },
+    "url:https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003": {
+      "eligible": false,
+      "fingerprint": "69e5b561c6caa481bf07063e437ba312170f823c9ec3b84d5ae4e6a58a9cbfb0",
+      "revision": 1
     },
     "url:https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003": {
       "eligible": true,
@@ -56088,6 +56196,9 @@
     "https://go.vansh.nyc/1dO": 109,
     "https://go.vansh.nyc/1dQ": 110,
     "https://go.vansh.nyc/1dS": 110,
+    "https://go.vansh.nyc/1dV": 111,
+    "https://go.vansh.nyc/1dY": 111,
+    "https://go.vansh.nyc/1dZ": 111,
     "https://go.vansh.nyc/1da": 100,
     "https://go.vansh.nyc/1db": 100,
     "https://go.vansh.nyc/1dc": 100,
@@ -56100,6 +56211,7 @@
     "https://go.vansh.nyc/1do": 100,
     "https://go.vansh.nyc/1dr": 101,
     "https://go.vansh.nyc/1dz": 106,
+    "https://go.vansh.nyc/1e0": 111,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -57052,6 +57164,9 @@
     "https://go.vansh.nyc/1dO": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965",
     "https://go.vansh.nyc/1dQ": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306",
     "https://go.vansh.nyc/1dS": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065",
+    "https://go.vansh.nyc/1dV": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
+    "https://go.vansh.nyc/1dY": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+    "https://go.vansh.nyc/1dZ": "https://jmfamily.wd1.myworkdayjobs.com/JMFamily_External/job/Florida---Deerfield-Beach/AI---Decision-Science-Intern_JR105095",
     "https://go.vansh.nyc/1da": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284",
     "https://go.vansh.nyc/1db": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Greenville-Wisconsin-United-States/Engineer-Intern---Software--Summer-2027-_R49745",
     "https://go.vansh.nyc/1dc": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
@@ -57064,6 +57179,7 @@
     "https://go.vansh.nyc/1do": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1",
     "https://go.vansh.nyc/1dr": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors",
     "https://go.vansh.nyc/1dz": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229",
+    "https://go.vansh.nyc/1e0": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -57720,7 +57836,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 110,
+  "scan_sequence": 111,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
