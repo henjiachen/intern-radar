@@ -578,6 +578,22 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771"
     },
     {
+      "company": "Cambridge Investment Research",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "be576cea974e0e00a1111dfd7923a35aef8586d83c9ea793eb23f7150951d5b0",
+      "locations": [
+        "Phoenix, AZ",
+        "Fairfield, IA"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 10,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Salesforce Developer Intern",
+      "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Salesforce-Developer-Intern_R-2025-220"
+    },
+    {
       "company": "Salesforce",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -2207,21 +2223,6 @@
       "company": "American Express",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "5b224fc8819f969cb8255e1288154513bb0eefe29fa923c37e04da8f60bf6487",
-      "locations": [
-        "NYC"
-      ],
-      "posted_at": "2026-08-17",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI Engineer Intern - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698"
-    },
-    {
-      "company": "American Express",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "652a5b532e93f905efc68860b76f82514a4ac93fe7b0cd16f4184faceace356d",
       "locations": [
         "Phoenix, AZ"
@@ -2247,6 +2248,21 @@
       "source": "simplify",
       "title": "AI Engineer Intern - Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745"
+    },
+    {
+      "company": "American Express",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5b224fc8819f969cb8255e1288154513bb0eefe29fa923c37e04da8f60bf6487",
+      "locations": [
+        "New York, NY"
+      ],
+      "posted_at": "2026-08-21",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Engineer Intern, Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698"
     },
     {
       "company": "American Family Insurance Group",
@@ -6185,6 +6201,38 @@
       "url": "https://apply.workable.com/cadillacf1team/j/7995A5E448"
     },
     {
+      "company": "CAI",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4a73b632c6a12c2db4996e18239fb6b86e43d65811038fcfbb52e47a5b57f1d4",
+      "locations": [
+        "United States"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "GIS Software Developer Intern",
+      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554"
+    },
+    {
+      "company": "Cambridge Investment Research",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "8edd30b3bbb9f3cf6f2576dbb2022fea5be7c3040e01a6416a36a3de7cdd80bc",
+      "locations": [
+        "West Des Moines, IA",
+        "Fairfield, IA",
+        "Phoenix, AZ"
+      ],
+      "posted_at": "2026-09-18",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Software-Engineering-Intern_R-2025-219"
+    },
+    {
       "company": "Campbell Soup Company",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -6850,6 +6898,51 @@
       "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672"
     },
     {
+      "company": "Clearwater Analytics",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "22aa67802e925be68f345f760ad84a413da9c09bcc8b41929d8ee1720776493b",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "posted_at": "2026-09-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Generative AI Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Seattle/Gen-AI-Intern_R12193"
+    },
+    {
+      "company": "Clearwater Analytics",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a6e90536ed9288a7ea93bd44aa5c5c9321076ce9602a0e6b8f2e1292c45f44d8",
+      "locations": [
+        "Boise, ID"
+      ],
+      "posted_at": "2026-09-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Software-Development-Intern_R12098"
+    },
+    {
+      "company": "Clearwater Analytics",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2ae179cca888159e835b1c5602f041225fe5e895d99be667ab2d5da929edea6a",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-09-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Chicago/Software-Development-Intern_R12186"
+    },
+    {
       "company": "Cloudflare",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -6893,6 +6986,36 @@
       "source": "greenhouse",
       "title": "Software Engineer Intern (2027) - Austin, TX",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958"
+    },
+    {
+      "company": "CNA Insurance",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "53ea1a71cdc9481f5d7afe977f0f5eef85ff2847eb484b14391450bd4834c63b",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Engineering Intern, Technology",
+      "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Engineering-_R-8126"
+    },
+    {
+      "company": "CNA Insurance",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a42d407cfd9053ac5c4eae1c58a45bf128a6ec7e8b049cd4832f972fb074d1bf",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-09-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Technology Internship - Software Engineering",
+      "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107"
     },
     {
       "company": "Cognex",
@@ -18176,6 +18299,21 @@
       "url": "https://job-boards.greenhouse.io/oneethos/jobs/4459193009"
     },
     {
+      "company": "onepot",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c51e452abdaa2c230711b4e6bcc24db811520311b13ef26d50d3390474356bb0",
+      "locations": [
+        "South San Francisco, CA"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Research Intern, Machine Learning",
+      "url": "https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8"
+    },
+    {
       "company": "onsemi",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -19885,6 +20023,21 @@
       "company": "Raytheon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "66b29e10eba9ca875f686359066eb569625e277ff080e291709395aec1ac6f18",
+      "locations": [
+        "Sterling, VA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885791"
+    },
+    {
+      "company": "Raytheon",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "4c5399364881a13b626f77662a02292bf96ca0f4ae500415fb00d8f7aed72c76",
       "locations": [
         "Cedar Rapids, IA"
@@ -21060,21 +21213,6 @@
       "company": "RTX",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "e2d1dd205f292929ba84a6ea00aee062ac53e4a7e52e9a1852a069eba1e33c62",
-      "locations": [
-        "Marlborough, MA"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Co-op",
-      "url": "https://go.vansh.nyc/Xu"
-    },
-    {
-      "company": "RTX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "96f014698af83d11a47dc8f1670e4a75e431bddf71e9fe54d539e92da85e34a5",
       "locations": [
         "Cambridge, MA"
@@ -21115,21 +21253,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520"
-    },
-    {
-      "company": "RTX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "66b29e10eba9ca875f686359066eb569625e277ff080e291709395aec1ac6f18",
-      "locations": [
-        "Sterling, VA"
-      ],
-      "posted_at": "2026-10-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885791"
     },
     {
       "company": "RTX",
@@ -22112,21 +22235,6 @@
       "source": "simplify",
       "title": "Data Analytics Intern",
       "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317"
-    },
-    {
-      "company": "Signet Jewelers",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "cc1086c0bf052220460e24f8eff8c7eb36e4b1c3008442b42db1aff90a43f1da",
-      "locations": [
-        "Akron, OH"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analytics Intern",
-      "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1"
     },
     {
       "company": "Simbe Robotics",
@@ -27967,7 +28075,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-03T05:09:05.341267+00:00",
+  "last_checked": "2026-11-03T06:07:26.082427+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

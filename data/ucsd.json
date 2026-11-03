@@ -7902,6 +7902,24 @@
       "fingerprint": "4c1740335dabf6a5b24e1bbdd4596dcdd5a92216406662592337bdc45ab72beb",
       "revision": 0
     },
+    "url:https://cai.wd5.myworkdayjobs.com/computer_aid/job/pa-client-state/software-developer-intern_r8554": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cai",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "gis software developer intern"
+      },
+      "fingerprint": "25e495fe5d4246f2ecef39cb83779751dc069c7300473ece255a7dfe8f44b921",
+      "revision": 1
+    },
     "url:https://calpionplutus.bamboohr.com/careers/310": {
       "eligible": false,
       "fingerprint": "a5b387919fc37664dc20209cde95783eca8075ac76e5fa6f930e71bdaa3ecc6b",
@@ -12334,9 +12352,28 @@
       "revision": 0
     },
     "url:https://cir.wd108.myworkdayjobs.com/cir_external_career_site/job/fairfield-ia/software-engineering-intern_r-2025-219": {
-      "eligible": false,
-      "fingerprint": "a0ca4bba6481d5a9c74f09763fc974bce3699ecf9e57ebd99254183880d5072a",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "cambridge investment research",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "fairfield, ia",
+          "fairfield, ia +2",
+          "phoenix, az",
+          "west des moines, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "f10da4db26cef5ba3bc998ce976c5af1c38a3672525321bcf317fefd2bd8788d",
+      "revision": 1
     },
     "url:https://cir.wd108.myworkdayjobs.com/cir_external_career_site/job/phoenix-az/data-engineering-intern_r-2025-221": {
       "eligible": false,
@@ -12344,9 +12381,24 @@
       "revision": 0
     },
     "url:https://cir.wd108.myworkdayjobs.com/cir_external_career_site/job/phoenix-az/salesforce-developer-intern_r-2025-220": {
-      "eligible": false,
-      "fingerprint": "661663e17e799ab5bee8c272e2e78d284a9f247e8060adf6d0c39a04799145e1",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cambridge investment research",
+        "degrees": [],
+        "locations": [
+          "fairfield, ia",
+          "phoenix, az",
+          "phoenix, az +1"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "salesforce developer intern"
+      },
+      "fingerprint": "197c148bb11146a6ecf1f239ec3eb6ff41417a78ff251f4932e072b23a4ad1ef",
+      "revision": 1
     },
     "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/maynard-massachusetts-us/firmware-engineer-ii--co-op----united-states_2026913": {
       "eligible": false,
@@ -12552,9 +12604,25 @@
       "revision": 0
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---boise/software-development-intern_r12098": {
-      "eligible": false,
-      "fingerprint": "e2853e5c5deb8808911279617abee2f39e6128a3922771e2c729c244caf40afa",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "clearwater analytics",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "boise, id"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software development intern"
+      },
+      "fingerprint": "cb85448083aba0fff59c9c49085ee3f4e3fa63d6eb2a58f66e7d080b2fa2dbda",
+      "revision": 1
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---boise/software-development-intern_r12192": {
       "eligible": false,
@@ -12562,9 +12630,25 @@
       "revision": 0
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---chicago/software-development-intern_r12186": {
-      "eligible": false,
-      "fingerprint": "9ca7d9c665e91b7e1f85d4032cf95872698af0fd9597f00492a05187bccf5800",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "clearwater analytics",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software development intern"
+      },
+      "fingerprint": "077cb3b672f4bb79171938c7e37e68e9080ad254000a1820c8991cebb1527057",
+      "revision": 1
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---chicago/software-development-intern_r12187": {
       "eligible": false,
@@ -12622,9 +12706,25 @@
       "revision": 1
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---seattle/gen-ai-intern_r12193": {
-      "eligible": false,
-      "fingerprint": "9f144beb957b01d2732141b3d0931cd0af6d8ed0d5c87e36db5a46dec515a57c",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "clearwater analytics",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "seattle, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "generative ai intern"
+      },
+      "fingerprint": "e4b9e9261bee131cced691004e71b031c7054b5fff982839d366e6baba1c6af2",
+      "revision": 1
     },
     "url:https://clio.wd3.myworkdayjobs.com/cliocareersite/job/toronto/software-developer--co-op_req-1577": {
       "eligible": false,
@@ -12646,15 +12746,50 @@
       "fingerprint": "ea976a03a9d8f1a20e58e9d12b2b83e6a9cf4e632fd94e15c27241cbbec60f51",
       "revision": 0
     },
+    "url:https://cna.wd1.myworkdayjobs.com/cna_careers/job/chicago-il-usa/technology-internship-program--ai-engineering-_r-8126": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cna insurance",
+        "degrees": [],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineering intern, technology"
+      },
+      "fingerprint": "b6f2c68079594a27af9b56c4c0a08d2e13ecaaa524868628ce75f8263e044a7a",
+      "revision": 1
+    },
     "url:https://cna.wd1.myworkdayjobs.com/cna_careers/job/chicago-il-usa/technology-internship-program--data-engineering-_r-8129": {
       "eligible": false,
       "fingerprint": "9b91b6ebd66fcadf03067af3a258ce6c6b682802aca46c0efba77a00c52abb36",
       "revision": 0
     },
     "url:https://cna.wd1.myworkdayjobs.com/cna_careers/job/chicago-il-usa/technology-internship-program--software-engineering-_r-8107": {
-      "eligible": false,
-      "fingerprint": "5d596783be60316bfb0678f0314f471c829558e0d1c8083f0102c5ef07217245",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "cna insurance",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "technology internship - software engineering"
+      },
+      "fingerprint": "52c1ffa11bc94be6e0435928a6633da926b3e0a04c9d80e9de449e0a1cb2ae85",
+      "revision": 1
     },
     "url:https://cognex.wd1.myworkdayjobs.com/external_career_site/job/wauwatosa-wisconsin/software-engineering-intern_r0012549": {
       "eligible": true,
@@ -14418,17 +14553,16 @@
           "bachelor's"
         ],
         "locations": [
-          "new york, ny",
-          "nyc"
+          "new york, ny"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "ai engineer intern - enterprise technology services"
+        "title": "ai engineer intern, enterprise technology services"
       },
-      "fingerprint": "5be951cc4557d112590bb8918de007d2b35f2b1c30714b7876b7aec12c7fb119",
-      "revision": 1
+      "fingerprint": "035a3bd4f8734e6529a94bcbe86d3efdbdeb52f76e10a4d4eb610ccf845eb33b",
+      "revision": 2
     },
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011745": {
       "eligible": true,
@@ -19208,7 +19342,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "rtx",
+        "company": "raytheon",
         "degrees": [
           "bachelor's",
           "master's"
@@ -19220,10 +19354,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern - summer 2027"
       },
-      "fingerprint": "d96cffffed3e5e9d653a5f3b0a68b64d3cf2b07d41e1e4f11456b879cac85333",
-      "revision": 1
+      "fingerprint": "2c8293be436235e32436d62d32711db53fb96f5d2d2c7f9da742d4929d2657e6",
+      "revision": 2
     },
     "url:https://gnw.wd1.myworkdayjobs.com/enact_mi/job/raleigh-north-carolina/process-improvement-analyst-intern_req-260360": {
       "eligible": true,
@@ -19650,6 +19784,11 @@
     "url:https://go.vansh.nyc/1c8": {
       "eligible": false,
       "fingerprint": "ca198976357e2fdc746cf7fd3da312adf74135f0fa0483b96f1027a7dc68a6e9",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1co": {
+      "eligible": false,
+      "fingerprint": "e24d501d76f7d05018f2befe412ead79debec3d0b3c2ecfdf3aaa945140a9264",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1e": {
@@ -21273,8 +21412,8 @@
     },
     "url:https://go.vansh.nyc/xl": {
       "eligible": false,
-      "fingerprint": "41cd24edefb9e39aa2294c3d01aded7abafa7cfeb7dbb4a3b6c9878096a3fd34",
-      "revision": 0
+      "fingerprint": "5532331771730f3ff25da3163fca724f093f89a25379255de06655bbfb391a63",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/xu": {
       "eligible": true,
@@ -32077,6 +32216,24 @@
       "eligible": false,
       "fingerprint": "9f80ca0d90e288e8e62df0cd99e32949a0aee9999219093d6b6068de08fee8da",
       "revision": 0
+    },
+    "url:https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "onepot",
+        "degrees": [],
+        "locations": [
+          "south san francisco, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "research intern, machine learning"
+      },
+      "fingerprint": "3a67fbc6250adfedb7b96fab85be6e4341c3ae502922a354ab09e18dd4bff8dc",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571": {
       "eligible": true,
@@ -55417,6 +55574,16 @@
     "https://go.vansh.nyc/1c5": 98,
     "https://go.vansh.nyc/1c6": 98,
     "https://go.vansh.nyc/1c7": 98,
+    "https://go.vansh.nyc/1c9": 99,
+    "https://go.vansh.nyc/1ca": 99,
+    "https://go.vansh.nyc/1ce": 99,
+    "https://go.vansh.nyc/1cg": 99,
+    "https://go.vansh.nyc/1ch": 99,
+    "https://go.vansh.nyc/1ci": 99,
+    "https://go.vansh.nyc/1cl": 99,
+    "https://go.vansh.nyc/1cm": 99,
+    "https://go.vansh.nyc/1cn": 99,
+    "https://go.vansh.nyc/1cp": 99,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -56324,6 +56491,16 @@
     "https://go.vansh.nyc/1c5": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474",
     "https://go.vansh.nyc/1c6": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
     "https://go.vansh.nyc/1c7": "https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456",
+    "https://go.vansh.nyc/1c9": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107",
+    "https://go.vansh.nyc/1ca": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Engineering-_R-8126",
+    "https://go.vansh.nyc/1ce": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554",
+    "https://go.vansh.nyc/1cg": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
+    "https://go.vansh.nyc/1ch": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Software-Engineering-Intern_R-2025-219",
+    "https://go.vansh.nyc/1ci": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Salesforce-Developer-Intern_R-2025-220",
+    "https://go.vansh.nyc/1cl": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Software-Development-Intern_R12098",
+    "https://go.vansh.nyc/1cm": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Chicago/Software-Development-Intern_R12186",
+    "https://go.vansh.nyc/1cn": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Seattle/Gen-AI-Intern_R12193",
+    "https://go.vansh.nyc/1cp": "https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -56980,7 +57157,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 98,
+  "scan_sequence": 99,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
