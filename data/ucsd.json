@@ -32353,20 +32353,22 @@
     "url:https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "onepot",
         "degrees": [],
         "locations": [
-          "south san francisco, ca"
+          "south san francisco, ca",
+          "south sf"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "research intern, machine learning"
       },
-      "fingerprint": "3a67fbc6250adfedb7b96fab85be6e4341c3ae502922a354ab09e18dd4bff8dc",
-      "revision": 1
+      "fingerprint": "efd68a4eb85f2baaea519e16467d65a8911bc1433b89ec33d2d1ab59648ba1fa",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571": {
       "eligible": true,
@@ -37520,6 +37522,26 @@
         "title": "sales administration data analyst intern - greenhouse gas"
       },
       "fingerprint": "b13db332affcfa5d87b0ee19b1a1c66d7354c5e7ea7af02cb48b28e52cab3469",
+      "revision": 1
+    },
+    "url:https://jobs.paccar.com/job/denton-2027-summer-internship-software-developer-tx-76205-7864/1453615433?ats=successfactors": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "paccar",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "denton, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern"
+      },
+      "fingerprint": "69b6c9f0dad4cb7cf441a4dc3f5e7da709501ce72982e1a2f6cf7ab3e083405f",
       "revision": 1
     },
     "url:https://jobs.paccar.com/job/denton-2027-summer-internship-warranty-business-tx-76205-7864/1453566133?ats=successfactors": {
@@ -45759,9 +45781,13 @@
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-tx-austin/ai-compiler-and-kernel-intern---summer-2027_jr2029220-1": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "nvidia",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
         "locations": [
           "austin, tx"
         ],
@@ -45771,8 +45797,8 @@
         ],
         "title": "ai compiler and kernel intern"
       },
-      "fingerprint": "5673b352f566f27205360ed7ccdf40c0b2a5893071181158200868bcb73247d9",
-      "revision": 1
+      "fingerprint": "87bddead38783692f77c5a5a0b6eece20a92f11d99c6162e0fa1dbc2380394ab",
+      "revision": 2
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-tx-austin/ai-systems-software-engineering-intern---summer-2027_jr2027170": {
       "eligible": true,
@@ -55848,6 +55874,7 @@
     "https://go.vansh.nyc/1dh": 100,
     "https://go.vansh.nyc/1dn": 100,
     "https://go.vansh.nyc/1do": 100,
+    "https://go.vansh.nyc/1dr": 101,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -56800,6 +56827,7 @@
     "https://go.vansh.nyc/1dh": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800",
     "https://go.vansh.nyc/1dn": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1",
     "https://go.vansh.nyc/1do": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1",
+    "https://go.vansh.nyc/1dr": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -57456,7 +57484,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 100,
+  "scan_sequence": 101,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

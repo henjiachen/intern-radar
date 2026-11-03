@@ -176,12 +176,12 @@
       "locations": [
         "Austin, TX"
       ],
-      "posted_at": "2026-11-03",
+      "posted_at": "2026-11-02",
       "priority": 7,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "AI Compiler and Kernel Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"
     },
     {
       "company": "NVIDIA",
@@ -18454,14 +18454,14 @@
       "graduation_status": "unknown",
       "id": "c51e452abdaa2c230711b4e6bcc24db811520311b13ef26d50d3390474356bb0",
       "locations": [
-        "South San Francisco, CA"
+        "South SF"
       ],
       "posted_at": "2026-11-03",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Research Intern, Machine Learning",
-      "url": "https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8"
+      "source": "simplify",
+      "title": "Machine Learning Researcher Intern - Machine Learning",
+      "url": "https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true"
     },
     {
       "company": "onsemi",
@@ -18734,6 +18734,21 @@
       "source": "simplify",
       "title": "Sales Administration Data Analyst Intern - Greenhouse Gas",
       "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors"
+    },
+    {
+      "company": "Paccar",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "1d26ffefbf5482cd63c0443b9e29b8724cc5b6738c3ec20715197a4f4ff86ebf",
+      "locations": [
+        "Denton, TX"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors"
     },
     {
       "company": "Paccar",
@@ -28224,7 +28239,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-03T07:29:10.060213+00:00",
+  "last_checked": "2026-11-03T09:05:13.270669+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
