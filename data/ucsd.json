@@ -1469,10 +1469,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "2027 summer intern - software engineer - bachelors degree - santa clara"
       },
-      "fingerprint": "a07de8b3f021c5add39b78db0c41691698c3b9ac15eaa61d3f918510fb9104a5",
-      "revision": 1
+      "fingerprint": "cbe34f23191e5776c38fd0a617c30b921bb16bcfe8c49ae13ca7679f19d91276",
+      "revision": 2
     },
     "url:https://amazon.jobs/en/jobs/10394156/2026-fall-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting": {
       "eligible": false,
@@ -19481,8 +19481,8 @@
     },
     "url:https://go.vansh.nyc/1bk": {
       "eligible": false,
-      "fingerprint": "c0e0af5e456d4fb9d78ba2a7145c5c108be773d8b773910eb98da4451cb75291",
-      "revision": 1
+      "fingerprint": "0151051e10c77e1067c36f31b4491b6dd14306cd9b0ac115b085c56523d4e973",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1bn": {
       "eligible": false,
@@ -27796,10 +27796,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineer summer internship"
       },
-      "fingerprint": "cd8d2731981380a5b26e38571b88d7634798f83b34e9d2424339a71e15efa599",
-      "revision": 2
+      "fingerprint": "b2f53e45b40ac8883ad66163550b6c21de40d2617d18917c4e754dc70eb2d622",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/kodiak/jobs/4396622009": {
       "eligible": false,
@@ -31024,6 +31024,24 @@
       "fingerprint": "21f95285cdd3fc8d9c7c1c700d09aa19986fba6b98358cc2156fb35d9ce74083",
       "revision": 0
     },
+    "url:https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/621d736b-5ae1-4d62-8f05-088753318d29": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "shield ai",
+        "degrees": [],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded firmware intern"
+      },
+      "fingerprint": "f0a0de0daffe6a941698edce9abb20bc1fc4ab80adf06537d0e90c7a1c02c593",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036": {
       "eligible": true,
       "evidence": {
@@ -31227,6 +31245,11 @@
     "url:https://jobs.ashbyhq.com/geniusai/96ebddc5-6ed4-4e68-813b-55d44c315b27": {
       "eligible": false,
       "fingerprint": "d7620c96f50ff10fd3eaae83b202505f54f22f6182f1aa89dcf55fd3724491cf",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c": {
+      "eligible": false,
+      "fingerprint": "83a9e63c04479a1c4ed25c9fe897494ac18158dc5e8e6513d59a8c68f2cd8a1c",
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab": {
@@ -32709,6 +32732,43 @@
         "title": "embedded firmware intern"
       },
       "fingerprint": "439123e0688616afb2d5731b6969d314acf95edf5cbe43092283dbf86f408f0f",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "shield",
+        "degrees": [],
+        "locations": [
+          "dallas, tx",
+          "san mateo, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "c5eef8712f6c67f79e1e761747145fade1b108de60d46d27c8fec4b8340a9e88",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "shield",
+        "degrees": [],
+        "locations": [
+          "san diego, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "17644a85b9abe0048c89e8da041dfddbbf28128c275a2b44cb4059e7b9adfa9e",
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e": {
@@ -48871,6 +48931,11 @@
       "fingerprint": "1d05c43aca7431a163f8e2231763c20ca65653370669e15cc8ae5852a62aecdf",
       "revision": 0
     },
+    "url:https://sonos.wd1.myworkdayjobs.com/sonos/job/seattle-wa/data-engineering-intern--seattle-_r2897-1": {
+      "eligible": false,
+      "fingerprint": "0b0221b29f5569b734c1ec1b510502ce31aa43297155e486209f0abccf64033f",
+      "revision": 1
+    },
     "url:https://sonos.wd1.myworkdayjobs.com/sonos/job/seattle-wa/software-engineering-intern--seattle-_r2885": {
       "eligible": true,
       "evidence": {
@@ -54633,8 +54698,8 @@
     },
     "url:https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003": {
       "eligible": false,
-      "fingerprint": "f1eca90df3f187a0922a1f24ee4adec6ab902111bf27494d522d95135ab217b7",
-      "revision": 0
+      "fingerprint": "4bd5de6caf0aec78459eac4970ef46180618e1f64a0a4bee2fa62eeac5a43447",
+      "revision": 1
     },
     "url:https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003": {
       "eligible": true,
@@ -55146,6 +55211,8 @@
     "https://go.vansh.nyc/1bB": 95,
     "https://go.vansh.nyc/1bC": 95,
     "https://go.vansh.nyc/1bJ": 96,
+    "https://go.vansh.nyc/1bL": 97,
+    "https://go.vansh.nyc/1bN": 97,
     "https://go.vansh.nyc/1bb": 94,
     "https://go.vansh.nyc/1bc": 94,
     "https://go.vansh.nyc/1be": 94,
@@ -56038,6 +56105,8 @@
     "https://go.vansh.nyc/1bB": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11013",
     "https://go.vansh.nyc/1bC": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10993",
     "https://go.vansh.nyc/1bJ": "https://jobs.ashbyhq.com/shield/621d736b-5ae1-4d62-8f05-088753318d29",
+    "https://go.vansh.nyc/1bL": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036",
+    "https://go.vansh.nyc/1bN": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a",
     "https://go.vansh.nyc/1bb": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--A-_JR226736",
     "https://go.vansh.nyc/1bc": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980",
     "https://go.vansh.nyc/1be": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743",
@@ -56709,7 +56778,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 96,
+  "scan_sequence": 97,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

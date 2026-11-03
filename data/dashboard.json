@@ -2746,6 +2746,21 @@
       "company": "Applied Materials",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "2ecc1a3d70af9206484c4aa5d629cb1e241ce8178d8237f13df663dda1816c31",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "posted_at": "2026-10-31",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "2027 Summer Intern - Software Engineer - Bachelors Degree - Santa Clara",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672"
+    },
+    {
+      "company": "Applied Materials",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "934a8d658edb4ff24ef2afec3f3847dab11813951c68db915d1ed9ddf45f9857",
       "locations": [
         "Santa Clara, CA"
@@ -2786,21 +2801,6 @@
       "source": "simplify",
       "title": "Industrial Engineering Intern",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710"
-    },
-    {
-      "company": "Applied Materials",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "2ecc1a3d70af9206484c4aa5d629cb1e241ce8178d8237f13df663dda1816c31",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "posted_at": "2026-10-20",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672"
     },
     {
       "company": "Applied Materials",
@@ -10875,36 +10875,6 @@
       "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
     },
     {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Americas - Engineering",
-      "url": "https://higher.gs.com/roles/171565?type=students"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Engineering",
-      "url": "https://higher.gs.com/roles/171553?type=students"
-    },
-    {
       "company": "Gordon Food Service",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -15085,11 +15055,11 @@
       "locations": [
         "Clearwater, FL"
       ],
-      "posted_at": "2026-11-01",
+      "posted_at": "2026-11-02",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
+      "source": "speedyapply",
+      "title": "Software Engineer Summer Internship",
       "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002"
     },
     {
@@ -21687,6 +21657,37 @@
       "url": "https://jobs.ashbyhq.com/shield/621d736b-5ae1-4d62-8f05-088753318d29"
     },
     {
+      "company": "Shield",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "282292fc2a54d9632b6e8899c6975674144339a460fea847b9d6e0c12ae67289",
+      "locations": [
+        "San Mateo, CA",
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-09-23",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036"
+    },
+    {
+      "company": "Shield",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4f6d89d66b9ec625e6831f479815e366f1118992e2168550f6d4ef9ffd90deb1",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a"
+    },
+    {
       "company": "Shield AI",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -21700,6 +21701,21 @@
       "source": "simplify",
       "title": "Embedded Firmware Intern",
       "url": "https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4/apply"
+    },
+    {
+      "company": "Shield AI",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "6e70cd4c655a920bb756fc8342a502215c73806b2ffd64df7bf7726c2d88c2c7",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Embedded Firmware Intern",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/621d736b-5ae1-4d62-8f05-088753318d29/application?embed=true"
     },
     {
       "company": "Shield AI",
@@ -27796,7 +27812,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-03T03:04:11.998446+00:00",
+  "last_checked": "2026-11-03T04:06:42.452353+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
