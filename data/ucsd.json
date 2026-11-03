@@ -306,7 +306,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "ace hardware",
+        "company": "ace hardware corporation",
         "degrees": [
           "bachelor's"
         ],
@@ -319,8 +319,8 @@
         ],
         "title": "it associate software engineer intern"
       },
-      "fingerprint": "668ecb3aaa1034a18386683df5e5c025a3ca65b21eb6cfe7179747ef2dde30ce",
-      "revision": 0
+      "fingerprint": "96d02192fbd5ba94931c9e60d33ea77379e9aa7cf6ebdb66aafff173378f3873",
+      "revision": 1
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/basel/xmlname-2027-intern--software-engineer_r173015": {
       "eligible": false,
@@ -5428,10 +5428,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software developer intern - university - summer games"
+        "title": "university - 2027 summer games software developer intern - dayton - oh"
       },
-      "fingerprint": "798d74ea20622f1b781caa583aa3cd40f4300fc188d784fd5c17ef0558d6f09d",
-      "revision": 0
+      "fingerprint": "dc6d4a4a5e66582f0a8688916d5635243bfd2de621dc1afef50eb2aaaa52ddec",
+      "revision": 1
     },
     "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/detroit-mi/university---2027-summer-games--systems-engineer-intern---royal-oaks--mi_r0252341": {
       "eligible": true,
@@ -11678,6 +11678,25 @@
       "fingerprint": "8b4a12b7b1c9232ae79c0327ac1fdb219192b0e951db89b2c60002ae9d9207e3",
       "revision": 2
     },
+    "url:https://caresource.wd1.myworkdayjobs.com/caresource/job/remote/xmlname-2027-summer-internship-program---data-science-intern_r14306": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "caresource",
+        "degrees": [],
+        "locations": [
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "69cc7bca62e9584132dde404a6db8e8641d2fa071815071c9ebcf58284e33538",
+      "revision": 1
+    },
     "url:https://caresource.wd1.myworkdayjobs.com/caresource/job/remote/xmlname-2027-summer-internship-program---full-stack-ai-development-intern-1_r14181": {
       "eligible": true,
       "evidence": {
@@ -14802,6 +14821,24 @@
     "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26015722": {
       "eligible": false,
       "fingerprint": "e1f7c5f16867209d36ba75689b575f21f1991b5b0a4e5880a934902625a0d24a",
+      "revision": 1
+    },
+    "url:https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26016065": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "american express",
+        "degrees": [],
+        "locations": [
+          "phoenix, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "undergraduate program cybersecurity ai engineer intern, enterprise technology services"
+      },
+      "fingerprint": "01fdf4e6ee79b2609b2f7dd4a19ca0f6de5a97b7237ff0fb3a8362f2f96838e6",
       "revision": 1
     },
     "url:https://egup.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/20270351": {
@@ -19908,7 +19945,12 @@
     },
     "url:https://go.vansh.nyc/1dp": {
       "eligible": false,
-      "fingerprint": "2f1b394db110d00856fd19e1f0cb9edb84428d1598fa2e03eba069fe96a5e4b9",
+      "fingerprint": "393e0e53db17d089fdb99c30fbca5b3ca2f65b5bb1a95e01f6ebf4d5f3764dc7",
+      "revision": 2
+    },
+    "url:https://go.vansh.nyc/1dr": {
+      "eligible": false,
+      "fingerprint": "285f637da7ef4fef883a8619d8004044903ac50ed31a48a26b2114e0e5216258",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1e": {
@@ -20393,24 +20435,9 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/ct": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "steel",
-        "degrees": [],
-        "locations": [
-          "bellevue, wa",
-          "champaign, il",
-          "toronto, on, canada"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "ae0d9a32f6898d6a971b4319219c02aebf096c184c860032208ed171be86d47e",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "8cee19d4469e7a563ce367b878bd416c89ec9f8590f10e16d46a8f2f676ab1ec",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/cz": {
       "eligible": false,
@@ -26667,8 +26694,8 @@
     },
     "url:https://job-boards.greenhouse.io/brevium/jobs/4713683006": {
       "eligible": false,
-      "fingerprint": "9e2b848bea47038afefc6d04129440cdf7d8960d4023c5a7c6b508689a377d28",
-      "revision": 0
+      "fingerprint": "4320dec70b83919d8bd9031bbe6fcad1f9f5b8f37198115b45c8f7aabcd5bcfa",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738": {
       "eligible": false,
@@ -31304,8 +31331,8 @@
     },
     "url:https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254": {
       "eligible": false,
-      "fingerprint": "246bed9881e59f492d8e01a963d3415b22589b4423146a9d0349c323eb7facbb",
-      "revision": 0
+      "fingerprint": "8d6d5612c3503d78e5632a5b65b2879acfc82c896b17e06371f9f8ae22a73033",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b": {
       "eligible": false,
@@ -32399,8 +32426,8 @@
     },
     "url:https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8": {
       "eligible": false,
-      "fingerprint": "9275f42e6ce6e7fc11bf783974d771ff2b163bdbb8a04d00cd1d981d30c12c99",
-      "revision": 1
+      "fingerprint": "7b0ef41fa2930c0e3dd3f463f9a404bfc4bdd8e0218d888c3e025eed6c83dd75",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68": {
       "eligible": false,
@@ -39901,26 +39928,9 @@
       "revision": 0
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/ann-arbor-mi/software-engineer-intern---ai_2641817": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "kla",
-        "degrees": [
-          "bachelor's",
-          "phd"
-        ],
-        "locations": [
-          "ann arbor, mi"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern - ai"
-      },
-      "fingerprint": "805918285ac6359b6292ae5125849e19db23190332427b849b24e2d944f37926",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "118e7b5abcc73530f8a2b28f6454de03529c9ff70696b577d444d76faa011aac",
+      "revision": 2
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/ann-arbor-mi/software-engineering-intern_2641821": {
       "eligible": false,
@@ -56076,6 +56086,8 @@
     "https://go.vansh.nyc/1dM": 109,
     "https://go.vansh.nyc/1dN": 109,
     "https://go.vansh.nyc/1dO": 109,
+    "https://go.vansh.nyc/1dQ": 110,
+    "https://go.vansh.nyc/1dS": 110,
     "https://go.vansh.nyc/1da": 100,
     "https://go.vansh.nyc/1db": 100,
     "https://go.vansh.nyc/1dc": 100,
@@ -57038,6 +57050,8 @@
     "https://go.vansh.nyc/1dM": "https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---CO-Westminster/AI-Developer-Intern_R58194",
     "https://go.vansh.nyc/1dN": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298217",
     "https://go.vansh.nyc/1dO": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965",
+    "https://go.vansh.nyc/1dQ": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306",
+    "https://go.vansh.nyc/1dS": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065",
     "https://go.vansh.nyc/1da": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284",
     "https://go.vansh.nyc/1db": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Greenville-Wisconsin-United-States/Engineer-Intern---Software--Summer-2027-_R49745",
     "https://go.vansh.nyc/1dc": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
@@ -57706,7 +57720,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 109,
+  "scan_sequence": 110,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
