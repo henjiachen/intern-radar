@@ -1500,21 +1500,6 @@
       "url": "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?embed=true"
     },
     {
-      "company": "AllianceBernstein",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "baea5aed0842a0e054c4232b72167ab257f86b610872e5f2108fa6b3640c4121",
-      "locations": [
-        "Nashville, TN"
-      ],
-      "posted_at": "2026-09-10",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Intern",
-      "url": "https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771"
-    },
-    {
       "company": "Allstate",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -9394,21 +9379,6 @@
       "url": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004"
     },
     {
-      "company": "Epic Games",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
-      "id": "4ba5e55103bc24125e71929ed652a93e8e68bfd31dcfd2e2ae7c966314f56dfc",
-      "locations": [
-        "Cary,North Carolina,United States"
-      ],
-      "posted_at": "2026-10-30",
-      "priority": 11,
-      "priority_program": false,
-      "source": "greenhouse",
-      "title": "Tools Programmer Intern (Graphics)",
-      "url": "https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004"
-    },
-    {
       "company": "EQT Corporation",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -13298,6 +13268,23 @@
       "source": "simplify",
       "title": "AI Engineer Intern",
       "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521"
+    },
+    {
+      "company": "ICF International",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "fec22ca73946a95d1064ff0973d39e2909f7c92cbe004c65ea8569f0a6cfe0de",
+      "locations": [
+        "Arlington County, Arlington, VA",
+        "Reston, VA",
+        "NYC"
+      ],
+      "posted_at": "2026-10-08",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Energy Researcher Intern",
+      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418"
     },
     {
       "company": "ICF International",
@@ -18162,6 +18149,21 @@
       "source": "speedyapply",
       "title": "2027 Software Test Engineering Intern- Roy UT",
       "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1"
+    },
+    {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4a87a8ee89bf4efc56fae9b28cd81509680f7ffd3cfd98e01f5df28a06880a99",
+      "locations": [
+        "Roy, UT"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Cyber Systems Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"
     },
     {
       "company": "Northrop Grumman",
@@ -23898,6 +23900,21 @@
       "url": "https://job-boards.greenhouse.io/themjcos/jobs/5418283008"
     },
     {
+      "company": "The Mosaic Company",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ea02950c6d62586a0ebb5f14e6bdc7db86cdfe4aa62d5d811e84ac98240e5b02",
+      "locations": [
+        "Tampa, FL"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Artificial Intelligence Co-op",
+      "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420"
+    },
+    {
       "company": "The Nuclear Company",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -28170,7 +28187,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-03T13:22:05.212416+00:00",
+  "last_checked": "2026-11-03T15:03:30.603964+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
