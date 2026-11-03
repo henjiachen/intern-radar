@@ -19152,6 +19152,11 @@
       "fingerprint": "3cd56d4e36fdecbabe366f94d49127c9ec5b1bf19f74aad316f65225ae41ddb9",
       "revision": 0
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-182--1100-cimmie-ave-ne--bldg-182/systems-engineer-co-op--summer-fall-2027----onsite_01879966": {
+      "eligible": false,
+      "fingerprint": "32cc00ccda48137bf2a291d1bcda7c691fbf0d3dd75c719155f705db4d41e7ec",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-182--1100-cimmie-ave-ne--bldg-182/xmlname-2027-spring-summer-co-op---systems---avi-mil-fms-das_01872835": {
       "eligible": true,
       "evidence": {
@@ -19218,6 +19223,24 @@
       "fingerprint": "cc3b5c30dc91e82ff9cc930308c616b02ca5ee09a71878f8c8ee2c729fc303dc",
       "revision": 0
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-182--1100-cimmie-ave-ne--bldg-182/xmlname-2027-systems-engineer-intern--onsite----mission-sensor-manager_01879093": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "rtx",
+        "degrees": [],
+        "locations": [
+          "cedar rapids, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "systems engineer intern, mission sensor manager"
+      },
+      "fingerprint": "cf4d3a4731fbb548b1985e0efaa8b76fea4a7221b4b34a072181a80b1853e794",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-marlborough-ma2--1001-boston-post-rd--bldg-2/receiver--exciter----processing-architecture-software-engineer-intern--summer-2027----onsite_01885187": {
       "eligible": true,
       "evidence": {
@@ -19243,25 +19266,24 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "rtx",
+        "company": "raytheon",
         "degrees": [
           "bachelor's",
           "master's",
           "phd"
         ],
         "locations": [
-          "marlborough, ma",
-          "tewksbury, ma"
+          "marlborough, ma"
         ],
         "requirements": [],
         "terms": [
           "summer 2027",
           "winter 2027"
         ],
-        "title": "software engineer co-op"
+        "title": "software engineer co-op - january 2027"
       },
-      "fingerprint": "1e9d08822290699814dfcd1deaa69cc32f59a502ef7595e701870540d04347a7",
-      "revision": 0
+      "fingerprint": "13e564e0c42e2075d20deb6433fbb879554e0af3b22f0265c2e4a73ab3ba8dd6",
+      "revision": 1
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-tewksbury-tb3--50-apple-hill-dr--concord-bldg-tewksbury-tb3-300-concord/systems-engineer---intern--onsite_01879053": {
       "eligible": false,
@@ -19786,9 +19808,29 @@
       "fingerprint": "ca198976357e2fdc746cf7fd3da312adf74135f0fa0483b96f1027a7dc68a6e9",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1ce": {
+      "eligible": false,
+      "fingerprint": "47effd38598f7ae5e0a0c84f6a067902238973b290a259c53a3b7d50620cbb95",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1co": {
       "eligible": false,
-      "fingerprint": "e24d501d76f7d05018f2befe412ead79debec3d0b3c2ecfdf3aaa945140a9264",
+      "fingerprint": "ba1da2d253453ec72f6554edb0648aafaacb07e37b3b9f0012960df3e70906a0",
+      "revision": 2
+    },
+    "url:https://go.vansh.nyc/1di": {
+      "eligible": false,
+      "fingerprint": "28bbf2a3d74bb259c3f9f0d9ffb3e047a5f2e14b58fc7c93b6544f44afd3755d",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1dj": {
+      "eligible": false,
+      "fingerprint": "fd9d0924488e156dc3f42ec1613cac993af26423eedeb689600a98e451144df3",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1dp": {
+      "eligible": false,
+      "fingerprint": "2f1b394db110d00856fd19e1f0cb9edb84428d1598fa2e03eba069fe96a5e4b9",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1e": {
@@ -21556,9 +21598,25 @@
       "revision": 1
     },
     "url:https://graco.wd501.myworkdayjobs.com/graco_careers/job/dayton-minnesota-usa-french-lake/ai-intern_r0023511-1": {
-      "eligible": false,
-      "fingerprint": "5bcdb443138cd75c1039243030c99052e2882da658fd23caa0e03602921066de",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "graco",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "dayton, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "artificial intelligence engineer intern"
+      },
+      "fingerprint": "fec11856ac76a5d043b9255788cf81829db19bab48f0e219229f1ab0bb2dd649",
+      "revision": 1
     },
     "url:https://graco.wd501.myworkdayjobs.com/graco_careers/job/dayton-minnesota-usa-french-lake/ai-intern_r0023512": {
       "eligible": false,
@@ -21640,16 +21698,17 @@
         "locations": [
           "bethlehem, pa",
           "holmdel, nj",
+          "new york, ny",
           "nyc"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "summer intern - digital & technology - ai & machine learning"
+        "title": "ai & machine learning intern, digital & technology"
       },
-      "fingerprint": "a413abd7b183551c5a69af8a53a989ea12efc7db57d85f06a1547d5802fad4a0",
-      "revision": 0
+      "fingerprint": "71b59ee00c3af253689af36e4572b9ce1d06346917cfb319c330f156438ae1f1",
+      "revision": 1
     },
     "url:https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/new-york/xmlname-2027-guardian-summer-intern--digital---technology---application-development_r000110209": {
       "eligible": true,
@@ -24623,9 +24682,28 @@
       "revision": 0
     },
     "url:https://igsenergy.wd1.myworkdayjobs.com/igs/job/ohio-remote/software-engineer-intern_r6263": {
-      "eligible": false,
-      "fingerprint": "c34a5d721b8be3a2b32d4a56f6a88e2e6679c9e44b7d5d94e0cfe72eb6156a2d",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "igs energy",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "ohio",
+          "remote",
+          "remote - ohio, usa",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "fall 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "96e6c05db59ac413547bf98097440ff510e023cd3d8b4fac40ddb80697985f61",
+      "revision": 1
     },
     "url:https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579": {
       "eligible": true,
@@ -24722,9 +24800,26 @@
       "revision": 0
     },
     "url:https://ingredion.wd1.myworkdayjobs.com/ingredioncareers/job/westchester-il/ai---data-scientist-intern_req-40007-1": {
-      "eligible": false,
-      "fingerprint": "27c47b4e1037597fec9378fd6aaa51761a370f8f7bfea12e63b19ddd49395f5b",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "ingredion",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "westchester, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "artificial intelligence & data scientist intern"
+      },
+      "fingerprint": "15f72be59e73001e48ca568b1d00c0b386dc35eb49f3fc48542824d9423180fe",
+      "revision": 1
     },
     "url:https://ingredion.wd1.myworkdayjobs.com/ingredioncareers/job/westchester-il/ai---data-scientist-intern_req-40220": {
       "eligible": false,
@@ -24732,9 +24827,44 @@
       "revision": 0
     },
     "url:https://ingredion.wd1.myworkdayjobs.com/ingredioncareers/job/westchester-il/global-supply-chain-data-science-intern_req-40226-1": {
-      "eligible": false,
-      "fingerprint": "6d39b41b48df5210c08f921be6c987baf4e463cd2afa73f9cb052af4733edab0",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "ingredion",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "westchester, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "supply chain data science intern"
+      },
+      "fingerprint": "a5f4dec37fbe31c378582f2c16e520632fe64aed4442d53aed8590fe957dbba3",
+      "revision": 1
+    },
+    "url:https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/headquarters-winston-salem-nc/data--analytics---ai-internships--summer-2027_jy2627632": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "inmar intelligence",
+        "degrees": [],
+        "locations": [
+          "winston salem, nc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data, analytics & ai intern"
+      },
+      "fingerprint": "29040ef066ae8269e12ae853d01c69a4020303de1b8cdc7b06d8cb4bececa30c",
+      "revision": 1
     },
     "url:https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/headquarters-winston-salem-nc/software-engineering-internships--summer-2027_jy2627638": {
       "eligible": true,
@@ -24743,14 +24873,17 @@
         "company": "inmar intelligence",
         "degrees": [],
         "locations": [
+          "winston salem, nc",
           "winston-salem, nc"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "software engineering internships - summer 2027"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
       },
-      "fingerprint": "68ba47e197ce1d0433528415a89863e7338f8518e59d6ca7b0a2983c29ed2da0",
-      "revision": 0
+      "fingerprint": "bd7926212ab60b1cf4913eaa1508d7a448de9fab524bbe41a0a4073aa00e15a3",
+      "revision": 1
     },
     "url:https://insperity.wd12.myworkdayjobs.com/nsp/job/kingwood-tx/rotational-ai-intern_jr103460": {
       "eligible": true,
@@ -43924,9 +44057,25 @@
       "revision": 1
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---it-software-engineer_jr113941": {
-      "eligible": false,
-      "fingerprint": "f848252f31b063efb9e6ea9798d97a358f3e0a261e7945c53264ca6b2246739b",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "micron technology",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "boise, id"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "it software engineer intern"
+      },
+      "fingerprint": "9ca579961c2f729504ac5adcdf36d2a22cda516fe3c40b090bc9a0b3a98d6137",
+      "revision": 1
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---product-yield-software-engineer_jr115864": {
       "eligible": true,
@@ -43971,9 +44120,26 @@
       "revision": 1
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---smai-td-ai-engineering-team_jr112991": {
-      "eligible": false,
-      "fingerprint": "0706fb22ae5058b4918bf828e8ba8fda46641b34c54a80a1e0e3f1f32391ba6c",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "micron technology",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "boise, id"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "ai engineer intern - smai td ai engineering team"
+      },
+      "fingerprint": "dc8a3f47f94577c2be5eb91bfde67c82200056f9795cff26e56e5802ec3c1bb8",
+      "revision": 1
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---ssd-architecture-modeling_jr113803": {
       "eligible": false,
@@ -43991,19 +44157,65 @@
       "revision": 3
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/longmont-max--office-co/intern---data-center-ssd-firmware_jr111461": {
-      "eligible": false,
-      "fingerprint": "55cd1bf5f97f8978c6b1a369de4dc688c4134a3048b8fce821bbbafeb0a2ae70",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "micron technology",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "longmont, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "data center ssd firmware intern"
+      },
+      "fingerprint": "08320cadd5545c77b3af6083728c69a9a8ee42951d70e720ec5254f836cdee06",
+      "revision": 1
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/longmont-max--office-co/intern---firmware-engineer_jr111584": {
-      "eligible": false,
-      "fingerprint": "331619da08cc8af6404c623e7a30d5eec4b561d255d1d8f220d1aa5677c16dbd",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "micron technology",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "longmont, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "firmware engineer intern"
+      },
+      "fingerprint": "1ee4b6d1dc6d4153ab5e90f4dc70fed9a22c24f0bb1293f489906eb390633c52",
+      "revision": 1
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/longmont-max--office-co/intern---ssd-firmware---cicd_jr114542": {
-      "eligible": false,
-      "fingerprint": "356caa76771f33900d7e10252387612a5052adc144e245599b263e969f019cee",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "micron technology",
+        "degrees": [],
+        "locations": [
+          "longmont, co",
+          "longmont-max, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ssd firmware intern, cicd"
+      },
+      "fingerprint": "73254292e526a2d4357f14fb2afa6e79758e19660e4ff4726cfcce2346fdb9c6",
+      "revision": 2
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/richardson-tx/intern---hbm-data-scientist_jr115127": {
       "eligible": false,
@@ -49948,9 +50160,26 @@
       "revision": 0
     },
     "url:https://swbc.wd1.myworkdayjobs.com/swbccareers/job/san-antonio-tx/software-engineering-intern_r0015482-2": {
-      "eligible": false,
-      "fingerprint": "532986ac7a752703a7e1490ecb4e628a52604e59e9500609ea671384d22968b3",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "swbc",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "san antonio, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "fbd4d35688f24faf1fe14f813e0c01fe63cabecf02e5b9f1442e260d9470ed6c",
+      "revision": 1
     },
     "url:https://swbc.wd1.myworkdayjobs.com/swivel/job/san-antonio-tx/software-engineering-intern_r0015482": {
       "eligible": false,
@@ -55575,6 +55804,18 @@
     "https://go.vansh.nyc/1c6": 98,
     "https://go.vansh.nyc/1c7": 98,
     "https://go.vansh.nyc/1c9": 99,
+    "https://go.vansh.nyc/1cA": 100,
+    "https://go.vansh.nyc/1cB": 100,
+    "https://go.vansh.nyc/1cF": 100,
+    "https://go.vansh.nyc/1cG": 100,
+    "https://go.vansh.nyc/1cI": 100,
+    "https://go.vansh.nyc/1cM": 100,
+    "https://go.vansh.nyc/1cP": 100,
+    "https://go.vansh.nyc/1cQ": 100,
+    "https://go.vansh.nyc/1cS": 100,
+    "https://go.vansh.nyc/1cT": 100,
+    "https://go.vansh.nyc/1cU": 100,
+    "https://go.vansh.nyc/1cW": 100,
     "https://go.vansh.nyc/1ca": 99,
     "https://go.vansh.nyc/1ce": 99,
     "https://go.vansh.nyc/1cg": 99,
@@ -55584,6 +55825,29 @@
     "https://go.vansh.nyc/1cm": 99,
     "https://go.vansh.nyc/1cn": 99,
     "https://go.vansh.nyc/1cp": 99,
+    "https://go.vansh.nyc/1cr": 100,
+    "https://go.vansh.nyc/1ct": 100,
+    "https://go.vansh.nyc/1cu": 100,
+    "https://go.vansh.nyc/1cx": 100,
+    "https://go.vansh.nyc/1d0": 100,
+    "https://go.vansh.nyc/1d1": 100,
+    "https://go.vansh.nyc/1d2": 100,
+    "https://go.vansh.nyc/1d3": 100,
+    "https://go.vansh.nyc/1d4": 100,
+    "https://go.vansh.nyc/1d5": 100,
+    "https://go.vansh.nyc/1d6": 100,
+    "https://go.vansh.nyc/1d7": 100,
+    "https://go.vansh.nyc/1d8": 100,
+    "https://go.vansh.nyc/1da": 100,
+    "https://go.vansh.nyc/1db": 100,
+    "https://go.vansh.nyc/1dc": 100,
+    "https://go.vansh.nyc/1dd": 100,
+    "https://go.vansh.nyc/1de": 100,
+    "https://go.vansh.nyc/1df": 100,
+    "https://go.vansh.nyc/1dg": 100,
+    "https://go.vansh.nyc/1dh": 100,
+    "https://go.vansh.nyc/1dn": 100,
+    "https://go.vansh.nyc/1do": 100,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -56492,6 +56756,18 @@
     "https://go.vansh.nyc/1c6": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
     "https://go.vansh.nyc/1c7": "https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456",
     "https://go.vansh.nyc/1c9": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107",
+    "https://go.vansh.nyc/1cA": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743",
+    "https://go.vansh.nyc/1cB": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746",
+    "https://go.vansh.nyc/1cF": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
+    "https://go.vansh.nyc/1cG": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390",
+    "https://go.vansh.nyc/1cI": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2",
+    "https://go.vansh.nyc/1cM": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121",
+    "https://go.vansh.nyc/1cP": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347",
+    "https://go.vansh.nyc/1cQ": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646",
+    "https://go.vansh.nyc/1cS": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645",
+    "https://go.vansh.nyc/1cT": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Systems-Engineer-Intern--Onsite----Mission-Sensor-Manager_01879093",
+    "https://go.vansh.nyc/1cU": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Summer-Fall-2027----Onsite_01879966",
+    "https://go.vansh.nyc/1cW": "https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205",
     "https://go.vansh.nyc/1ca": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Engineering-_R-8126",
     "https://go.vansh.nyc/1ce": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8554",
     "https://go.vansh.nyc/1cg": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
@@ -56501,6 +56777,29 @@
     "https://go.vansh.nyc/1cm": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Chicago/Software-Development-Intern_R12186",
     "https://go.vansh.nyc/1cn": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Seattle/Gen-AI-Intern_R12193",
     "https://go.vansh.nyc/1cp": "https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8",
+    "https://go.vansh.nyc/1cr": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294",
+    "https://go.vansh.nyc/1ct": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301",
+    "https://go.vansh.nyc/1cu": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1",
+    "https://go.vansh.nyc/1cx": "https://graco.wd501.myworkdayjobs.com/graco_careers/job/Dayton-Minnesota-USA-French-Lake/AI-Intern_R0023511-1",
+    "https://go.vansh.nyc/1d0": "https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263",
+    "https://go.vansh.nyc/1d1": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data--Analytics---AI-Internships--Summer-2027_JY2627632",
+    "https://go.vansh.nyc/1d2": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Software-Engineering-Internships--Summer-2027_JY2627638",
+    "https://go.vansh.nyc/1d3": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
+    "https://go.vansh.nyc/1d4": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584",
+    "https://go.vansh.nyc/1d5": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
+    "https://go.vansh.nyc/1d6": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
+    "https://go.vansh.nyc/1d7": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542",
+    "https://go.vansh.nyc/1d8": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
+    "https://go.vansh.nyc/1da": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284",
+    "https://go.vansh.nyc/1db": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/Greenville-Wisconsin-United-States/Engineer-Intern---Software--Summer-2027-_R49745",
+    "https://go.vansh.nyc/1dc": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
+    "https://go.vansh.nyc/1dd": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796",
+    "https://go.vansh.nyc/1de": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797",
+    "https://go.vansh.nyc/1df": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798",
+    "https://go.vansh.nyc/1dg": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799",
+    "https://go.vansh.nyc/1dh": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800",
+    "https://go.vansh.nyc/1dn": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1",
+    "https://go.vansh.nyc/1do": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-40226-1",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -57157,7 +57456,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 99,
+  "scan_sequence": 100,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
