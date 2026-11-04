@@ -17052,6 +17052,11 @@
       "fingerprint": "44d96e3d8d8a6e5701f56154786b1b8c7d4275e21ab1192d6fa78a46d5594ebd",
       "revision": 0
     },
+    "url:https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/41022": {
+      "eligible": false,
+      "fingerprint": "fa38abfdffdaa39e84d69219baf07d2bca3868cdd32d2b816174eefb62f5985e",
+      "revision": 1
+    },
     "url:https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/41168": {
       "eligible": false,
       "fingerprint": "137358c5482feec344da192c776cb31ec0c476dac530ab3eac739db2d0dd4c6c",
@@ -17663,6 +17668,26 @@
       "eligible": false,
       "fingerprint": "b9de26beb53f007a65f0face3617c313c0f998f150a84bb9c814f47ded1ff92e",
       "revision": 0
+    },
+    "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/business-intelligence--power-bi--intern---summer-2027_r9843": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "great american insurance company",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "cincinnati, oh"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "business intelligence intern - power bi"
+      },
+      "fingerprint": "91f8515e5c534d58e3c43aa6461be285b88c039448edc12299e71556a49618b1",
+      "revision": 1
     },
     "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/claims-lab-developer-intern---summer-2027_r9803": {
       "eligible": true,
@@ -20324,11 +20349,6 @@
     "url:https://go.vansh.nyc/1ev": {
       "eligible": false,
       "fingerprint": "930baad8f520f643d28b506ba7fab72c4fe1ee6272ed5a809bd23393cf8e0408",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1fa": {
-      "eligible": false,
-      "fingerprint": "9c07b67dbbfceaae13c1ba942c9a8945d4b20153d84a1bb2e015673252a1dbb3",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1fc": {
@@ -36230,6 +36250,24 @@
       "fingerprint": "42c8dc54eb6c421423c0915c0de6d82adf819d951642488438086f9273b552ad",
       "revision": 1
     },
+    "url:https://jobs.ericsson.com/careers/job/563121777173171": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "ericsson",
+        "degrees": [],
+        "locations": [
+          "plano, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "technology and ai intern"
+      },
+      "fingerprint": "fbbe49b2ccf039d87c1ed1f73b7a3c4ba64e6aa0c685637bc8e8b056805c4e5a",
+      "revision": 1
+    },
     "url:https://jobs.erieinsurance.com/job/erie-intern-ii-(claims-systems-&-ai)-pa-16506/1447480500?ats=successfactors": {
       "eligible": false,
       "fingerprint": "aace82bb4582bb6dc9ed282f6e4e5f47f1462edd7715a5813d5d69a845d2f851",
@@ -36568,6 +36606,11 @@
       "eligible": false,
       "fingerprint": "e645bfcc0eec11aef249ad5be3390d5327cfa112501b14302b1d2bfef53ca4b4",
       "revision": 0
+    },
+    "url:https://jobs.jobvite.com/nutanix/job/otr1afwf?nl=1&fr=false": {
+      "eligible": false,
+      "fingerprint": "50dc3ae9365fc218e129c9caf8ccf0560f66fd6b2074928163d653674dbff8e4",
+      "revision": 1
     },
     "url:https://jobs.jobvite.com/sikichcareers/job/ogopafwd?nl=1&fr=false": {
       "eligible": false,
@@ -37067,6 +37110,34 @@
       "eligible": false,
       "fingerprint": "e297660f0d3bbb7b0a6490e09a410736c0ca0554b50f514f2d4f8754e8a4c8b6",
       "revision": 0
+    },
+    "url:https://jobs.l3harris.com/job/nashville-intern,-software-engineer-tn-37203/1447640200?ats=successfactors": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "l3harris technologies",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "nashville, tn"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "866b4fbfca8f40695ee4e072ba4e2b52da58cbc011e21ebfa31c44c199daf762",
+      "revision": 1
+    },
+    "url:https://jobs.l3harris.com/job/nashville-intern,-systems-engineering-tn-37203/1447657800?ats=successfactors": {
+      "eligible": false,
+      "fingerprint": "36503d5297cf32ad2b91b8fde59a3dc6c71188a610d01dfcbaa452d38b02ad7c",
+      "revision": 1
     },
     "url:https://jobs.l3harris.com/job/niagara-on-the-lake-full-stack-developer-co-op-1-on/1430141300?ats=successfactors": {
       "eligible": false,
@@ -38832,6 +38903,27 @@
         "title": "ai-driven vehicle definition intern"
       },
       "fingerprint": "8eb9f7f9a204513bf4cb4724a88001c1f207a3fe26dd228da80d390a8e9f760c",
+      "revision": 1
+    },
+    "url:https://jobs.paccar.com/job/denton-2027-summer-internship-data-engineer-tx-76205-7864/1454360033?ats=successfactors": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "paccar",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "denton, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "7507a83f141cf340d637bf6b49e7726e722b768406161a10db4c741884f77a6a",
       "revision": 1
     },
     "url:https://jobs.paccar.com/job/denton-2027-summer-internship-materials-systems-tx-76205-7864/1453566333?ats=successfactors": {
@@ -45839,6 +45931,28 @@
       "fingerprint": "b58ff56264d5f603f23f584e8469c45dfae014a7f7dbd27ba04a5b40c49a8c48",
       "revision": 0
     },
+    "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/torrance-ca/intern--software-engineering_r-26-19948": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "moog",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "torrance, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "67ce880f876c2e6ecc9284253b5c195e6e28922c57a843d84bb40f8dfe129298",
+      "revision": 1
+    },
     "url:https://mosaic.wd5.myworkdayjobs.com/mosaic/job/us---tampa-fl-lithia-area/artificial-intelligence-co-op-intern---spring-2027_64729": {
       "eligible": false,
       "fingerprint": "a9bd79ef4b48f318893e2f1b8ea873f9132b4efd1900d4da79236688deed4dd4",
@@ -46705,9 +46819,12 @@
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-software-engineering-intern---roy-ut_r10259181": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "northrop grumman",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "roy, ut"
         ],
@@ -46715,10 +46832,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "software engineer intern"
       },
-      "fingerprint": "60545de1011ef4fd638760dd7ef4537e58ddf0dd38d500592e565b5810edd9e3",
-      "revision": 1
+      "fingerprint": "310690aba61ee4c3a800af6dc003108c68e61886cd189a00cdfa3632a4a3de9f",
+      "revision": 2
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-software-test-engineering-intern---roy-ut_r10259179": {
       "eligible": true,
@@ -47856,6 +47973,28 @@
       "fingerprint": "3f2e3d7193a07a6140d25941d193bae63b923ffd3cec558727f2c9d05d83b222",
       "revision": 1
     },
+    "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---va-centreville/ai-ml-engineering-intern-summer-2027_r188194": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "parsons",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "centreville, va",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai/ml engineer intern"
+      },
+      "fingerprint": "b01307cc3f71065b9f968b233fe98eb9acc8cd79746d854a0584311e935d27ed",
+      "revision": 1
+    },
     "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---va-centreville/software-engineer-co-op---ts-sci_r187147": {
       "eligible": false,
       "fingerprint": "09ad32dee67365bb1049e4aff434cff3ef187f368c452396d1a8e981ec79cf00",
@@ -48037,6 +48176,11 @@
       "eligible": false,
       "fingerprint": "0a56843e9ca442e83a0913504cd702baad9f36dbfd1d48d1c2ff3fa223cd6a46",
       "revision": 0
+    },
+    "url:https://pg.wd5.myworkdayjobs.com/1000/job/cincinnati-general-offices/intern--talent-analytics---assessment-science_r000162095": {
+      "eligible": false,
+      "fingerprint": "f84cbbc6e8c894a16e16e8835e3b490840934a31d778ffd127bcb0ae64b8e051",
+      "revision": 1
     },
     "url:https://pg.wd5.myworkdayjobs.com/1000/job/cincinnati-general-offices/it-engineering-internship--software--platform----network-_r000157503": {
       "eligible": true,
@@ -50252,6 +50396,11 @@
       "eligible": false,
       "fingerprint": "4ff141647414df92c6770ce4e0bf6ad312fe2969cc9a506ce543b1287295eea1",
       "revision": 0
+    },
+    "url:https://rodanenergysolutionsinc.applytojob.com/apply/bac6tvrspb/data-operations-engineer-ai-coop-student-winter-2027": {
+      "eligible": false,
+      "fingerprint": "6e48c2bbbd7a8c46629ddf769015f633ba6a970fa629dec25aebc6dd038a19f2",
+      "revision": 1
     },
     "url:https://rodanenergysolutionsinc.applytojob.com/apply/crbmvnkugd/ai-solutions-specialist-coop-student-winter-2027": {
       "eligible": false,
@@ -54590,28 +54739,9 @@
       "revision": 0
     },
     "url:https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/software-engineer-intern_r22585": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "wex",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "remote",
-          "remote - usa",
-          "remote in usa",
-          "united states"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2026",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "80479cfef5d9cd21e524cab95eaefe28f3379d474ed654f8f2ec79d81957081b",
-      "revision": 3
+      "eligible": false,
+      "fingerprint": "7d1dfaf06f632e0bab42c24cf064150cb3519fc77a2ae96815e42283890b9f48",
+      "revision": 4
     },
     "url:https://wgu.wd5.myworkdayjobs.com/external/job/salt-lake-city-ut/intern---technical-writing_jr-026370": {
       "eligible": false,
@@ -57129,6 +57259,16 @@
       "fingerprint": "9e517c70a2e0494ecbeabee75bbcf18a7dcae6505455f618e16d230545cb4dc5",
       "revision": 1
     },
+    "url:https://www.weareroku.com/jobs/8345963?gh_jid=8345963": {
+      "eligible": false,
+      "fingerprint": "3551ef44e2f6be889a28ee43c24178240559a98da24fa85af9ee7c09436ceb34",
+      "revision": 1
+    },
+    "url:https://www.weareroku.com/jobs/8345967?gh_jid=8345967": {
+      "eligible": false,
+      "fingerprint": "1a53f628dc2b010be162dc7f7bfb1bda75809690477eb4067bf392739700dd55",
+      "revision": 1
+    },
     "url:https://www.williamblair.com/careers/job-description?gh_jid=5242280007": {
       "eligible": false,
       "fingerprint": "6ec7ef9a9fcb268e5f39d9118b1ba77ec2962de8cd8c2d39eaeb4c49119a7727",
@@ -57333,6 +57473,26 @@
       "fingerprint": "c6c7f0a1470af40d70a4e01ac7826f792947d417417abb9d26eb9a7b8f872f85",
       "revision": 0
     },
+    "url:https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/germantown-maryland/xmlname-2027-summer-internship--us----systems-engineer_jr103659": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "zebra technologies",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "germantown, md"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "systems engineer intern"
+      },
+      "fingerprint": "5a51e6df6b30fba732d7108eecde6cb111baac7e0f846631507ee0046487b60d",
+      "revision": 1
+    },
     "url:https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/holtsville-new-york/xmlname-2027-summer-internship--us----mechanical-engineer_jr103627": {
       "eligible": true,
       "evidence": {
@@ -57397,6 +57557,46 @@
         "title": "software engineer intern"
       },
       "fingerprint": "b68d72c700a368bbbc879d43d1859e11a6d5186e45d28d1d9071e4eda3967e5a",
+      "revision": 1
+    },
+    "url:https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/holtsville-new-york/xmlname-2027-summer-internship--us----software-engineer_jr103645": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "zebra technologies",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "holtsville, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "899b17b885053ac3a4bebcb83951e29d2310dc9ffe6c1f31f9b2c195f0f4c691",
+      "revision": 1
+    },
+    "url:https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/kennesaw-georgia/xmlname-2027-summer-internship--us----software-engineer--ai-features---product-convergence--zebra-task-manager_jr103636": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "zebra technologies",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "kennesaw, ga"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - ai features & product convergence"
+      },
+      "fingerprint": "8186d874603e3bd8f30b313bcdfe44281a2463eef9f2ec33618060d2f648643a",
       "revision": 1
     },
     "url:https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/lincolnshire-illinois/xmlname-2027-summer-internship--us----ai_jr103639": {
@@ -57865,6 +58065,8 @@
     "https://go.vansh.nyc/1g3": 120,
     "https://go.vansh.nyc/1g4": 120,
     "https://go.vansh.nyc/1g8": 121,
+    "https://go.vansh.nyc/1gA": 127,
+    "https://go.vansh.nyc/1gB": 127,
     "https://go.vansh.nyc/1gf": 124,
     "https://go.vansh.nyc/1gj": 125,
     "https://go.vansh.nyc/1gk": 125,
@@ -57872,6 +58074,10 @@
     "https://go.vansh.nyc/1gm": 125,
     "https://go.vansh.nyc/1gn": 125,
     "https://go.vansh.nyc/1gr": 126,
+    "https://go.vansh.nyc/1gw": 127,
+    "https://go.vansh.nyc/1gx": 127,
+    "https://go.vansh.nyc/1gy": 127,
+    "https://go.vansh.nyc/1gz": 127,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -58887,6 +59093,8 @@
     "https://go.vansh.nyc/1g3": "https://job-boards.greenhouse.io/covar/jobs/5240360007",
     "https://go.vansh.nyc/1g4": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
     "https://go.vansh.nyc/1g8": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840",
+    "https://go.vansh.nyc/1gA": "https://jobs.l3harris.com/job/Nashville-Intern,-Software-Engineer-TN-37203/1447640200/?ats=successfactors",
+    "https://go.vansh.nyc/1gB": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors",
     "https://go.vansh.nyc/1gf": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
     "https://go.vansh.nyc/1gj": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179",
     "https://go.vansh.nyc/1gk": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178",
@@ -58894,6 +59102,10 @@
     "https://go.vansh.nyc/1gm": "https://job-boards.greenhouse.io/workshop/jobs/5237900007",
     "https://go.vansh.nyc/1gn": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181",
     "https://go.vansh.nyc/1gr": "https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/Denver-Colorado/AI-and-Automation--IT--Intern_R6883",
+    "https://go.vansh.nyc/1gw": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659",
+    "https://go.vansh.nyc/1gx": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636",
+    "https://go.vansh.nyc/1gy": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948",
+    "https://go.vansh.nyc/1gz": "https://jobs.ericsson.com/careers/job/563121777173171",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -59550,7 +59762,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 126,
+  "scan_sequence": 127,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
