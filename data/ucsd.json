@@ -4201,6 +4201,24 @@
       "fingerprint": "6ec5c6e8f9deef7c7b5ca3964451e2522cc8b6f7923a68b15e9480efe25b7b6f",
       "revision": 0
     },
+    "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/san-diego-ca-usa/internship----machine-learning-and-image-based-euv-system-setup_j-00356567": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "asml",
+        "degrees": [],
+        "locations": [
+          "san diego, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "machine learning and image-based euv system setup intern"
+      },
+      "fingerprint": "013e102d18e92e12e3cd1a4856bec990e3a6e725e704c0e85739731eb6af09fa",
+      "revision": 1
+    },
     "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/san-diego-ca-usa/internship--software-development-engineer-in-test_j-00354459": {
       "eligible": true,
       "evidence": {
@@ -13209,10 +13227,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "embedded software engineer intern"
+        "title": "embedded software engineering intern"
       },
-      "fingerprint": "25ccd1f30ea4f2486b8277a4ca2f4a2a4f98e9538131aa6191e4435c2ab2c8f4",
-      "revision": 0
+      "fingerprint": "17b000a0fc8bb71553b1c0d8586b08d86004dd72b6df3c44147780b25b2011ff",
+      "revision": 1
     },
     "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/sunnyvale-us/summer-2027-technology-intern---sunnyvale--ca_r39945": {
       "eligible": true,
@@ -20486,6 +20504,11 @@
     "url:https://go.vansh.nyc/1h5": {
       "eligible": false,
       "fingerprint": "39e1557f8ed0c12973ba6a759e716c477cd70cb95ab82522a967135ee3aeb207",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ha": {
+      "eligible": false,
+      "fingerprint": "f28dee5ec32160df7809ca20da7c68c8c2b04bfa4958b76497eb643cc9b0c554",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1k": {
@@ -38736,6 +38759,24 @@
       "eligible": false,
       "fingerprint": "9b0d6bdc685e29c57b1643a29d8686350a9b165192e1840b850cc04485b3562f",
       "revision": 0
+    },
+    "url:https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tri",
+        "degrees": [],
+        "locations": [
+          "los altos, ca"
+        ],
+        "requirements": [
+          "this is a summer 2027 paid 12-week internship opportunity. please note that this internship will be a hybrid in-office role."
+        ],
+        "terms": [],
+        "title": "human-centered ai research intern, human language models"
+      },
+      "fingerprint": "21808b75f42eca3875132b3859fc5a6a07258030a1f6a64a0f74c03464f33252",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8": {
       "eligible": false,
@@ -58363,6 +58404,7 @@
     "https://go.vansh.nyc/1gy": 127,
     "https://go.vansh.nyc/1gz": 127,
     "https://go.vansh.nyc/1h2": 132,
+    "https://go.vansh.nyc/1h9": 134,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -59400,6 +59442,7 @@
     "https://go.vansh.nyc/1gy": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948",
     "https://go.vansh.nyc/1gz": "https://jobs.ericsson.com/careers/job/563121777173171",
     "https://go.vansh.nyc/1h2": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655",
+    "https://go.vansh.nyc/1h9": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -60056,7 +60099,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 133,
+  "scan_sequence": 134,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

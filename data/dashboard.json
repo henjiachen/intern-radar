@@ -3110,6 +3110,21 @@
       "company": "ASML",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "c7a6fcb6c1c26d9ebcff6ce47948ba5e200e8344f1b0109b334e0e0fe016fa5b",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Machine Learning and Image-Based EUV System Setup Intern",
+      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567"
+    },
+    {
+      "company": "ASML",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "8ab92609f6ca0ca0e96dc578c0184ec519623d1165f5e8e1732fd8e954a71713",
       "locations": [
         "San Jose, CA"
@@ -7389,9 +7404,9 @@
       "posted_at": "2026-10-01",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950"
+      "source": "speedyapply",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://costar.wd1.myworkdayjobs.com/en-US/costar_campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950"
     },
     {
       "company": "Costco",
@@ -26182,6 +26197,21 @@
       "url": "https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b"
     },
     {
+      "company": "tri",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "1277f445c0f9dc24df384546b861d5992594ce9468358e54fbbdff0e43fdb6c5",
+      "locations": [
+        "Los Altos, CA"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Human-Centered AI Research Intern, Human Language Models",
+      "url": "https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e"
+    },
+    {
       "company": "Tria Federal",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -27564,21 +27594,6 @@
       "url": "https://vsp.wd1.myworkdayjobs.com/en-US/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046"
     },
     {
-      "company": "W.W. Grainger",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "1f8aa17bbd6d2a517b4cd2ff5bbff0840acf85bd1a10d1b77ac95fc56012ca5f",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "posted_at": "2026-08-17",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Grainger Technology Group",
-      "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors"
-    },
-    {
       "company": "waabi",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
@@ -28521,7 +28536,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-04T22:00:08.995071+00:00",
+  "last_checked": "2026-11-04T23:00:07.031881+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
