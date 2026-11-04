@@ -27790,6 +27790,11 @@
       "fingerprint": "653358cc6da3b6a37a18fbcf58acdb8dec59dad8d6cd3e3c06ec002d4237f554",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/doordashusa/jobs/7848317": {
+      "eligible": false,
+      "fingerprint": "e38cea971cb1b1d38c412c7af272a2533da2ab4698636d285f7e8dacaf9c6147",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/doordashusa/jobs/8171041": {
       "eligible": true,
       "evidence": {
@@ -34271,6 +34276,27 @@
       },
       "fingerprint": "efb1cbbb40f313f2050ccfab59a63197bfb9a02d5a99c22c1e16302edb1c30c9",
       "revision": 0
+    },
+    "url:https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "saronic",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "austin, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "spring 2027",
+          "summer 2027"
+        ],
+        "title": "enterprise technology intern - ai and automation"
+      },
+      "fingerprint": "143168d64fc0db37da2ab16111706354dacae97a0749ac547586bdda22fcf5f1",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce": {
       "eligible": true,
@@ -52428,10 +52454,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "summer 2027 software engineering internship"
       },
-      "fingerprint": "6e1c6c38d2fbfd2a866eb8eebc0871b984a4a58a2e849d42bf2dea9e6663863d",
-      "revision": 0
+      "fingerprint": "abc7f5d0e816525ffffd248f94370c68813d0c46e5bbcf62cbb7361aff670b12",
+      "revision": 1
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/philadelphia-pennsylvania/summer-2027-software-engineering-internship_req380882": {
       "eligible": true,
@@ -52913,6 +52939,11 @@
       "eligible": false,
       "fingerprint": "93ebc206683bf7213937dba2f5ddc101eacf0e486bae2f05824a869e3a892453",
       "revision": 0
+    },
+    "url:https://ucar.wd5.myworkdayjobs.com/ucar_careers/job/boulder-co/data-science-student-assistant-iii_req-2026-202-1": {
+      "eligible": false,
+      "fingerprint": "8dacfa21d3ef2caa494f1793a40fe36b2c59c3b2619ac9cb5003fa3672c02fa6",
+      "revision": 1
     },
     "url:https://udig.com/careers/job-listing?gh_jid=7999436003": {
       "eligible": true,
@@ -55626,6 +55657,11 @@
       "eligible": false,
       "fingerprint": "84ffbd2b94168720920a392498e16113036f84573e5ad017f86a872a6d806322",
       "revision": 0
+    },
+    "url:https://www.metacareers.com/jobs/1060093353751700": {
+      "eligible": false,
+      "fingerprint": "206cf0083bdb27b61611157c578033474ecb49de7c0e7eb271d728dc4659017e",
+      "revision": 1
     },
     "url:https://www.metacareers.com/jobs/1062032900196411": {
       "eligible": false,
@@ -59324,7 +59360,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 122,
+  "scan_sequence": 123,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
