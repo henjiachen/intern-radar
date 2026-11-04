@@ -20439,6 +20439,11 @@
       "fingerprint": "478700d3714827e33f992ccfc2b84c461615c1eb4d0741a91a04467432c6dfbd",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1gj": {
+      "eligible": false,
+      "fingerprint": "1b74d0fe619e3a8eacc46d2108c36b1e86d8560f1d7886243eec65ff12796226",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1gq": {
       "eligible": false,
       "fingerprint": "9dc661c249fe0488ffebd5cc8e9b5198f2e70882487473257c1715722b55dcda",
@@ -41816,6 +41821,27 @@
       "fingerprint": "8704e36215f91657beb3a9cbfd932c9c4eceffe475c3b1f980016cafd06171eb",
       "revision": 1
     },
+    "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/software-engineering---ai-intern_r-00196220": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "kudu dynamics",
+        "degrees": [],
+        "locations": [
+          "odenton, md",
+          "remote",
+          "shiloh, il",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering & ai intern"
+      },
+      "fingerprint": "02d2f4d8e45ef68c29b481e26ee76d1b04abfe8d3094cc8abf2d14683fc7a535",
+      "revision": 1
+    },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/annapolis-junction-md/software-developer-intern_r-00195829": {
       "eligible": true,
       "evidence": {
@@ -54484,18 +54510,16 @@
         "company": "vsp vision",
         "degrees": [],
         "locations": [
-          "remote",
-          "remote in usa",
-          "united states"
+          "remote in usa"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "agentic & machine learning development intern, ai"
+        "title": "ai, agentic & machine learning development intern - ai, agentic & machine learning development"
       },
-      "fingerprint": "1ff5d6086d5ca4b9321cea0d9611111429e65fa4ff2c7e3bae42e3018f31ba8e",
-      "revision": 2
+      "fingerprint": "45f7175e6520760a2f19da4b128ae645b629e60fbad5e4de92c5ed6f9a13ccf4",
+      "revision": 3
     },
     "url:https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/remote-us/internship--software-engineer_r-10046": {
       "eligible": true,
@@ -58109,6 +58133,7 @@
     "https://go.vansh.nyc/1gF": 128,
     "https://go.vansh.nyc/1gH": 128,
     "https://go.vansh.nyc/1gI": 128,
+    "https://go.vansh.nyc/1gL": 129,
     "https://go.vansh.nyc/1gf": 124,
     "https://go.vansh.nyc/1gj": 125,
     "https://go.vansh.nyc/1gk": 125,
@@ -59140,6 +59165,7 @@
     "https://go.vansh.nyc/1gF": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194",
     "https://go.vansh.nyc/1gH": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1",
     "https://go.vansh.nyc/1gI": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299",
+    "https://go.vansh.nyc/1gL": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220",
     "https://go.vansh.nyc/1gf": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
     "https://go.vansh.nyc/1gj": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179",
     "https://go.vansh.nyc/1gk": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178",
@@ -59807,7 +59833,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 128,
+  "scan_sequence": 129,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

@@ -17,23 +17,6 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823"
     },
     {
-      "company": "Activision Blizzard",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "05360f5f57ca643b29b2e60a6fbaf6d774b66b9137af11de98056a6ba3f9d681",
-      "locations": [
-        "Sherman Oaks, CA",
-        "Portland, OR",
-        "Santa Monica, CA"
-      ],
-      "posted_at": "2026-09-09",
-      "priority": 2,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
-      "url": "https://xboxgaming.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/Activision-2027-Summer-Internships---Software-Engineering_R028039"
-    },
-    {
       "company": "Nintendo",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
@@ -15690,6 +15673,24 @@
       "url": "https://koch.avature.net/en_US/careers/JobDetail/195465"
     },
     {
+      "company": "Kudu Dynamics",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "96fdf25898e891631b35b4f2eff7dcfb919f27dbde637f77230ac13966f5afe2",
+      "locations": [
+        "Remote",
+        "United States",
+        "Odenton, MD",
+        "Shiloh, IL"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering & AI Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220"
+    },
+    {
       "company": "L3Harris Technologies",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -26605,21 +26606,6 @@
       "company": "Uline",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "fc3e16c650575b643c6c92d4c2761cd9ae4b374a104988aa1249a6a230d8a885",
-      "locations": [
-        "Pleasant Prairie, WI"
-      ],
-      "posted_at": "2026-10-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Executive Operations Analyst Intern",
-      "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Analyst-Internship---Summer-2027_R268434"
-    },
-    {
-      "company": "Uline",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "6c9fc8c15b2fb152e532eab6bc5721e6fab9ba85f50a1603375e18f7bbfb37e2",
       "locations": [
         "Pleasant Prairie, WI"
@@ -28685,7 +28671,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-04T17:10:36.720679+00:00",
+  "last_checked": "2026-11-04T18:03:35.772773+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
