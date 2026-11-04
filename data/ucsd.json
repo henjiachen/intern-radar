@@ -7100,6 +7100,11 @@
       "fingerprint": "ddf16f2f7efb65db1d67b05ac0be34d8ec0eaa2e043c580853235e1bc885077f",
       "revision": 0
     },
+    "url:https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004": {
+      "eligible": false,
+      "fingerprint": "e15d740d97026cdb5e9d08ab5fa939f6b0bb1bb741da57cd0922cdff10750651",
+      "revision": 1
+    },
     "url:https://boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002": {
       "eligible": false,
       "fingerprint": "a41438a7cbef03b7e2f71a82a8a25aefb48e6869834878a4285cff826e5a826b",
@@ -7433,6 +7438,24 @@
         "title": "data analytics intern"
       },
       "fingerprint": "07c294d234a67c3ce4fa207060454b9bfdaca0862a02ca7d1dae033a42854bb9",
+      "revision": 1
+    },
+    "url:https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/auburn-hills---michigan---usa/software-engineering-intern--year-round-_r2026-2448-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "borgwarner",
+        "degrees": [],
+        "locations": [
+          "auburn hills, mi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "2ed3bd94b7e97622af7d26db34677410868e6f01718d465f93bb9729469fe8e8",
       "revision": 1
     },
     "url:https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/us-ma---framingham/audio-machine-learning-co-op_r29274": {
@@ -47968,6 +47991,24 @@
       "fingerprint": "5e264ea0b3a2e4348fd5c3e9327232a9b954cf3481707efa94369e531afbc50e",
       "revision": 0
     },
+    "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---al-huntsville/software-engineering-intern--summer-2027-_r187299": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "parsons",
+        "degrees": [],
+        "locations": [
+          "huntsville, al"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "35ce5fe94bcf180c52ec2b18291bce77fe038775ed0c823c60eee871badb1174",
+      "revision": 1
+    },
     "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---remote-any-location/software-engineer-intern--fall-2026-_r188147": {
       "eligible": false,
       "fingerprint": "3f2e3d7193a07a6140d25941d193bae63b923ffd3cec558727f2c9d05d83b222",
@@ -54518,18 +54559,16 @@
         "company": "vsp vision",
         "degrees": [],
         "locations": [
-          "remote",
-          "remote in usa",
-          "united states"
+          "remote in usa"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, technology innovation"
+        "title": "software engineer intern - technology innovation"
       },
-      "fingerprint": "5e64eaa2d7e3d952a37a6bd61305abfd9f93a22ea1e961afb2b6a69bb76826c6",
-      "revision": 1
+      "fingerprint": "342390ec3822988e49c0b490f4c027d92fb34e2cebf7cd4e873b3fa1034d27ee",
+      "revision": 2
     },
     "url:https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-always-ar-bentonville-home-office/r-2690844--usa--corporate-intern---market-strategy-data-science-intern_r-2690844": {
       "eligible": false,
@@ -58067,6 +58106,9 @@
     "https://go.vansh.nyc/1g8": 121,
     "https://go.vansh.nyc/1gA": 127,
     "https://go.vansh.nyc/1gB": 127,
+    "https://go.vansh.nyc/1gF": 128,
+    "https://go.vansh.nyc/1gH": 128,
+    "https://go.vansh.nyc/1gI": 128,
     "https://go.vansh.nyc/1gf": 124,
     "https://go.vansh.nyc/1gj": 125,
     "https://go.vansh.nyc/1gk": 125,
@@ -59095,6 +59137,9 @@
     "https://go.vansh.nyc/1g8": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840",
     "https://go.vansh.nyc/1gA": "https://jobs.l3harris.com/job/Nashville-Intern,-Software-Engineer-TN-37203/1447640200/?ats=successfactors",
     "https://go.vansh.nyc/1gB": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors",
+    "https://go.vansh.nyc/1gF": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194",
+    "https://go.vansh.nyc/1gH": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1",
+    "https://go.vansh.nyc/1gI": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299",
     "https://go.vansh.nyc/1gf": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
     "https://go.vansh.nyc/1gj": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179",
     "https://go.vansh.nyc/1gk": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178",
@@ -59762,7 +59807,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 127,
+  "scan_sequence": 128,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
