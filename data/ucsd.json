@@ -7567,6 +7567,27 @@
       "fingerprint": "d54bf6eeef8ee78d85659884d5efb9da5527065871fdba2e35c2ab848fa4862e",
       "revision": 1
     },
+    "url:https://bostonscientific.eightfold.ai/careers/job/563602813584308": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "boston scientific",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "maple grove, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "equipment engineering ai vision engineer intern"
+      },
+      "fingerprint": "4abd74adac0c109bd8a6030e5bf2e7a553e80ded4ab0bcc34b9a72180fa7d9db",
+      "revision": 1
+    },
     "url:https://bostonscientific.eightfold.ai/careers/job/563602813600558": {
       "eligible": false,
       "fingerprint": "de56d6eaad339b52059d8061fbbe31380a330c363a322055f70d4f31eb0f8a74",
@@ -29991,6 +30012,11 @@
       "fingerprint": "5f0fa83acf54cf3028edaaf17c503bed75a1e9e89fc793cdda7c6d3feab35662",
       "revision": 1
     },
+    "url:https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002": {
+      "eligible": false,
+      "fingerprint": "61ecffe6a433351258bb07891ffeb496c2a27c05eb20bb95d0eda64cc449257c",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003": {
       "eligible": false,
       "fingerprint": "46e55c2299f8bc4a2c9dac7ed5bd0a58d63702a03b4bb1950ef3ef64e4394e22",
@@ -39461,8 +39487,7 @@
           "bachelor's"
         ],
         "locations": [
-          "livermore, ca",
-          "livermore, ca, united states"
+          "livermore, ca"
         ],
         "requirements": [],
         "terms": [
@@ -39470,8 +39495,8 @@
         ],
         "title": "critical infrastructure analysis intern"
       },
-      "fingerprint": "9a57c7a554ff902993124666578c9a05213726128b4a8eb83c519ec35170bc27",
-      "revision": 0
+      "fingerprint": "100e30d36ac3cdf994d0fdbed7a3cbafc0af5923f67c0049bbb6eae742e4e3b7",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/llnl/3743990016166026": {
       "eligible": false,
@@ -51525,6 +51550,11 @@
       "fingerprint": "0333bb3a51f4638f8d1ab763a80479f96456254ccf4884756525865c1195695b",
       "revision": 1
     },
+    "url:https://sunlife.wd3.myworkdayjobs.com/campus/job/sun-life-wellesley/business-operations-software-engineer-2027-co-op_jr00128863": {
+      "eligible": false,
+      "fingerprint": "06c5eab7759116af40d99448d4021f3a2be198aab617a015681ca467f262c50a",
+      "revision": 1
+    },
     "url:https://sunlife.wd3.myworkdayjobs.com/campus/job/toronto-ontario/student--data-analyst--winter-summer-fall-2027-_jr00129284": {
       "eligible": false,
       "fingerprint": "370ab2fb3233be916385d9cf4a8bbfedaaefddc64043bdf0c5e165a1532d3696",
@@ -59192,7 +59222,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 117,
+  "scan_sequence": 118,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
