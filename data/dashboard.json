@@ -10087,21 +10087,6 @@
       "url": "https://firstcitizens.jibeapply.com/jobs/36234?icims=1"
     },
     {
-      "company": "First Citizens BancShares",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "073b78645bce0dca6e1343ff0f6a3660ef25ca6ef9107e66bce5f4e0dca510b5",
-      "locations": [
-        "Raleigh, NC"
-      ],
-      "posted_at": "2026-10-30",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Intern - AI Innovation",
-      "url": "https://firstcitizens.jibeapply.com/jobs/36311?icims=1"
-    },
-    {
       "company": "First National Bank",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -13693,6 +13678,21 @@
       "source": "greenhouse",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
+    },
+    {
+      "company": "IMC Trading",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "06c0793e3dafa386862e3d2d7c66b8324d6d23c291a7ecb519b674c8dd1ce072",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-08-27",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Performance Engineer Intern",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101"
     },
     {
       "company": "Immuta",
@@ -19871,6 +19871,21 @@
       "source": "simplify",
       "title": "R&D Intern - AI Research Engineer",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371"
+    },
+    {
+      "company": "Prologis",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "b94430e064ec96f8bfef42c5e960b61bb0fb98673b76ccca4a38b4bc016cfcd9",
+      "locations": [
+        "Denver, CO"
+      ],
+      "posted_at": "2026-10-26",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI and Automation Intern",
+      "url": "https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-and-Automation--IT--Intern_R6883"
     },
     {
       "company": "Propio",
@@ -27565,21 +27580,6 @@
       "company": "VSP Vision",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "bfa60607bf317fbda3181a1ad787c1cf1764d6c3df82bad52b5b483be20c9da9",
-      "locations": [
-        "Remote in USA"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046"
-    },
-    {
-      "company": "VSP Vision",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "3fde900d57d727b89bdbe60902ead9ed308202cd5e08a8943029b5b23f7cb6ec",
       "locations": [
         "Remote in USA"
@@ -28534,7 +28534,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-04T13:24:26.370212+00:00",
+  "last_checked": "2026-11-04T15:05:13.076537+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

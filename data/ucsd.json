@@ -20396,6 +20396,16 @@
       "fingerprint": "478700d3714827e33f992ccfc2b84c461615c1eb4d0741a91a04467432c6dfbd",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1gq": {
+      "eligible": false,
+      "fingerprint": "9dc661c249fe0488ffebd5cc8e9b5198f2e70882487473257c1715722b55dcda",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1gu": {
+      "eligible": false,
+      "fingerprint": "386cbc3efc96a71febf094da459834c56eb80b9bbc88ff3796406e174f2aef61",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1k": {
       "eligible": false,
       "fingerprint": "ac2367ecdb86555ceb30e8e05ee043dce929e9a1493e8f2ec788c5fee382c4de",
@@ -26539,6 +26549,26 @@
       },
       "fingerprint": "a545a1bc8b947fdb4ed11fa6d68ad1cb403c08e9e51d27706262a5a436b0c2b5",
       "revision": 0
+    },
+    "url:https://job-boards.eu.greenhouse.io/imc/jobs/4842595101": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "imc trading",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "performance engineer intern"
+      },
+      "fingerprint": "218a05f5d4a004b2e65565bb1ca5ae49a987a97eb110209b38cf54668e7f517b",
+      "revision": 1
     },
     "url:https://job-boards.eu.greenhouse.io/imc/jobs/4941206101": {
       "eligible": false,
@@ -48396,9 +48426,23 @@
       "revision": 0
     },
     "url:https://prologis.wd5.myworkdayjobs.com/prologis_external_careers/job/denver-colorado/ai-and-automation--it--intern_r6883": {
-      "eligible": false,
-      "fingerprint": "f0df7af613d12a9905f207aa878aa73d862c745767fca3c5740659a1635a5f58",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "prologis",
+        "degrees": [],
+        "locations": [
+          "denver, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "ai and automation intern, it"
+      },
+      "fingerprint": "355a57bd1c31c7b3261c196b6f1a55f059b96a814ea54c27bd112f42e3321e7a",
+      "revision": 1
     },
     "url:https://prologis.wd5.myworkdayjobs.com/prologis_external_careers/job/denver-colorado/ai-product-management-intern_r6840": {
       "eligible": false,
@@ -57827,6 +57871,7 @@
     "https://go.vansh.nyc/1gl": 125,
     "https://go.vansh.nyc/1gm": 125,
     "https://go.vansh.nyc/1gn": 125,
+    "https://go.vansh.nyc/1gr": 126,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -58848,6 +58893,7 @@
     "https://go.vansh.nyc/1gl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177",
     "https://go.vansh.nyc/1gm": "https://job-boards.greenhouse.io/workshop/jobs/5237900007",
     "https://go.vansh.nyc/1gn": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181",
+    "https://go.vansh.nyc/1gr": "https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/Denver-Colorado/AI-and-Automation--IT--Intern_R6883",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -59504,7 +59550,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 125,
+  "scan_sequence": 126,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
