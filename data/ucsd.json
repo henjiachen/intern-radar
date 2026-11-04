@@ -20338,19 +20338,34 @@
       "fingerprint": "ac7d11b983192ca41b82d1623dc672026782a8af4dab061704a4efbd2021392b",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1fv": {
+      "eligible": false,
+      "fingerprint": "9ffc4810b911b8a23f0c51763e9bd42b17b112622850f0cddef5d30fb0477284",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1fx": {
       "eligible": false,
-      "fingerprint": "1a73b2b21b4b061bfcc38eafdfb70e23adc4ca7a4ca28396362cf6e01b712c7c",
-      "revision": 1
+      "fingerprint": "117d62492f73c5b3039c765ed181f21d062462ecb236c09ca728267c104c35da",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1fy": {
       "eligible": false,
       "fingerprint": "12ef663d7d26eab4b6b7a8a5a458b47f7966532ed0553600cdba119b44e8bc64",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1fz": {
+    "url:https://go.vansh.nyc/1g0": {
       "eligible": false,
-      "fingerprint": "9473249a1cddfa41c9869b0cbda0d97a58ee12e9091ca355a1f5929acbafa617",
+      "fingerprint": "2c68f9d53081fd2d05aa1b3f72c0cc88e42679304caa835c7861091dc9b6c536",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1g1": {
+      "eligible": false,
+      "fingerprint": "4474eb6f3ca81f0606b2517fd3b7e55fdd0a29149e2a5e81848ef328f3d6a3e4",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1g2": {
+      "eligible": false,
+      "fingerprint": "80aee525e00e96c29da2d0deb562786dae1f158f45b83ceadd6d78217a9754a4",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1k": {
@@ -31127,6 +31142,7 @@
         ],
         "locations": [
           "new york city, ny",
+          "new york, ny",
           "nyc"
         ],
         "requirements": [],
@@ -31135,8 +31151,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "6070a81a986dcd1beabe63f1df83cf832cd7b86ec35c5e4722ba93f3e03aa5d9",
-      "revision": 0
+      "fingerprint": "2184bc475b8e7573b6da4d049d0e0ec8903f9866a945867644959900171a1050",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004": {
       "eligible": false,
@@ -50737,10 +50753,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "embedded software engineering intern"
+        "title": "intern embedded software engineering"
       },
-      "fingerprint": "fd7a5b4123deb331a12c0a856fd5a4a35f2c810548fb17c845d5ebbe4a3a44aa",
-      "revision": 1
+      "fingerprint": "8cd80c0b8cecc6c38252bac92cb9f79f7072f386d059c909e23c471f93e509a4",
+      "revision": 2
     },
     "url:https://smucker.wd5.myworkdayjobs.com/us_external_careers/job/orrville-oh/finance-technology-intern--spring-2027_116016": {
       "eligible": false,
@@ -57548,6 +57564,7 @@
     "https://go.vansh.nyc/1fF": 115,
     "https://go.vansh.nyc/1fK": 116,
     "https://go.vansh.nyc/1fL": 116,
+    "https://go.vansh.nyc/1fY": 120,
     "https://go.vansh.nyc/1fc": 114,
     "https://go.vansh.nyc/1fd": 114,
     "https://go.vansh.nyc/1fh": 114,
@@ -57555,6 +57572,8 @@
     "https://go.vansh.nyc/1fo": 115,
     "https://go.vansh.nyc/1fs": 115,
     "https://go.vansh.nyc/1fw": 115,
+    "https://go.vansh.nyc/1g3": 120,
+    "https://go.vansh.nyc/1g4": 120,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -58559,6 +58578,7 @@
     "https://go.vansh.nyc/1fF": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249",
     "https://go.vansh.nyc/1fK": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176",
     "https://go.vansh.nyc/1fL": "https://job-boards.greenhouse.io/nex/jobs/5421056008",
+    "https://go.vansh.nyc/1fY": "https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004",
     "https://go.vansh.nyc/1fc": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233",
     "https://go.vansh.nyc/1fd": "https://albemarle.wd5.myworkdayjobs.com/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411",
     "https://go.vansh.nyc/1fh": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022",
@@ -58566,6 +58586,8 @@
     "https://go.vansh.nyc/1fo": "https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221",
     "https://go.vansh.nyc/1fs": "https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975",
     "https://go.vansh.nyc/1fw": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133",
+    "https://go.vansh.nyc/1g3": "https://job-boards.greenhouse.io/covar/jobs/5240360007",
+    "https://go.vansh.nyc/1g4": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -59222,7 +59244,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 119,
+  "scan_sequence": 120,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
