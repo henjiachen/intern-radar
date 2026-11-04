@@ -12042,6 +12042,24 @@
       "fingerprint": "1a8ef16948c40af9d0474abd4b1cce72c36d52f77131d77b86b14d5d1b9c813d",
       "revision": 1
     },
+    "url:https://cbrands.wd5.myworkdayjobs.com/cbi_external_careers/job/rochester-new-york/intern--ai---automation-engineering_r-41655": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "constellation brands",
+        "degrees": [],
+        "locations": [
+          "rochester, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai & automation engineering intern"
+      },
+      "fingerprint": "fe978b385eb5eb345e59ca09d977894d78ae0ee1fdcc4b49d144004b892833e0",
+      "revision": 1
+    },
     "url:https://cbrands.wd5.myworkdayjobs.com/cbi_external_careers/job/rochester-new-york/intern--ai-enablement_r-41526": {
       "eligible": true,
       "evidence": {
@@ -58329,6 +58347,7 @@
     "https://go.vansh.nyc/1gx": 127,
     "https://go.vansh.nyc/1gy": 127,
     "https://go.vansh.nyc/1gz": 127,
+    "https://go.vansh.nyc/1h2": 132,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -59365,6 +59384,7 @@
     "https://go.vansh.nyc/1gx": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636",
     "https://go.vansh.nyc/1gy": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948",
     "https://go.vansh.nyc/1gz": "https://jobs.ericsson.com/careers/job/563121777173171",
+    "https://go.vansh.nyc/1h2": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -60021,7 +60041,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 131,
+  "scan_sequence": 132,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
