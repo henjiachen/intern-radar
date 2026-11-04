@@ -8538,6 +8538,11 @@
       "fingerprint": "e94f1a6761f049606126b13116a8380ec3f2b6343aa36b2cdeeb5033a5219824",
       "revision": 0
     },
+    "url:https://careers-gdms.icims.com/jobs/75755/job": {
+      "eligible": false,
+      "fingerprint": "8a07104793a4abbecb03082fb50cd5f92366306fefce12a65ac9f42e64cc82dd",
+      "revision": 1
+    },
     "url:https://careers-gdms.icims.com/jobs/75775/job": {
       "eligible": true,
       "evidence": {
@@ -19384,8 +19389,7 @@
           "bachelor's"
         ],
         "locations": [
-          "east hartford, ct",
-          "east hartford-etc, ct"
+          "east hartford, ct"
         ],
         "requirements": [],
         "terms": [
@@ -19393,8 +19397,8 @@
         ],
         "title": "embedded software engineer intern"
       },
-      "fingerprint": "9669466ca6551b954258585f151af91b67838870176b6aed74b244a882c88e74",
-      "revision": 1
+      "fingerprint": "1c65917125bf39dd3ccb55223228d8a6aaa9bf87615d08e2bc6128cdca139921",
+      "revision": 2
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ct-east-hartford-g--400-main-st--bldg-g/summer-2027-software-engineering-intern--onsite-_01873645": {
       "eligible": true,
@@ -23097,6 +23101,7 @@
           "oklahoma",
           "oregon",
           "pennsylvania",
+          "pennsylvania, usa +42",
           "rhode island",
           "south carolina",
           "south dakota",
@@ -23117,8 +23122,8 @@
         ],
         "title": "ai services and platforms software engineer intern"
       },
-      "fingerprint": "58e3405321cd2922abd7e367ceb5f4f05ef0a8a9995f2a0df8d59bcc00706ca2",
-      "revision": 1
+      "fingerprint": "4a738385bafad9ca69f3150913bb6e70d5e43ebd528a80f58a23866a7fdd8b4d",
+      "revision": 2
     },
     "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-applied-gen-ai-data-scientist-graduate-intern_j288007": {
       "eligible": true,
@@ -23853,25 +23858,9 @@
       "revision": 0
     },
     "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-software-engineer-engen-undergraduate-intern_j289812": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "highmark health",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "pennsylvania",
-          "pennsylvania, usa"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "14a6da78ed2366df53484fea48b6274821b2e31a85f8d3d9e49a9bd6550a1682",
-      "revision": 0
+      "eligible": false,
+      "fingerprint": "7edf7359e75cce7445ae37dff53dbff8837007d02e0569697719ec21892c73c1",
+      "revision": 1
     },
     "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-software-engineer-engen-undergraduate-intern_j290027": {
       "eligible": true,
@@ -24356,9 +24345,25 @@
       "revision": 4
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--aiml-platform---hp-iq_uni4800": {
-      "eligible": false,
-      "fingerprint": "2aaf750e84ebbd3a575368718d6b76cea125978c93f0f7a3e4642fd801aed332",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "hp inc.",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - aiml platform - hp iq"
+      },
+      "fingerprint": "6da0a879a32cd3ff5728a57b3497bfd85f0ddfa7c1a28e99f2595e7ec91159f0",
+      "revision": 2
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--connectivity---hp-iq_uni4812": {
       "eligible": true,
@@ -24420,9 +24425,26 @@
       "revision": 1
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-quality-assurance-intern_uni4803": {
-      "eligible": false,
-      "fingerprint": "c051879809240398b111fc68e089e47960c8f1a5aafd9151591b64105eecfdbd",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "hp inc.",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - product & developer productivity"
+      },
+      "fingerprint": "01667bc7029a1dc8c820aa386e65952770dfe83c58ae37e16dbf992475f49da2",
+      "revision": 2
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-systems-intern_uni4801": {
       "eligible": true,
@@ -25971,6 +25993,22 @@
       "eligible": false,
       "fingerprint": "ac8470000e0b1a7371637d1883b77dc53c997f666a290a818a568e1091fb813e",
       "revision": 0
+    },
+    "url:https://invitation-charter.icims.com/jobs/81795/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "spectrum",
+        "degrees": [],
+        "locations": [
+          "englewood, co"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "2027 summer intern: software engineer"
+      },
+      "fingerprint": "420dbc62c9ea986b886851b11fb1620d81238f1f3264ebd833d7dc239f1d53ab",
+      "revision": 1
     },
     "url:https://itron.wd5.myworkdayjobs.com/early_careers/job/united-states-of-america-south-carolina-west-union/intern---systems-engineer--spring-2027-_jr102789-1": {
       "eligible": false,
@@ -34875,6 +34913,24 @@
       "fingerprint": "df431e7861197976f21c2ba7b51be41bd8a8996209bf48c12b225ba33f395143",
       "revision": 0
     },
+    "url:https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "terranova",
+        "degrees": [],
+        "locations": [
+          "berkeley, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai intern"
+      },
+      "fingerprint": "3aa0a3327e4252f413fee85da0cb525bf5f20bc9867b38d8b5362b01bba256ed",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7": {
       "eligible": true,
       "evidence": {
@@ -38619,6 +38675,25 @@
       "fingerprint": "23fede1d47e5deae6dcca681cc620bc1de6de2ae53052b1b31d951e90ac7b3cb",
       "revision": 1
     },
+    "url:https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tri",
+        "degrees": [],
+        "locations": [
+          "los altos, ca"
+        ],
+        "requirements": [
+          "this is a summer 2027 paid 12-week internship opportunity. please note that this internship will be a hybrid in-office role.",
+          "we are looking for machine learning research interns to join our autonomy team and help bring end-to-end ml models ( pixels to trajectories ) into robust, testable, and deployable systems. this role is ideal for those who thrive at the intersection of machine learning, systems engineering, and real-world deployment. this internship opportunity is a paid 12-week internship for summer 2026. please note that this internship will be a hybrid in-office role."
+        ],
+        "terms": [],
+        "title": "automated driving advanced development intern, machine learning research"
+      },
+      "fingerprint": "8fe7dfc85df70c95792f2378926f8e19ff49001845c9dcbe784de5b80e386ef9",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f": {
       "eligible": false,
       "fingerprint": "543e94ab08683fc848f4ed5877d30615dfef7fbde89ef3bfb26bf448eab951aa",
@@ -38632,6 +38707,25 @@
     "url:https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8": {
       "eligible": false,
       "fingerprint": "23fede1d47e5deae6dcca681cc620bc1de6de2ae53052b1b31d951e90ac7b3cb",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tri",
+        "degrees": [],
+        "locations": [
+          "los altos, ca"
+        ],
+        "requirements": [
+          "this is a summer 2027 paid 12-week internship opportunity. please note that this internship will be a hybrid in-office role.",
+          "we are looking for machine learning research interns to join our autonomy team and help bring end-to-end ml models ( pixels to trajectories ) into robust, testable, and deployable systems. this role is ideal for those who thrive at the intersection of machine learning, systems engineering, and real-world deployment. this internship opportunity is a paid 12-week internship for summer 2026. please note that this internship will be a hybrid in-office role."
+        ],
+        "terms": [],
+        "title": "automated driving advanced development intern, machine learning research"
+      },
+      "fingerprint": "8fe7dfc85df70c95792f2378926f8e19ff49001845c9dcbe784de5b80e386ef9",
       "revision": 1
     },
     "url:https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43": {
@@ -40105,6 +40199,11 @@
     "url:https://jobs.smartrecruiters.com/wabtec/3743990016605126": {
       "eligible": false,
       "fingerprint": "b1ce8bc82645cefe4082898ae3f18fde8b31bc91ce54b82a06cd485836597a06",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/wabtec/3743990016605126-firmware-engineering-co-op?oga=true": {
+      "eligible": false,
+      "fingerprint": "40cc7ab82170c2de1e41db630f6bb355be8436f205f21b225bf853922ff2672e",
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/wellmarkinc/744000148915793": {
@@ -52127,13 +52226,13 @@
     },
     "url:https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/milwaukee-wisconsin/business-operations-software-engineer---2027-co-op_jr00128846": {
       "eligible": false,
-      "fingerprint": "06c5eab7759116af40d99448d4021f3a2be198aab617a015681ca467f262c50a",
-      "revision": 1
+      "fingerprint": "75f61496e17612f57eb6f7df427bf204d9e1888119fda21a73a405e3016f71ba",
+      "revision": 2
     },
     "url:https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/sun-life-wellesley/business-operations-software-engineer-2027-co-op_jr00128863-3": {
       "eligible": false,
-      "fingerprint": "06c5eab7759116af40d99448d4021f3a2be198aab617a015681ca467f262c50a",
-      "revision": 1
+      "fingerprint": "3a4fac711584304a6d7424d8ed5409eb51faeb5796f3d9c089e3d1e8350be409",
+      "revision": 2
     },
     "url:https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/wellesley-hills-massachusetts/data-science-intern---summer-2027-intern_jr00127666": {
       "eligible": true,
@@ -52156,6 +52255,38 @@
       },
       "fingerprint": "84b86983bb342f356d12fea8513a84b73610a941c17e2240e9f2723102174a7a",
       "revision": 0
+    },
+    "url:https://sunlife.wd3.myworkdayjobs.com/experienced/job/milwaukee-wisconsin/business-operations-software-engineer---2027-co-op_jr00128846-2": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "sun life",
+        "degrees": [],
+        "locations": [
+          "milwaukee, wi +4"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "business operations software engineer - 2027 co-op"
+      },
+      "fingerprint": "515582b2b1439de86aad0a8c28f6c326949a8c2ab4f68c068c418471df36edb1",
+      "revision": 1
+    },
+    "url:https://sunlife.wd3.myworkdayjobs.com/experienced/job/sun-life-wellesley/business-operations-software-engineer-2027-co-op_jr00128863-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "sun life",
+        "degrees": [],
+        "locations": [
+          "hartford, ct +2"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "business operations software engineer 2027 co-op"
+      },
+      "fingerprint": "4aca4667f66fc3b5247cf1a84ad81b45c34f3642ee76b8b5746ce637b7ce9006",
+      "revision": 1
     },
     "url:https://swbc.wd1.myworkdayjobs.com/collegeinternships/job/san-antonio-tx/software-engineering-intern_r0015482-1": {
       "eligible": false,
@@ -53064,7 +53195,8 @@
         "degrees": [],
         "locations": [
           "dayton, oh",
-          "westminster, co"
+          "westminster, co",
+          "westminster, co +1"
         ],
         "requirements": [],
         "terms": [
@@ -53073,8 +53205,8 @@
         ],
         "title": "ai developer intern"
       },
-      "fingerprint": "d7dea406747f73aa3d84ef9303beb4c06ae4b2efde1e9e811ac1ea751e922198",
-      "revision": 2
+      "fingerprint": "a827dba421eb32e060aabd8f7c32681323af0c00d8cdd0f0d75c63c66d510c98",
+      "revision": 3
     },
     "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---co-westminster/hardware-software-testing-intern_r57677-1": {
       "eligible": true,
@@ -53088,7 +53220,8 @@
           "dayton, oh",
           "lake oswego, or",
           "portsmouth, nh",
-          "westminster, co"
+          "westminster, co",
+          "westminster, co +2"
         ],
         "requirements": [],
         "terms": [
@@ -53096,8 +53229,8 @@
         ],
         "title": "hardware/software testing intern"
       },
-      "fingerprint": "9e6af663f466214a0553117b8c6847bba8db99fbd2dca8e62f0cd54bc3be3872",
-      "revision": 2
+      "fingerprint": "80ab45e0590ca405a9872ba7cccb16663566e160d189165a57d9c155b54f66b1",
+      "revision": 3
     },
     "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---co-westminster/software-engineering-intern_r57676": {
       "eligible": true,
@@ -53115,7 +53248,8 @@
           "portsmouth, nh",
           "princeton, nj",
           "sunnyvale, ca",
-          "westminster, co"
+          "westminster, co",
+          "westminster, co +6"
         ],
         "requirements": [],
         "terms": [
@@ -53123,13 +53257,13 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "4cae19700d352c2806d9462824bb3fd6ef39aefc62439a4af8481ef3e9ca09c5",
-      "revision": 2
+      "fingerprint": "85211ae0df5c7295970704058196d6130ccc62a0f8d1a9df119616f69bc757f0",
+      "revision": 3
     },
     "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---oh-dayton/ai-developer-intern_r58195": {
       "eligible": false,
-      "fingerprint": "a85c5d4002f076dc1033727522267b8bc726b75bdccf8812befa1c75e102615b",
-      "revision": 1
+      "fingerprint": "d008e51b1de9e44645f5b56425c5dabf03028f8a3c3e3e40aa04237c3842cf35",
+      "revision": 2
     },
     "url:https://trustage.wd1.myworkdayjobs.com/trustage/job/madison-wi/it---innovation---ai-technology-internship--hybrid-_r-012293": {
       "eligible": true,
@@ -53686,6 +53820,11 @@
       "eligible": false,
       "fingerprint": "60778fa7c254e8be4d40ccf4ad268eea4707ae73a6180e7ea5482f7f8243d3bc",
       "revision": 0
+    },
+    "url:https://uscareers-docusign.icims.com/jobs/30513/job": {
+      "eligible": false,
+      "fingerprint": "60778fa7c254e8be4d40ccf4ad268eea4707ae73a6180e7ea5482f7f8243d3bc",
+      "revision": 1
     },
     "url:https://uscareers-docusign.icims.com/jobs/30571/job": {
       "eligible": false,
@@ -54566,19 +54705,19 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "vsp vision",
+        "company": "vsp vision care",
         "degrees": [],
         "locations": [
-          "remote in usa"
+          "remote - usa"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "internship - software engineer"
       },
-      "fingerprint": "148676dca864c04d3b83aab7c21bbb38803de8f038d3ba56ae8d0f3685447254",
-      "revision": 4
+      "fingerprint": "64953131e176256c36862899f7e015576b5d455588e96743c3f6ccc3de7a81e7",
+      "revision": 5
     },
     "url:https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/remote-us/internship--software-engineer_r-10068": {
       "eligible": true,
@@ -58178,6 +58317,7 @@
     "https://go.vansh.nyc/1gN": 130,
     "https://go.vansh.nyc/1gO": 130,
     "https://go.vansh.nyc/1gP": 130,
+    "https://go.vansh.nyc/1gY": 131,
     "https://go.vansh.nyc/1gf": 124,
     "https://go.vansh.nyc/1gj": 125,
     "https://go.vansh.nyc/1gk": 125,
@@ -59213,6 +59353,7 @@
     "https://go.vansh.nyc/1gN": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
     "https://go.vansh.nyc/1gO": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482",
     "https://go.vansh.nyc/1gP": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-AI-Engineer-R-D_R92966",
+    "https://go.vansh.nyc/1gY": "https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942",
     "https://go.vansh.nyc/1gf": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
     "https://go.vansh.nyc/1gj": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179",
     "https://go.vansh.nyc/1gk": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178",
@@ -59880,7 +60021,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 130,
+  "scan_sequence": 131,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
