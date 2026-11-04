@@ -19410,9 +19410,14 @@
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-fl-jupiter-adr--17900-beeline-hwy--adr-bldg/intern--summer-2027---control-diagnostic-software--onsite-_01883840": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "hardware",
         "company": "rtx",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "mba",
+          "phd"
+        ],
         "locations": [
           "jupiter, fl"
         ],
@@ -19422,8 +19427,8 @@
         ],
         "title": "control/diagnostic software intern"
       },
-      "fingerprint": "90cabf5aa4ed5af31113ca18c3f06356a5e84e61450295ef4bce3fdad13ba5b4",
-      "revision": 1
+      "fingerprint": "5467932d3ff179f673de08decc62f7aa903de0dcea06e87c9ee8baf671f84ca6",
+      "revision": 2
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-106--400-collins-rd-ne--bldg-106/xmlname-2027-co-op-spring-summer-systems-engineer---onsite_01871432": {
       "eligible": true,
@@ -25902,6 +25907,26 @@
       "fingerprint": "f1b32d4be6b25047f66a0e46b47244e0925a1ad98eb28e67f05abe453e71e191",
       "revision": 1
     },
+    "url:https://itron.wd5.myworkdayjobs.com/early_careers/job/united-states-of-america-washington-liberty-lake/intern---data-analytics-and-automation--finance_jr103020": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "itron",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "liberty lake, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics and automation intern - finance"
+      },
+      "fingerprint": "42c3eed45dcd9ffc0bae05c2f0d38ec0fe2c1b7beb5314d1534ee8237534679d",
+      "revision": 1
+    },
     "url:https://itron.wd5.myworkdayjobs.com/early_careers/job/united-states-of-america-washington-liberty-lake/intern---data-science--distributed-intelligence_jr102942-2": {
       "eligible": true,
       "evidence": {
@@ -25946,6 +25971,26 @@
         "title": "artificial intelligence intern"
       },
       "fingerprint": "6ffaee3c382bed95627ee09a28082fb77a5d042cf202f149390553c96a0dc4a1",
+      "revision": 1
+    },
+    "url:https://itron.wd5.myworkdayjobs.com/itron/job/united-states-of-america-washington-liberty-lake/intern---data-analytics-and-automation--finance_jr103020-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "itron",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "liberty lake, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics and automation intern - finance"
+      },
+      "fingerprint": "42c3eed45dcd9ffc0bae05c2f0d38ec0fe2c1b7beb5314d1534ee8237534679d",
       "revision": 1
     },
     "url:https://itron.wd5.myworkdayjobs.com/itron/job/united-states-of-america-washington-liberty-lake/intern---data-science--distributed-intelligence_jr102942": {
@@ -46470,6 +46515,27 @@
       "fingerprint": "496a64496ed8ccff624bf03817e0546e1276d22bb264e518d808733862bd6408",
       "revision": 2
     },
+    "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-maryland-sykesville/xmlname-2027-s-w-embedded-engineering-intern---sykesville-md_r10258553": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "northrop grumman",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "sykesville, md"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software embedded engineering intern"
+      },
+      "fingerprint": "5eed9eb67b4e19528ea48bb571ccf5715649a3e592eeacd5bb66515853ffff35",
+      "revision": 1
+    },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-beavercreek/xmlname-2027-software-engineering-intern---beavercreek-oh_r10257656": {
       "eligible": true,
       "evidence": {
@@ -49046,6 +49112,11 @@
       "fingerprint": "e329317858b6bae75e0ac7160dd57408a04772aa302af3f45dddd10773229310",
       "revision": 0
     },
+    "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/toronto-ontario-canada/xmlname-2027-capital-markets--global-equities--ai-engineer--16-months--co-op-_r-0000187401-1": {
+      "eligible": false,
+      "fingerprint": "e9cf825bf5506f09208efde1a7e82c6a74f9dfde3d787f9221b2d76e08d70caa",
+      "revision": 1
+    },
     "url:https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/vancouver-british-columbia-canada/developer--rbc-amplify-2027--vancouver_r-0000191199": {
       "eligible": false,
       "fingerprint": "52bc02418303d44905262c5e20730212a1f84c1f13a9f162665f7b9f2197a5e0",
@@ -49085,6 +49156,11 @@
       "eligible": false,
       "fingerprint": "5bbe686e136c41cd4f1a32a7992f3224341c80fab7651e1eab7e903a2e29a6b1",
       "revision": 0
+    },
+    "url:https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/toronto-ontario-canada/xmlname-2027-capital-markets--global-equities--ai-engineer--16-months--co-op-_r-0000187401-2": {
+      "eligible": false,
+      "fingerprint": "e9cf825bf5506f09208efde1a7e82c6a74f9dfde3d787f9221b2d76e08d70caa",
+      "revision": 1
     },
     "url:https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/vancouver-british-columbia-canada/developer--rbc-amplify-2027--vancouver_r-0000191199-2": {
       "eligible": false,
@@ -50800,25 +50876,9 @@
       "revision": 0
     },
     "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/folsom-ca/firmware-engineering-intern_r0031219": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "sierra nevada corporation",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "folsom, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "firmware engineer intern"
-      },
-      "fingerprint": "97d17574e6202a0e52f95e0f0209bdc1aa3784bf221bf1928be91e200ef7164d",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "5de23b5f4b56a7b50fa2b0e3ef09e060462a108744bd2f77e032bd81038b3093",
+      "revision": 3
     },
     "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/folsom-ca/software-engineering-intern--summer-2027-_r0030761-1": {
       "eligible": true,
@@ -56302,8 +56362,8 @@
     },
     "url:https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093": {
       "eligible": false,
-      "fingerprint": "e303a21aee0ebe12688375ae48451e040c853780ce9b9eaf4d009e2cb28372cd",
-      "revision": 0
+      "fingerprint": "6b8394cd0d04a5c587a6aa293db13c0c01e0404d258c07e741a6c9a518bb7a80",
+      "revision": 1
     },
     "url:https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602": {
       "eligible": false,
@@ -59264,7 +59324,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 121,
+  "scan_sequence": 122,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
