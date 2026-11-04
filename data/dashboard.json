@@ -18334,16 +18334,31 @@
       "company": "Northrop Grumman",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "06a50770c06b22940d2e4c8811450d319605c6b5ca74e56db9905bdb554c91d9",
+      "id": "8d341e45e7f090e43080e2bf9d94f87fe4af8262a2813f0c83a0b8af7f41bbea",
       "locations": [
-        "San Diego, CA"
+        "Clearfield, UT"
       ],
-      "posted_at": "2026-10-30",
+      "posted_at": "2026-11-04",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Data Scientist Intern - Product Support",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679"
+      "source": "vanshb03",
+      "title": "Cybersecurity Software Engineering Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177"
+    },
+    {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "cd102e012d57b3eb8aa0da46d1396fe74b5aab5fe735d6267a062436fae5663d",
+      "locations": [
+        "Roy, UT"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "DevOps Software Engineering Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178"
     },
     {
       "company": "Northrop Grumman",
@@ -18494,6 +18509,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803"
+    },
+    {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "0dc727a3386eab37d7ab684f73eef64c0ace6170b39c9074d26cc8f42f5dc4fd",
+      "locations": [
+        "Roy, UT"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181"
+    },
+    {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "16fd0863f64ce9d53a696348b7b1a19cd94d1ecff54cc4c080e8031918a5f2b7",
+      "locations": [
+        "Roy, UT"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Test Engineering Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179"
     },
     {
       "company": "NOV",
@@ -28489,7 +28534,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-04T12:03:24.226270+00:00",
+  "last_checked": "2026-11-04T13:24:26.370212+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

@@ -46618,6 +46618,24 @@
       "fingerprint": "b02bfff7e1c04495b06aa3ef1ce1835ffc18fba1ec349edea6f4e0ae2b6b5bf4",
       "revision": 0
     },
+    "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-clearfield/xmlname-2027-cybersecurity-software-engineering-intern---roy-ut_r10259177": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "northrop grumman",
+        "degrees": [],
+        "locations": [
+          "clearfield, ut"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "cybersecurity software engineering intern"
+      },
+      "fingerprint": "9deeca882668d357df827b1bfde29a53c0257b820be4a40750113cdd648179a1",
+      "revision": 1
+    },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-cyber-systems-engineer-intern---roy-ut_r10249471": {
       "eligible": true,
       "evidence": {
@@ -46634,6 +46652,60 @@
         "title": "cyber systems engineer intern"
       },
       "fingerprint": "933cf089e9f34eb51e5a4c8b1ecbd1d2301e23226c5d35f26a8c98517633c355",
+      "revision": 1
+    },
+    "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-devops-software-engineering-intern---roy-ut_r10259178": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "northrop grumman",
+        "degrees": [],
+        "locations": [
+          "roy, ut"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "devops software engineering intern"
+      },
+      "fingerprint": "30770e5acdd857d4b938419557ce7551df639444968d69c79dc42a6e288cf01e",
+      "revision": 1
+    },
+    "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-software-engineering-intern---roy-ut_r10259181": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "northrop grumman",
+        "degrees": [],
+        "locations": [
+          "roy, ut"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "60545de1011ef4fd638760dd7ef4537e58ddf0dd38d500592e565b5810edd9e3",
+      "revision": 1
+    },
+    "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-software-test-engineering-intern---roy-ut_r10259179": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "northrop grumman",
+        "degrees": [],
+        "locations": [
+          "roy, ut"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software test engineering intern"
+      },
+      "fingerprint": "71bd8b10d553a6c9045c37e3c8984db2f9dc4fef5edcc412b353d165b97ace94",
       "revision": 1
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-software-test-engineering-intern--roy-ut_r10258276-1": {
@@ -50933,8 +51005,8 @@
     },
     "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/folsom-ca/firmware-engineering-intern_r0031219": {
       "eligible": false,
-      "fingerprint": "5de23b5f4b56a7b50fa2b0e3ef09e060462a108744bd2f77e032bd81038b3093",
-      "revision": 3
+      "fingerprint": "682f966ab746e9169a572a61935976033398b0dc29538110ec19bf3a12fe8599",
+      "revision": 4
     },
     "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/folsom-ca/software-engineering-intern--summer-2027-_r0030761-1": {
       "eligible": true,
@@ -57750,6 +57822,11 @@
     "https://go.vansh.nyc/1g4": 120,
     "https://go.vansh.nyc/1g8": 121,
     "https://go.vansh.nyc/1gf": 124,
+    "https://go.vansh.nyc/1gj": 125,
+    "https://go.vansh.nyc/1gk": 125,
+    "https://go.vansh.nyc/1gl": 125,
+    "https://go.vansh.nyc/1gm": 125,
+    "https://go.vansh.nyc/1gn": 125,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -58766,6 +58843,11 @@
     "https://go.vansh.nyc/1g4": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
     "https://go.vansh.nyc/1g8": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840",
     "https://go.vansh.nyc/1gf": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
+    "https://go.vansh.nyc/1gj": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179",
+    "https://go.vansh.nyc/1gk": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178",
+    "https://go.vansh.nyc/1gl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177",
+    "https://go.vansh.nyc/1gm": "https://job-boards.greenhouse.io/workshop/jobs/5237900007",
+    "https://go.vansh.nyc/1gn": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -59422,7 +59504,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 124,
+  "scan_sequence": 125,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
