@@ -13163,26 +13163,9 @@
       "revision": 0
     },
     "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/sunnyvale-us/associate-embedded-software-engineer_r39949": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "costar group",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "sunnyvale, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "associate embedded software engineer intern"
-      },
-      "fingerprint": "eb03bccd7c0e69b874754c93d1c25e86de193d4bcf9e71740b2fc9563192e58f",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "3dcd63b9dd399f37dd2e380e9670f52f74b170a360045adfa0a75a618f614423",
+      "revision": 2
     },
     "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/sunnyvale-us/embedded-software-engineering-intern_r39950": {
       "eligible": true,
@@ -20445,8 +20428,27 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/1gq": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "plusgrade",
+        "degrees": [],
+        "locations": [
+          "gresham, or",
+          "toronto, canada"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "applied ai engineer intern"
+      },
+      "fingerprint": "6e94f2d178d8932dcf1cda9a78576fa7bb18009747b9668f72ba280777ce6ded",
+      "revision": 2
+    },
+    "url:https://go.vansh.nyc/1gr": {
       "eligible": false,
-      "fingerprint": "9dc661c249fe0488ffebd5cc8e9b5198f2e70882487473257c1715722b55dcda",
+      "fingerprint": "9563a0c73f56c0791fc036c5bc19367732f21a1b006554da00a9e504de22c984",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1gu": {
@@ -21034,6 +21036,11 @@
       "eligible": false,
       "fingerprint": "d637e7d9396e4100a5679f9a8aae48a2604d59d0d3ccf471282168f82c677b09",
       "revision": 2
+    },
+    "url:https://go.vansh.nyc/el": {
+      "eligible": false,
+      "fingerprint": "a569f2867a5433f17b1f2928dd5f6b65e53bb8241f2f7aacb202fe450e0f8dab",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/eq": {
       "eligible": true,
@@ -31400,29 +31407,9 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/wurljobs/jobs/4716249006": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "wurl",
-        "degrees": [
-          "bachelor's",
-          "master's",
-          "phd"
-        ],
-        "locations": [
-          "remote",
-          "remote in usa",
-          "united states"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027",
-          "winter 2026"
-        ],
-        "title": "data science intern"
-      },
-      "fingerprint": "4b9edb3ab200be19695c5d56e9ba45dd1c1918f5fb87295d0b8b380fc38f5eb1",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "d539faf8b17f9325b0d75cd78ac0dc00771794d3842724fe7a13eb4663ab001f",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/xai/jobs/5252108007": {
       "eligible": false,
@@ -51222,6 +51209,24 @@
       "fingerprint": "834d0a5e390e918fab09ca00028a44eec2ab62938b878d351a0bf0aaa1f7b1aa",
       "revision": 0
     },
+    "url:https://smithnephew.wd5.myworkdayjobs.com/external/job/andover-ma/intern-ai-engineer-r-d_r92966": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "smith+nephew",
+        "degrees": [],
+        "locations": [
+          "andover, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineer intern, r&d"
+      },
+      "fingerprint": "5730d581356a7141515968142e66ab2ecde2b3617d60a42f032d75cea0e92c6c",
+      "revision": 1
+    },
     "url:https://smithnephew.wd5.myworkdayjobs.com/external/job/andover-ma/intern-embedded-software-engineering_r92952": {
       "eligible": true,
       "evidence": {
@@ -51239,6 +51244,42 @@
       },
       "fingerprint": "8cd80c0b8cecc6c38252bac92cb9f79f7072f386d059c909e23c471f93e509a4",
       "revision": 2
+    },
+    "url:https://smithnephew.wd5.myworkdayjobs.com/external/job/us---pittsburgh-pa/intern-ai-center-of-excellence-data-science_r92480-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "smith+nephew",
+        "degrees": [],
+        "locations": [
+          "pittsburgh, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern, ai center of excellence"
+      },
+      "fingerprint": "951d08f565927f12f6133d4bce9bb6ebe57e4e21c696760d01d9dee44ad53ea5",
+      "revision": 1
+    },
+    "url:https://smithnephew.wd5.myworkdayjobs.com/external/job/us---pittsburgh-pa/intern-robotics-software-engineering_r92482": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "smith+nephew",
+        "degrees": [],
+        "locations": [
+          "pittsburgh, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "robotics software engineering intern"
+      },
+      "fingerprint": "f3f33c5e2610a9958d65cf7d665c33fd023f76f2c0fabea3f4b1913c920ae90d",
+      "revision": 1
     },
     "url:https://smucker.wd5.myworkdayjobs.com/us_external_careers/job/orrville-oh/finance-technology-intern--spring-2027_116016": {
       "eligible": false,
@@ -54803,8 +54844,8 @@
     },
     "url:https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/software-engineer-intern_r22585": {
       "eligible": false,
-      "fingerprint": "7d1dfaf06f632e0bab42c24cf064150cb3519fc77a2ae96815e42283890b9f48",
-      "revision": 4
+      "fingerprint": "0258e6b0fdec76506cb44eca9122dc3b0c639748641b408a6f0a569df38990dd",
+      "revision": 5
     },
     "url:https://wgu.wd5.myworkdayjobs.com/external/job/salt-lake-city-ut/intern---technical-writing_jr-026370": {
       "eligible": false,
@@ -58134,6 +58175,9 @@
     "https://go.vansh.nyc/1gH": 128,
     "https://go.vansh.nyc/1gI": 128,
     "https://go.vansh.nyc/1gL": 129,
+    "https://go.vansh.nyc/1gN": 130,
+    "https://go.vansh.nyc/1gO": 130,
+    "https://go.vansh.nyc/1gP": 130,
     "https://go.vansh.nyc/1gf": 124,
     "https://go.vansh.nyc/1gj": 125,
     "https://go.vansh.nyc/1gk": 125,
@@ -59166,6 +59210,9 @@
     "https://go.vansh.nyc/1gH": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1",
     "https://go.vansh.nyc/1gI": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299",
     "https://go.vansh.nyc/1gL": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220",
+    "https://go.vansh.nyc/1gN": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
+    "https://go.vansh.nyc/1gO": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482",
+    "https://go.vansh.nyc/1gP": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-AI-Engineer-R-D_R92966",
     "https://go.vansh.nyc/1gf": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
     "https://go.vansh.nyc/1gj": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179",
     "https://go.vansh.nyc/1gk": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178",
@@ -59833,7 +59880,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 129,
+  "scan_sequence": 130,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
