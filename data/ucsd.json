@@ -20391,6 +20391,11 @@
       "fingerprint": "80aee525e00e96c29da2d0deb562786dae1f158f45b83ceadd6d78217a9754a4",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1gh": {
+      "eligible": false,
+      "fingerprint": "478700d3714827e33f992ccfc2b84c461615c1eb4d0741a91a04467432c6dfbd",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1k": {
       "eligible": false,
       "fingerprint": "ac2367ecdb86555ceb30e8e05ee043dce929e9a1493e8f2ec788c5fee382c4de",
@@ -38572,9 +38577,13 @@
     "url:https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "xcimer energy",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
         "locations": [
           "denver, co"
         ],
@@ -38584,8 +38593,8 @@
         ],
         "title": "computational and software engineering intern"
       },
-      "fingerprint": "fdd77659fee6988c271a6bb37a9f8fa6141bec49f5ae77211ea4a42f7acb4cf1",
-      "revision": 1
+      "fingerprint": "f15579a07467ea880f67369d9fe84b6ec74b43fe8f89c1ebbbedf82a4dd1c185",
+      "revision": 2
     },
     "url:https://jobs.lever.co/zoox/07f0834f-06ec-44c7-a24b-3efa08589d38": {
       "eligible": false,
@@ -39632,6 +39641,27 @@
       "eligible": false,
       "fingerprint": "7b3ac0856f6900ece3aa3ebd21e15277574003c89bfaa809ae0de0ec66fc666b",
       "revision": 0
+    },
+    "url:https://jobs.smartrecruiters.com/llnl/3743990016610216": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "lawrence livermore national laboratory (llnl)",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "livermore, ca",
+          "livermore, ca, united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "critical infrastructure analysis graduate intern - cyber and critical infrastructure summer institute"
+      },
+      "fingerprint": "5071c18585cb9644967c76a77f79c1f1464cb8a2932510df714e6faec637e8bb",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/luxemediallc/83337884": {
       "eligible": false,
@@ -56973,10 +57003,40 @@
       "fingerprint": "ea12bdf6f8c5d5c1f38c2a7dbf53a908f6cce2d1339c8e7f420eb45d2f867f85",
       "revision": 1
     },
+    "url:https://www.weareroku.com/jobs/8345947?gh_jid=8345947": {
+      "eligible": false,
+      "fingerprint": "56fab86ac5da4e9e777d3425f4adff19fddd673dd373095e8d7a321f3f1c570b",
+      "revision": 1
+    },
+    "url:https://www.weareroku.com/jobs/8345954?gh_jid=8345954": {
+      "eligible": false,
+      "fingerprint": "9e517c70a2e0494ecbeabee75bbcf18a7dcae6505455f618e16d230545cb4dc5",
+      "revision": 1
+    },
     "url:https://www.williamblair.com/careers/job-description?gh_jid=5242280007": {
       "eligible": false,
       "fingerprint": "6ec7ef9a9fcb268e5f39d9118b1ba77ec2962de8cd8c2d39eaeb4c49119a7727",
       "revision": 0
+    },
+    "url:https://www.williamblair.com/careers/job-description?gh_jid=5242282007": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "william blair",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "agentic ai development intern"
+      },
+      "fingerprint": "523a1ec43da55d4dac584c06bc25856516929c0aea8be7cb32df872f38245557",
+      "revision": 1
     },
     "url:https://www.williamblair.com/careers/job-description?gh_jid=5242285007": {
       "eligible": false,
@@ -57689,6 +57749,7 @@
     "https://go.vansh.nyc/1g3": 120,
     "https://go.vansh.nyc/1g4": 120,
     "https://go.vansh.nyc/1g8": 121,
+    "https://go.vansh.nyc/1gf": 124,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -58704,6 +58765,7 @@
     "https://go.vansh.nyc/1g3": "https://job-boards.greenhouse.io/covar/jobs/5240360007",
     "https://go.vansh.nyc/1g4": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
     "https://go.vansh.nyc/1g8": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840",
+    "https://go.vansh.nyc/1gf": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -59360,7 +59422,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 123,
+  "scan_sequence": 124,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

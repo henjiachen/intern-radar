@@ -9149,24 +9149,6 @@
       "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors"
     },
     {
-      "company": "Edison International",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "f7d0013ee9a921f4440c929e16b3506bf6026256e9ee744baa85e1d85d65c5ec",
-      "locations": [
-        "Santa Ana, CA",
-        "Fullerton, CA",
-        "Irvine, CA",
-        "Westminster, CA"
-      ],
-      "posted_at": "2026-09-01",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Internship - Data Analytics/Science/Applied Math",
-      "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors"
-    },
-    {
       "company": "Elanco",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -11270,6 +11252,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171565?type=students"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -15773,7 +15785,7 @@
       "company": "Lawrence Livermore National Laboratory (LLNL)",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "a1d94bbb26b715539637ab9cfef6c9d8f5c97206ef1ccd6fbeb36d9ce74b12d3",
+      "id": "2938cffbe8a381110d5a9781d5bf972af6d2ed6a5da7e05dd9fb20e2cd72fb97",
       "locations": [
         "Livermore, CA"
       ],
@@ -15781,8 +15793,8 @@
       "priority": 11,
       "priority_program": false,
       "source": "simplify",
-      "title": "Critical Infrastructure Analysis Intern",
-      "url": "https://jobs.smartrecruiters.com/LLNL/3743990016165496"
+      "title": "Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990016610216"
     },
     {
       "company": "Lawrence Livermore National Laboratory (LLNL)",
@@ -18931,7 +18943,7 @@
       "posted_at": "2026-11-03",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "vanshb03",
       "title": "Software Developer Intern",
       "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors"
     },
@@ -28010,6 +28022,21 @@
       "url": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007"
     },
     {
+      "company": "William Blair",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "de984d83b03e5be2ee9a9dda9f8b72a3c1351fc703a47ade70c06394b4dd42fb",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-09-22",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Agentic AI Development Intern",
+      "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242282007"
+    },
+    {
       "company": "Wing",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -28230,9 +28257,9 @@
       "posted_at": "2026-09-11",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Computational and Software Engineering Intern",
-      "url": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911"
+      "url": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911/apply"
     },
     {
       "company": "Zebra Technologies",
@@ -28462,7 +28489,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-04T10:20:56.631483+00:00",
+  "last_checked": "2026-11-04T12:03:24.226270+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
