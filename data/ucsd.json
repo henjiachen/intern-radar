@@ -20296,8 +20296,8 @@
     },
     "url:https://go.vansh.nyc/1co": {
       "eligible": false,
-      "fingerprint": "ba1da2d253453ec72f6554edb0648aafaacb07e37b3b9f0012960df3e70906a0",
-      "revision": 2
+      "fingerprint": "e24d501d76f7d05018f2befe412ead79debec3d0b3c2ecfdf3aaa945140a9264",
+      "revision": 3
     },
     "url:https://go.vansh.nyc/1da": {
       "eligible": false,
@@ -20476,6 +20476,16 @@
     "url:https://go.vansh.nyc/1gu": {
       "eligible": false,
       "fingerprint": "386cbc3efc96a71febf094da459834c56eb80b9bbc88ff3796406e174f2aef61",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1h4": {
+      "eligible": false,
+      "fingerprint": "7a3fac1d2ee605da08b094ad1bec795fde820235dbb3cb810793d670d9fb617d",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1h5": {
+      "eligible": false,
+      "fingerprint": "39e1557f8ed0c12973ba6a759e716c477cd70cb95ab82522a967135ee3aeb207",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1k": {
@@ -38691,6 +38701,11 @@
     "url:https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047": {
       "eligible": false,
       "fingerprint": "23fede1d47e5deae6dcca681cc620bc1de6de2ae53052b1b31d951e90ac7b3cb",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd": {
+      "eligible": false,
+      "fingerprint": "3c55a864fa38fbeee54244977d53832a331901a199f50351537c7cabcb02a350",
       "revision": 1
     },
     "url:https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4": {
@@ -60041,7 +60056,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 132,
+  "scan_sequence": 133,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
