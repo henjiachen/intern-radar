@@ -19407,6 +19407,24 @@
       "fingerprint": "2731ebefbbc8f10ab55c4f788e4b77ad280c8e582d7c59e6cfaf5e793275613f",
       "revision": 1
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-fl-jupiter-adr--17900-beeline-hwy--adr-bldg/intern--summer-2027---control-diagnostic-software--onsite-_01883840": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "rtx",
+        "degrees": [],
+        "locations": [
+          "jupiter, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "control/diagnostic software intern"
+      },
+      "fingerprint": "90cabf5aa4ed5af31113ca18c3f06356a5e84e61450295ef4bce3fdad13ba5b4",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-106--400-collins-rd-ne--bldg-106/xmlname-2027-co-op-spring-summer-systems-engineer---onsite_01871432": {
       "eligible": true,
       "evidence": {
@@ -57574,6 +57592,7 @@
     "https://go.vansh.nyc/1fw": 115,
     "https://go.vansh.nyc/1g3": 120,
     "https://go.vansh.nyc/1g4": 120,
+    "https://go.vansh.nyc/1g8": 121,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -58588,6 +58607,7 @@
     "https://go.vansh.nyc/1fw": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133",
     "https://go.vansh.nyc/1g3": "https://job-boards.greenhouse.io/covar/jobs/5240360007",
     "https://go.vansh.nyc/1g4": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
+    "https://go.vansh.nyc/1g8": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -59244,7 +59264,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 120,
+  "scan_sequence": 121,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
