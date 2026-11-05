@@ -2339,6 +2339,21 @@
       "url": "https://apply.clearcompany.com/americo?jobId=6f5dc318-050b-f2ae-129e-8cfcfe2cd202"
     },
     {
+      "company": "Amgen",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "e913285a94db2456655616c9bb5e8edf12a30b603f64bec9a1ac2eefd36bf5eb",
+      "locations": [
+        "Remote in USA"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Graduate Intern",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585"
+    },
+    {
       "company": "Amplify",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -5058,6 +5073,21 @@
       "company": "Boston Scientific",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "65d29a49469e41b332c7b26e96459ce034e8f07ff0766ed1df86d54f5e38295b",
+      "locations": [
+        "Waltham, MA"
+      ],
+      "posted_at": "2026-09-24",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Development Engineer Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567960"
+    },
+    {
+      "company": "Boston Scientific",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "c22db11fcf6de52c7470514deb34cd01e67e04ea87db6f5b495304421deac28d",
       "locations": [
         "Waltham, MA"
@@ -7344,9 +7374,9 @@
       "posted_at": "2026-11-04",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "AI & Automation Engineering Intern",
-      "url": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655"
+      "source": "simplify",
+      "title": "AI and Automation Engineering Intern",
+      "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655"
     },
     {
       "company": "Constellation Brands",
@@ -11190,6 +11220,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171565?type=students"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -15583,24 +15643,6 @@
       "url": "https://koch.avature.net/en_US/careers/JobDetail/195465"
     },
     {
-      "company": "Kudu Dynamics",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "96fdf25898e891631b35b4f2eff7dcfb919f27dbde637f77230ac13966f5afe2",
-      "locations": [
-        "Remote",
-        "United States",
-        "Odenton, MD",
-        "Shiloh, IL"
-      ],
-      "posted_at": "2026-11-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering & AI Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220"
-    },
-    {
       "company": "L3Harris Technologies",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -15826,6 +15868,23 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980"
+    },
+    {
+      "company": "Leidos",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "96fdf25898e891631b35b4f2eff7dcfb919f27dbde637f77230ac13966f5afe2",
+      "locations": [
+        "Remote in USA",
+        "Shiloh, IL",
+        "Odenton, MD"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineering & AI Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220"
     },
     {
       "company": "Life Fitness",
@@ -19244,12 +19303,12 @@
       "locations": [
         "Huntsville, AL"
       ],
-      "posted_at": "2026-11-04",
+      "posted_at": "2026-10-14",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
-      "url": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299"
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299"
     },
     {
       "company": "Patreon",
@@ -19296,6 +19355,74 @@
       "source": "simplify",
       "title": "AI Automation Engineer Intern",
       "url": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply"
+    },
+    {
+      "company": "PayPal",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "9b23b88a444ad7a8ba69912fada0cc072220794ce8e39cb8e9d974b8737bdd54",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Scientist Intern",
+      "url": "https://paypal.eightfold.ai/careers/job/274922982821"
+    },
+    {
+      "company": "PayPal",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "3ce4defab618c6be139cc2ccff6a3677a3ef2e62c673a7df957bda678687c00f",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://paypal.eightfold.ai/careers/job/274922983149"
+    },
+    {
+      "company": "PayPal",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "d66e6a7d1c1c8bb19fd976dd09bfad3d965c76f76fd88c5997a14927fb4c736c",
+      "locations": [
+        "Austin, TX",
+        "San Jose, CA",
+        "Chicago, IL",
+        "Omaha, NE",
+        "Scottsdale, AZ"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Mobile Engineer Intern",
+      "url": "https://paypal.eightfold.ai/careers/job/274922982818"
+    },
+    {
+      "company": "PayPal",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "9dad3f0fdb65f381b3ca43f86c7abba2ac76ea5c59232c40a07e19bb18bde8f3",
+      "locations": [
+        "Austin, TX",
+        "San Jose, CA",
+        "Chicago, IL",
+        "Omaha, NE",
+        "Scottsdale, AZ"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://paypal.eightfold.ai/careers/job/274922982814"
     },
     {
       "company": "Pella",
@@ -22957,11 +23084,11 @@
       "locations": [
         "Pittsburgh, PA"
       ],
-      "posted_at": "2026-11-04",
+      "posted_at": "2026-09-17",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Data Science Intern, AI Center of Excellence",
+      "source": "simplify",
+      "title": "Data Science Intern - AI Center of Excellence",
       "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"
     },
     {
@@ -22972,11 +23099,11 @@
       "locations": [
         "Pittsburgh, PA"
       ],
-      "posted_at": "2026-11-04",
+      "posted_at": "2026-09-17",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Robotics Software Engineering Intern",
+      "source": "simplify",
+      "title": "Robotics Software Engineer Intern",
       "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
     },
     {
@@ -26181,51 +26308,6 @@
       "url": "https://careers.trccompanies.com/jobs/27074?icims=1"
     },
     {
-      "company": "tri",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
-      "id": "5b3ed4a09f002c82ad3697d24f8c6849b66f57edc5c9b66ecbd1eebd2a89ae4b",
-      "locations": [
-        "Los Altos, CA"
-      ],
-      "posted_at": "2025-11-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "lever",
-      "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
-      "url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4"
-    },
-    {
-      "company": "tri",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
-      "id": "a06555ad37a362ca3046966049d816109707005167d012113bc0030f0635718a",
-      "locations": [
-        "Los Altos, CA"
-      ],
-      "posted_at": "2026-11-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "lever",
-      "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
-      "url": "https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b"
-    },
-    {
-      "company": "tri",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
-      "id": "1277f445c0f9dc24df384546b861d5992594ce9468358e54fbbdff0e43fdb6c5",
-      "locations": [
-        "Los Altos, CA"
-      ],
-      "posted_at": "2026-11-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "lever",
-      "title": "Human-Centered AI Research Intern, Human Language Models",
-      "url": "https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e"
-    },
-    {
       "company": "Tria Federal",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -27551,6 +27633,28 @@
       "company": "Vizient",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "5862983def0fd5157788599b1a88dcd0f425bf5956733c8418ca3697865d9aa6",
+      "locations": [
+        "Washington, DC",
+        "Centennial, CO",
+        "Remote in USA",
+        "Edina, MN",
+        "Chicago, IL",
+        "Alpharetta, GA",
+        "Cape Girardeau, MO",
+        "Irving, TX"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Pharmacy Aggregation Intern",
+      "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1"
+    },
+    {
+      "company": "Vizient",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "4da1462cb103581ce41b29bd99e3732d0f39cbd6603d1936430ebe5997df4323",
       "locations": [
         "Chicago, IL"
@@ -28342,6 +28446,21 @@
       "company": "Zebra Technologies",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "15da6f2a3576123096f574660cff3f9f44237d86e13d1b28d964cd5d26aa520d",
+      "locations": [
+        "Holtsville, NY"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657"
+    },
+    {
+      "company": "Zebra Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "87c30e0237533742609aaa9404647e485cb1f3c886cefc36b959f7f1e30d3d4e",
       "locations": [
         "Kennesaw, GA"
@@ -28551,7 +28670,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-05T03:04:38.207783+00:00",
+  "last_checked": "2026-11-05T04:09:54.202046+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
