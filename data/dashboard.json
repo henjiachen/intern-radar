@@ -3046,6 +3046,22 @@
       "url": "https://aramcoservices.applytojob.com/apply/rnpFdnTdYb/Research-And-Development-Boston-Research-Center-2027-Summer-Student-Program"
     },
     {
+      "company": "Arango",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "3a25cde48533b14dc3652dc11a25592edd2aca558d8010584ebe66d730858470",
+      "locations": [
+        "Remote",
+        "United States"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Cookbooks",
+      "url": "https://arangodb.applytojob.com/apply/gzea0EizlE/Software-Engineer-Intern-Arango-Cookbooks"
+    },
+    {
       "company": "Arc",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -8760,13 +8776,13 @@
       "graduation_status": "unknown",
       "id": "fa9d5c896ddca577e7f235509f0a535d4ce7e1f18756341ec6fe34c0d7b27554",
       "locations": [
-        "San Francisco, CA",
+        "SF",
         "Sunnyvale, CA"
       ],
       "posted_at": "2026-10-08",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774"
     },
@@ -18892,21 +18908,6 @@
       "company": "Northrop Grumman",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "05a4bac083213085f0738c58f1477f5b41120aaab87f04021a3ffac4ea2c9daf",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Engineering Software and Analysis Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Engineering-Software-and-Analysis-Intern_R10258772"
-    },
-    {
-      "company": "Northrop Grumman",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "51936162bbe866c78cdb5a5fb6946902c39ce1c33f8f4d30ea310448e0a972ad",
       "locations": [
         "Baltimore, MD"
@@ -22747,22 +22748,6 @@
       "source": "simplify",
       "title": "AI Application Engineer Intern",
       "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003"
-    },
-    {
-      "company": "Sanofi",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "0e65e1e9af768ff5317481c2a56fd3570d05e7231514cae6fe520dd2779363e0",
-      "locations": [
-        "Cambridge, MA",
-        "Morristown, NJ"
-      ],
-      "posted_at": "2026-10-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "US Advanced Analytics Intern",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-US-Advanced-Analytics-Cambridge-MA_R2865218"
     },
     {
       "company": "Saronic",
@@ -27558,23 +27543,6 @@
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
     },
     {
-      "company": "Tyler Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "16dc7eb93500aa9ee329c737c74f4d38d27446e7f659c60289b0fca943b5f5ad",
-      "locations": [
-        "Yarmouth, ME",
-        "Orono, ME",
-        "Falmouth, ME"
-      ],
-      "posted_at": "2026-09-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Intern - Summer 2027",
-      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
-    },
-    {
       "company": "Uber",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -28643,21 +28611,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1"
-    },
-    {
-      "company": "Visa",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "dd7919f9a0f88f26f2f69226e799cfa23b81d3f785126ebf71bcc5c5b5f7e8ad",
-      "locations": [
-        "Denver, CO"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1"
     },
     {
       "company": "Visa",
@@ -29761,7 +29714,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-05T10:25:34.518733+00:00",
+  "last_checked": "2026-11-05T12:08:47.158540+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

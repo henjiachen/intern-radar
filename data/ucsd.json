@@ -4124,6 +4124,25 @@
       "fingerprint": "ba8c5bc4c98760f48e4f07026ce45a8325161a1a7f359452e12c40516c2940e7",
       "revision": 0
     },
+    "url:https://arangodb.applytojob.com/apply/gzea0eizle/software-engineer-intern-arango-cookbooks": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "arango",
+        "degrees": [],
+        "locations": [
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, cookbooks"
+      },
+      "fingerprint": "f170905947a36b33b697edc117e8027529f5d908f1b0dfdec5aa83d6ad18a551",
+      "revision": 1
+    },
     "url:https://archgroup.wd1.myworkdayjobs.com/careers/job/farmington-ct-united-states-of-america/data-and-analytics-intern_r26_845": {
       "eligible": true,
       "evidence": {
@@ -14304,6 +14323,11 @@
       },
       "fingerprint": "e2bc40f0e0fc65a1d09d2cc8973f0c5b8ce89442ce186ada3f59862a1a388d23",
       "revision": 0
+    },
+    "url:https://citjpl.wd5.myworkdayjobs.com/jobs/job/jpl-campus/academic-part-time-intern_r6220": {
+      "eligible": false,
+      "fingerprint": "f2067fc90ec519e284d97cd816e07e9c78bb232cd5884ef9a1420389657a3abe",
+      "revision": 1
     },
     "url:https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/united-states-wisconsin-milwaukee/forward-deployed-engineering-intern--summer-2027-_wd49962": {
       "eligible": true,
@@ -29754,6 +29778,7 @@
         "locations": [
           "san francisco, ca",
           "san francisco, ca +1",
+          "sf",
           "sunnyvale, ca"
         ],
         "requirements": [],
@@ -29762,8 +29787,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "ed1ae1d37cd6f75864a601bb9afcc5caa4ed1259b28da9a0a1963ca0cf3485a8",
-      "revision": 2
+      "fingerprint": "7005a5c9839b8fcf45ce252f9e995c5b9c3de5e13a65c8d47f60ce33952c05f9",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/doordashusa/jobs/8273965": {
       "eligible": false,
@@ -60742,6 +60767,7 @@
     "https://go.vansh.nyc/1in": 143,
     "https://go.vansh.nyc/1io": 143,
     "https://go.vansh.nyc/1ip": 143,
+    "https://go.vansh.nyc/1it": 144,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -61802,6 +61828,7 @@
     "https://go.vansh.nyc/1in": "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e",
     "https://go.vansh.nyc/1io": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e",
     "https://go.vansh.nyc/1ip": "https://ats.rippling.com/veryable-careers/jobs/87c0311c-cd08-449c-8353-03c48314e4cb",
+    "https://go.vansh.nyc/1it": "https://arangodb.applytojob.com/apply/gzea0EizlE/Software-Engineer-Intern-Arango-Cookbooks",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -62458,7 +62485,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 143,
+  "scan_sequence": 144,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
