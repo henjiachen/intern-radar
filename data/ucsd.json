@@ -7624,6 +7624,24 @@
       "fingerprint": "887a1ab55340939bb27afd562e12f90b23bf02a7e50bfb24722649337ff8201b",
       "revision": 2
     },
+    "url:https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/auburn-hills---michigan---usa/software-test-intern_r2026-4385-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "borgwarner",
+        "degrees": [],
+        "locations": [
+          "auburn hills, mi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software test intern"
+      },
+      "fingerprint": "c50a04b2e5367fbd9d9ec2ee42d5a0ef68f0c76a1ab06a5a5b5b0534368564e7",
+      "revision": 1
+    },
     "url:https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/us-ma---framingham/audio-machine-learning-co-op_r29274": {
       "eligible": false,
       "fingerprint": "2f99f7a1be0d892021d1e1f7c926f2580679fc121a28899b6621aad79d539be2",
@@ -22286,6 +22304,11 @@
     "url:https://go.vansh.nyc/1it": {
       "eligible": false,
       "fingerprint": "24e17bdb1e39ed414604e3c13b4aaebc4e2d566a6879da0f4445a75257e1330d",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1jc": {
+      "eligible": false,
+      "fingerprint": "7af7d38e0275ec4f1796fd168d5aadd763baf20eb13227efdd2e30f62f9c7f43",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1k": {
@@ -61167,6 +61190,7 @@
     "https://go.vansh.nyc/1j1": 149,
     "https://go.vansh.nyc/1j3": 150,
     "https://go.vansh.nyc/1j4": 150,
+    "https://go.vansh.nyc/1jb": 151,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -62245,6 +62269,7 @@
     "https://go.vansh.nyc/1j1": "https://recruiting2.ultipro.com/sta1003stark/jobboard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/opportunitydetail?opportunityid=dffb5d69-1f21-45e3-8929-c8a4746e349a",
     "https://go.vansh.nyc/1j3": "https://jobs.smartrecruiters.com/rrdonnelley/744000159883479",
     "https://go.vansh.nyc/1j4": "https://jobs.smartrecruiters.com/rrdonnelley/744000159883639",
+    "https://go.vansh.nyc/1jb": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -62901,7 +62926,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 150,
+  "scan_sequence": 151,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
