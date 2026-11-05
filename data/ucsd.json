@@ -2101,10 +2101,20 @@
       "fingerprint": "6a22fc796ed0b1a521246c3223be09d02136ba5e29fed36156c92b0903e15b38",
       "revision": 1
     },
+    "url:https://americas-cookmedical.icims.com/jobs/19412/job": {
+      "eligible": false,
+      "fingerprint": "93c5432a7f082e5882b509d44bb43bdc2bd76650e3285a9787d2567b1b802f9d",
+      "revision": 1
+    },
+    "url:https://americas-cookmedical.icims.com/jobs/19426/job": {
+      "eligible": false,
+      "fingerprint": "ccc28b89cabb7565c34ec24d3d9b4a226b4347c87d7f18aaf47c9ee76c03ace2",
+      "revision": 1
+    },
     "url:https://americas-cookmedical.icims.com/jobs/19427/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "cook group",
         "degrees": [],
         "locations": [
@@ -2112,17 +2122,18 @@
         ],
         "requirements": [],
         "terms": [
+          "summer 2026",
           "summer 2027"
         ],
         "title": "artificial intelligence & innovation intern"
       },
-      "fingerprint": "ae1f6d822dc214afa30763af90fe39a80015131603ee165aacd3691fc117a169",
-      "revision": 1
+      "fingerprint": "6c8a58a8155c22e439d12f44263b67b0bb5bc8922d4f9d8c9b30e7c25a9b0ef3",
+      "revision": 2
     },
     "url:https://americas-cookmedical.icims.com/jobs/19550/job": {
       "eligible": false,
-      "fingerprint": "5814656d9c7b1c3bbf0fa61d10b41b6dd33ed7dcd75d3e2e0565b0f05d9a402b",
-      "revision": 0
+      "fingerprint": "a16342f0361af31a9b44592cffa45e370115cb7b2a635570d9172cd84cbbe9dd",
+      "revision": 1
     },
     "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/amafm---quantaum-internship-2027_r39562": {
       "eligible": false,
@@ -8329,6 +8340,11 @@
       "fingerprint": "cc33ae5b054105dd3e0bfea298f0eb555ffd2f309640053f3a46776475e49efb",
       "revision": 0
     },
+    "url:https://campus-americas.icims.com/jobs/26246/job": {
+      "eligible": false,
+      "fingerprint": "9fddf87e4cbc585c1bfa6fd2c354903b51cfbd34a3b482312eca2ba0357d5a1f",
+      "revision": 1
+    },
     "url:https://campus-americas.icims.com/jobs/26267/job": {
       "eligible": true,
       "evidence": {
@@ -8346,6 +8362,68 @@
       },
       "fingerprint": "d47c375099587f80816414e0750512190a264ec19cb5b529ef388a946f35fde1",
       "revision": 2
+    },
+    "url:https://campus-americas.icims.com/jobs/26268/job": {
+      "eligible": false,
+      "fingerprint": "a9c5034693ca1c5ca3cbd38a6a90987d1671819ae910bab5cc595ea5169bc1fc",
+      "revision": 1
+    },
+    "url:https://campus-americas.icims.com/jobs/26269/job": {
+      "eligible": false,
+      "fingerprint": "1a769f23a01a56272e301389352bda4e2515765d4d0104dfd4cf36111e559abb",
+      "revision": 1
+    },
+    "url:https://campus-americas.icims.com/jobs/26271/job": {
+      "eligible": false,
+      "fingerprint": "1b8ef6d3116349adc63321ce84c34831b30f3503ac6c0f6b720e46fb60fbce39",
+      "revision": 1
+    },
+    "url:https://campus-americas.icims.com/jobs/26272/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "atlassian",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "seattle, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "2edf57c8299af3c5fe9b1e4899e6707a62db6b86b1618696d0f7dacccb2e22ec",
+      "revision": 1
+    },
+    "url:https://campus-globalcareers-atlassian.icims.com/jobs/26275/job": {
+      "eligible": false,
+      "fingerprint": "2040d0c063eea80baf0d789c90169e7c2ebf9a5de9f4d7e55cb09232d6f67401",
+      "revision": 1
+    },
+    "url:https://campus-libertymutual.icims.com/jobs/122764/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "liberty mutual",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "boston, ma",
+          "plano, tx",
+          "seattle, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "analyst development intern"
+      },
+      "fingerprint": "eaa754151788ff7c75eea20b5bc3a1222136b1e186327f2cbc3028dfe9aad02a",
+      "revision": 1
     },
     "url:https://campus-libertymutual.icims.com/jobs/261797/job": {
       "eligible": true,
@@ -8366,9 +8444,12 @@
     "url:https://campus-us-corgan.icims.com/jobs/4109/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "corgan",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "dallas, tx"
         ],
@@ -8378,8 +8459,8 @@
         ],
         "title": "software development intern"
       },
-      "fingerprint": "3204dbddcae3c5c2e02a7c37356c28559b3d06194f6de015184f13b0f128eb2a",
-      "revision": 1
+      "fingerprint": "e56888ed5b3776e7986e0b4ae888fdf7c1bae47a884dbfc88583575a85e27f5e",
+      "revision": 2
     },
     "url:https://capitalone.wd12.myworkdayjobs.com/capital_one/job/new-york-ny/current-master-s--ai-engineering-internship-program---summer-2027_r249109-1": {
       "eligible": false,
@@ -8400,6 +8481,24 @@
       "eligible": false,
       "fingerprint": "607d09bf0bbb97ef7017f9edd2e6599f6863552f01858331afb0386340b37dd9",
       "revision": 0
+    },
+    "url:https://career-portal-wolfandco.icims.com/jobs/1599/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "wolf & company",
+        "degrees": [],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai & automation intern"
+      },
+      "fingerprint": "5f5f5b5b0b5ffb90dc38496598f146de27f569572a5a4047c08eedc26bf61efa",
+      "revision": 1
     },
     "url:https://career.innovativesystems.com/apply/npmqensqoo/interncoop-summer-2027-software-engineering": {
       "eligible": true,
@@ -8543,6 +8642,49 @@
       "fingerprint": "015182952d9e36839266ab426bae083ccdf268186a45a15a9a17115a51528a10",
       "revision": 1
     },
+    "url:https://careers-americas.icims.com/jobs/26266/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "atlassian",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "seattle, wa",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "e7b255661f2e8068e379e33a04c935ad48d2bb1dc1e6039f363f3afef12bbf39",
+      "revision": 1
+    },
+    "url:https://careers-barrios.icims.com/jobs/2897/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "barrios",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "houston, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data and computer engineering/computer science intern"
+      },
+      "fingerprint": "540cbbdf309a6f26b909cab2266b9940588ad63e8f5d1dec65ea71290594d799",
+      "revision": 1
+    },
     "url:https://careers-berkley.icims.com/jobs/14437/job": {
       "eligible": true,
       "evidence": {
@@ -8573,17 +8715,232 @@
       "fingerprint": "4aa363469f91ca172095df3b1ef4ab01f5f873ce4695814437c025479f9084cd",
       "revision": 0
     },
-    "url:https://careers-daytonfreight.icims.com/jobs/18249/job": {
-      "eligible": false,
-      "fingerprint": "99b940af27a268dd7e41dcb6bd7802a4ab2e04bd603dc197cc2eb9e7bda99c72",
-      "revision": 0
-    },
-    "url:https://careers-gdms.icims.com/jobs/75142/job": {
+    "url:https://careers-blackhawknetwork.icims.com/jobs/26866/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "general dynamics mission systems, inc.",
-        "degrees": [],
+        "category": "software",
+        "company": "blackhawk network holdings",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "coppell, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "technology intern"
+      },
+      "fingerprint": "6f9d06a48be1e7e9a9bc7d1541bb1fc3f2cf1a6aed0d98898cb350b8a3320a6c",
+      "revision": 1
+    },
+    "url:https://careers-blackhawknetwork.icims.com/jobs/26867/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "blackhawk network holdings",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "pleasanton, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "technology intern"
+      },
+      "fingerprint": "6111d5f345035ffc81b1e097c55c4530c5365b94ac59fdf2cdd79156c31d75df",
+      "revision": 1
+    },
+    "url:https://careers-brewers.icims.com/jobs/2804/job": {
+      "eligible": false,
+      "fingerprint": "f7b96aae51d85ee60541e540c6353bbd05f7d462bcf7c617e3898d35f97d36a1",
+      "revision": 1
+    },
+    "url:https://careers-citizensenergygroup.icims.com/jobs/3458/job": {
+      "eligible": false,
+      "fingerprint": "e71f6388e24fa3b53de0dabcdaf441c1b09c57a6d02e3dd7edc3beadcb550d39",
+      "revision": 1
+    },
+    "url:https://careers-cooperhealth.icims.com/jobs/85692/job": {
+      "eligible": false,
+      "fingerprint": "11a97f42d7f8509d2f17aac8b33972dc0533475f95be83408993d0231a54f480",
+      "revision": 1
+    },
+    "url:https://careers-cotiviti.icims.com/jobs/18929/job": {
+      "eligible": false,
+      "fingerprint": "89fa03aa297358da2e27f573bb77fc0bd420ae8694065c3d7f3bca9ee70fdd71",
+      "revision": 1
+    },
+    "url:https://careers-cotiviti.icims.com/jobs/19531/job": {
+      "eligible": false,
+      "fingerprint": "1de0a8a8c3d5275b18600f509c631b42ef5915463f2b58cfa1ec0539e6e7f403",
+      "revision": 1
+    },
+    "url:https://careers-cotiviti.icims.com/jobs/20183/job": {
+      "eligible": false,
+      "fingerprint": "715f847b65807447521ddb9c5070b886c118a819c290622c819ca2b25d799eb7",
+      "revision": 1
+    },
+    "url:https://careers-daytonfreight.icims.com/jobs/18249/job": {
+      "eligible": false,
+      "fingerprint": "c0d65920a0129a3bf004692deb57bf23b76a8f1ff5fcaf5ad40e79c6af0c6257",
+      "revision": 1
+    },
+    "url:https://careers-daytonfreight.icims.com/jobs/18278/job": {
+      "eligible": false,
+      "fingerprint": "70e40bdad5bb269606e614b42960d2dac2b00b6e3b3d78fd3154a43c726c6802",
+      "revision": 1
+    },
+    "url:https://careers-empiricalfoods.icims.com/jobs/4161/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "empirical foods",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "dakota dunes, sd"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - summer 2027"
+      },
+      "fingerprint": "b1607059b7afeb3df7b8d48e4d1ae2be436c69d6958d738d48abdb3d8ae4d0c7",
+      "revision": 1
+    },
+    "url:https://careers-federatedinsurance.icims.com/jobs/5718/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "federated insurance",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "owatonna, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it intern"
+      },
+      "fingerprint": "b7fe36f8b16abc33fdf600690f731bbae5a35c30facfdfc9feef11e71a2d299e",
+      "revision": 1
+    },
+    "url:https://careers-framatome.icims.com/jobs/3294/job": {
+      "eligible": false,
+      "fingerprint": "2a192a150323205ec860f8aec8054d690a7cb5bd5af6b5ef8390fde60d54e09c",
+      "revision": 1
+    },
+    "url:https://careers-framatome.icims.com/jobs/3295/job": {
+      "eligible": false,
+      "fingerprint": "355c06bbb3b67305a9f4f5526f847fabd55b3efd151b76c426a46da8d221e877",
+      "revision": 1
+    },
+    "url:https://careers-framatome.icims.com/jobs/3385/job": {
+      "eligible": false,
+      "fingerprint": "18ffb6f01ef2d6cc6e472b77bee4968cf717bc745eff9ec131703832215df20b",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/74537/job": {
+      "eligible": false,
+      "fingerprint": "ed1d529606dd144b4ce937c323727234920876b2af91b16e538edbe027d6bbc6",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/74687/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "general dynamics mission systems",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "pittsfield, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "b3c68e07a8529573bc313d9c468248a54ae4faad581a2501c97081d6d4c296a6",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/74748/job": {
+      "eligible": false,
+      "fingerprint": "98c0199f75fc31ad4ef0153d72886036834024f9ba920850084402b8145c2f5d",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/74848/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "general dynamics mission systems",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "manassas, va",
+          "middletown, ri"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "payload control system software/systems engineering intern - summer 2027"
+      },
+      "fingerprint": "6040faef4fb36d9cd892790571fe854e1358bdb32eec81e60929ff218966a647",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/74953/job": {
+      "eligible": false,
+      "fingerprint": "6b6251302b5f25b7c2c0d1c19acb3840f3c7e7d9bbe2c9f5c30accdb75dffe96",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/74988/job": {
+      "eligible": false,
+      "fingerprint": "e3f7a57866eaadb03fbf01c9a54007ec66f6d6659cb63649fcd541ae2808b358",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/74993/job": {
+      "eligible": false,
+      "fingerprint": "36be136648c054de706000440dbf33ab66946fd486d463bec22d1b330cad85b5",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/75013/job": {
+      "eligible": false,
+      "fingerprint": "5babee90a91c35ab839ade4eedfb5dc13f2a2990521ce0fc354db5bbd5e6258b",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/75040/job": {
+      "eligible": false,
+      "fingerprint": "a0dce81639b4738ee1d87635bddd6bdbcffdf0abdb140e62fafb80a4124f2477",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/75108/job": {
+      "eligible": false,
+      "fingerprint": "f63cc102618910d67e39554bb5ccde9a8b47a73704cd8d1f8c70a4b2f34db521",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/75128/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "general dynamics mission systems",
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "manassas, va"
         ],
@@ -8591,10 +8948,40 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "ee/computer engineer intern"
+        "title": "software engineering intern"
       },
-      "fingerprint": "4c8750d6c3f09396c6e54e5f4f0e188a656b3cc6d8dd637137dc33f008986357",
-      "revision": 0
+      "fingerprint": "ae5eb8322220b342e3f3985128721ab710882079711f35b5a6ea0cb5d5c3a81d",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/75131/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "general dynamics mission systems",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "lakewood, oh"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "980a156ca8b8afc769cfb66e107742a3314a1e1b69ec5bb10aca643f7d3719a0",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/75141/job": {
+      "eligible": false,
+      "fingerprint": "0b7a18b6e66e45e03c44b613539f9eda272ed8499a10d7d75d023ee9301794e5",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/75142/job": {
+      "eligible": false,
+      "fingerprint": "7adea1984a1eac91890b66b419ccc23b551fbb28683ea1e1838b0ef365c7309f",
+      "revision": 1
     },
     "url:https://careers-gdms.icims.com/jobs/75163/job": {
       "eligible": true,
@@ -8614,28 +9001,66 @@
       "fingerprint": "8d8dc1afed048adafc9acf7524a3b4b79dfbeb76c0f35f89025482e3fd2fd08f",
       "revision": 1
     },
-    "url:https://careers-gdms.icims.com/jobs/75477/job": {
+    "url:https://careers-gdms.icims.com/jobs/75269/job": {
+      "eligible": false,
+      "fingerprint": "bcb3e5107fc77bf5b741afc70f5ac4e572c34c1f2c352f91337ff0496efcb2b6",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/75346/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "general dynamics mission systems",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
-          "scottsdale, az"
+          "manassas, va"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, crypto & cross domain solutions"
+        "title": "software engineer intern - cwl"
       },
-      "fingerprint": "64377a4f41518a07c1122a5828b869a422392e6e313ffe3f8b3b2a9ffc3f5941",
-      "revision": 0
+      "fingerprint": "99332209e0357da04d117af2b0ef809b00b1ec64b50e3a54183dc91c8564c4c3",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/75477/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "general dynamics mission systems",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "scottsdale, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer for crypto & cross domain solutions intern"
+      },
+      "fingerprint": "fe7960b5dba25c6af58632291afc2118c5bc5942e684c59e5f4512829fd3f480",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/75533/job": {
+      "eligible": false,
+      "fingerprint": "6cb30a7472482045efe4ad07e430632df48c86ae7c51b2310ee69c346b93b870",
+      "revision": 1
     },
     "url:https://careers-gdms.icims.com/jobs/75626/job": {
       "eligible": false,
-      "fingerprint": "3ce95394af0ecf1d82e11ea3131f63daf203561afe732c567e827d9b3cdd5256",
-      "revision": 0
+      "fingerprint": "c79a9e36a9516d864c1fd0bd58e730fcde13701ac4cb7ab7ee5a34d1e8d50f76",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/75636/job": {
+      "eligible": false,
+      "fingerprint": "f9e9fb8a64a618d29dc2009013c7da9aba1d58e04fd6348efeddfbabcc759240",
+      "revision": 1
     },
     "url:https://careers-gdms.icims.com/jobs/75637/job": {
       "eligible": true,
@@ -8675,35 +9100,64 @@
     },
     "url:https://careers-gdms.icims.com/jobs/75752/job": {
       "eligible": false,
-      "fingerprint": "e94f1a6761f049606126b13116a8380ec3f2b6343aa36b2cdeeb5033a5219824",
-      "revision": 0
+      "fingerprint": "4704a4ca4abb6658347b8f8d8bf722f49ac17158a40e4a2e4a1ac7b8019faf33",
+      "revision": 1
     },
     "url:https://careers-gdms.icims.com/jobs/75755/job": {
       "eligible": false,
-      "fingerprint": "8a07104793a4abbecb03082fb50cd5f92366306fefce12a65ac9f42e64cc82dd",
-      "revision": 1
+      "fingerprint": "6afccf3149fa0cc57fbb26ac3f8f526368e635f97b76ddb3cc168e1c2ccb3d74",
+      "revision": 2
     },
     "url:https://careers-gdms.icims.com/jobs/75775/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "general dynamics mission systems",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "scottsdale, az"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "e63cd5b769d3a46a65bd5e5b4c36abc9e98411b39317b9a57288356c1df95881",
+      "fingerprint": "cb315c6288367105f5c6035ed0dc842882f5bde6fec557e019b38257886e15a4",
+      "revision": 2
+    },
+    "url:https://careers-gdms.icims.com/jobs/75965/job": {
+      "eligible": false,
+      "fingerprint": "f736b22c8b2fea868ee37d13a1f6440756b85a8947bb2be7c8e3a5f46bab466c",
       "revision": 1
     },
     "url:https://careers-gdms.icims.com/jobs/76785/job": {
       "eligible": false,
-      "fingerprint": "b21242d4c9f905fc24e60651e5ccf3a37b6ac2d25ebadfc4e6f86436707463f0",
+      "fingerprint": "ff50fd1b52fe5ea90835303024a749e8298cb8848d0f3528b2b1278d1069d810",
+      "revision": 2
+    },
+    "url:https://careers-gdms.icims.com/jobs/78349/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "general dynamics mission systems",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "port orchard, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "6256184878cc003fafc78e9f879fbb287cf7f0fc5fd5df585bc45cc061281111",
       "revision": 1
     },
     "url:https://careers-hrblock.icims.com/jobs/76987/job": {
@@ -8729,12 +9183,32 @@
       "fingerprint": "d9c49fe461d76b74c4b2c88ef19adc52d2e5d398d517435947a69fe421b25f12",
       "revision": 1
     },
+    "url:https://careers-ice.icims.com/jobs/14069/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "intercontinental exchange",
+        "degrees": [],
+        "locations": [
+          "atlanta, ga"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "audit analytics intern"
+      },
+      "fingerprint": "cd4fba51be4b23c3feddff3420328b235ab9fda5b39d817413aeaf7f9a0d1577",
+      "revision": 1
+    },
     "url:https://careers-ice.icims.com/jobs/14070/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "intercontinental exchange",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "jacksonville, fl"
         ],
@@ -8744,13 +9218,49 @@
         ],
         "title": "agentic ai data science intern"
       },
-      "fingerprint": "496f6226f23877c030df5e2cf44ce9a2ffb837a7735ade8bae5ca43e44dd93cd",
+      "fingerprint": "7c8fa1d614cd1cbfa34af848162d49eaa109c55c634e8f964ba9a72d3313464f",
+      "revision": 2
+    },
+    "url:https://careers-ice.icims.com/jobs/14071/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "intercontinental exchange",
+        "degrees": [],
+        "locations": [
+          "jacksonville, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "integration intern"
+      },
+      "fingerprint": "38b65fdfec29269b8c4201452e2520059f57a3f373719bee6902b23f65956f29",
+      "revision": 1
+    },
+    "url:https://careers-ice.icims.com/jobs/14075/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "intercontinental exchange",
+        "degrees": [],
+        "locations": [
+          "jacksonville, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "eef070d4065759f24cad49ce61f07f448ec6dbc0c67527180919919bae47fd15",
       "revision": 1
     },
     "url:https://careers-ice.icims.com/jobs/14076/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "intercontinental exchange",
         "degrees": [],
         "locations": [
@@ -8762,15 +9272,17 @@
         ],
         "title": "software developer intern"
       },
-      "fingerprint": "88b8ea3bfd21fbf54fbb80603243a255a6090132efed51f974d24e810b08a07b",
-      "revision": 1
+      "fingerprint": "1862d195abfa35542e489e0de0c39c6571ecf71e827e32c2cccd42065e5148a5",
+      "revision": 2
     },
     "url:https://careers-ice.icims.com/jobs/14077/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "intercontinental exchange",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "jacksonville, fl"
         ],
@@ -8780,13 +9292,13 @@
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "474dffe66a5acb3f23b1624b29875aac0f093da25ae938714d4b666f561e0f8f",
-      "revision": 1
+      "fingerprint": "7c71484331075863ea5d824dbb12185c6920114e3fdc22efc020ab780019bc61",
+      "revision": 2
     },
     "url:https://careers-ice.icims.com/jobs/14078/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "intercontinental exchange",
         "degrees": [],
         "locations": [
@@ -8798,17 +9310,28 @@
         ],
         "title": "software engineering intern, java"
       },
-      "fingerprint": "c13181ef179005712d286a81ed20d5aeced9944fead4ef62f543d9dd012fbb19",
+      "fingerprint": "cf9e8632ecb6dbc3450e850056cbfa455ec2089ea6e4925ef9293d6f191d3f90",
+      "revision": 2
+    },
+    "url:https://careers-ice.icims.com/jobs/14101/job": {
+      "eligible": false,
+      "fingerprint": "ff5e84c94cc2255602193af8c2791828ca21144c9a77fe7e7401256747cc7b3d",
+      "revision": 1
+    },
+    "url:https://careers-ice.icims.com/jobs/14102/job": {
+      "eligible": false,
+      "fingerprint": "2deaf78f4104c88f19a0a95f9f1db6a28866594ee5981996de13b2f1f1237a12",
       "revision": 1
     },
     "url:https://careers-ice.icims.com/jobs/14105/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "intercontinental exchange",
         "degrees": [],
         "locations": [
-          "new york, ny"
+          "new york, ny",
+          "nyc"
         ],
         "requirements": [],
         "terms": [
@@ -8816,17 +9339,18 @@
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "4b18db0018aeb5e46f5864511958df703de77bb9088668ddd21a477e11777caa",
-      "revision": 1
+      "fingerprint": "7554b76155e7288dc482a865bd50d2bb0e712d14ee31cb5be4696eac1beb4e52",
+      "revision": 2
     },
     "url:https://careers-ice.icims.com/jobs/14113/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "quant",
         "company": "intercontinental exchange",
         "degrees": [],
         "locations": [
-          "new york, ny"
+          "new york, ny",
+          "nyc"
         ],
         "requirements": [],
         "terms": [
@@ -8834,15 +9358,17 @@
         ],
         "title": "data science intern"
       },
-      "fingerprint": "4101ffc1e13a06e66c688f7c3b4cb462a2a8370ef428bc21b9cfd5f7c84615c0",
-      "revision": 1
+      "fingerprint": "94695e68ed183961be9e2510d18650b979ed6c28b2f9ef204e23a3f922c27dc8",
+      "revision": 2
     },
     "url:https://careers-iridium.icims.com/jobs/5136/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "iridium communications",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "chandler, az",
           "leesburg, va",
@@ -8855,29 +9381,163 @@
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "9d1b91890da147d3f9b647f6ef86c343f4bf272f6e95173872de0ae84ed7acc7",
-      "revision": 2
+      "fingerprint": "e683fd65ad2f9b04596ae1ec988ddd49c829c60f05f846fb140cb14a5940baf2",
+      "revision": 3
+    },
+    "url:https://careers-kinaxis.icims.com/jobs/35297/job": {
+      "eligible": false,
+      "fingerprint": "e7dde03b55be0bf5e7d2d75740cf9d7e6ffc6233c9a5d69133355a11900da282",
+      "revision": 1
+    },
+    "url:https://careers-kinaxis.icims.com/jobs/35343/job": {
+      "eligible": false,
+      "fingerprint": "29f102d0a9cf6709ff0f6d0f0ace44473ec5e122e3b7171c6af3b1f23d3ee9b1",
+      "revision": 1
+    },
+    "url:https://careers-kinaxis.icims.com/jobs/35372/job": {
+      "eligible": false,
+      "fingerprint": "cd4b4d67f19842128dd099f522f4d010a90470659864abcb2b5cc29b1c3fb2dd",
+      "revision": 1
+    },
+    "url:https://careers-kinaxis.icims.com/jobs/35465/job": {
+      "eligible": false,
+      "fingerprint": "5353bd63964c80f44caf95d3894709d4bc62c53dda355083d1e55b2aa7f49e30",
+      "revision": 1
+    },
+    "url:https://careers-novelis.icims.com/jobs/53836/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "novelis",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "kennesaw, ga"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "automotive engineering co-op"
+      },
+      "fingerprint": "b885dccc37dc14dbdc01775e8b3c32f57035fdbfbed5bf8e5e612ecd08af5094",
+      "revision": 1
     },
     "url:https://careers-peraton.icims.com/jobs/169665/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "peraton",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
+          "blacksburg, va",
+          "herndon, va",
           "herndon, va +1"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 software engineer intern"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
       },
-      "fingerprint": "0eb7aa79d5c7e8e2fafb45755d173d095601e169e02ce128d192cfb30d1a6808",
-      "revision": 0
+      "fingerprint": "a12ffd910412735103ffd16f8f8637eeb2f514e6bbbcb4a070ac202a6ba3f015",
+      "revision": 1
+    },
+    "url:https://careers-peraton.icims.com/jobs/170120/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "peraton",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "basking ridge, bernards, nj",
+          "bedford, nh",
+          "silver spring, md",
+          "west lafayette, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "cyber research intern"
+      },
+      "fingerprint": "c0b066631b2b9b277c42cf3658a9628efbdbec4460571c42ca69034c4ebe763d",
+      "revision": 1
+    },
+    "url:https://careers-peraton.icims.com/jobs/170319/job": {
+      "eligible": false,
+      "fingerprint": "08b18a0a012bba01bab811bbcf7f70ef5bb85c62c452a0ed43db5774d51f6eac",
+      "revision": 1
+    },
+    "url:https://careers-peraton.icims.com/jobs/170320/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "peraton",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "blacksburg, va",
+          "herndon, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "d91f15fb475c1ea9d8823f4f5b227abd6f0bc9be74097c9304eb7168c39377ee",
+      "revision": 1
+    },
+    "url:https://careers-peraton.icims.com/jobs/171546/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "peraton",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san diego, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "social media & marketing analyst intern"
+      },
+      "fingerprint": "5598dacbe7a613e3a0594c55b3c7d0affaec12ee4737a880d72c107840b4d3fb",
+      "revision": 1
     },
     "url:https://careers-peraton.icims.com/jobs/171547/job": {
-      "eligible": false,
-      "fingerprint": "7e953fd77c3cb500739f0c45b7b93dd3ec4bdda715033b3f510b4c822aa59a61",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "peraton",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san diego, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "spring 2027",
+          "summer 2027"
+        ],
+        "title": "software engineering co-op"
+      },
+      "fingerprint": "0f27a9f63963d8f1118ed3e205112f22e7c30c04879e550e00fa0f702ffb3a23",
+      "revision": 1
     },
     "url:https://careers-peraton.icims.com/jobs/172061/job": {
       "eligible": true,
@@ -8904,26 +9564,198 @@
       "fingerprint": "9fdd07f554a8f0ab3565857a097b31fd9ba747d243434dbc480a159df95a23e0",
       "revision": 1
     },
+    "url:https://careers-pgworks.icims.com/jobs/1990/job": {
+      "eligible": false,
+      "fingerprint": "4551e0ad3c29c6b2e204ba1a300cb268ef27eb24f9f9d6d801acc77430f2f7d6",
+      "revision": 1
+    },
+    "url:https://careers-resonetics.icims.com/jobs/5550/job": {
+      "eligible": false,
+      "fingerprint": "2ff86dde1e7cae4dbf90c3a6fcd9642676e39979e828095820ac420e3e4fc391",
+      "revision": 1
+    },
     "url:https://careers-sdsurf.icims.com/jobs/21086/job": {
       "eligible": false,
       "fingerprint": "de3ebc5cd11e0bcdc1e7268f1cbfabf56b9979f43661b0a92d0c0a605454d75e",
       "revision": 1
     },
+    "url:https://careers-sig.icims.com/jobs/10785/job": {
+      "eligible": false,
+      "fingerprint": "7d65b14b9fdf69489bf5ecd8e0120a9ea3a995e9ab13919358524d90e9b4e33b",
+      "revision": 1
+    },
+    "url:https://careers-sig.icims.com/jobs/10838/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "quant",
+        "company": "susquehanna international group (sig)",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "ardmore, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "quantitative strategy developer intern"
+      },
+      "fingerprint": "2ebea067e9e088d47603552d4aca3c3526124fdbce4068c741ef9723c6e6a3a5",
+      "revision": 1
+    },
+    "url:https://careers-sig.icims.com/jobs/10945/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "susquehanna international group (sig)",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "ardmore, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "electricity + natural gas analyst intern"
+      },
+      "fingerprint": "fdbcf2a016d8b54ea41ef96a60e41c125ae8219c552264f70fb4c53d288edb92",
+      "revision": 1
+    },
+    "url:https://careers-sig.icims.com/jobs/11170/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "quant",
+        "company": "susquehanna international group (sig)",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "philadelphia, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "quantitative strategy developer intern"
+      },
+      "fingerprint": "1ef6f98b383a2f9ad77f6be1f903d07642851a9c71798e147aaf54abc8cf457d",
+      "revision": 1
+    },
+    "url:https://careers-sig.icims.com/jobs/11333/job": {
+      "eligible": false,
+      "fingerprint": "c83d521bef370ddcd2db6f3445f624f1632c1cdfaffd37a77a882ff1ac63b3e5",
+      "revision": 1
+    },
+    "url:https://careers-sig.icims.com/jobs/11555/job": {
+      "eligible": false,
+      "fingerprint": "d93bae6fb2024b630d66e9f3e57da6716cdb5b9720e1090742cee23a778a5bfa",
+      "revision": 1
+    },
     "url:https://careers-simventions.icims.com/jobs/1631/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "simventions",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "fredericksburg, va"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "2027 software development intern"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development intern"
       },
-      "fingerprint": "008c4d4449adf08f0926d70c1517d51df8cc5e5dc8d69015c3f0b87d1f7c5d5d",
-      "revision": 0
+      "fingerprint": "16cb63adece836902de286340922b709339a6766b6d3e24afee3998393301d8c",
+      "revision": 1
+    },
+    "url:https://careers-springswindowfashions.icims.com/jobs/12874/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "springs window fashions",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "middleton, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analyst intern - consumer business unit"
+      },
+      "fingerprint": "0cf4f2ed2d06180d5aa2a9f292b9f5ba3bb2dccfc6d225ed9a9b18e1151314dd",
+      "revision": 1
+    },
+    "url:https://careers-springswindowfashions.icims.com/jobs/12875/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "springs window fashions",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "middleton, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai analyst intern - consumer business unit"
+      },
+      "fingerprint": "17521a8a96ce600b6858c38cb699e56d59ae6724852b7ebcd2384d077b667805",
+      "revision": 1
+    },
+    "url:https://careers-springswindowfashions.icims.com/jobs/12881/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "springs window fashions",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "middleton, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "textile engineering intern - summer 2027"
+      },
+      "fingerprint": "c3047bb49a47ea8bc9287149888c2367f5312417cd7d05953c0bd6924a7653da",
+      "revision": 1
+    },
+    "url:https://careers-springswindowfashions.icims.com/jobs/12891/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "springs window fashions",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "long island city, queens, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern - summer 2027"
+      },
+      "fingerprint": "f56448eb33a871a0fa26aeb3cd0ae3ccfc51363e4f0d8b5ef21c1355b444c517",
+      "revision": 1
     },
     "url:https://careers-springswindowfashions.icims.com/jobs/12945/job": {
       "eligible": true,
@@ -8943,55 +9775,104 @@
       "fingerprint": "421b647b6edde289ed9dc98b5d5f4ba4e249c4e3e42da0925bf24ac6492081d5",
       "revision": 0
     },
+    "url:https://careers-sscgp.icims.com/jobs/3036/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "southern star central gas pipeline",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "owensboro, ky"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "gis analyst intern"
+      },
+      "fingerprint": "85ca064997331d7a1aa256e438f68a6aac3385930494c8076a7f438d031de168",
+      "revision": 1
+    },
+    "url:https://careers-sscgp.icims.com/jobs/3037/job": {
+      "eligible": false,
+      "fingerprint": "6e5e6cacb81958722d3b1fb6f3cc41338d40b7b5ed7241ac29c34ff15877943d",
+      "revision": 1
+    },
     "url:https://careers-thesilverlining.icims.com/jobs/3759/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "west bend insurance",
         "degrees": [],
         "locations": [
+          "madison, wi",
           "west bend, wi"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "it software engineer intern"
+        "title": "it data engineer intern"
       },
-      "fingerprint": "82bf4a10ae8023e0840a88c0b5557a167b2c2bea7e6a482cf4884caf2e7b4a7e",
+      "fingerprint": "71fa1848b7dd4afc500433afba00ea5f94b8168bd68da502f5177902129bd708",
+      "revision": 2
+    },
+    "url:https://careers-thesilverlining.icims.com/jobs/3786/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "west bend insurance",
+        "degrees": [],
+        "locations": [
+          "madison, wi",
+          "west bend, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data solution engineer intern"
+      },
+      "fingerprint": "6da95e5d2f640134cddfbd6cfa9cc8f968b5dd7c1ec1504f39abb40a6fd2f606",
+      "revision": 1
+    },
+    "url:https://careers-usa-titanmaterials.icims.com/jobs/26920/job": {
+      "eligible": false,
+      "fingerprint": "254316f71ae00bdafb88a4844e5deaa6ff6768fd7306dfec3fb7f47993a09103",
+      "revision": 1
+    },
+    "url:https://careers-werfen.icims.com/jobs/10995/job": {
+      "eligible": false,
+      "fingerprint": "60ad6a312c8258b3b69edaa4be84801a38bc014b7d963392d362f51f97d84507",
       "revision": 1
     },
     "url:https://careers-westernsouthern.icims.com/jobs/25211/job": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "western & southern financial group",
-        "degrees": [],
-        "locations": [
-          "cincinnati, oh"
-        ],
-        "requirements": [],
-        "terms": [],
-        "title": "artificial intelligence developer intern - full year 2027"
-      },
-      "fingerprint": "09b9b5ef9b3e5e572145404e58192f8ee967bf57267108a1a5228d8a921f8e4e",
-      "revision": 0
+      "eligible": false,
+      "fingerprint": "b150f5b6a46c0c8b88400bf3dadfc5c892f254627d6734964d780e05d3b3d8df",
+      "revision": 1
     },
     "url:https://careers-westernsouthern.icims.com/jobs/25222/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "western & southern financial group",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "cincinnati, oh"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "software developer intern - agency systems - full year 2027"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
       },
-      "fingerprint": "61777f4d0356986ee1ed0a14dc909a2aaeb76d10d4970870527305df4a0d6550",
-      "revision": 0
+      "fingerprint": "87521c9d417af729df33a3e155cbf4706e223370fde326c0adde8d30516cd1cb",
+      "revision": 1
     },
     "url:https://careers.84lumber.com/jobs/26178?icims=1": {
       "eligible": false,
@@ -9744,6 +10625,16 @@
       "fingerprint": "92bd88739cf0142596191b0ed1365e64eddf9c7bc998d4fd1f05588a46b6a540",
       "revision": 1
     },
+    "url:https://careers.docusign.com/jobs/30470?icims=1": {
+      "eligible": false,
+      "fingerprint": "522c91ffe28e99a23af25e58bf0579ce9881e958cd31262d03950d1c4ccfa339",
+      "revision": 1
+    },
+    "url:https://careers.docusign.com/jobs/30478?icims=1": {
+      "eligible": false,
+      "fingerprint": "a613d795bc9115412442a26717e384b91cb33f45736c432b5d21f668b8139810",
+      "revision": 1
+    },
     "url:https://careers.docusign.com/jobs/30481?icims=1": {
       "eligible": false,
       "fingerprint": "a613d795bc9115412442a26717e384b91cb33f45736c432b5d21f668b8139810",
@@ -9768,6 +10659,16 @@
         "title": "software engineer intern"
       },
       "fingerprint": "778dc274258666a603464f0b3157d1824ccb4308f045a8c32d5eeae97bf34c4c",
+      "revision": 1
+    },
+    "url:https://careers.docusign.com/jobs/30488?icims=1": {
+      "eligible": false,
+      "fingerprint": "a613d795bc9115412442a26717e384b91cb33f45736c432b5d21f668b8139810",
+      "revision": 1
+    },
+    "url:https://careers.docusign.com/jobs/30496?icims=1": {
+      "eligible": false,
+      "fingerprint": "a613d795bc9115412442a26717e384b91cb33f45736c432b5d21f668b8139810",
       "revision": 1
     },
     "url:https://careers.docusign.com/jobs/30497?icims=1": {
@@ -9801,6 +10702,11 @@
       "fingerprint": "a613d795bc9115412442a26717e384b91cb33f45736c432b5d21f668b8139810",
       "revision": 0
     },
+    "url:https://careers.docusign.com/jobs/30563?icims=1": {
+      "eligible": false,
+      "fingerprint": "3f73974f53d37ae754ab03da97a2e1a5d15ac8f268d74439d6e4b14b78c071bc",
+      "revision": 1
+    },
     "url:https://careers.docusign.com/jobs/30571?lang=en-us": {
       "eligible": true,
       "evidence": {
@@ -9817,6 +10723,11 @@
         "title": "software developer intern"
       },
       "fingerprint": "9538069e93ac884f70bb6c4ab1295f99bbdd8c849f95bb16a3d5f06e6fb3bcc2",
+      "revision": 1
+    },
+    "url:https://careers.docusign.com/jobs/30597?icims=1": {
+      "eligible": false,
+      "fingerprint": "918e5528920931d5879e3c6297f99502cd8e478a2ed185102c0e1f44e7e865f5",
       "revision": 1
     },
     "url:https://careers.dominionenergy.com/job/glen-allen-intern-et-asset-analyst-(digital-solutions-team)-va-23060/1441549200?ats=successfactors": {
@@ -9907,6 +10818,11 @@
       "fingerprint": "0c5d80a1f3d20fd6b88e4664197317d51731c202491cfcd3c0ce5da332847e9e",
       "revision": 0
     },
+    "url:https://careers.garmin.com/jobs/19925?icims=1": {
+      "eligible": false,
+      "fingerprint": "361ca90a9c7eccf6c7c5dc0d0636125727d57d0b2975101947ea5bdfa4cf9f46",
+      "revision": 1
+    },
     "url:https://careers.garmin.com/jobs/19926?icims=1": {
       "eligible": false,
       "fingerprint": "658017f658b4df5b60142ae0e0789da68df41a9072f8ddc1a5577b7cb78b1017",
@@ -9936,6 +10852,26 @@
       "eligible": false,
       "fingerprint": "a2102616f5454637f571e4d71c0dad67ebaef50d29188f105d4d9675dea15ef3",
       "revision": 0
+    },
+    "url:https://careers.garmin.com/jobs/20129?icims=1": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "garmin",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "brea, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "e9b5fa6e90fbbc57f82946012ee25569d2b3245e3099c68c1a4b4306120225c5",
+      "revision": 1
     },
     "url:https://careers.garmin.com/jobs/20131?icims=1": {
       "eligible": true,
@@ -11587,6 +12523,26 @@
       "fingerprint": "cc257cb16b3b43138cabaa5e8653610f183233c503baf5d69349cb44b2d68f9b",
       "revision": 0
     },
+    "url:https://careers.viasat.com/jobs/7757?icims=1": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "viasat",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "germantown, md"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "bc275f0e44e3881446bc76fc0dea10824e17f6765cf51aa5123d22f13d9a7f09",
+      "revision": 1
+    },
     "url:https://careers.westinghousenuclear.com/job/cranberry-township-summer-intern-application-development-nc/1426859800?ats=successfactors": {
       "eligible": true,
       "evidence": {
@@ -11947,34 +12903,321 @@
       "fingerprint": "ee2492354d3e0ee554ea0c498253e203cd96e094a5ee136600d7fbb167739b25",
       "revision": 0
     },
+    "url:https://careersenus-itt-inc.icims.com/jobs/17657/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "itt",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "irvine, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics / ai intern - summer 2027"
+      },
+      "fingerprint": "a0d952c17f4be43ca98cbd27dd222a8b68098d61fd6712bc248390a9dabe9652",
+      "revision": 1
+    },
     "url:https://careersus-shure.icims.com/jobs/4956/job": {
-      "eligible": false,
-      "fingerprint": "d06c3fa911413a60308bba41706d3d2869b9309fde3d796644d65d13bf937791",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "shure",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "application software engineer intern"
+      },
+      "fingerprint": "7a223fdd1ed4470dd095e4e58acccd316d5e7bf724bf201f38a6c600bd426096",
+      "revision": 1
     },
     "url:https://careersus-shure.icims.com/jobs/4964/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "shure",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "automated test software engineering intern"
+      },
+      "fingerprint": "e082319243cc3b050e92a5cf5dcbba46874333ab315f0b72cc538695057380b3",
+      "revision": 2
+    },
+    "url:https://careersus-shure.icims.com/jobs/4965/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "shure",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "cloud applications development intern"
+      },
+      "fingerprint": "cbae563ff0717f5a090b68e9a613e858c0f8865af5e2e5d64a359165ef310ffa",
+      "revision": 1
+    },
+    "url:https://careersus-shure.icims.com/jobs/4966/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "shure",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "artificial intelligence engineer intern"
+      },
+      "fingerprint": "39712ee8cc39f1a14e27d76223fe9f6db3cc689377d3b34ac61a6081730d3463",
+      "revision": 1
+    },
+    "url:https://careersus-shure.icims.com/jobs/4967/job": {
       "eligible": false,
-      "fingerprint": "71ba8074d9e3dc3361913ce864c657de5cf70c33961e7b9f1cb40745bcd88a56",
+      "fingerprint": "f7d9b4906cc4c659d9fa6502aaedc26e648e4957c5e97e2389586d840ca351e6",
+      "revision": 1
+    },
+    "url:https://careersus-shure.icims.com/jobs/4968/job": {
+      "eligible": false,
+      "fingerprint": "738c457127aea60327c5a5c3ee5f9c7264b3a18d65ca3f34ec8f2125e82e789e",
       "revision": 1
     },
     "url:https://careersus-shure.icims.com/jobs/4976/job": {
-      "eligible": false,
-      "fingerprint": "f3a6d14e3809bba29f6e1e7d4643a312680f6e5faab1cef833636d7c85828c73",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "shure",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "cloud software engineer intern"
+      },
+      "fingerprint": "8f23467b1dd719b8287c54d8708ff8d45cf085887519b2f97d9eccd106132623",
+      "revision": 1
+    },
+    "url:https://careersus-shure.icims.com/jobs/4979/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "shure",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data-driven sustainability intern"
+      },
+      "fingerprint": "ac8613f4c52c3ea0612a2068d97615a4bd3a1d0d4c87fadc2dade91240707277",
+      "revision": 1
+    },
+    "url:https://careersus-shure.icims.com/jobs/4982/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "shure",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "4fffc54f62964b8fbff32bc354bc614ec95a411ae940c5bf60a007d57bce1246",
+      "revision": 1
     },
     "url:https://careersus-shure.icims.com/jobs/4996/job": {
       "eligible": false,
-      "fingerprint": "71920dfa18ee32dfaf4e33aa1965da5f5b074e3c717732f0b32029eec4ba5538",
-      "revision": 0
-    },
-    "url:https://careersus-shure.icims.com/jobs/5018/job": {
-      "eligible": false,
-      "fingerprint": "04dde1ba9f18d5ba95f9db6d008dcdf7e5dab7e391f962f9b2e3029c3a259d18",
+      "fingerprint": "cdd813cf6f8b52de42e0145119eb55198966bce4dfd0becaf821674c9f7baa5c",
       "revision": 1
     },
+    "url:https://careersus-shure.icims.com/jobs/5002/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "shure",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "skokie, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "unified communications technology intern"
+      },
+      "fingerprint": "556fed0c9b57730d8ee5a8ff54b5a2ca7420e44d87478e6c339dc2181ab9bec1",
+      "revision": 1
+    },
+    "url:https://careersus-shure.icims.com/jobs/5006/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "shure",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "mobile applications intern - android"
+      },
+      "fingerprint": "8c50cdabe44ba29015100744a90a823f45124865c15f59402b65125e7c6284d5",
+      "revision": 1
+    },
+    "url:https://careersus-shure.icims.com/jobs/5007/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "shure",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "mobile applications intern - ios"
+      },
+      "fingerprint": "24ab5b555cbf78f23800d2e03583b066d48918d02969108472b818d90e62a3d4",
+      "revision": 1
+    },
+    "url:https://careersus-shure.icims.com/jobs/5018/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "shure",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded software intern"
+      },
+      "fingerprint": "8ad1b6998c921a5c467ac7063429e7c05f8e73dc1f72de0ee2160eade722a9b0",
+      "revision": 2
+    },
     "url:https://careersus-shure.icims.com/jobs/5020/job": {
-      "eligible": false,
-      "fingerprint": "191bf43dd8afb0bccbd11ffd3f6b2a5947ed80ce8bec44d56c1bc5b14ad27480",
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "shure",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "application software development intern"
+      },
+      "fingerprint": "d8ca81e74213758f6160e18e4e9332c64ff5c4d7ef339d0e25ef3eb08df787b0",
+      "revision": 2
+    },
+    "url:https://careersus-shure.icims.com/jobs/5021/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "shure",
+        "degrees": [],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "application systems development intern - motive mix"
+      },
+      "fingerprint": "247f6ae27be762127d08f38dc79df46360af3604d7218c39dd55fa7468d078fe",
+      "revision": 1
+    },
+    "url:https://careersus-shure.icims.com/jobs/5027/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "shure",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "niles, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "web analytics intern"
+      },
+      "fingerprint": "297d9d019cd9b0ebb06a699763752f270ab686bc252406a2f4f2bc2ae3ef346d",
       "revision": 1
     },
     "url:https://caresource.wd1.myworkdayjobs.com/caresource/job/florida-wfh/xmlname-2027-summer-internship-program---caresource-military-and-veterans-intern_r14186-1": {
@@ -12604,8 +13847,8 @@
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/wavelogic-embedded-software-developer-intern--winter-2027-_r031890": {
       "eligible": false,
-      "fingerprint": "95655e2c7a41789d7fb1b7623dfa1f224c1afa81b83cc783ccf0f16edd0a2bbf",
-      "revision": 2
+      "fingerprint": "fb77fb0fab7b70b3b60248a4e558696495f85b047dbb40fb8ba5b7b2439f4e9e",
+      "revision": 3
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/quebec/intern---software-developer-technician_r031983-1": {
       "eligible": false,
@@ -13318,6 +14561,84 @@
       "eligible": false,
       "fingerprint": "348ce35d490e3023191299085b64cce80c746a63ec8aae8f0ccd5a5cc3adba37",
       "revision": 0
+    },
+    "url:https://corporatejobs-alaskaair.icims.com/jobs/21208/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "alaska air group",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "seatac, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "guest products analyst intern"
+      },
+      "fingerprint": "a14d609670fbafa52c9830f1545dc0e7de6e28e34598b13fb1825c96b7acbd32",
+      "revision": 1
+    },
+    "url:https://corporatejobs-alaskaair.icims.com/jobs/21277/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "alaska air group",
+        "degrees": [],
+        "locations": [
+          "seatac, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "eecf9cc04a1e18a39b82098e45781cda0722014eb313d24c378256ac6a2c62c0",
+      "revision": 1
+    },
+    "url:https://corporatejobs-alaskaair.icims.com/jobs/21281/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "alaska air group",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "renton, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "vr development intern"
+      },
+      "fingerprint": "722e4dd79c9d06e3d821b2ef5a228fc832e4917ec8264dc7746ffb127e1b3824",
+      "revision": 1
+    },
+    "url:https://corporatejobs-alaskaair.icims.com/jobs/21286/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "alaska air group",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "renton, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "bi analyst intern"
+      },
+      "fingerprint": "ddd851ea6990385602dedd5d198c015b0ebc6e29da9baac27fc19bb04ce49f09",
+      "revision": 1
     },
     "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/irvine-us/associate-software-engineer---irvine--ca_r39736": {
       "eligible": false,
@@ -16385,6 +17706,27 @@
       "fingerprint": "4e841c946b3f61eaaa330ede8c9c2d79e87c9f95842963ca2908cb47e4697c91",
       "revision": 0
     },
+    "url:https://externalhourly-highgate.icims.com/jobs/82546/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "highgate",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "irving, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data services intern - summer 2027"
+      },
+      "fingerprint": "f26e76f64f8d4e35cb11d8e369bb4e7348fec5fc8df89af0815883b1101441c3",
+      "revision": 1
+    },
     "url:https://eyglobal.yello.co/jobs/b62iqxo_xkj_egnrd4wuow?job_board_id=c1riT--B2O-KySgYWsZO1Q": {
       "eligible": false,
       "fingerprint": "92ff76469dfdb7372b13e48965a0bccc57b1a306a54ce63640279f77afe53160",
@@ -18136,6 +19478,24 @@
       "fingerprint": "ed10041be0dd983c07e324d9c3cfb71f897af4cebfd6d498a2fa6609ce3e4428",
       "revision": 0
     },
+    "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-ai-ml-data-science-and-engineering-internship_rq228936": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "general dynamics information technology",
+        "degrees": [],
+        "locations": [
+          "bossier city, la"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai/ml data science and engineering intern"
+      },
+      "fingerprint": "918936c4d22bba16c3e0539802eba302916a937e7694b4e5b6bdd8e6c7021aca",
+      "revision": 1
+    },
     "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-ai-ml-software-development-and-engineering-internship_rq228939": {
       "eligible": true,
       "evidence": {
@@ -18778,9 +20138,22 @@
       "revision": 0
     },
     "url:https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/indianapolis-in-usa/software-engineering-intern_jr112421": {
-      "eligible": false,
-      "fingerprint": "fa64d0a962697f8d573dfa3b17f172d180edc644bb5d7e7b800cce6eaed5d7b1",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "genesys",
+        "degrees": [],
+        "locations": [
+          "indianapolis, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "d20129046c9331fd48916bf6455dc0d7ef8f42b7f6489eeb35ad6a7a7851748d",
+      "revision": 1
     },
     "url:https://genpt.wd1.myworkdayjobs.com/careers/job/birmingham-al-usa/cloud-developer-intern_r26_0000029133": {
       "eligible": false,
@@ -20695,14 +22068,14 @@
       "fingerprint": "2eef1bab5ca095eb20213d7c0ddf8b65288a136ed0c7d7851324a97e07840d03",
       "revision": 3
     },
+    "url:https://go.vansh.nyc/1hj": {
+      "eligible": false,
+      "fingerprint": "b0235b92ed31c7e485ddb0c360260189890bc829891ebf3bd4b2726b20e0b585",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1hk": {
       "eligible": false,
       "fingerprint": "1b0fa2442497c5c31c216710a1c94a82122d90c3a1df5f5421eee8769c9525f8",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1ho": {
-      "eligible": false,
-      "fingerprint": "fb1ac0f4b906ad8daaa7f4bdb961dc9dba55a9718ad5321e241f3e95bcb14e98",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1hq": {
@@ -21129,8 +22502,8 @@
     },
     "url:https://go.vansh.nyc/cd": {
       "eligible": false,
-      "fingerprint": "d890e185f6089d5d9191187cc672c64feb2606f4e86cfd30150844f7806817f1",
-      "revision": 0
+      "fingerprint": "e15a08f5b36975688feb1280d5fdb56cbcacf29f5d0cb1007e9c25d034d4af39",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/ci": {
       "eligible": false,
@@ -25807,10 +27180,20 @@
       "fingerprint": "a69a99089d97f229e136fe5b5eee87c023aad50b56ada0991353d314fa018509",
       "revision": 1
     },
+    "url:https://ideas-sas.icims.com/jobs/42645/job": {
+      "eligible": false,
+      "fingerprint": "7fe829198e213fdbd19219920611fd8f7ffd972ae9ba91c784511fc4787ad3d7",
+      "revision": 1
+    },
     "url:https://ideas-sas.icims.com/jobs/42665/job": {
       "eligible": false,
-      "fingerprint": "0405854613873d5bae050a515295b151fca1b91f59a05d97df6da63a373f5de7",
-      "revision": 0
+      "fingerprint": "470fa0cca0d46fa490de283f34978b3054a5e1dd2311b0815909da5624cff8fd",
+      "revision": 1
+    },
+    "url:https://ideas-sas.icims.com/jobs/44176/job": {
+      "eligible": false,
+      "fingerprint": "387ed7f94b960bdfd739e970cd0f8c0944a6a4b048373f4cc98bc2a63288e5a0",
+      "revision": 1
     },
     "url:https://igsenergy.wd1.myworkdayjobs.com/igs/job/ohio-remote/software-engineer-intern_r6263": {
       "eligible": true,
@@ -26253,6 +27636,11 @@
       },
       "fingerprint": "e5c07c5eb17c84e45d20485be0bb64a22f7b7f0560e407d00513c4b8424ae922",
       "revision": 0
+    },
+    "url:https://internships-aei.icims.com/jobs/2699/job": {
+      "eligible": false,
+      "fingerprint": "2a12cebc51eb6a6c1a38688d1851fb49538d084214ef1b7c4e86c820f5b663b4",
+      "revision": 1
     },
     "url:https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/montreal/intern--genai-and-digital-workplace--january---april-2027-_r5003": {
       "eligible": false,
@@ -36327,6 +37715,28 @@
       "fingerprint": "ba01740d4864ab508f641b7b3e8c3e5c93e01067a4c3a7b6105c290de63a6905",
       "revision": 0
     },
+    "url:https://jobs.constellationenergy.com/jobs/139493?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "constellation energy",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "baltimore, md"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "load forecasting & analytics intern"
+      },
+      "fingerprint": "40a67d05d8c62a956990fa3a2a1ffeecec2ae8cc31e6fede2e98478f0daf0348",
+      "revision": 1
+    },
     "url:https://jobs.constellationenergy.com/jobs/139494?icims=1": {
       "eligible": true,
       "evidence": {
@@ -36347,6 +37757,87 @@
       },
       "fingerprint": "952093e0e9e844d360cddb8910ab1e77b4e22fc56a9fb687dccb14e3b6ab78fe",
       "revision": 0
+    },
+    "url:https://jobs.constellationenergy.com/jobs/140300?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "constellation energy",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san diego, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it development intern"
+      },
+      "fingerprint": "d1cee3587bb29c094fe38922d3c40c828e78100ef49bf6ba9c49a3650561fdb1",
+      "revision": 1
+    },
+    "url:https://jobs.constellationenergy.com/jobs/140352?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "constellation energy",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "middletown, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data & digital transformation intern - geysers"
+      },
+      "fingerprint": "c6b0b093c2b9a4c1f50e3d57e25149dec9612172560f7af297f7698e4d519ea3",
+      "revision": 1
+    },
+    "url:https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "constellation energy",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "middletown, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "geothermal production analytics engineer intern"
+      },
+      "fingerprint": "98a10b1493b712cd7279e99e11d6fff7c9101c754b277ce4365318be18ced6cb",
+      "revision": 1
+    },
+    "url:https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "constellation energy",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "houston, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "renewable energy intern"
+      },
+      "fingerprint": "fc8ead7c277c03a1eebc61267a94ba020cd45e05610be2dd73aa0d25bec85e6d",
+      "revision": 1
     },
     "url:https://jobs.dayforcehcm.com/en-us/ibgllc/candidateportal/jobs/2135": {
       "eligible": true,
@@ -40715,6 +42206,50 @@
       "eligible": false,
       "fingerprint": "8872847fcc38ad2d24ea07ec81c172143744804d4f90c55c82f6997225290e29",
       "revision": 0
+    },
+    "url:https://jobs.statefarm.com/jobs/46049?icims=1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "state farm",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "champaign, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "fall 2027",
+          "spring 2027",
+          "summer 2027"
+        ],
+        "title": "magnet program @ university of illinois urbana-champaign intern"
+      },
+      "fingerprint": "d1cd46b8695cd35916c4a4e80f461f7f14fb8e7744f293d0e482c1c0e08f0b8f",
+      "revision": 1
+    },
+    "url:https://jobs.statefarm.com/jobs/46301?icims=1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "state farm",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "tempe, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "fall 2027",
+          "spring 2027",
+          "summer 2027"
+        ],
+        "title": "magnet program intern"
+      },
+      "fingerprint": "64c508dcb163bb6b04d8f890caa62f381c70794d4664130c7fa2400ca009dff4",
+      "revision": 1
     },
     "url:https://jobs.statefarm.com/jobs/46353?icims=1": {
       "eligible": false,
@@ -46802,9 +48337,27 @@
       "revision": 0
     },
     "url:https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/atlanta-ga-usa/data-science-intern_r1154686": {
-      "eligible": false,
-      "fingerprint": "85b0e8d8dba8fec30188b2d5c638203e51e8e34cdb9e759cc3c3b8f4204b3efb",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "ncr atleos",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "atlanta, ga",
+          "frisco, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "2135350b482ca2b8a96e65748cd201b7d9a60b757941bb7466d6aeaedea102ca",
+      "revision": 1
     },
     "url:https://nebius.com/early-talent-program/swe-ml?gh_jid=5024729101": {
       "eligible": false,
@@ -47731,6 +49284,11 @@
       "eligible": false,
       "fingerprint": "c39a499027813dec67dec945216d29bb8163d2fead3d15f576d14b85cf934c30",
       "revision": 0
+    },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/deep-learning-scientist-intern--llm--multimodal-and-agentic-ai---summer-2027_jr2027548": {
+      "eligible": false,
+      "fingerprint": "6fb998f6bdf5a029647264d5f5ac22c0ca5fe9fe79d306ad0f4f5a7c250c57b1",
+      "revision": 1
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/differentiable-simulation-research-intern---summer-2027_jr2027561": {
       "eligible": false,
@@ -52455,6 +54013,11 @@
       "fingerprint": "49cbfc0afedd25c9ba8577331f35bcbac8c788a7a282e4b7553265c8a4fde940",
       "revision": 0
     },
+    "url:https://studentemployment-stthomas.icims.com/jobs/9527/job": {
+      "eligible": false,
+      "fingerprint": "ce30953e9fe9cb122d518f04981d5fc2be5ecc4bf837a33604b10c0ea10a9ddf",
+      "revision": 1
+    },
     "url:https://studentopportunities-lutron.icims.com/jobs/5354/job": {
       "eligible": false,
       "fingerprint": "4ac059884d1b29ca703a36d03dff5b248cd176821f9910cb10c5070be2673b84",
@@ -52956,6 +54519,24 @@
       "eligible": false,
       "fingerprint": "d25e0819a597c454a0e4f8e374792d1967c7630e3c7b8242a3a3e3aeba8d09ec",
       "revision": 0
+    },
+    "url:https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/us-california-palo-alto/site-reliability-engineer--sre--intern---ai-infrastructure_r108158": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tencent",
+        "degrees": [],
+        "locations": [
+          "palo alto, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "site reliability engineer (sre) intern, ai infrastructure"
+      },
+      "fingerprint": "8107d2e8259f2d953d0fb00df6c5aacc1865c0b6df114e6de0e9aff6189eee90",
+      "revision": 1
     },
     "url:https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/united-kingdom-london/game-development-tools-intern--ai-focus-_r108251": {
       "eligible": false,
@@ -54173,18 +55754,44 @@
     "url:https://us-erac.icims.com/jobs/566721/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "enterprise",
-        "degrees": [],
+        "category": "software",
+        "company": "enterprise holdings",
+        "degrees": [
+          "bachelor's",
+          "bootcamp"
+        ],
         "locations": [
           "st. louis, mo"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "intern - software engineer - summer 2027"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - summer 2027"
       },
-      "fingerprint": "d59f60bad881d6f1ac57714c362e6c8725f07153eb52cae9f23330e2ff80ad7c",
-      "revision": 0
+      "fingerprint": "94805aa1a2975b3b3abf06d4345f54cd525a7f90dee1fe48411332a6b40e99d3",
+      "revision": 1
+    },
+    "url:https://us-erac.icims.com/jobs/567651/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "enterprise holdings",
+        "degrees": [
+          "bachelor's",
+          "bootcamp"
+        ],
+        "locations": [
+          "st. louis, mo"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer intern - it"
+      },
+      "fingerprint": "6903cacb3574e21f60674c12c19d20f81b6fb7c1684d8e0924f60edae568609a",
+      "revision": 1
     },
     "url:https://us-erac.icims.com/jobs/569085/job": {
       "eligible": true,
@@ -54239,6 +55846,27 @@
       "fingerprint": "2e2fafdf42e336429f65c68a4a6d7a4ea008a8e0a7e7f5f9ae1022990aff441f",
       "revision": 0
     },
+    "url:https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "alliance laundry systems",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "ripon, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "fall 2027",
+          "summer 2027"
+        ],
+        "title": "embedded firmware co-op"
+      },
+      "fingerprint": "f957ede9ab5d2fdd6d8dd032fd2a42481d28be5fea9829461dbcf43eb5e8c4d6",
+      "revision": 1
+    },
     "url:https://uscareers-docusign.icims.com/jobs/30470/job": {
       "eligible": false,
       "fingerprint": "5bd86cdf67aa7e876ffd491d697e4168afe2957b8488d43835503a44a212f084",
@@ -54277,29 +55905,36 @@
     "url:https://uscareers-idemia.icims.com/jobs/8647/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "idemia",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
-          "brentwood, tn"
+          "brentwood, tn",
+          "reston, va"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern, enrollment and credentialing services"
+        "title": "engineering intern"
       },
-      "fingerprint": "c5afe1cf2cab3ec6e6a089e664a768c3e44926e9c349f8fbe2b40cbc8a6b2f03",
-      "revision": 1
+      "fingerprint": "bc3153556a3e120f10695ae728e996205f28445aa2ed7f16dc6a61d7e1a861d6",
+      "revision": 2
     },
     "url:https://uscareers-idemia.icims.com/jobs/8650/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "idemia",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "remote",
+          "reston, va",
           "united states"
         ],
         "requirements": [],
@@ -54308,8 +55943,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "3f92f895c6c0057b29e6333c036fb382c56c7dfebe01205e40c79aede4f1aa53",
-      "revision": 1
+      "fingerprint": "f5193e9ef31bb4980accd53e8762012bcdba17d695ad6ed58ae01082788069b6",
+      "revision": 2
     },
     "url:https://uscareers-idemia.icims.com/jobs/8707/job": {
       "eligible": true,
@@ -54329,15 +55964,56 @@
       "fingerprint": "98c5e958d5854b0c48634e40778a28268404e1debe72858783876c445508aea9",
       "revision": 1
     },
+    "url:https://uscareers-lennox.icims.com/jobs/54691/job": {
+      "eligible": false,
+      "fingerprint": "98f1d02c7f469c8f5b3b6d2cada77e7dca4becd5c8e068a3ca7f6c0727faa406",
+      "revision": 1
+    },
+    "url:https://uscareers-lennox.icims.com/jobs/54804/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "lennox international",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "richardson, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai & analytics intern"
+      },
+      "fingerprint": "003d2d0ac7bfb0c19485ab65011b8c5cf88a91e1b505fb315d1cb2db8f4c42ee",
+      "revision": 1
+    },
     "url:https://uscareers-lennox.icims.com/jobs/54888/job": {
       "eligible": false,
-      "fingerprint": "958ddce50a35bbb6eb2f0bcf1c98ebfcd14522d12e1f41844a78af2acc64bdfa",
-      "revision": 0
+      "fingerprint": "189f4c69486f5a512d3b5b545748d4426409d40092291909eb252164b791aafc",
+      "revision": 1
     },
     "url:https://uscareers-lennox.icims.com/jobs/54891/job": {
       "eligible": false,
       "fingerprint": "7493cb31641acdb80c0cfa14b37e4010498260099248988c40d7bfe0e3612236",
       "revision": 0
+    },
+    "url:https://uscareers-lennox.icims.com/jobs/54893/job": {
+      "eligible": false,
+      "fingerprint": "c6596bfb32648521761f94045f2158bdc54ecb92edafbf0028b585082e232c02",
+      "revision": 1
+    },
+    "url:https://uscareers-lennox.icims.com/jobs/54897/job": {
+      "eligible": false,
+      "fingerprint": "c122840ff17f0386e7cc25e2f16c58181e0abf239496a05755ee7e7d03df3232",
+      "revision": 1
+    },
+    "url:https://uscareers-lennox.icims.com/jobs/55590/job": {
+      "eligible": false,
+      "fingerprint": "d4696e470d2975a2f4da601780a2463583ce4c4be92aaeb4e2a5051e91bbc672",
+      "revision": 1
     },
     "url:https://usnh.wd5.myworkdayjobs.com/careers/job/university-of-new-hampshire--main-campus/research-intern_jr8497": {
       "eligible": false,
@@ -58878,6 +60554,14 @@
     "https://go.vansh.nyc/1gz": 127,
     "https://go.vansh.nyc/1h2": 132,
     "https://go.vansh.nyc/1h9": 134,
+    "https://go.vansh.nyc/1hI": 142,
+    "https://go.vansh.nyc/1hK": 142,
+    "https://go.vansh.nyc/1hM": 142,
+    "https://go.vansh.nyc/1hQ": 142,
+    "https://go.vansh.nyc/1hS": 142,
+    "https://go.vansh.nyc/1hT": 142,
+    "https://go.vansh.nyc/1hU": 142,
+    "https://go.vansh.nyc/1hX": 142,
     "https://go.vansh.nyc/1hi": 136,
     "https://go.vansh.nyc/1hw": 138,
     "https://go.vansh.nyc/1hz": 138,
@@ -59919,6 +61603,14 @@
     "https://go.vansh.nyc/1gz": "https://jobs.ericsson.com/careers/job/563121777173171",
     "https://go.vansh.nyc/1h2": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655",
     "https://go.vansh.nyc/1h9": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567",
+    "https://go.vansh.nyc/1hI": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928",
+    "https://go.vansh.nyc/1hK": "https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Indianapolis-IN-USA/Software-Engineering-Intern_JR112421",
+    "https://go.vansh.nyc/1hM": "https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/ATLANTA-GA-USA/Data-Science-Intern_R1154686",
+    "https://go.vansh.nyc/1hQ": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158",
+    "https://go.vansh.nyc/1hS": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228936",
+    "https://go.vansh.nyc/1hT": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939",
+    "https://go.vansh.nyc/1hU": "https://careers.viasat.com/jobs/7757?icims=1",
+    "https://go.vansh.nyc/1hX": "https://careers-gdms.icims.com/jobs/78349/job?mobile=true&needsRedirect=false",
     "https://go.vansh.nyc/1hi": "https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/US---WI---Milwaukee-HQ/Firmware-Test-Engineer-Intern_4675",
     "https://go.vansh.nyc/1hw": "https://paypal.eightfold.ai/careers/job/274922982814",
     "https://go.vansh.nyc/1hz": "https://paypal.eightfold.ai/careers/job/274922983149",
@@ -60578,7 +62270,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 141,
+  "scan_sequence": 142,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
