@@ -5239,6 +5239,24 @@
       "fingerprint": "ac273cabdf8246748f5f8021a9a2f6553e8145a2db9d3660a2f90ac3d8e1e810",
       "revision": 1
     },
+    "url:https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/us---wi---milwaukee-hq/firmware-test-engineer-intern_4675": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "badger meter",
+        "degrees": [],
+        "locations": [
+          "milwaukee, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "firmware test engineer intern"
+      },
+      "fingerprint": "6c1beaca7f61fb225f89c11075819eac996eb5ca385d7d4cb8a8e4da11bbf24b",
+      "revision": 1
+    },
     "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/albuquerque-nm/university---2027-summer-games--systems-engineer-intern---albuquerque--nm_r0252337": {
       "eligible": true,
       "evidence": {
@@ -58410,6 +58428,7 @@
     "https://go.vansh.nyc/1gz": 127,
     "https://go.vansh.nyc/1h2": 132,
     "https://go.vansh.nyc/1h9": 134,
+    "https://go.vansh.nyc/1hi": 136,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -59448,6 +59467,7 @@
     "https://go.vansh.nyc/1gz": "https://jobs.ericsson.com/careers/job/563121777173171",
     "https://go.vansh.nyc/1h2": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655",
     "https://go.vansh.nyc/1h9": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567",
+    "https://go.vansh.nyc/1hi": "https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/US---WI---Milwaukee-HQ/Firmware-Test-Engineer-Intern_4675",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -60104,7 +60124,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 135,
+  "scan_sequence": 136,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
