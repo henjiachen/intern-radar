@@ -4723,6 +4723,24 @@
       "fingerprint": "5e00d2d606055a8e13279d86f6b5909229b3628ebca575a15073d04baa638636",
       "revision": 0
     },
+    "url:https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lyte ai",
+        "degrees": [],
+        "locations": [
+          "sunnyvale, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "255b8bb83d484d1170ddc1c5f517a322731252971d7206fa40088cd4d17fed30",
+      "revision": 1
+    },
     "url:https://ats.rippling.com/mytra/jobs/ce0c1a3b-21b5-42df-a710-1def7071dfd8": {
       "eligible": false,
       "fingerprint": "2dcb23a2d047f64e3187ea954138e2ea6d721c60a81634bed2bdf690f0f3f26b",
@@ -4843,6 +4861,24 @@
       },
       "fingerprint": "27534cd5af3804925690514bfed7c714873b7da87d7a2716fde7781b7ed49551",
       "revision": 0
+    },
+    "url:https://ats.rippling.com/veryable-careers/jobs/87c0311c-cd08-449c-8353-03c48314e4cb": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "veryable",
+        "degrees": [],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "platform engineer intern"
+      },
+      "fingerprint": "e581fbaaa6370afc0efce7d0c7c431831dc364f9ce4bf7fd107853e89a32acbf",
+      "revision": 1
     },
     "url:https://austincc.wd1.myworkdayjobs.com/external/job/highland-campus/gis-intern-at-acc-inc--hourly-_r-10104": {
       "eligible": false,
@@ -8978,11 +9014,6 @@
       "fingerprint": "0b7a18b6e66e45e03c44b613539f9eda272ed8499a10d7d75d023ee9301794e5",
       "revision": 1
     },
-    "url:https://careers-gdms.icims.com/jobs/75142/job": {
-      "eligible": false,
-      "fingerprint": "7adea1984a1eac91890b66b419ccc23b551fbb28683ea1e1838b0ef365c7309f",
-      "revision": 1
-    },
     "url:https://careers-gdms.icims.com/jobs/75163/job": {
       "eligible": true,
       "evidence": {
@@ -9404,6 +9435,16 @@
       "fingerprint": "5353bd63964c80f44caf95d3894709d4bc62c53dda355083d1e55b2aa7f49e30",
       "revision": 1
     },
+    "url:https://careers-mineralstech.icims.com/jobs/4896/job": {
+      "eligible": false,
+      "fingerprint": "a351755a2c3831b32d93f92bf7db4f8813689af59ba88f94df0e8ae853d996c3",
+      "revision": 1
+    },
+    "url:https://careers-mineralstech.icims.com/jobs/4903/job": {
+      "eligible": false,
+      "fingerprint": "5245a78979d56f907077f1802e87c39d7c10839dfacfd9b07c8b145bb59fad55",
+      "revision": 1
+    },
     "url:https://careers-novelis.icims.com/jobs/53836/job": {
       "eligible": true,
       "evidence": {
@@ -9655,6 +9696,16 @@
     "url:https://careers-sig.icims.com/jobs/11555/job": {
       "eligible": false,
       "fingerprint": "d93bae6fb2024b630d66e9f3e57da6716cdb5b9720e1090742cee23a778a5bfa",
+      "revision": 1
+    },
+    "url:https://careers-sig.icims.com/jobs/11654/job": {
+      "eligible": false,
+      "fingerprint": "062f93b75dd5dd1027115b8ff47600c9a66d8b0b7805abb3b221dd1b4c3c4888",
+      "revision": 1
+    },
+    "url:https://careers-sig.icims.com/jobs/11675/job": {
+      "eligible": false,
+      "fingerprint": "b7e5d83dcfcf53dd760cafb41c032da612255d9a30a91613d266f4232de63a69",
       "revision": 1
     },
     "url:https://careers-simventions.icims.com/jobs/1631/job": {
@@ -12009,6 +12060,32 @@
       },
       "fingerprint": "2a4bc9c8728298106ff57e74d72c9abe4f4406f61b535802100413e08b92d28c",
       "revision": 2
+    },
+    "url:https://careers.noblis.org/jobs/28089?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "fe086d0b0feb3b07624df2167128b00cd29a58f8a03ba1888b7ef14aae062d35",
+      "revision": 1
+    },
+    "url:https://careers.noblis.org/jobs/28097?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "noblis",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "reston, va",
+          "springfield, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science and innovation intern"
+      },
+      "fingerprint": "5138545915eba10da457e445f77cb3b21dc66043d9117a8daa4862658321d8c0",
+      "revision": 1
     },
     "url:https://careers.phillips66.com/job/bartlesville-west-2027-university-intern-eri-analytical-solutions-ok-74004/1439555700?ats=successfactors": {
       "eligible": true,
@@ -22088,6 +22165,41 @@
       "fingerprint": "bd4e58061ebbeec1d9f0eadff07e12f71df82db6e3df7c33c01bad41b6a0414a",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1i3": {
+      "eligible": false,
+      "fingerprint": "ae0270cb8f69b24ee55ad9d026adaa23cb67ae510bb304364a2fe84317900831",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1i9": {
+      "eligible": false,
+      "fingerprint": "5ce7d336b47694e69d7cef6dac2c917024e5639ad71465a7fbce841075306bff",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ib": {
+      "eligible": false,
+      "fingerprint": "f2fb3ea1b90ce6733a85a0006d772976bac1dd81ed71ca22c605ac2c0d3c5c7f",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ic": {
+      "eligible": false,
+      "fingerprint": "28dc33ceb114c45feab161df05e0b69fe466ac63b287e30e381edfa1f0536261",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1id": {
+      "eligible": false,
+      "fingerprint": "7000e95f894d7172c522e20fe4086b3daeeea0aaa72123630c4896f6b7176855",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ie": {
+      "eligible": false,
+      "fingerprint": "cb1ed0e8d3312d942a367aa91a9430d97cb194f5a5a8de9f866c994480627e0d",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ih": {
+      "eligible": false,
+      "fingerprint": "6b72e5963d5e189906deb103a214b9031ea824bbab7b458fc1b7f4486f7ece07",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1k": {
       "eligible": false,
       "fingerprint": "ac2367ecdb86555ceb30e8e05ee043dce929e9a1493e8f2ec788c5fee382c4de",
@@ -27399,6 +27511,24 @@
       "fingerprint": "bd7926212ab60b1cf4913eaa1508d7a448de9fab524bbe41a0a4073aa00e15a3",
       "revision": 1
     },
+    "url:https://innovativesystems.applytojob.com/apply/npmqensqoo/interncoop-summer-2027-software-engineering": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "innovative systems",
+        "degrees": [],
+        "locations": [
+          "pittsburgh, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering co-op"
+      },
+      "fingerprint": "925258acf55f4d3a5c5be6a5c8c07e57623822688b2a86407fa30def649ea87a",
+      "revision": 1
+    },
     "url:https://insperity.wd12.myworkdayjobs.com/nsp/job/kingwood-tx/rotational-ai-intern_jr103460": {
       "eligible": true,
       "evidence": {
@@ -29624,7 +29754,6 @@
         "locations": [
           "san francisco, ca",
           "san francisco, ca +1",
-          "sf",
           "sunnyvale, ca"
         ],
         "requirements": [],
@@ -29633,8 +29762,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "7005a5c9839b8fcf45ce252f9e995c5b9c3de5e13a65c8d47f60ce33952c05f9",
-      "revision": 1
+      "fingerprint": "ed1ae1d37cd6f75864a601bb9afcc5caa4ed1259b28da9a0a1963ca0cf3485a8",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/doordashusa/jobs/8273965": {
       "eligible": false,
@@ -32462,11 +32591,6 @@
       "fingerprint": "66f4650de59cd29ad6ec285e8782741af15b309dbb600909cfa9ef549bf7a5ee",
       "revision": 0
     },
-    "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005": {
-      "eligible": false,
-      "fingerprint": "c980499f1eb9daaf4bade57f4504dd1f90baf123887d9ec44c4f64dee35a3133",
-      "revision": 1
-    },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005": {
       "eligible": false,
       "fingerprint": "6a9c49fef30fec0e35b0735a9e3411563b645234ee2acec7da533ffff45e128c",
@@ -33869,18 +33993,16 @@
           "bachelor's"
         ],
         "locations": [
-          "san francisco, ca",
-          "sf"
+          "san francisco, ca"
         ],
         "requirements": [],
         "terms": [
-          "fall 2027",
           "summer 2027"
         ],
         "title": "ai platform engineer intern"
       },
-      "fingerprint": "81dce6eeffb790d8a327b50d7281b63512a33bdfb3b9d9a8106a3b1228c2baa2",
-      "revision": 2
+      "fingerprint": "c417706e113c2976286eea56922a86de31fd2f97c84d6fb54d19eb45135f76b5",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42": {
       "eligible": false,
@@ -47478,9 +47600,25 @@
       "revision": 0
     },
     "url:https://metecs.applytojob.com/apply/xtbhkhivhq/summer-software-internship": {
-      "eligible": false,
-      "fingerprint": "3ff9e6899de8b81b01e00a8339e755d30470b9dc21c347c4ab208006b0838941",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "metecs",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "houston, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software intern"
+      },
+      "fingerprint": "ede6c9c66e2c016a4db3035b5d7f190b8a9b10382f20385376fd8d76ce555faf",
+      "revision": 1
     },
     "url:https://metlife.avature.net/en_us/ml/jobdetail/20701": {
       "eligible": true,
@@ -50732,9 +50870,23 @@
       "revision": 0
     },
     "url:https://prospectequities.applytojob.com/apply/xtbzsacntg/backend-frontend-developer-intern": {
-      "eligible": false,
-      "fingerprint": "e57100269db2a01cbf11fb7cb33c01431da95db4d62415a43ff9dc79e8e10acf",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "prospect equities",
+        "degrees": [],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "fall 2026",
+          "summer 2027"
+        ],
+        "title": "backend / frontend developer intern"
+      },
+      "fingerprint": "28f5fc1119750830f19faef1b823d0241d0cc2164dfde9e19a8e3211bb1bfad2",
+      "revision": 1
     },
     "url:https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/highland-heights-ky/it-intern_r-34910": {
       "eligible": false,
@@ -54743,9 +54895,23 @@
       "revision": 0
     },
     "url:https://thecarycompany.applytojob.com/apply/1grufg1wip/ai-automation-intern": {
-      "eligible": false,
-      "fingerprint": "8eb30fbe872709c6314eab0a427101b780365fcf5438707b350a59499a6a9e3a",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "the cary company",
+        "degrees": [],
+        "locations": [
+          "addison, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "ai / automation intern"
+      },
+      "fingerprint": "e110ccfc225dccf6f6224bbcd65bc62dbe7e0838d1374124c35b84fd78e098c9",
+      "revision": 1
     },
     "url:https://thehartford.wd5.myworkdayjobs.com/careers_external/job/hartford-ct/data-science-intern---summer-2027_r2627114": {
       "eligible": false,
@@ -60565,6 +60731,17 @@
     "https://go.vansh.nyc/1hi": 136,
     "https://go.vansh.nyc/1hw": 138,
     "https://go.vansh.nyc/1hz": 138,
+    "https://go.vansh.nyc/1i2": 143,
+    "https://go.vansh.nyc/1i4": 143,
+    "https://go.vansh.nyc/1i5": 143,
+    "https://go.vansh.nyc/1ia": 143,
+    "https://go.vansh.nyc/1ig": 143,
+    "https://go.vansh.nyc/1ii": 143,
+    "https://go.vansh.nyc/1ij": 143,
+    "https://go.vansh.nyc/1im": 143,
+    "https://go.vansh.nyc/1in": 143,
+    "https://go.vansh.nyc/1io": 143,
+    "https://go.vansh.nyc/1ip": 143,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -61614,6 +61791,17 @@
     "https://go.vansh.nyc/1hi": "https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/US---WI---Milwaukee-HQ/Firmware-Test-Engineer-Intern_4675",
     "https://go.vansh.nyc/1hw": "https://paypal.eightfold.ai/careers/job/274922982814",
     "https://go.vansh.nyc/1hz": "https://paypal.eightfold.ai/careers/job/274922983149",
+    "https://go.vansh.nyc/1i2": "https://careers.noblis.org/jobs/28097?icims=1&lang=en-us",
+    "https://go.vansh.nyc/1i4": "https://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering",
+    "https://go.vansh.nyc/1i5": "https://metecs.applytojob.com/apply/XTBhKHIVhQ/Summer-Software-Internship",
+    "https://go.vansh.nyc/1ia": "https://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern",
+    "https://go.vansh.nyc/1ig": "https://thecarycompany.applytojob.com/apply/1gRuFg1wIp/AI-Automation-Intern",
+    "https://go.vansh.nyc/1ii": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53",
+    "https://go.vansh.nyc/1ij": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7",
+    "https://go.vansh.nyc/1im": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5",
+    "https://go.vansh.nyc/1in": "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e",
+    "https://go.vansh.nyc/1io": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e",
+    "https://go.vansh.nyc/1ip": "https://ats.rippling.com/veryable-careers/jobs/87c0311c-cd08-449c-8353-03c48314e4cb",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -62270,7 +62458,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 142,
+  "scan_sequence": 143,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
