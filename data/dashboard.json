@@ -28481,21 +28481,6 @@
       "company": "Visa",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "ec07abac44510895ea103712932e59c793f9c2338b60cb70eee2cd0dc3f5691b",
-      "locations": [
-        "Denver, CO"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W"
-    },
-    {
-      "company": "Visa",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "bbdd592c3895f0b59a3ee0a2577e340abb7aec4a0b1150766bb2dd44c91c8cfb",
       "locations": [
         "Bellevue, WA"
@@ -29277,21 +29262,6 @@
       "url": "https://wing.com/careers/8872476002?gh_jid=8872476002"
     },
     {
-      "company": "Winsupply",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "5ca3f2cd4e2b9ce91e8be4187aa380e6b8490ec39a809cbbe9d92b7d1712d108",
-      "locations": [
-        "Moraine, OH"
-      ],
-      "posted_at": "2026-09-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Developer Intern",
-      "url": "https://jobs.smartrecruiters.com/Winsupply1/3743990015014717"
-    },
-    {
       "company": "Wolf & Company",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29714,7 +29684,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-05T12:08:47.158540+00:00",
+  "last_checked": "2026-11-05T13:29:16.676777+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

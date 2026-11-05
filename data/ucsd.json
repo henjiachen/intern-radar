@@ -42324,25 +42324,9 @@
       "revision": 0
     },
     "url:https://jobs.smartrecruiters.com/winsupply1/3743990015014717": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "winsupply",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "moraine, oh"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027",
-          "winter 2026"
-        ],
-        "title": "software developer intern"
-      },
-      "fingerprint": "fce7a67b62df517749da0bcd3f68673d9547c58116cf355fb140577ac79bcf6c",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "3c56488e7cd369f98167a9d37fabb6c1e6a44f274891f00fd4567d7d7d68d640",
+      "revision": 2
     },
     "url:https://jobs.smartrecruiters.com/winsupply1/3743990015014717-software-developer-intern-?oga=true": {
       "eligible": false,
@@ -62485,7 +62469,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 144,
+  "scan_sequence": 145,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
