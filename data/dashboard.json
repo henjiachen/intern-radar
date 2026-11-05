@@ -15289,6 +15289,21 @@
       "company": "JM Family",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "9c94818c26b6696d0156263b8e6e6939280e383392aa4d1544d45d649f3615bd",
+      "locations": [
+        "Deerfield Beach, FL"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Analyst Intern",
+      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187"
+    },
+    {
+      "company": "JM Family",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "8ecd2dbccacdd5c4fd59faf22a4d8aefcd87c61e48ab15abc15e1dc8255ccd9e",
       "locations": [
         "Deerfield Beach, FL"
@@ -16333,21 +16348,6 @@
       "source": "simplify",
       "title": "Data Engineer Intern",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576"
-    },
-    {
-      "company": "Leidos",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "5c2c8109bdff77e6158f704a715d1f6354f4e5b876454373a8a329b3b99a74be",
-      "locations": [
-        "Remote in USA"
-      ],
-      "posted_at": "2026-10-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Performance Enablement AI/ML Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656"
     },
     {
       "company": "Leidos",
@@ -22642,6 +22642,21 @@
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Systems-Engineer-Intern--Onsite----Mission-Sensor-Manager_01879093"
     },
     {
+      "company": "RTX",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ceb375269f433dbe764b92011ed33c04ac728d771019b1f6158dcd577cbf66bb",
+      "locations": [
+        "Tewksbury, MA"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Systems Security Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702"
+    },
+    {
       "company": "Rugged Robotics",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -23275,6 +23290,24 @@
       "source": "simplify",
       "title": "Embedded Firmware Intern",
       "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/621d736b-5ae1-4d62-8f05-088753318d29/application?embed=true"
+    },
+    {
+      "company": "Shield AI",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "17a13f3d1ecd368a95bd12830edceaf72862a22aa4e3100187441dd41b97c110",
+      "locations": [
+        "Dallas, TX",
+        "Washington, DC",
+        "Seattle, WA",
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949"
     },
     {
       "company": "Shield AI",
@@ -24690,21 +24723,6 @@
       "source": "simplify",
       "title": "Electricity + Natural Gas Analyst Intern",
       "url": "https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false"
-    },
-    {
-      "company": "Susquehanna International Group (SIG)",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "2745ae8ff1636243f69dd023ed64f7d83c197e87da529aadb23740ac4712737b",
-      "locations": [
-        "Ardmore, PA"
-      ],
-      "posted_at": "2026-04-23",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Quantitative Strategy Developer Intern",
-      "url": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false"
     },
     {
       "company": "Susquehanna International Group (SIG)",
@@ -29774,7 +29792,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-05T16:20:19.576265+00:00",
+  "last_checked": "2026-11-05T18:00:20.963524+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

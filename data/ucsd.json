@@ -21440,6 +21440,24 @@
       "fingerprint": "13e564e0c42e2075d20deb6433fbb879554e0af3b22f0265c2e4a73ab3ba8dd6",
       "revision": 3
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-tewksbury-tb1--50-apple-hill-dr--assabet-bldg/internship---raytheon-systems-security-engineer--onsite_01874702": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "rtx",
+        "degrees": [],
+        "locations": [
+          "tewksbury, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "systems security engineer intern"
+      },
+      "fingerprint": "0cf19602eded6fe6071bb86ce6078b37eaf93b690aaf75ad569f793704a7adcd",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-tewksbury-tb3--50-apple-hill-dr--concord-bldg-tewksbury-tb3-300-concord/systems-engineer---intern--onsite_01879053": {
       "eligible": false,
       "fingerprint": "2878293822687bddf4094715d1b6c4a11257af99d677d2073ae73b83cb0cebc1",
@@ -22090,6 +22108,11 @@
       "fingerprint": "930baad8f520f643d28b506ba7fab72c4fe1ee6272ed5a809bd23393cf8e0408",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1fb": {
+      "eligible": false,
+      "fingerprint": "16835f0e789ac91244d94a8a298409988a8833efed9193596e6f2633983b2e31",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1fc": {
       "eligible": false,
       "fingerprint": "28808d8c68c6df79e6dacc8697045bbd4be135eb78155b146c466daffa0d7024",
@@ -22252,6 +22275,11 @@
     "url:https://go.vansh.nyc/1ih": {
       "eligible": false,
       "fingerprint": "6b72e5963d5e189906deb103a214b9031ea824bbab7b458fc1b7f4486f7ece07",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1io": {
+      "eligible": false,
+      "fingerprint": "1791afec8cc504aa024c738a941002f5c7d5e2df35117783209074f9b46c09b8",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1k": {
@@ -25671,9 +25699,7 @@
         ],
         "locations": [
           "pennsylvania",
-          "pennsylvania, usa",
-          "remote",
-          "united states"
+          "pennsylvania, usa"
         ],
         "requirements": [],
         "terms": [
@@ -25681,8 +25707,8 @@
         ],
         "title": "software engineer undergraduate intern"
       },
-      "fingerprint": "a0150ccab5c48b121f0cf905c4d4972a88abace62f6c5ae1fe7473f12d7448db",
-      "revision": 1
+      "fingerprint": "de2a77dc5889f1e770c2b1e791e4ce5cbe54992cdd22ce7afbbf0d17f129cd19",
+      "revision": 2
     },
     "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pittsburgh-pa-15222-fap-5th-avenue-place/summer-2027-data-analyst-undergraduate-intern_j288017": {
       "eligible": true,
@@ -28424,9 +28450,25 @@
       "revision": 0
     },
     "url:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/software-analyst-intern_jr105187": {
-      "eligible": false,
-      "fingerprint": "49490395bf0f3c920c7366911f324ae69d98bac3e05b4e218ae5f6c5d3d0b5d8",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "jm family",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "deerfield beach, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software analyst intern"
+      },
+      "fingerprint": "5d305cbab5643b874d0b5d31dbf248a6a4ba2ca7aa3167c2b50164cea116ed70",
+      "revision": 2
     },
     "url:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/software-engineer-intern_jr105158": {
       "eligible": true,
@@ -40541,6 +40583,27 @@
       "fingerprint": "c6c3bd81f041db5e2728b6bb8910879d1a3d062783984c7e7890d2a9ea177b96",
       "revision": 2
     },
+    "url:https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "shield ai",
+        "degrees": [],
+        "locations": [
+          "dallas, tx",
+          "san diego, ca",
+          "seattle, wa",
+          "washington, dc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer co-op"
+      },
+      "fingerprint": "860b8a82c01a1760deaf604d7533afe2e5c104ea5b093d97d6aa35659e188252",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15": {
       "eligible": true,
       "evidence": {
@@ -43977,27 +44040,9 @@
       "revision": 0
     },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/performance-enablement-ai-ml-intern_r-00194656": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "leidos",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "remote",
-          "remote in usa",
-          "united states"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "performance enablement ai/ml intern"
-      },
-      "fingerprint": "8704e36215f91657beb3a9cbfd932c9c4eceffe475c3b1f980016cafd06171eb",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "acd79061f2ba67d1970314b23418ae5c69875dc4f4ad78d62fed5182cacdf3fa",
+      "revision": 2
     },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/software-engineering---ai-intern_r-00196220": {
       "eligible": true,
@@ -60925,6 +60970,10 @@
     "https://go.vansh.nyc/1iC": 146,
     "https://go.vansh.nyc/1iE": 147,
     "https://go.vansh.nyc/1iF": 147,
+    "https://go.vansh.nyc/1iH": 148,
+    "https://go.vansh.nyc/1iI": 148,
+    "https://go.vansh.nyc/1iL": 148,
+    "https://go.vansh.nyc/1iN": 148,
     "https://go.vansh.nyc/1ia": 143,
     "https://go.vansh.nyc/1ig": 143,
     "https://go.vansh.nyc/1ii": 143,
@@ -61991,6 +62040,10 @@
     "https://go.vansh.nyc/1iC": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677",
     "https://go.vansh.nyc/1iE": "https://job-boards.greenhouse.io/hearst/jobs/4466334009",
     "https://go.vansh.nyc/1iF": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Innovation_R-41656",
+    "https://go.vansh.nyc/1iH": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199",
+    "https://go.vansh.nyc/1iI": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187",
+    "https://go.vansh.nyc/1iL": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702",
+    "https://go.vansh.nyc/1iN": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949",
     "https://go.vansh.nyc/1ia": "https://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern",
     "https://go.vansh.nyc/1ig": "https://thecarycompany.applytojob.com/apply/1gRuFg1wIp/AI-Automation-Intern",
     "https://go.vansh.nyc/1ii": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53",
@@ -62657,7 +62710,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 147,
+  "scan_sequence": 148,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
