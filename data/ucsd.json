@@ -20674,8 +20674,8 @@
     },
     "url:https://go.vansh.nyc/1ha": {
       "eligible": false,
-      "fingerprint": "0e8803920889ad6a2cff847e66cb9f347af2320aabe12a4161fced22383b0924",
-      "revision": 2
+      "fingerprint": "2eef1bab5ca095eb20213d7c0ddf8b65288a136ed0c7d7851324a97e07840d03",
+      "revision": 3
     },
     "url:https://go.vansh.nyc/1hk": {
       "eligible": false,
@@ -22444,6 +22444,11 @@
     "url:https://go.vansh.nyc/zv": {
       "eligible": false,
       "fingerprint": "dd903ab30398c88785f78ee623666a7615973dd0460b7fdb53501c910c2006a2",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/zz": {
+      "eligible": false,
+      "fingerprint": "43adb3a92da05f3c3b036f2c9c47cdcee53d794a9e17368c4dc0c2c5860149dd",
       "revision": 1
     },
     "url:https://graco.wd501.myworkdayjobs.com/graco_careers/job/dayton-minnesota-usa-french-lake/ai-intern_r0023511-1": {
@@ -60537,7 +60542,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 139,
+  "scan_sequence": 140,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
