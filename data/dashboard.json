@@ -717,6 +717,36 @@
       "company": "ABB",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "c2001566e2ede089533d3f4f4547e5a86b3c7c3d14d1bcbdc71b2b64e59efe9c",
+      "locations": [
+        "Cary, NC"
+      ],
+      "posted_at": "2026-10-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Engineering ERP Intern",
+      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711"
+    },
+    {
+      "company": "ABB",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ea0eaa444da45dd1998683c15d767c888cb293b824231a27f5a5415279a07719",
+      "locations": [
+        "Cary, NC"
+      ],
+      "posted_at": "2026-10-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Engineering Intern - Business Systems",
+      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714"
+    },
+    {
+      "company": "ABB",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "d5175d79f7ddcaee878e2cb6853a65fb731c20211c1137788c0c70087f0d2cc4",
       "locations": [
         "Cary, NC"
@@ -3117,8 +3147,8 @@
       "posted_at": "2026-11-04",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Machine Learning and Image-Based EUV System Setup Intern",
+      "source": "simplify",
+      "title": "Machine Learning and Image-Based Metrics for EUV System Setup Intern",
       "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567"
     },
     {
@@ -3863,6 +3893,21 @@
       "company": "Baird",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "65cdb3d99b0b1265bdd14223e73f2213acecabc40632b6599dfa40fdb960960e",
+      "locations": [
+        "Milwaukee, WI"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Automation & AI Solutions Intern",
+      "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1"
+    },
+    {
+      "company": "Baird",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "93e7d0c113a83baac956c1a032b1f806a1e4c3cc68ddbe396e50531b99f34464",
       "locations": [
         "Milwaukee, WI"
@@ -4070,6 +4115,21 @@
       "source": "simplify",
       "title": "Data Systems Intern",
       "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005970"
+    },
+    {
+      "company": "Berkshire Hathaway Energy",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "d64ce58363e5283ddc656b5d2e994ea447c96039490e6ff30dbd268665574fd1",
+      "locations": [
+        "Des Moines, IA"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Renewable Generation Performance Intern",
+      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008"
     },
     {
       "company": "Blackhawk Network Holdings",
@@ -4882,11 +4942,11 @@
       "locations": [
         "Auburn Hills, MI"
       ],
-      "posted_at": "2026-11-04",
+      "posted_at": "2026-06-26",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
       "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1"
     },
     {
@@ -6580,6 +6640,21 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005"
+    },
+    {
+      "company": "Chubb",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "cf9e4e120901aa9810d2310ae17b027245313327a01e022ab4888bcd6afdc103",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Business Intelligence Intern",
+      "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335"
     },
     {
       "company": "Ciena",
@@ -11115,36 +11190,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Americas - Engineering",
-      "url": "https://higher.gs.com/roles/171565?type=students"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Engineering",
-      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -19474,12 +19519,12 @@
       "locations": [
         "Houston, TX"
       ],
-      "posted_at": "2026-08-29",
+      "posted_at": "2026-08-30",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Robotics Software Intern - Manipulation",
-      "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true"
+      "source": "speedyapply",
+      "title": "Robotics Software Internship - Manipulation",
+      "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc"
     },
     {
       "company": "Philips",
@@ -27690,21 +27735,6 @@
       "company": "Waymo",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
-      "id": "1393b0b664735e0b07fd4983db8adb6c6e53c25e30e2c877a7e50d0d8676d530",
-      "locations": [
-        "Mountain View, California, United States; San Francisco, California, United States"
-      ],
-      "posted_at": "2026-09-14",
-      "priority": 11,
-      "priority_program": false,
-      "source": "greenhouse",
-      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
-    },
-    {
-      "company": "Waymo",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
       "id": "a4931005555cc1ddb4033c49ce2ec7bde0368910ade404345d4fb624eba626a5",
       "locations": [
         "San Francisco, California, USA"
@@ -27715,6 +27745,22 @@
       "source": "greenhouse",
       "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
+    },
+    {
+      "company": "Waymo",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "1393b0b664735e0b07fd4983db8adb6c6e53c25e30e2c877a7e50d0d8676d530",
+      "locations": [
+        "SF",
+        "Mountain View, CA"
+      ],
+      "posted_at": "2026-09-14",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineering Intern - Commercialization",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
     },
     {
       "company": "WebFX",
@@ -28505,7 +28551,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-05T01:25:33.008791+00:00",
+  "last_checked": "2026-11-05T03:04:38.207783+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
