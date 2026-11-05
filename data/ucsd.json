@@ -8546,23 +8546,27 @@
     "url:https://careers-berkley.icims.com/jobs/14437/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "berkley insurance",
-        "degrees": [],
+        "category": "software",
+        "company": "w.r. berkley",
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "urbandale, ia"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "software developer - java intern - june 2027"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern - java"
       },
-      "fingerprint": "e4501b4f1afeec096587400cb89e3379724b526c271fa10f21010b1a167cfaf7",
-      "revision": 0
+      "fingerprint": "16e1e0c6b8d83bee6ee4ec73394ee92607ecdcde135db369bd4f61136cf21c43",
+      "revision": 1
     },
     "url:https://careers-berkley.icims.com/jobs/14444/job": {
       "eligible": false,
-      "fingerprint": "1b63481927877b69ee14433b51121d4c5bc7d7af6fb79530687272e27aa26103",
-      "revision": 0
+      "fingerprint": "98b28761ef31086338d9653397141c23af4a3f05500c8e03e98be9cf8c0fbcf4",
+      "revision": 1
     },
     "url:https://careers-berkley.icims.com/jobs/14445/job": {
       "eligible": false,
@@ -8878,23 +8882,32 @@
     "url:https://careers-peraton.icims.com/jobs/172061/job": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "peraton",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "topeka, ks"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 software development intern- topeka - ks"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development intern"
       },
-      "fingerprint": "1752097d46f2a1531b70243d2ea112a5957c3cc6bf7378ecab6a141517221a99",
-      "revision": 0
+      "fingerprint": "765f0bfd4cfdec3a1077f01e2077b77b8cc915afc42bf3b9ba789d2a93b615a8",
+      "revision": 1
     },
     "url:https://careers-peraton.icims.com/jobs/172378/job": {
       "eligible": false,
-      "fingerprint": "a6c34f4e9ccc2c216c2c961310d07e33eb936b0ee2253cc13e18799b3b8e205e",
-      "revision": 0
+      "fingerprint": "9fdd07f554a8f0ab3565857a097b31fd9ba747d243434dbc480a159df95a23e0",
+      "revision": 1
+    },
+    "url:https://careers-sdsurf.icims.com/jobs/21086/job": {
+      "eligible": false,
+      "fingerprint": "de3ebc5cd11e0bcdc1e7268f1cbfabf56b9979f43661b0a92d0c0a605454d75e",
+      "revision": 1
     },
     "url:https://careers-simventions.icims.com/jobs/1631/job": {
       "eligible": true,
@@ -8979,6 +8992,11 @@
       },
       "fingerprint": "61777f4d0356986ee1ed0a14dc909a2aaeb76d10d4970870527305df4a0d6550",
       "revision": 0
+    },
+    "url:https://careers.84lumber.com/jobs/26178?icims=1": {
+      "eligible": false,
+      "fingerprint": "57f0fa2987a6052144ff900ede2c18a91942c3c5f4a66a8b3bcc13c89214e829",
+      "revision": 1
     },
     "url:https://careers.aarp.org/jobs/7437?icims=1": {
       "eligible": false,
@@ -19698,7 +19716,7 @@
       "eligible": true,
       "evidence": {
         "category": "hardware",
-        "company": "rtx",
+        "company": "raytheon",
         "degrees": [
           "bachelor's",
           "master's"
@@ -19710,10 +19728,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern - summer 2027"
       },
-      "fingerprint": "0052eb32b9b0a7d0b19399e7d65974b0cc9bb7433ca81eeafd677185195ae54f",
-      "revision": 1
+      "fingerprint": "537a714b7915505b65f5b818a6112ea120be8f4725ac94c447df944d18b97dcf",
+      "revision": 2
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-131--5450-c-ave-ne--bldg-131/xmlname-2027-summer-fall-co-op--ags-software-engineering--onsite-_01871646": {
       "eligible": true,
@@ -31800,6 +31818,24 @@
       "eligible": false,
       "fingerprint": "a9ee4693389f959e44f4d07693f9d891f482fa90f3afad057e4e1f4492b7e6c3",
       "revision": 0
+    },
+    "url:https://jobs.ajg.com/jobs/57701?icims=1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "arthur j. gallagher & co.",
+        "degrees": [],
+        "locations": [
+          "rolling meadows, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics intern"
+      },
+      "fingerprint": "8ff178379a001fc12fd6dac236d50eb29498695f5ef54ac51936cb2570b5a12a",
+      "revision": 1
     },
     "url:https://jobs.aon.com/jobs/107878?icims=1": {
       "eligible": false,
@@ -60542,7 +60578,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 140,
+  "scan_sequence": 141,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
