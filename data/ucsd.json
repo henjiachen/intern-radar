@@ -2083,23 +2083,9 @@
       "revision": 0
     },
     "url:https://americanfidelity.wd5.myworkdayjobs.com/external/job/oklahoma-city-oklahoma/software-developer-innovation-internship_jr1118": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "american fidelity",
-        "degrees": [],
-        "locations": [
-          "oklahoma city, ok"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software developer innovation intern"
-      },
-      "fingerprint": "6a22fc796ed0b1a521246c3223be09d02136ba5e29fed36156c92b0903e15b38",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "0dc5b1e482a1b16c75075a067b047049b3ec4e9a8d3a48999f7cd864254b443b",
+      "revision": 2
     },
     "url:https://americas-cookmedical.icims.com/jobs/19412/job": {
       "eligible": false,
@@ -17394,6 +17380,24 @@
       "fingerprint": "e313bf189a78e7b97f9e76b77a5ecb77dc5bb0edb768e6ff1ac234a8809cfbf8",
       "revision": 0
     },
+    "url:https://eodr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/2603028291": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tenet healthcare",
+        "degrees": [],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "ca0ed34ae90f3e406dfc853447c496daee4aea900739c4a211719cdada194473",
+      "revision": 1
+    },
     "url:https://eofe.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/81238": {
       "eligible": true,
       "evidence": {
@@ -21098,6 +21102,24 @@
       "fingerprint": "483f6913f161a7f4c1ebe0e4ad5a8e9ce100db7db7708d074c1f1b4e99f374a4",
       "revision": 0
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-co-aurora-s75--16800-e-centretech-pkwy--bldg-s75/software-engineering-intern--summer-2027-_01873646": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "rtx",
+        "degrees": [],
+        "locations": [
+          "aurora, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "7f1717e35de0037ccbca43b34fbd9acc18278aa53447d7efa0452abe43d846fe",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-co-aurora-s77--16470-e-hughes-dr--bldg-s77/software-engineering--intern--summer-2027-_01881520": {
       "eligible": true,
       "evidence": {
@@ -22316,6 +22338,26 @@
       "fingerprint": "938ec07c42886179bcf65b64a20d864d7bc3a60b5441dabe93ac4ab92aafa609",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1jl": {
+      "eligible": false,
+      "fingerprint": "20c8feead737732cc9d61bb871985e6c89450cddeec48e832e5b2e3732781182",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1jo": {
+      "eligible": false,
+      "fingerprint": "f9cf3ffb855f7d8d48e672beb182fddc0324d832df756835f5a512c21f2fd147",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1jq": {
+      "eligible": false,
+      "fingerprint": "33f59f7313bb86399649b10167ef1486fcc4e7615c7c1cf853305fb2809c0514",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1jr": {
+      "eligible": false,
+      "fingerprint": "5adbd9ba1f56c575261cbaf0310b26196167f325311aff3b13c13c99c9effa03",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1k": {
       "eligible": false,
       "fingerprint": "ac2367ecdb86555ceb30e8e05ee043dce929e9a1493e8f2ec788c5fee382c4de",
@@ -23179,6 +23221,11 @@
       },
       "fingerprint": "d1d5a58bf162f78ce54b141ee8b0e9c663e327f2b044986434219b39d03b86e3",
       "revision": 0
+    },
+    "url:https://go.vansh.nyc/hz": {
+      "eligible": false,
+      "fingerprint": "68ab4ecca65e8d78a47bc90eeb8de2164091d906055c8913deb3f7d0f983fdba",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/i1": {
       "eligible": false,
@@ -49401,6 +49448,24 @@
       "fingerprint": "2fbb204d784499b4ea2aebfef0cec55d74e3eb0e95a58a4f7e2bbb2ec1b4e0ec",
       "revision": 0
     },
+    "url:https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/usa---minnesota---minneapolis---5900-golden-hills-drive/software-intern_req52945": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nordson",
+        "degrees": [],
+        "locations": [
+          "minneapolis, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software intern"
+      },
+      "fingerprint": "3985de42c52e91724f8179fe392b4bc9f59950ec0d6bb683dfb8e77eea58a7c7",
+      "revision": 1
+    },
     "url:https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/usa---rhode-island---east-providence/intern--software-engineering-_req53006": {
       "eligible": true,
       "evidence": {
@@ -49431,7 +49496,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "nova-tech",
+        "company": "nova-tech engineering",
         "degrees": [
           "bachelor's"
         ],
@@ -49443,10 +49508,10 @@
           "summer 2027",
           "winter 2027"
         ],
-        "title": "software development co-op"
+        "title": "software development co-op - located onsite in willmar - mn"
       },
-      "fingerprint": "8d57c823d8e76b7bd05606db2736a18bfc7e272f4c48c095dc5de766b1fcaef3",
-      "revision": 0
+      "fingerprint": "db467f41ca91a6a7b131ada6bb1327ddd447fa9a93fae60f4c15931ab3404119",
+      "revision": 1
     },
     "url:https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/graduate--10-12-weeks--intern---ai-ml-for-cybersecurity_r14563": {
       "eligible": true,
@@ -61169,6 +61234,9 @@
     "https://go.vansh.nyc/1j3": 150,
     "https://go.vansh.nyc/1j4": 150,
     "https://go.vansh.nyc/1jb": 151,
+    "https://go.vansh.nyc/1jj": 153,
+    "https://go.vansh.nyc/1jk": 153,
+    "https://go.vansh.nyc/1jn": 153,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -62248,6 +62316,9 @@
     "https://go.vansh.nyc/1j3": "https://jobs.smartrecruiters.com/rrdonnelley/744000159883479",
     "https://go.vansh.nyc/1j4": "https://jobs.smartrecruiters.com/rrdonnelley/744000159883639",
     "https://go.vansh.nyc/1jb": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1",
+    "https://go.vansh.nyc/1jj": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646",
+    "https://go.vansh.nyc/1jk": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Software-Intern_REQ52945",
+    "https://go.vansh.nyc/1jn": "https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028291",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -62904,7 +62975,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 152,
+  "scan_sequence": 153,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
