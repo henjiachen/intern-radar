@@ -7264,8 +7264,8 @@
     },
     "url:https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004": {
       "eligible": false,
-      "fingerprint": "e15d740d97026cdb5e9d08ab5fa939f6b0bb1bb741da57cd0922cdff10750651",
-      "revision": 1
+      "fingerprint": "646472ec711ee1ca81004ff99ea8801095a73d853795a2cc796680c11f584eb7",
+      "revision": 2
     },
     "url:https://boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002": {
       "eligible": false,
@@ -7509,8 +7509,8 @@
     },
     "url:https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002": {
       "eligible": false,
-      "fingerprint": "dd10e22d42a534356e10de6329c9552c17114eb1ddec91f781c0690ea17b7e52",
-      "revision": 0
+      "fingerprint": "84ae0292dc78f103004290cfeaf0d32520a415d384254d7e072de985ec58715f",
+      "revision": 1
     },
     "url:https://boards.greenhouse.io/spacex/jobs/8621757002": {
       "eligible": true,
@@ -7546,14 +7546,14 @@
         "company": "spacex",
         "degrees": [],
         "locations": [
-          "bastrop, tx +6"
+          "bastrop, tx +7"
         ],
         "requirements": [],
         "terms": [],
         "title": "summer 2027 software engineering internship/co-op"
       },
-      "fingerprint": "cee3bda542b876adc02c484ae1ab92063a2077f75974a292fba7eae06e3435db",
-      "revision": 0
+      "fingerprint": "22d6c18667bfd2f31c9b862415f74e6ec0ac65a176b3e22ff80534753b1544de",
+      "revision": 1
     },
     "url:https://boeing.wd1.myworkdayjobs.com/intern/job/usa---everett-wa/boeing-summer-2027-internship-program--paid----data-analytics-intern_jr2026520976": {
       "eligible": true,
@@ -14464,23 +14464,23 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12182": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 1
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 2
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12183": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 3
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 4
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12184": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 1
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 2
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12185": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 1
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 2
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---seattle/gen-ai-intern_r12193": {
       "eligible": true,
@@ -19886,6 +19886,7 @@
         ],
         "locations": [
           "sunnyvale, ca",
+          "sunnyvale, ca +1",
           "warren, mi"
         ],
         "requirements": [],
@@ -19894,8 +19895,8 @@
         ],
         "title": "software engineer intern - av/ai platform"
       },
-      "fingerprint": "94bc3a2a03e48ca86377a0116b24f906f1b2ca0da01453a78036546cdd49df64",
-      "revision": 3
+      "fingerprint": "27c919e781e7af55dd1978e4e22017befa320794a4c6a133979dc0f55eb25722",
+      "revision": 4
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/milford-michigan-united-states-of-america/xmlname-2027-summer-intern--systems-engineer--asd_jr-202621989": {
       "eligible": true,
@@ -25540,7 +25541,6 @@
         ],
         "locations": [
           "remote",
-          "remote - pennsylvania, usa +43",
           "remote in usa",
           "united states"
         ],
@@ -25550,8 +25550,8 @@
         ],
         "title": "provider delivery software engineer intern"
       },
-      "fingerprint": "2329bc532ecacb9675dad43572beeb01a71753508b898dbb1ea1d5324684e286",
-      "revision": 1
+      "fingerprint": "869e62c0590a910e6bc5b98a1ab6f4e6fcd462ed4599f94fbb4a03103cf1b61b",
+      "revision": 2
     },
     "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-reimbursement-analyst-undergraduate-intern_j287154": {
       "eligible": true,
@@ -25695,9 +25695,20 @@
       "revision": 0
     },
     "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-software-engineer-engen-undergraduate-intern_j289812": {
-      "eligible": false,
-      "fingerprint": "7edf7359e75cce7445ae37dff53dbff8837007d02e0569697719ec21892c73c1",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "highmark health",
+        "degrees": [],
+        "locations": [
+          "pennsylvania, usa"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "summer 2027 software engineer engen undergraduate intern"
+      },
+      "fingerprint": "766cf5130fbc6ee80c0af0fd45f5275dddccabd67660de9d7c5ebb49c74a3680",
+      "revision": 2
     },
     "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-software-engineer-engen-undergraduate-intern_j290027": {
       "eligible": true,
@@ -26200,23 +26211,9 @@
       "revision": 2
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--connectivity---hp-iq_uni4812": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "hp inc.",
-        "degrees": [],
-        "locations": [
-          "san francisco, ca",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern - connectivity"
-      },
-      "fingerprint": "bfeeecac61f886883b1c39d19ae9a82675f78500b5668865db940680feffd286",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "1c35a1cfa8bd6ac6806c58239b2c71360bea599f2ea90fccb80fc0e6e728642f",
+      "revision": 3
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-product-security-intern---hp-iq_uni4810-1": {
       "eligible": true,
@@ -32292,6 +32289,11 @@
       "eligible": false,
       "fingerprint": "9496d8dbf5ecae36fa5ee48d6851b5f21dbb5e4d6907a75b26f47d97509c263f",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/scm/jobs/721888": {
+      "eligible": false,
+      "fingerprint": "5cba6f611f7f4e1ddcd7d92f6fa332716eab1f2ed6d51a4be78dc688044eb9bb",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008": {
       "eligible": false,
@@ -42233,14 +42235,49 @@
       "revision": 0
     },
     "url:https://jobs.smartrecruiters.com/rrdonnelley/744000159883479": {
-      "eligible": false,
-      "fingerprint": "f7fe2d5d177904078f8b2abab02a3b776540596539ff8abf2f7a054548969b2f",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "rr donnelley",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "minneapolis, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "it software integration & automation intern"
+      },
+      "fingerprint": "5771ebfddd895ae4e856a3e7f82b8e34666a01a32766e4aa820e8b2c482f354f",
+      "revision": 2
     },
     "url:https://jobs.smartrecruiters.com/rrdonnelley/744000159883639": {
-      "eligible": false,
-      "fingerprint": "a5bba117a0c70c1e6f79ac5f19d82adaeeee593169a2dd6117229603b25b016b",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "rr donnelley",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "warrenville, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software developer intern"
+      },
+      "fingerprint": "dc54397851e9906ab653871130c6466984f3155930169ab72776c8bd5196f07d",
+      "revision": 2
     },
     "url:https://jobs.smartrecruiters.com/servicenow/744000155345689": {
       "eligible": false,
@@ -44136,6 +44173,7 @@
         "locations": [
           "odenton, md",
           "remote",
+          "remote - odenton, md +1",
           "remote in usa",
           "shiloh, il",
           "united states"
@@ -44146,8 +44184,8 @@
         ],
         "title": "software engineering & ai intern"
       },
-      "fingerprint": "11110815e5a15d1d5a5257132784f92f8a41baafa716c15adcb6b026b494ef9f",
-      "revision": 2
+      "fingerprint": "af6cd6caa5de49de764566809320cfab6582ef33e112ddee75f8ee6b6281d10c",
+      "revision": 3
     },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/annapolis-junction-md/software-developer-intern_r-00195829": {
       "eligible": true,
@@ -48939,8 +48977,8 @@
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-mcclellan/xmlname-2027-spring-co-op-software-engineer-intern---mcclellan-ca_r10259329": {
       "eligible": false,
-      "fingerprint": "d1445210b9245ad58b4685af8fb37b0d7bde59f38fdc73014ada3865d5cc2f29",
-      "revision": 1
+      "fingerprint": "5344e7445025de40cf61252b2695ee5f2e9227ae215a5a1cc77338747709e354",
+      "revision": 2
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-redondo-beach/xmlname-2027-ground-software-engineer-intern---redondo-beach-ca_r10259057": {
       "eligible": true,
@@ -53766,6 +53804,11 @@
       "fingerprint": "834d0a5e390e918fab09ca00028a44eec2ab62938b878d351a0bf0aaa1f7b1aa",
       "revision": 0
     },
+    "url:https://smithnephew.wd5.myworkdayjobs.com/external/job/andover-ma/intern-agentic-ai-software-engineering_r92953": {
+      "eligible": false,
+      "fingerprint": "98954b6eb3b95893af784356c44d8d0e018f14b396cdabcf055fa3092cc84664",
+      "revision": 1
+    },
     "url:https://smithnephew.wd5.myworkdayjobs.com/external/job/andover-ma/intern-ai-engineer-r-d_r92966": {
       "eligible": true,
       "evidence": {
@@ -53784,6 +53827,11 @@
       "fingerprint": "5730d581356a7141515968142e66ab2ecde2b3617d60a42f032d75cea0e92c6c",
       "revision": 1
     },
+    "url:https://smithnephew.wd5.myworkdayjobs.com/external/job/andover-ma/intern-computer-vision-software-engineering_r92964": {
+      "eligible": false,
+      "fingerprint": "5f7c027f8a0883544ee57d144a0feadc37ac1ff9f78111353c115d62c0cf4e73",
+      "revision": 1
+    },
     "url:https://smithnephew.wd5.myworkdayjobs.com/external/job/andover-ma/intern-embedded-software-engineering_r92952": {
       "eligible": true,
       "evidence": {
@@ -53797,10 +53845,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "intern embedded software engineering"
+        "title": "co-op embedded software engineering"
       },
-      "fingerprint": "8cd80c0b8cecc6c38252bac92cb9f79f7072f386d059c909e23c471f93e509a4",
-      "revision": 2
+      "fingerprint": "4d40a69884391bd112279784dec40fb10c761ad4286c30891ac2e67becfd810f",
+      "revision": 3
     },
     "url:https://smithnephew.wd5.myworkdayjobs.com/external/job/us---pittsburgh-pa/intern-ai-center-of-excellence-data-science_r92480-1": {
       "eligible": true,
@@ -56392,6 +56440,11 @@
       "fingerprint": "60778fa7c254e8be4d40ccf4ad268eea4707ae73a6180e7ea5482f7f8243d3bc",
       "revision": 0
     },
+    "url:https://uscareers-docusign.icims.com/jobs/30508/job": {
+      "eligible": false,
+      "fingerprint": "60778fa7c254e8be4d40ccf4ad268eea4707ae73a6180e7ea5482f7f8243d3bc",
+      "revision": 1
+    },
     "url:https://uscareers-docusign.icims.com/jobs/30513/job": {
       "eligible": false,
       "fingerprint": "60778fa7c254e8be4d40ccf4ad268eea4707ae73a6180e7ea5482f7f8243d3bc",
@@ -58834,6 +58887,11 @@
       "fingerprint": "b75a3730b1541f6933b801bf5479df2e5535cf5276f791bcde339f4860bc9491",
       "revision": 1
     },
+    "url:https://www.keenfootwear.com/careers-list.html?4750548005=&gh_jid=4750548005": {
+      "eligible": false,
+      "fingerprint": "adc459856d251607610b88d60b4261acd0350382f3d24bda4d4befdeb296208c",
+      "revision": 1
+    },
     "url:https://www.mastercontrol.com/careers/job-listings/role?role=4738478005&gh_jid=4738478005": {
       "eligible": false,
       "fingerprint": "fc7ea5d1c6155a10eccda97898e64346c89815d73220491a81c7ef20f1f2876a",
@@ -61107,6 +61165,8 @@
     "https://go.vansh.nyc/1ix": 146,
     "https://go.vansh.nyc/1j0": 149,
     "https://go.vansh.nyc/1j1": 149,
+    "https://go.vansh.nyc/1j3": 150,
+    "https://go.vansh.nyc/1j4": 150,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -62183,6 +62243,8 @@
     "https://go.vansh.nyc/1ix": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg",
     "https://go.vansh.nyc/1j0": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
     "https://go.vansh.nyc/1j1": "https://recruiting2.ultipro.com/sta1003stark/jobboard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/opportunitydetail?opportunityid=dffb5d69-1f21-45e3-8929-c8a4746e349a",
+    "https://go.vansh.nyc/1j3": "https://jobs.smartrecruiters.com/rrdonnelley/744000159883479",
+    "https://go.vansh.nyc/1j4": "https://jobs.smartrecruiters.com/rrdonnelley/744000159883639",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -62839,7 +62901,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 149,
+  "scan_sequence": 150,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
