@@ -14051,25 +14051,9 @@
       "revision": 1
     },
     "url:https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/remote/student-ii---software-engineering-developer--a-_jr226736": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "cincinnati children\u2019s hospital and medical center",
-        "degrees": [],
-        "locations": [
-          "remote",
-          "remote in usa",
-          "united states"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "24e3b0a7862ae1df2bf966509febefe7822b5530510d7e22087f577519ab63d6",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "3c47112f6b06115a69821ef69d3147ef1f2a700967968e3163f2123fe21ab029",
+      "revision": 2
     },
     "url:https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/remote/student-ii---software-engineering-developer--b-_jr226743": {
       "eligible": true,
@@ -21965,6 +21949,11 @@
       "fingerprint": "ca198976357e2fdc746cf7fd3da312adf74135f0fa0483b96f1027a7dc68a6e9",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1cd": {
+      "eligible": false,
+      "fingerprint": "aa6a3d4d114fcf5a1ad50a45a3959d3d97d80099783b64ea6ee549220a0f55d7",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1ce": {
       "eligible": false,
       "fingerprint": "47effd38598f7ae5e0a0c84f6a067902238973b290a259c53a3b7d50620cbb95",
@@ -23001,8 +22990,8 @@
     },
     "url:https://go.vansh.nyc/gc": {
       "eligible": false,
-      "fingerprint": "8db7869dca20d84dc690518a007b83be3551f2b11dd507cbb3217f0677c81c4c",
-      "revision": 1
+      "fingerprint": "61979db418abaaa0f67a0afda7c614ba0838e4c0f52a0f63afa7dbf75fe165ac",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/gk": {
       "eligible": false,
@@ -27355,6 +27344,24 @@
       "fingerprint": "96e6c05db59ac413547bf98097440ff510e023cd3d8b4fac40ddb80697985f61",
       "revision": 1
     },
+    "url:https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--developer-it_r9677": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "little caesars enterprises",
+        "degrees": [],
+        "locations": [
+          "detroit, mi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "developer it intern"
+      },
+      "fingerprint": "e17a6ae218eaef8efe555d0eccf7897b1fef6112f24b7a645a629a9340f691bf",
+      "revision": 1
+    },
     "url:https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579": {
       "eligible": true,
       "evidence": {
@@ -28451,24 +28458,9 @@
       "revision": 0
     },
     "url:https://job-boards.eu.greenhouse.io/imc/jobs/4842595101": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "imc trading",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "chicago, il"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "performance engineer intern"
-      },
-      "fingerprint": "218a05f5d4a004b2e65565bb1ca5ae49a987a97eb110209b38cf54668e7f517b",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "0701e048f1c31a7e4d4584d756f47e447bed460ad0ea6cdbd10144c1d1a401a2",
+      "revision": 2
     },
     "url:https://job-boards.eu.greenhouse.io/imc/jobs/4941206101": {
       "eligible": false,
@@ -32100,27 +32092,9 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/schonfeld/jobs/8171694": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "schonfeld",
-        "degrees": [
-          "bachelor's",
-          "master's",
-          "phd"
-        ],
-        "locations": [
-          "new york, ny",
-          "nyc"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "ai enablement intern"
-      },
-      "fingerprint": "a5abaf4042a2e2740e5427f3d6686df51552ba565a6b87429207c818b725fd76",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "b1035027537b5ada3b82623a8d70b8c0ccfd61d365a66b28b4ec7c4a042e171b",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/schonfeld/jobs/8171703": {
       "eligible": false,
@@ -32366,8 +32340,8 @@
     },
     "url:https://job-boards.greenhouse.io/tenet3/jobs/8878874002": {
       "eligible": false,
-      "fingerprint": "f5edf944fb67fcb477160ddc3a7074676e48d22384adf15ed7b770f83f3a05d8",
-      "revision": 0
+      "fingerprint": "c8dc816caa348a409215c812394487da10e6997935520e094a611322d792e55a",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007": {
       "eligible": false,
@@ -38750,6 +38724,24 @@
       "fingerprint": "4911319cf4a1276e56b09ce596bea7216d1f1cf6fe91c981c9fe96c626c3f61b",
       "revision": 0
     },
+    "url:https://jobs.jobvite.com/tylertech/job/oxapafwg": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tyler technologies",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development intern"
+      },
+      "fingerprint": "98d3de21f3610f9ed1149bfca5e55196ba2155e39a3d95a57b4078c27263c64b",
+      "revision": 1
+    },
     "url:https://jobs.jobvite.com/tylertech/job/oxapafwg?nl=1&fr=false": {
       "eligible": true,
       "evidence": {
@@ -40084,8 +40076,8 @@
     },
     "url:https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f": {
       "eligible": false,
-      "fingerprint": "4d6c0774ce62b9607999730640a6b5b48fa374260659b809c0fd0d1790d46f82",
-      "revision": 0
+      "fingerprint": "43181d979f1fe72c650d5b3f8d7407a5ae8993e3e25f1bc39c63c5eb97aa72f4",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3": {
       "eligible": true,
@@ -50150,6 +50142,24 @@
       },
       "fingerprint": "81a9d8fdd14691c50b3b0c6d35eeead1dcf79e8ea22204b01434e51c6e4f6bc8",
       "revision": 2
+    },
+    "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---md-columbia/summer-embedded-developer-intern_r188299": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "parsons",
+        "degrees": [],
+        "locations": [
+          "columbia, md"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded developer intern"
+      },
+      "fingerprint": "397894c60dc45b74ea84998b31b3c8734d40a54e7ceb6fdce8b13ef7d4f2d3c3",
+      "revision": 1
     },
     "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---remote-any-location/software-engineer-intern--fall-2026-_r188147": {
       "eligible": false,
@@ -60743,6 +60753,8 @@
     "https://go.vansh.nyc/1i2": 143,
     "https://go.vansh.nyc/1i4": 143,
     "https://go.vansh.nyc/1i5": 143,
+    "https://go.vansh.nyc/1iA": 146,
+    "https://go.vansh.nyc/1iC": 146,
     "https://go.vansh.nyc/1ia": 143,
     "https://go.vansh.nyc/1ig": 143,
     "https://go.vansh.nyc/1ii": 143,
@@ -60752,6 +60764,7 @@
     "https://go.vansh.nyc/1io": 143,
     "https://go.vansh.nyc/1ip": 143,
     "https://go.vansh.nyc/1it": 144,
+    "https://go.vansh.nyc/1ix": 146,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -61804,6 +61817,8 @@
     "https://go.vansh.nyc/1i2": "https://careers.noblis.org/jobs/28097?icims=1&lang=en-us",
     "https://go.vansh.nyc/1i4": "https://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering",
     "https://go.vansh.nyc/1i5": "https://metecs.applytojob.com/apply/XTBhKHIVhQ/Summer-Software-Internship",
+    "https://go.vansh.nyc/1iA": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299",
+    "https://go.vansh.nyc/1iC": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677",
     "https://go.vansh.nyc/1ia": "https://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern",
     "https://go.vansh.nyc/1ig": "https://thecarycompany.applytojob.com/apply/1gRuFg1wIp/AI-Automation-Intern",
     "https://go.vansh.nyc/1ii": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53",
@@ -61813,6 +61828,7 @@
     "https://go.vansh.nyc/1io": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e",
     "https://go.vansh.nyc/1ip": "https://ats.rippling.com/veryable-careers/jobs/87c0311c-cd08-449c-8353-03c48314e4cb",
     "https://go.vansh.nyc/1it": "https://arangodb.applytojob.com/apply/gzea0EizlE/Software-Engineer-Intern-Arango-Cookbooks",
+    "https://go.vansh.nyc/1ix": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -62469,7 +62485,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 145,
+  "scan_sequence": 146,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
