@@ -22311,6 +22311,11 @@
       "fingerprint": "7af7d38e0275ec4f1796fd168d5aadd763baf20eb13227efdd2e30f62f9c7f43",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1jf": {
+      "eligible": false,
+      "fingerprint": "938ec07c42886179bcf65b64a20d864d7bc3a60b5441dabe93ac4ab92aafa609",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1k": {
       "eligible": false,
       "fingerprint": "ac2367ecdb86555ceb30e8e05ee043dce929e9a1493e8f2ec788c5fee382c4de",
@@ -27436,8 +27441,8 @@
     },
     "url:https://igsenergy.wd1.myworkdayjobs.com/igs/job/ohio-remote/software-engineer-intern_r6263": {
       "eligible": false,
-      "fingerprint": "c34a5d721b8be3a2b32d4a56f6a88e2e6679c9e44b7d5d94e0cfe72eb6156a2d",
-      "revision": 2
+      "fingerprint": "bc6513022f8b0ad49e635c73f41ca43de631a0561be0db4d79c7ad1e0c8eb598",
+      "revision": 3
     },
     "url:https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--ai-it_r9675": {
       "eligible": false,
@@ -40872,6 +40877,11 @@
       "fingerprint": "5fe8c91e5c3e5b82432a20ed6487313ffb3a7f917c2b60c7bd2549cc913dd16d",
       "revision": 0
     },
+    "url:https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642": {
+      "eligible": false,
+      "fingerprint": "2d194927112347c12882bcada1a17da430fb484a2fa67653268c893ee1e57015",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047": {
       "eligible": false,
       "fingerprint": "23fede1d47e5deae6dcca681cc620bc1de6de2ae53052b1b31d951e90ac7b3cb",
@@ -40896,6 +40906,11 @@
       "eligible": false,
       "fingerprint": "9b0d6bdc685e29c57b1643a29d8686350a9b165192e1840b850cc04485b3562f",
       "revision": 0
+    },
+    "url:https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9": {
+      "eligible": false,
+      "fingerprint": "461ba13461123f9c742e73134df8aee8e71cc999a7aa7d4c18c94d0e4b65e89e",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e": {
       "eligible": false,
@@ -42258,49 +42273,14 @@
       "revision": 0
     },
     "url:https://jobs.smartrecruiters.com/rrdonnelley/744000159883479": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "rr donnelley",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "minneapolis, mn"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2026",
-          "summer 2027"
-        ],
-        "title": "it software integration & automation intern"
-      },
-      "fingerprint": "5771ebfddd895ae4e856a3e7f82b8e34666a01a32766e4aa820e8b2c482f354f",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "f7fe2d5d177904078f8b2abab02a3b776540596539ff8abf2f7a054548969b2f",
+      "revision": 3
     },
     "url:https://jobs.smartrecruiters.com/rrdonnelley/744000159883639": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "rr donnelley",
-        "degrees": [
-          "bachelor's",
-          "master's",
-          "phd"
-        ],
-        "locations": [
-          "warrenville, il"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2026",
-          "summer 2027"
-        ],
-        "title": "software developer intern"
-      },
-      "fingerprint": "dc54397851e9906ab653871130c6466984f3155930169ab72776c8bd5196f07d",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "a5bba117a0c70c1e6f79ac5f19d82adaeeee593169a2dd6117229603b25b016b",
+      "revision": 3
     },
     "url:https://jobs.smartrecruiters.com/servicenow/744000155345689": {
       "eligible": false,
@@ -48596,12 +48576,10 @@
           "ashburn, va",
           "chicago, il",
           "plantation, fl",
-          "remote",
           "remote - virginia, usa +38",
           "remote in usa",
           "salt lake city, ut",
-          "schaumburg, il",
-          "united states"
+          "schaumburg, il"
         ],
         "requirements": [],
         "terms": [
@@ -48609,8 +48587,8 @@
         ],
         "title": "software engineer cybersecurity services intern"
       },
-      "fingerprint": "5ec6604ed880501c4f7dc2a7bbda9084aed42ac76b03aa238f6c9f7a890bd3cc",
-      "revision": 3
+      "fingerprint": "d2905ff065001b3d575538acf6f66a870d65f4f9776aeb1141d58262fe9db5a5",
+      "revision": 4
     },
     "url:https://msd.wd5.myworkdayjobs.com/searchjobs/job/usa---massachusetts---cambridge-320-bent-street/xmlname-2027-future-talent-program---ai-ml-biomedical-imaging-and-computational-pathology---intern_r423515": {
       "eligible": false,
@@ -62926,7 +62904,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 151,
+  "scan_sequence": 152,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
