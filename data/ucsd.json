@@ -22804,6 +22804,36 @@
       "fingerprint": "28329b057ef45bba1f5d17e320347b1cc101ec9454c1a32cdb883dab77754e90",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1li": {
+      "eligible": false,
+      "fingerprint": "149f8133b3c3b00bfbee443f676cc1feac3c7e828d9db55f928efeb57d5f3790",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1lj": {
+      "eligible": false,
+      "fingerprint": "2ae6db4930ed5247c558794cfa81eb42af44594335a46263d0827e951882e70a",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1lk": {
+      "eligible": false,
+      "fingerprint": "a91fa2a612df6175ee5352bab7f144ca533d4b5da8084e9e97323ee2ba39e177",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ll": {
+      "eligible": false,
+      "fingerprint": "0fe03d38f0b3d4b1e19224461d3b071ce96f8148d3611202e0ed641bf472ff6f",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1lm": {
+      "eligible": false,
+      "fingerprint": "b87e0a1d890a2ba3a004b2759bad1330f5d123934c9412c10de68faa0107930d",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1lv": {
+      "eligible": false,
+      "fingerprint": "f69ceb483cc5d1cb1fb67adc6d9bea300f60a07b77946e064ed6c5950093d0af",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1s": {
       "eligible": false,
       "fingerprint": "1ca6ea592089ef650490445a1155058bf02664e874a9ee67ba8198d3620f575e",
@@ -26045,17 +26075,16 @@
           "bachelor's"
         ],
         "locations": [
-          "remote - pennsylvania, usa +43",
-          "remote in usa"
+          "remote - pennsylvania, usa +43"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "provider delivery software engineer intern"
+        "title": "summer 2027 provider delivery software engineer engen undergraduate intern"
       },
-      "fingerprint": "fe1818414e6fe2098b5015f25d6f9d8cdf4a2893e5944946b3e5a5362bb2ea5a",
-      "revision": 4
+      "fingerprint": "da710c257d478c6788ae364352f76a6c7cf3ec95b23b79ad89d00cad78fff8dc",
+      "revision": 5
     },
     "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-reimbursement-analyst-undergraduate-intern_j287154": {
       "eligible": true,
@@ -28397,6 +28426,24 @@
       "fingerprint": "2a12cebc51eb6a6c1a38688d1851fb49538d084214ef1b7c4e86c820f5b663b4",
       "revision": 1
     },
+    "url:https://invesco.wd1.myworkdayjobs.com/ivz/job/dallas-texas/early-career-intern---real-estate--data-science-_r-15091-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "invesco",
+        "degrees": [],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "real estate intern, data science"
+      },
+      "fingerprint": "25b5c64b3f238d4ad684d5a6a93f6813ef22532f3d4f13b241e9f1511d0925ad",
+      "revision": 1
+    },
     "url:https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/montreal/intern--genai-and-digital-workplace--january---april-2027-_r5003": {
       "eligible": false,
       "fingerprint": "ac8470000e0b1a7371637d1883b77dc53c997f666a290a818a568e1091fb813e",
@@ -29759,6 +29806,11 @@
     "url:https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005": {
       "eligible": false,
       "fingerprint": "2f8bd295adde9e7d52a9522fddada8d4976473460e173e81b6b2e56de66635d9",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/astranis/jobs/4704571006": {
+      "eligible": false,
+      "fingerprint": "de06710e745694b59d7853e8a5adb1083171bb73e206a67adc3d70c1aed0fb00",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/astranis/jobs/4704595006": {
@@ -34270,9 +34322,27 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/afterquery/00cd591f-6894-4259-83b6-36c999351dde": {
-      "eligible": false,
-      "fingerprint": "ee2ea37fa76babc9b64e63fdd6378254302f029e5950868277c747839c32b787",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "afterquery",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "ai/ml research intern"
+      },
+      "fingerprint": "b975655dd51d191ec71fc8a4c3d66de5de2e1d240d336ba31599ccfe8fe1f3bb",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/afterquery/68053d93-6d15-4b4a-8a04-65aa5646feb2": {
       "eligible": false,
@@ -35361,19 +35431,71 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4": {
-      "eligible": false,
-      "fingerprint": "d9cd35fbd16bd45d387f377a366c5fa53ed25509c2fa0ada0e845b9f77ead745",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "fab2",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "austin, tx",
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "embedded software engineer intern - summer"
+      },
+      "fingerprint": "9518197231b6f07cede2c0888df08cd51ed7305fa75140ad29fe05248c16789e",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/fab2/2b0ab443-c7d8-4547-9766-111747f0b361": {
-      "eligible": false,
-      "fingerprint": "a8807535c21ce82dbfe4d60e0f40003d96acd8309cacd36a915e97e08e1d0316",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "fab2",
+        "degrees": [],
+        "locations": [
+          "austin, tx",
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "rust software engineering intern, chip design tools"
+      },
+      "fingerprint": "4fea115e53bc8723548ebb0c3b3dfd403b3c60d075a5e1f317ac1ec39b479c4d",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0": {
-      "eligible": false,
-      "fingerprint": "cbecd4e2b7ebdd61577845c3363f4ed9242b5abcc551ab9f5d3e1ecc5be06687",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "fab2",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "austin, tx",
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "72a5e85594ef61241309a3de3406d80e7561aef03c4f67572a0bffe5422b31d2",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da": {
       "eligible": false,
@@ -35385,10 +35507,47 @@
       "fingerprint": "5d9f147d72ecfe29dcb1052e3fa870d9ecd1a834a82b4b12b982c43912e7424a",
       "revision": 0
     },
+    "url:https://jobs.ashbyhq.com/fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "fab2",
+        "degrees": [],
+        "locations": [
+          "austin, tx",
+          "san francisco, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "infrastructure software engineering intern"
+      },
+      "fingerprint": "8c13d114bfc853da3208b3a47480417460b6337d21973b9013f8273e2d373808",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475": {
-      "eligible": false,
-      "fingerprint": "477f0ca513c7b52918504f476b0a091c974751aca6b4e0111ec48e8d0fdc910c",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "fab2",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "austin, tx",
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "automation software engineering intern - summer"
+      },
+      "fingerprint": "b8cbb96277c980da6803ed960f3441e22c2f1b9e980782b192a0a0378ae50997",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765": {
       "eligible": false,
@@ -47878,6 +48037,24 @@
       "fingerprint": "7b342b358286318c7c1f26c0b3f6d188261be4226a0a79b596c2efcb28e02002",
       "revision": 0
     },
+    "url:https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/freeport-me/software-developer-intern--summer-2027-_jr11274-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "llbean",
+        "degrees": [],
+        "locations": [
+          "freeport, me"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern"
+      },
+      "fingerprint": "1645bf46a398878d99fd8a80475bc1a5bb1fe92d2772ea8472fb53d9976a7c71",
+      "revision": 1
+    },
     "url:https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/reno-nv/intern-software-engineering_r322885": {
       "eligible": true,
       "evidence": {
@@ -57026,6 +57203,25 @@
       "fingerprint": "85211ae0df5c7295970704058196d6130ccc62a0f8d1a9df119616f69bc757f0",
       "revision": 3
     },
+    "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---oh-dayton/ai-automation-intern_r58148": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "trimble",
+        "degrees": [],
+        "locations": [
+          "dayton, oh",
+          "westminster, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai automation intern"
+      },
+      "fingerprint": "f49437b63a726e10413ea0da716ce1900dc9f8c299bd5ba2110ff557c5005518",
+      "revision": 1
+    },
     "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---oh-dayton/ai-developer-intern_r58195": {
       "eligible": false,
       "fingerprint": "d008e51b1de9e44645f5b56425c5dabf03028f8a3c3e3e40aa04237c3842cf35",
@@ -62464,6 +62660,17 @@
     "https://go.vansh.nyc/1l3": 172,
     "https://go.vansh.nyc/1l9": 172,
     "https://go.vansh.nyc/1le": 173,
+    "https://go.vansh.nyc/1lh": 174,
+    "https://go.vansh.nyc/1ln": 174,
+    "https://go.vansh.nyc/1lo": 174,
+    "https://go.vansh.nyc/1lp": 174,
+    "https://go.vansh.nyc/1lq": 174,
+    "https://go.vansh.nyc/1lr": 174,
+    "https://go.vansh.nyc/1ls": 174,
+    "https://go.vansh.nyc/1lt": 174,
+    "https://go.vansh.nyc/1lw": 174,
+    "https://go.vansh.nyc/1lx": 174,
+    "https://go.vansh.nyc/1ly": 174,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -63586,6 +63793,17 @@
     "https://go.vansh.nyc/1l3": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319",
     "https://go.vansh.nyc/1l9": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279",
     "https://go.vansh.nyc/1le": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1",
+    "https://go.vansh.nyc/1lh": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148",
+    "https://go.vansh.nyc/1ln": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+    "https://go.vansh.nyc/1lo": "https://jobs.ashbyhq.com/Fab2/2b0ab443-c7d8-4547-9766-111747f0b361",
+    "https://go.vansh.nyc/1lp": "https://jobs.ashbyhq.com/Fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7",
+    "https://go.vansh.nyc/1lq": "https://jobs.ashbyhq.com/Fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0",
+    "https://go.vansh.nyc/1lr": "https://jobs.ashbyhq.com/Fab2/15020e6e-be1c-4455-95a3-aa798474cec4",
+    "https://go.vansh.nyc/1ls": "https://jobs.ashbyhq.com/Fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475",
+    "https://go.vansh.nyc/1lt": "https://jobs.ashbyhq.com/AfterQuery/00cd591f-6894-4259-83b6-36c999351dde",
+    "https://go.vansh.nyc/1lw": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1",
+    "https://go.vansh.nyc/1lx": "https://careersus-shure.icims.com/jobs/4976/cloud-software-engineering-intern/job",
+    "https://go.vansh.nyc/1ly": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -64242,7 +64460,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 173,
+  "scan_sequence": 174,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
