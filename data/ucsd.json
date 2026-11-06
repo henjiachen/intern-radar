@@ -12887,8 +12887,8 @@
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8197554": {
       "eligible": false,
-      "fingerprint": "ae17b1cd7563dd349900e520f95a6eac50744fdd6ef905c03e0f3d039cb19ca6",
-      "revision": 0
+      "fingerprint": "2db106d5a5b00f40069b7903ba643f2846498a65e4a0798f774c070fb1ff701e",
+      "revision": 1
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8198218": {
       "eligible": true,
@@ -63589,7 +63589,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 164,
+  "scan_sequence": 165,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
