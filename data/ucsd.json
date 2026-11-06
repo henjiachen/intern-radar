@@ -8220,6 +8220,16 @@
       "fingerprint": "720bcd39a62c7e3e4dfa7c5e2e6277bd9f154f7f742771d4b43b1fd045e5cc75",
       "revision": 0
     },
+    "url:https://caci.wd1.myworkdayjobs.com/external/job/king-of-prussia-pa-us/ai-ml-engineering-co-op---spring-2027_334662-1": {
+      "eligible": false,
+      "fingerprint": "d03849ed149026a0698cced4285626f40f54ee0a74a9a1269fac29d6701d0c4e",
+      "revision": 1
+    },
+    "url:https://caci.wd1.myworkdayjobs.com/external/job/king-of-prussia-pa-us/software-engineering-co-op---spring-2027_334665": {
+      "eligible": false,
+      "fingerprint": "38cbbc7b3b4bf0726a5e4842da591a9a0f4ad2e2ca95031c2f64bd883ffc535f",
+      "revision": 1
+    },
     "url:https://caci.wd1.myworkdayjobs.com/external/job/oklahoma-city-ok-us/software-development-intern---summer-2027_333085": {
       "eligible": true,
       "evidence": {
@@ -9745,6 +9755,11 @@
         "title": "software applications intern"
       },
       "fingerprint": "edd98d4c16f8eee2683dc9be618d7816c7cb8409669ea8323c5278c3cad2f620",
+      "revision": 1
+    },
+    "url:https://careers-sas.icims.com/jobs/42786/job": {
+      "eligible": false,
+      "fingerprint": "f87c1b6b3e32abb6294f7e8d198efa0cea245a4a20b7668841e728378b97ea71",
       "revision": 1
     },
     "url:https://careers-sdsurf.icims.com/jobs/21086/job": {
@@ -13160,8 +13175,8 @@
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8350832": {
       "eligible": false,
-      "fingerprint": "53fc8941d31e69d4d0dfb6d95fe34fbab00ee8e8e65513fd50b8925192bd089a",
-      "revision": 1
+      "fingerprint": "5cd91857e0a840689ae84d3d1a261d2763c1785af66804d97fa4829c3a1e8c1e",
+      "revision": 2
     },
     "url:https://careers.zimmerbiomet.com/us/en/job/13309": {
       "eligible": false,
@@ -17524,6 +17539,11 @@
       "fingerprint": "05f2140c7da687f3f5024595d8628985c06609706c5a441618363e3ebf6967f4",
       "revision": 1
     },
+    "url:https://elucid.applytojob.com/apply/a4axsoyfpv/machine-learning-phd-intern-spring-2027": {
+      "eligible": false,
+      "fingerprint": "0c7ead8582ec40d6b1f79e211a67a6047310fe9686f4a0e83c32235f2411350d",
+      "revision": 1
+    },
     "url:https://emcins.wd5.myworkdayjobs.com/emc_careers/job/iowa---work-from-home/claims-intern---worker-s-compensation_r6548-1": {
       "eligible": false,
       "fingerprint": "8eb7a7e322776a870b4b87a27654f71f58b7c528d711288c5f354a8d0c15cb39",
@@ -17841,7 +17861,6 @@
         ],
         "locations": [
           "cary, nc",
-          "cary,north carolina,united states",
           "pittsburgh, pa +1"
         ],
         "requirements": [
@@ -17854,8 +17873,8 @@
         ],
         "title": "frontend programmer intern"
       },
-      "fingerprint": "86b670bf93e35aa9c6cd0ee8a3ff90d50679119353ecf9bd214960ab77e9cdcb",
-      "revision": 1
+      "fingerprint": "32baa484c7d5102e534e91ee02837f9c5b69b5b9c559e8daffa3aa0e9f890cf2",
+      "revision": 2
     },
     "url:https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004": {
       "eligible": true,
@@ -17864,8 +17883,7 @@
         "company": "epic games",
         "degrees": [],
         "locations": [
-          "cary, nc",
-          "cary,north carolina,united states"
+          "cary, nc"
         ],
         "requirements": [
           "note to recruitment agencies: epic does not accept any unsolicited resumes or approaches from any unauthorized third party (including recruitment or placement agencies) (i.e., a third party with whom we do not have a negotiated and validly executed agreement). we will not pay any fees to any unauthorized third party. further details on these matters can be found here.",
@@ -17876,8 +17894,8 @@
         ],
         "title": "tools programmer intern"
       },
-      "fingerprint": "f73d3463052786d45671e557d895123bad7d415cf28adab1923ad27ac5d5ce5b",
-      "revision": 0
+      "fingerprint": "4d727305b5a739e28ac1d04cbd83b5fa4d0df259303a7c51bb4393a2fd78b633",
+      "revision": 1
     },
     "url:https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004": {
       "eligible": true,
@@ -22709,6 +22727,11 @@
     "url:https://go.vansh.nyc/1kn": {
       "eligible": false,
       "fingerprint": "820ba2a1eb053e48cb65427de130ab41fc9333aa734fd177395f1a44153d0ad4",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1kz": {
+      "eligible": false,
+      "fingerprint": "4b30932b646283d1a69fc215e0c792a6188c5dc4e361f1f49133c860bf5c8cbc",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1s": {
@@ -28310,20 +28333,58 @@
       "fingerprint": "ac8470000e0b1a7371637d1883b77dc53c997f666a290a818a568e1091fb813e",
       "revision": 0
     },
+    "url:https://invitation-charter.icims.com/jobs/81731/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "invitation-charter",
+        "degrees": [],
+        "locations": [
+          "greenwood village, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "fc7e53c8cad3fba4bec673d5ab2cf5932937557a57bad45eb0148df114111099",
+      "revision": 1
+    },
     "url:https://invitation-charter.icims.com/jobs/81795/job": {
       "eligible": true,
       "evidence": {
         "category": "",
-        "company": "spectrum",
+        "company": "invitation-charter",
         "degrees": [],
         "locations": [
           "englewood, co"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "2027 summer intern: software engineer"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
       },
-      "fingerprint": "420dbc62c9ea986b886851b11fb1620d81238f1f3264ebd833d7dc239f1d53ab",
+      "fingerprint": "6dac6133cca93987ec056cd3c8d5a247dbacaf64ea48d6fb3d3f67ca8e9b518b",
+      "revision": 2
+    },
+    "url:https://invitation-charter.icims.com/jobs/82077/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "invitation-charter",
+        "degrees": [],
+        "locations": [
+          "greenwood village, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data developer intern"
+      },
+      "fingerprint": "9f8198b7686ebd176a83064c4542dc650a8b9a9921b843fc43aea6bb9f9d5750",
       "revision": 1
     },
     "url:https://itron.wd5.myworkdayjobs.com/early_careers/job/united-states-of-america-south-carolina-west-union/intern---systems-engineer--spring-2027-_jr102789-1": {
@@ -41478,8 +41539,8 @@
     },
     "url:https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d": {
       "eligible": false,
-      "fingerprint": "8f294103c117812095e6fbb95bd8aba684dc37471d3a6ee67e236d25d31bb449",
-      "revision": 1
+      "fingerprint": "d92be8028a6479f96530fcea9a79eb55e907a4672a78caae441c14d830abe0bf",
+      "revision": 2
     },
     "url:https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b": {
       "eligible": false,
@@ -54794,10 +54855,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "software engineer intern"
       },
-      "fingerprint": "7f482eea68350ec8517efff10c1de28fb12f00d03bd921b889c5ba63c0625f61",
-      "revision": 1
+      "fingerprint": "c5aeec88c9c7262cf620dccfc2e3cad44b2ad64384f3d9c15aa8d7be9b0f51cd",
+      "revision": 2
     },
     "url:https://sonos.wd1.myworkdayjobs.com/sonos/job/boston-ma/software-partner-engineering-intern--boston-_r2886-1": {
       "eligible": true,
@@ -55033,6 +55094,26 @@
     "url:https://spectrumhealth.wd5.myworkdayjobs.com/corewellhealthcareers/job/grand-rapids-mi/consumer-insights-intern_r231723": {
       "eligible": false,
       "fingerprint": "290b6839b967c30001fdd2e885d555e00d75b52d4c04e76e5be9874af9945a25",
+      "revision": 1
+    },
+    "url:https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/dallas-tx/summer-intern--ilevel---gp-mds_332651-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "s&p global",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "managed data services intern - ilevel - gp mds"
+      },
+      "fingerprint": "20166c360f797fac787004e7529c719ac430408cba51fc9008f158fa96d4d981",
       "revision": 1
     },
     "url:https://spherixglobalinsights.applytojob.com/apply/txlqnpk9i3/market-research-insights-internship": {
@@ -56343,6 +56424,45 @@
       "fingerprint": "abc7f5d0e816525ffffd248f94370c68813d0c46e5bbcf62cbb7361aff670b12",
       "revision": 1
     },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/overland-park-kansas/summer-2027-software-engineering-internship_req380734": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "t-mobile",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "overland park, ks"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "984c709b83a7a16f17717aa73512a2ab06a29fc4acfa1ccb3543cd3e8b152f87",
+      "revision": 1
+    },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/overland-park-kansas/summer-2027-software-engineering-internship_req380739": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "t-mobile",
+        "degrees": [],
+        "locations": [
+          "overland park, ks"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "1ba5c1b3252e045aabba2735c7bc956a1ee3b1197027bc146f11f1731b2014d9",
+      "revision": 1
+    },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/philadelphia-pennsylvania/summer-2027-software-engineering-internship_req380882": {
       "eligible": true,
       "evidence": {
@@ -56854,6 +56974,11 @@
       },
       "fingerprint": "1325d2dabd256cc2584925221940c6252424d6afb5412a30826f88d1bb635de8",
       "revision": 0
+    },
+    "url:https://uhaul.wd1.myworkdayjobs.com/uhauljobs/job/phoenix-arizona/data-analyst-spring-internship_r258909": {
+      "eligible": false,
+      "fingerprint": "eaa435e1dfc5052136dd809593805bc00fb0554a4b9b4636c7063346c8255a89",
+      "revision": 1
     },
     "url:https://uhaul.wd1.myworkdayjobs.com/uhauljobs/job/phoenix-arizona/rates---distribution-spring-intern_r259043": {
       "eligible": false,
@@ -60473,9 +60598,29 @@
       "revision": 0
     },
     "url:https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091": {
-      "eligible": false,
-      "fingerprint": "7ddf9de0f8025d47711dfb8524337319fc64691440f95cabc49c4846a7cbd14e",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "samsara",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "fall 2028",
+          "spring 2028",
+          "summer 2027",
+          "summer 2028",
+          "winter 2029"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "ada6cac2005ad9062104b918a01ce60ae5aa9f3460ce7f1b3f1af5d19536d331",
+      "revision": 2
     },
     "url:https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093": {
       "eligible": false,
@@ -60486,6 +60631,11 @@
       "eligible": false,
       "fingerprint": "4f332f47f06df1494148cedc41ad02cf7fbe05606ed202be847fbee7e75a0e3f",
       "revision": 0
+    },
+    "url:https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786": {
+      "eligible": false,
+      "fingerprint": "f44e78662d20d97045adf833d2edae8f9f03fd5a0e92d1e988aa217770b7d2bc",
+      "revision": 1
     },
     "url:https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern": {
       "eligible": false,
@@ -61980,6 +62130,10 @@
     "https://go.vansh.nyc/1kl": 167,
     "https://go.vansh.nyc/1kq": 167,
     "https://go.vansh.nyc/1kr": 167,
+    "https://go.vansh.nyc/1kt": 168,
+    "https://go.vansh.nyc/1ku": 168,
+    "https://go.vansh.nyc/1kv": 168,
+    "https://go.vansh.nyc/1kw": 168,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -63084,6 +63238,10 @@
     "https://go.vansh.nyc/1kl": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72",
     "https://go.vansh.nyc/1kq": "https://careersenus-itt-inc.icims.com/jobs/17657/data-analytics---ai-intern-%28summer-2027%29/job",
     "https://go.vansh.nyc/1kr": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dallas-Texas-United-States/Full-Stack-Developer-Intern_R0149426",
+    "https://go.vansh.nyc/1kt": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734",
+    "https://go.vansh.nyc/1ku": "https://invitation-charter.icims.com/jobs/81731/2027-summer-intern%3a-data-science/job",
+    "https://go.vansh.nyc/1kv": "https://invitation-charter.icims.com/jobs/81795/2027-summer-intern%3a-software-engineer/job",
+    "https://go.vansh.nyc/1kw": "https://invitation-charter.icims.com/jobs/82077/2027-summer-intern%3a-data-developer/job",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -63740,7 +63898,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 167,
+  "scan_sequence": 168,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

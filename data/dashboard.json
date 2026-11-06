@@ -6454,21 +6454,6 @@
       "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006"
     },
     {
-      "company": "Cadillac Formula 1 Team",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "8842c77dba9832c365cb9fa36d399b73e1b2832723cb44f9b5d5756d9585912f",
-      "locations": [
-        "Indianapolis, IN"
-      ],
-      "posted_at": "2026-10-30",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Aerodynamics AI Industrial Placement Intern",
-      "url": "https://apply.workable.com/cadillacf1team/j/7995A5E448"
-    },
-    {
       "company": "CAI",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -9801,12 +9786,12 @@
       "graduation_status": "not_found",
       "id": "29c52b1c341731adacddfb242a7d3d19f8eb7f0bdaa76c09638bac67a581ef27",
       "locations": [
-        "Cary,North Carolina,United States"
+        "Cary, NC"
       ],
       "posted_at": "2026-08-31",
       "priority": 11,
       "priority_program": false,
-      "source": "greenhouse",
+      "source": "simplify",
       "title": "Frontend Programmer Intern",
       "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
     },
@@ -9831,12 +9816,12 @@
       "graduation_status": "not_found",
       "id": "48bd0d34f86ff72e172ecdaa653a0136ed67ad7211e5b23246e1e60a9695a924",
       "locations": [
-        "Cary,North Carolina,United States"
+        "Cary, NC"
       ],
-      "posted_at": "2026-09-18",
+      "posted_at": "2026-09-19",
       "priority": 11,
       "priority_program": false,
-      "source": "greenhouse",
+      "source": "simplify",
       "title": "Tools Programmer Intern",
       "url": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004"
     },
@@ -12943,21 +12928,6 @@
       "url": "https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866"
     },
     {
-      "company": "Hitachi",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "816af1c0b4bfe1a364e556600612d0b461d4f5e97ab77936bf6c92c9982fb720",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Full Stack Developer Intern",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dallas-Texas-United-States/Full-Stack-Developer-Intern_R0149426"
-    },
-    {
       "company": "Hive Financial Systems",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -14625,6 +14595,51 @@
       "source": "simplify",
       "title": "Vehicle Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745083005"
+    },
+    {
+      "company": "Invitation-charter",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "0bff8674529d24211804deb8207e158ad65f4cce2a5e3e6c6b492b5654dbbeef",
+      "locations": [
+        "Greenwood Village, CO"
+      ],
+      "posted_at": "2026-11-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data Developer Intern",
+      "url": "https://invitation-charter.icims.com/jobs/82077/2027-summer-intern%3a-data-developer/job"
+    },
+    {
+      "company": "Invitation-charter",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c84dbfb11e945ed339e2cfede209a0d069b0c20a86b3bb6e35b8a57d9bf76e31",
+      "locations": [
+        "Greenwood Village, CO"
+      ],
+      "posted_at": "2026-11-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data Science Intern",
+      "url": "https://invitation-charter.icims.com/jobs/81731/2027-summer-intern%3a-data-science/job"
+    },
+    {
+      "company": "Invitation-charter",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "589a11bf979b2f22021a291447b270c3b319d52daebecfeeff9beff0f009d6e5",
+      "locations": [
+        "Englewood, CO"
+      ],
+      "posted_at": "2026-11-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://invitation-charter.icims.com/jobs/81795/2027-summer-intern%3a-software-engineer/job"
     },
     {
       "company": "Iridium Communications",
@@ -22396,6 +22411,21 @@
       "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843"
     },
     {
+      "company": "S&P Global",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a1d141ef50f3d25646e6b6d8e77ded10bc96226e7e35ddff4aa0b7401f3400f5",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-11-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Managed Data Services Intern - Ilevel - GP Mds",
+      "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Summer-intern--iLevel---GP-MDS_332651-1"
+    },
+    {
       "company": "Safran",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -22440,6 +22470,21 @@
       "source": "simplify",
       "title": "Data Science and Engineering Intern",
       "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659"
+    },
+    {
+      "company": "Samsara",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f27c1aa64aec4058804fe7cd07d9f84e387ff2e7152652d6fb8a04141723f13f",
+      "locations": [
+        "SF"
+      ],
+      "posted_at": "2026-08-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091"
     },
     {
       "company": "Samsung",
@@ -23900,21 +23945,6 @@
       "url": "https://specteraerospace.bamboohr.com/careers/122/"
     },
     {
-      "company": "Spectrum",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "589a11bf979b2f22021a291447b270c3b319d52daebecfeeff9beff0f009d6e5",
-      "locations": [
-        "Englewood, CO"
-      ],
-      "posted_at": "2026-11-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "speedyapply",
-      "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://invitation-charter.icims.com/jobs/81795/2027-summer-intern%3a-software-engineer/job"
-    },
-    {
       "company": "Springs Window Fashions",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -24588,6 +24618,21 @@
       "company": "T-Mobile",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "5f5a53e99bba49ad96d358349dbb9c7b3dbd303fe1c2467673eacf9d81235a5a",
+      "locations": [
+        "Overland Park, KS"
+      ],
+      "posted_at": "2026-11-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739"
+    },
+    {
+      "company": "T-Mobile",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "16a0be5c4e7dfae44ea06a9d8c32b3e4788812a21af1d6f5cc73e6c26be96721",
       "locations": [
         "Atlanta, GA"
@@ -24598,6 +24643,21 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652"
+    },
+    {
+      "company": "T-Mobile",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "62e4289d9995c468894570cbb2980f69324cf9d74590d38f44826c0a867a8817",
+      "locations": [
+        "Overland Park, KS"
+      ],
+      "posted_at": "2026-11-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"
     },
     {
       "company": "T-Mobile",
@@ -29471,7 +29531,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-06T16:01:23.624377+00:00",
+  "last_checked": "2026-11-06T17:06:13.441970+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
