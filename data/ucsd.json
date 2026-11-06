@@ -16435,6 +16435,24 @@
       "fingerprint": "c8af54fed5c7bb4df0c94a8fb2e52d2d460690b5452602e4eb908a34e249f787",
       "revision": 0
     },
+    "url:https://ecnf.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/301961": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "icd",
+        "degrees": [],
+        "locations": [
+          "jersey city, nj"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai/ml engineering intern"
+      },
+      "fingerprint": "c6141a97cbd874bb0ef58dfff5fdfa22e8ec347a2637d2d927dfa0e11d2b6380",
+      "revision": 1
+    },
     "url:https://ecnf.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/301987": {
       "eligible": false,
       "fingerprint": "78012e814c28346bba2739b07d1cabc2fda3064e23fc2e52c10c0819342b6d19",
@@ -22722,6 +22740,11 @@
     "url:https://go.vansh.nyc/1k8": {
       "eligible": false,
       "fingerprint": "4927a3f982d219e8222e7ba54e1e00fe2714abfd093ef9c5e07e5cf8acd586ae",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ka": {
+      "eligible": false,
+      "fingerprint": "8f1b4ef727d9d488cf622f494697fd4ab2fca3d0cc0249b5a374b511b2c9b3f3",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1kn": {
@@ -39971,27 +39994,9 @@
       "revision": 0
     },
     "url:https://jobs.l3harris.com/job/rockwall-intern,-software-engineer-tx-75032/1443682400?ats=successfactors": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "l3harris technologies",
-        "degrees": [
-          "bachelor's",
-          "master's",
-          "phd"
-        ],
-        "locations": [
-          "rockwall, tx"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "1b9e48a1aae1207a9f3b28e88d3d9992cdb2274c96d43ee2a61d565eeefa0a02",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "483cca2f2399b68deaca398e85c3fb50828dfa0bd9e6f536f1ff6345568a3b97",
+      "revision": 2
     },
     "url:https://jobs.l3harris.com/job/salt-lake-city-intern,-software-engineer-(salt-lake-city,-ut)-ut-84116/1415358400?ats=successfactors": {
       "eligible": false,
@@ -56339,6 +56344,60 @@
       "fingerprint": "65737d5ad4cf2b4bbd6affe395f4e807e23ff1514cee95672edd59b80fbba4c0",
       "revision": 2
     },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-ai-engineering-internship_req380765": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "t-mobile",
+        "degrees": [],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineering intern"
+      },
+      "fingerprint": "4d6f80b7d104d330abca43eae871e02d4a5fb1fc1645443469de59a068ea799c",
+      "revision": 1
+    },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineer-hr-data-products-internship_req380916": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "t-mobile",
+        "degrees": [],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, hr data products"
+      },
+      "fingerprint": "59b2e993d95391d0ae1b31a56470eba71c8d5334fffa0eceff60862cbdd94510",
+      "revision": 1
+    },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineering-internship_req380757": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "t-mobile",
+        "degrees": [],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "7f981e6a9c6dbafd8f2ee735d7fdd18d20e47ec17a2e89f185380fb26b12637b",
+      "revision": 1
+    },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/new-york-new-york/summer-2027-software-engineering-internship_req380886": {
       "eligible": true,
       "evidence": {
@@ -60598,29 +60657,9 @@
       "revision": 0
     },
     "url:https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "samsara",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "san francisco, ca",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "fall 2028",
-          "spring 2028",
-          "summer 2027",
-          "summer 2028",
-          "winter 2029"
-        ],
-        "title": "software engineering intern"
-      },
-      "fingerprint": "ada6cac2005ad9062104b918a01ce60ae5aa9f3460ce7f1b3f1af5d19536d331",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "e1152d6e2447e571847d770766f3a4785d01b1d229155c6339007b64f95e14ef",
+      "revision": 3
     },
     "url:https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093": {
       "eligible": false,
@@ -62122,6 +62161,10 @@
     "https://go.vansh.nyc/1k4": 166,
     "https://go.vansh.nyc/1k6": 166,
     "https://go.vansh.nyc/1k9": 166,
+    "https://go.vansh.nyc/1kB": 169,
+    "https://go.vansh.nyc/1kC": 169,
+    "https://go.vansh.nyc/1kD": 169,
+    "https://go.vansh.nyc/1kF": 169,
     "https://go.vansh.nyc/1ka": 166,
     "https://go.vansh.nyc/1kb": 166,
     "https://go.vansh.nyc/1kc": 166,
@@ -63230,6 +63273,10 @@
     "https://go.vansh.nyc/1k4": "https://careers-berkley.icims.com/jobs/14444/software-developer-%28.net%29-intern/job",
     "https://go.vansh.nyc/1k6": "https://careers-ice.icims.com/jobs/14075/summer-internship-program-2027---software-engineering-intern/job",
     "https://go.vansh.nyc/1k9": "https://careers-westernsouthern.icims.com/jobs/25222/software-developer-intern-%28agency-systems%29-%28full-year-2027%29/job",
+    "https://go.vansh.nyc/1kB": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757",
+    "https://go.vansh.nyc/1kC": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765",
+    "https://go.vansh.nyc/1kD": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916",
+    "https://go.vansh.nyc/1kF": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301961",
     "https://go.vansh.nyc/1ka": "https://careersus-shure.icims.com/jobs/5018/embedded-software-intern/job",
     "https://go.vansh.nyc/1kb": "https://careersus-shure.icims.com/jobs/5020/application-software-development-intern/job",
     "https://go.vansh.nyc/1kc": "https://corporatejobs-alaskaair.icims.com/jobs/21277/intern---software-engineer-%28summer-2027%29/job",
@@ -63898,7 +63945,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 168,
+  "scan_sequence": 169,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
