@@ -24699,6 +24699,46 @@
       "fingerprint": "340e9b16af4ed0b6a6f4e8080dee49b335af04ff0ad77a9036e0a1191c3e40a7",
       "revision": 1
     },
+    "url:https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040156": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "molina healthcare",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "remote in usa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "electronic data interchange intern"
+      },
+      "fingerprint": "dbea1dec59ea9a30ed7c9bd184f96af4a2e3dad07f8ca01661bd0ea971531431",
+      "revision": 1
+    },
+    "url:https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040160": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "molina healthcare",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics intern"
+      },
+      "fingerprint": "f033c0e058efbb736feea8352acde85e18a16e4c916d638bc0a141f06f4b77e7",
+      "revision": 1
+    },
     "url:https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040169": {
       "eligible": true,
       "evidence": {
@@ -35576,6 +35616,11 @@
       "eligible": false,
       "fingerprint": "95182e5cfd62aa03a8bb80c1c6d46e31b8bd4fbd7ef8191418e43aef33eb0fdb",
       "revision": 0
+    },
+    "url:https://jobs.ashbyhq.com/k-id/18619df2-45d8-4732-8815-9a340d498d48": {
+      "eligible": false,
+      "fingerprint": "7f2e4b9fba1123a80e9da8e1adb1f2f4b484c4b61659643dd4fcbcd96f8adaaf",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee": {
       "eligible": true,
@@ -53562,6 +53607,11 @@
       "fingerprint": "7ab691145f12b32e55c53fd74944986f4c21fe0557b33283defebae73b4030fd",
       "revision": 0
     },
+    "url:https://ryan.wd1.myworkdayjobs.com/ryancareers/job/north-york/summer-2027-intern--software-engineering_r0020807-1": {
+      "eligible": false,
+      "fingerprint": "be8cac5c665b29ce0f0af39df9d3d079f890f2a416b113712f92042f42447523",
+      "revision": 1
+    },
     "url:https://ryan.wd1.myworkdayjobs.com/ryancareers/job/plano/summer-2027-intern--application-development_r0020820-1": {
       "eligible": true,
       "evidence": {
@@ -53645,6 +53695,11 @@
       },
       "fingerprint": "cfdcafdb53c31ab4508b14faa4d3fd2e1b048657f6078da0c79423b3e3107f3f",
       "revision": 0
+    },
+    "url:https://ryan.wd1.myworkdayjobs.com/ryancareers/job/summer-2027-intern--software-engineering_r0020806-1": {
+      "eligible": false,
+      "fingerprint": "be8cac5c665b29ce0f0af39df9d3d079f890f2a416b113712f92042f42447523",
+      "revision": 1
     },
     "url:https://ryan.wd1.myworkdayjobs.com/students-graduates/job/plano/summer-2027-intern--application-development_r0020820": {
       "eligible": true,
@@ -63534,7 +63589,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 162,
+  "scan_sequence": 163,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
