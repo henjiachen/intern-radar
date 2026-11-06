@@ -11385,37 +11385,6 @@
       "company": "General Motors",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "238f566b2e8d18ee6587db9593fd4498a831d5ba93cb150e64d874e6b6221486",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "posted_at": "2026-10-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Machine Learning Engineer Intern - AV/AI Platform",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695"
-    },
-    {
-      "company": "General Motors",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "ec1bfd4ed32c8e6431d0932fdd8dcbe1bb7fcb98b1b618c93cf7f9f62a6a69e2",
-      "locations": [
-        "Sunnyvale, CA",
-        "Warren, MI"
-      ],
-      "posted_at": "2026-10-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - AV/AI Platform",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696"
-    },
-    {
-      "company": "General Motors",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "b1110236836b0b3f1fb5ccc63ab600f84bdcf0645ac81a317332e276c4448fdf",
       "locations": [
         "Austin, TX",
@@ -11429,6 +11398,22 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Digital Product: Software Engineering",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
+    },
+    {
+      "company": "General Motors",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ec1bfd4ed32c8e6431d0932fdd8dcbe1bb7fcb98b1b618c93cf7f9f62a6a69e2",
+      "locations": [
+        "Sunnyvale, CA",
+        "Warren, MI"
+      ],
+      "posted_at": "2026-10-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, AV/AI Platform",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696"
     },
     {
       "company": "General Motors",
@@ -13714,6 +13699,21 @@
       "source": "simplify",
       "title": "Software Development Engineer Intern",
       "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003"
+    },
+    {
+      "company": "Idaho National Laboratory",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f95dc04792e04853da0baeaccecb6f736e4eef7ba5b42f70ab504c89297489c7",
+      "locations": [
+        "Idaho Falls, ID"
+      ],
+      "posted_at": "2026-09-22",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Computer Security Research Intern",
+      "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/intern/job/2092"
     },
     {
       "company": "IDEMIA",
@@ -29681,6 +29681,36 @@
       "url": "https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d"
     },
     {
+      "company": "Zoox",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "36f709e5c5898647cd4fa9ebf3b98fbfd7a1929298fba1afc4dd443037cbb45e",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "posted_at": "2026-11-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Software Platforms & Product",
+      "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply"
+    },
+    {
+      "company": "Zoox",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "bb989f1dbede28bf8c3961a233d2c403980cedc59ac75771dcf322ea00dd1309",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "posted_at": "2026-11-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Software Systems",
+      "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply"
+    },
+    {
       "company": "Zurn Elkay Water Solutions",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29711,7 +29741,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-06T03:03:25.970273+00:00",
+  "last_checked": "2026-11-06T04:08:49.097530+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

@@ -17396,6 +17396,24 @@
       "fingerprint": "5d644a91ff1ea4ee67f3b4162c041a8f3b01fdcc9d493cb69d184dab7fd97ab9",
       "revision": 0
     },
+    "url:https://elhe.fa.us8.oraclecloud.com/hcmui/candidateexperience/en/sites/intern/job/2092": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "idaho national laboratory",
+        "degrees": [],
+        "locations": [
+          "idaho falls, id"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "computer security research intern"
+      },
+      "fingerprint": "d61f05d529fbeced555c144397383bd60eb562c06dfbc9f3eaa791b33727e1be",
+      "revision": 1
+    },
     "url:https://elkay.wd1.myworkdayjobs.com/elkay_external/job/milwaukee-wi/embedded-firmware-intern--summer-2027-_req-020150-1": {
       "eligible": true,
       "evidence": {
@@ -20157,10 +20175,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - av/ai platform"
+        "title": "software engineer intern, av/ai platform"
       },
-      "fingerprint": "27c919e781e7af55dd1978e4e22017befa320794a4c6a133979dc0f55eb25722",
-      "revision": 4
+      "fingerprint": "88d129884f79d28fc4369dc84305bc19fd255a34e79d0b519ecbc78ebf7ad123",
+      "revision": 5
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/milford-michigan-united-states-of-america/xmlname-2027-summer-intern--systems-engineer--asd_jr-202621989": {
       "eligible": true,
@@ -41352,6 +41370,55 @@
       "fingerprint": "22284830f45495b0b0ef58b3a106f094b3787680d5dc44333426c679895816c4",
       "revision": 1
     },
+    "url:https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877": {
+      "eligible": false,
+      "fingerprint": "2f440d4756cb1b8178a985fb2141240a24a40ba1f5e5b1a3c4c1fabb678516e5",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "zoox",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "foster city, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - software platforms & product"
+      },
+      "fingerprint": "3e026333685c7c682011c276f64a7b77af1f61737128c164d469455722971d10",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "zoox",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "foster city, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - software systems"
+      },
+      "fingerprint": "0913da08c5ac0536c79a88604a25d642e1523f90fe9994fb2ef66d882f0e03be",
+      "revision": 1
+    },
     "url:https://jobs.newellbrands.com/job/huntersville-2027-newell-brands-intern-sales-ai-&-analytics-developer-intern-nort/1431281200?ats=successfactors": {
       "eligible": true,
       "evidence": {
@@ -50320,6 +50387,11 @@
       "eligible": false,
       "fingerprint": "bf9c8371abd7232af88717a3de794124dc48b51377cfa3aaddaba8e251db6a8f",
       "revision": 0
+    },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/research-and-engineering-intern--agentic-systems-intelligence---summer-2027_jr2028260": {
+      "eligible": false,
+      "fingerprint": "015efac058cc58596ab4db719ce2284b8d74516965304d97d54a2b71a1da2ac1",
+      "revision": 1
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/research-intern--efficient-deep-learning---2027_jr2025478": {
       "eligible": false,
@@ -61673,6 +61745,9 @@
     "https://go.vansh.nyc/1jH": 155,
     "https://go.vansh.nyc/1jI": 155,
     "https://go.vansh.nyc/1jR": 155,
+    "https://go.vansh.nyc/1jV": 157,
+    "https://go.vansh.nyc/1jW": 157,
+    "https://go.vansh.nyc/1jX": 157,
     "https://go.vansh.nyc/1jb": 151,
     "https://go.vansh.nyc/1jj": 153,
     "https://go.vansh.nyc/1jk": 153,
@@ -62761,6 +62836,9 @@
     "https://go.vansh.nyc/1jH": "https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us",
     "https://go.vansh.nyc/1jI": "https://careers.gov2x.com/jobs/63948?icims=1&lang=en-us",
     "https://go.vansh.nyc/1jR": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Reno-NV/Intern-Software-Engineering_R322885",
+    "https://go.vansh.nyc/1jV": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
+    "https://go.vansh.nyc/1jW": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
+    "https://go.vansh.nyc/1jX": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/intern/job/2092",
     "https://go.vansh.nyc/1jb": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1",
     "https://go.vansh.nyc/1jj": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646",
     "https://go.vansh.nyc/1jk": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Software-Intern_REQ52945",
@@ -63424,7 +63502,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 156,
+  "scan_sequence": 157,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
