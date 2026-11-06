@@ -28408,8 +28408,8 @@
     },
     "url:https://jj.wd5.myworkdayjobs.com/jj/job/danvers-massachusetts-united-states-of-america/software-engineering-co-op_r-098277": {
       "eligible": false,
-      "fingerprint": "ee3e16838221961582aff61650b6fedc2c0c476028ac2f37cfe2a0180fad5bbb",
-      "revision": 0
+      "fingerprint": "0064c77f73a87bda56b7594b270e9bb5e457a1549003429a73a230699de2beae",
+      "revision": 1
     },
     "url:https://jj.wd5.myworkdayjobs.com/jj/job/danvers-massachusetts-united-states-of-america/software-test-engineering-co-op--rlm-_r-098669": {
       "eligible": false,
@@ -49582,8 +49582,7 @@
           "bachelor's"
         ],
         "locations": [
-          "linthicum heights, md",
-          "linthicum, md"
+          "linthicum heights, md"
         ],
         "requirements": [],
         "terms": [
@@ -49591,8 +49590,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "496a64496ed8ccff624bf03817e0546e1276d22bb264e518d808733862bd6408",
-      "revision": 2
+      "fingerprint": "40b73e16c8590f288abbc08e79c189fa65918743219f411fc962ef0c0df4e225",
+      "revision": 3
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-maryland-sykesville/xmlname-2027-s-w-embedded-engineering-intern---sykesville-md_r10258553": {
       "eligible": true,
@@ -58736,6 +58735,24 @@
       "fingerprint": "5242938a48c81e07602e4e5cc7bcea471401089101b0a7f29bb6010ba0b4c623",
       "revision": 0
     },
+    "url:https://www.asm.com/open-vacancies?gh_jid=5029228101": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "asm",
+        "degrees": [],
+        "locations": [
+          "phoenix, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "product intelligence engineering intern, ai/ml"
+      },
+      "fingerprint": "884e81cbe51d8cab23bd16217157476946c8a80550ec06537c0d6a50f56f408b",
+      "revision": 1
+    },
     "url:https://www.burns-group.com/careers/current-openings?gh_jid=4467848009": {
       "eligible": true,
       "evidence": {
@@ -61748,6 +61765,7 @@
     "https://go.vansh.nyc/1jV": 157,
     "https://go.vansh.nyc/1jW": 157,
     "https://go.vansh.nyc/1jX": 157,
+    "https://go.vansh.nyc/1jZ": 159,
     "https://go.vansh.nyc/1jb": 151,
     "https://go.vansh.nyc/1jj": 153,
     "https://go.vansh.nyc/1jk": 153,
@@ -62839,6 +62857,7 @@
     "https://go.vansh.nyc/1jV": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
     "https://go.vansh.nyc/1jW": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
     "https://go.vansh.nyc/1jX": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/intern/job/2092",
+    "https://go.vansh.nyc/1jZ": "https://www.asm.com/open-vacancies/?gh_jid=5029228101",
     "https://go.vansh.nyc/1jb": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1",
     "https://go.vansh.nyc/1jj": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646",
     "https://go.vansh.nyc/1jk": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Software-Intern_REQ52945",
@@ -63502,7 +63521,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 158,
+  "scan_sequence": 159,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

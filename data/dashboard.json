@@ -3213,6 +3213,21 @@
       "url": "https://jobs.ajg.com/jobs/57701?icims=1"
     },
     {
+      "company": "ASM",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4075c87cd99d831331ee3a69dc35848b509b11c362138d40d2dff9bd1aae52c4",
+      "locations": [
+        "Phoenix, AZ"
+      ],
+      "posted_at": "2026-11-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Product Intelligence Engineering Intern, AI/ML",
+      "url": "https://www.asm.com/open-vacancies/?gh_jid=5029228101"
+    },
+    {
       "company": "ASML",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -10793,22 +10808,6 @@
       "url": "https://go.vansh.nyc/IX"
     },
     {
-      "company": "GE Aerospace",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "8b9b198b0e18dcf442515cbfb6eec685bf86dc35eb29cbf57be2e28d9816470a",
-      "locations": [
-        "Lynn, MA",
-        "Evendale, OH"
-      ],
-      "posted_at": "2026-08-17",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Engines Engineering Intern - Computer or Software Engineering",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1"
-    },
-    {
       "company": "GE Healthcare",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -15298,21 +15297,6 @@
       "company": "Johnson & Johnson",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "f16503ce9b62551245f7c5c5e4a0e795785a01ccb32780841179736a826ba1f6",
-      "locations": [
-        "Spring House, PA"
-      ],
-      "posted_at": "2026-10-23",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Laboratory Automation Systems Intern",
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "bc87ae7041c6119efcde6fa083100f069177db95c2641e5c0c12ad917777730f",
       "locations": [
         "Cincinnati, OH"
@@ -18735,21 +18719,6 @@
       "source": "simplify",
       "title": "Engineering Intern - Multiple Teams",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848"
-    },
-    {
-      "company": "Northrop Grumman",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "51936162bbe866c78cdb5a5fb6946902c39ce1c33f8f4d30ea310448e0a972ad",
-      "locations": [
-        "Baltimore, MD"
-      ],
-      "posted_at": "2026-11-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Engineering Software Tool Development Intern, Field Engineering",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965"
     },
     {
       "company": "Northrop Grumman",
@@ -29741,7 +29710,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-06T05:13:45.318743+00:00",
+  "last_checked": "2026-11-06T06:16:02.777224+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
