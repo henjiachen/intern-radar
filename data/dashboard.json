@@ -22233,6 +22233,21 @@
       "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003"
     },
     {
+      "company": "Samsung",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5b7e335b3d161eb76703454b2f22731a3b445cd21fd8a961d3c6b85f4ff4915e",
+      "locations": [
+        "Plano, TX"
+      ],
+      "posted_at": "2026-11-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Care AI Data Analytic Intern",
+      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1"
+    },
+    {
       "company": "Saronic",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -28236,21 +28251,6 @@
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W"
     },
     {
-      "company": "Visa",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "353acc3385d6a20f80c9525c69d9b7e67f949e4ff2b88b93e7ab458c62bc5eb6",
-      "locations": [
-        "Austin, TX"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1"
-    },
-    {
       "company": "Vizient",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -28515,21 +28515,6 @@
       "source": "greenhouse",
       "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
-    },
-    {
-      "company": "WebFX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "6e3344a1c752e493809610e0fe4ff75fa540704d8add83442463b773d426919a",
-      "locations": [
-        "Harrisburg, PA"
-      ],
-      "posted_at": "2026-09-14",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Web Developer Intern",
-      "url": "https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d/application?embed=true"
     },
     {
       "company": "Wellmark",
@@ -29321,7 +29306,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-06T20:58:55.122338+00:00",
+  "last_checked": "2026-11-06T21:54:07.533646+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

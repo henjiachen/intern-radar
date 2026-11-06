@@ -13183,6 +13183,11 @@
       "fingerprint": "5cd91857e0a840689ae84d3d1a261d2763c1785af66804d97fa4829c3a1e8c1e",
       "revision": 2
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8351210": {
+      "eligible": false,
+      "fingerprint": "ebf94e2482d13d692e1982456a049991f7bd8bc91385e0359e53f0de669d1e05",
+      "revision": 1
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8358262": {
       "eligible": false,
       "fingerprint": "6cc1c905604de487fe24ced4fd7ed5089e1dbb31bfe2981f7f26bb8d3bf70a5d",
@@ -22787,6 +22792,16 @@
     "url:https://go.vansh.nyc/1kz": {
       "eligible": false,
       "fingerprint": "4b30932b646283d1a69fc215e0c792a6188c5dc4e361f1f49133c860bf5c8cbc",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1la": {
+      "eligible": false,
+      "fingerprint": "128dff2c63f5565b27b3f4f113926a740d4567249e8148d8a0fbf361cdf8f712",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1lf": {
+      "eligible": false,
+      "fingerprint": "28329b057ef45bba1f5d17e320347b1cc101ec9454c1a32cdb883dab77754e90",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1s": {
@@ -37839,25 +37854,9 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "webfx",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "harrisburg, pa"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "web developer intern"
-      },
-      "fingerprint": "934cfbad94d72ada8f30785067b4259c50094348cf4e728c5f371741923764a4",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "bdadd4ab8f34e4e40dcf6afed4d6ab7cdb416da3b05b591e25b9876f2432bf0a",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882": {
       "eligible": true,
@@ -54550,6 +54549,24 @@
       "fingerprint": "bf5caadcd33c95214630b82dd2b5b1147d45df37dd2997d6da5fe61eeccaa35c",
       "revision": 0
     },
+    "url:https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-excellence-way-plano-tx-usa/samsung-care-ai-data-analytic-intern_r121971-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "samsung",
+        "degrees": [],
+        "locations": [
+          "plano, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "care ai data analytic intern"
+      },
+      "fingerprint": "7f2192b56112d84283ee49d59b44dce4423fe6441a996298c4c500c256bf3116",
+      "revision": 1
+    },
     "url:https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US": {
       "eligible": false,
       "fingerprint": "b8ebbabbb219f5af5c693a2b4e8de90e22b71049e35b57dd644b75693e103d9a",
@@ -62446,6 +62463,7 @@
     "https://go.vansh.nyc/1kw": 168,
     "https://go.vansh.nyc/1l3": 172,
     "https://go.vansh.nyc/1l9": 172,
+    "https://go.vansh.nyc/1le": 173,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -63567,6 +63585,7 @@
     "https://go.vansh.nyc/1kw": "https://invitation-charter.icims.com/jobs/82077/2027-summer-intern%3a-data-developer/job",
     "https://go.vansh.nyc/1l3": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319",
     "https://go.vansh.nyc/1l9": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279",
+    "https://go.vansh.nyc/1le": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -64223,7 +64242,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 172,
+  "scan_sequence": 173,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
