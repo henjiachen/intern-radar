@@ -10948,6 +10948,11 @@
       "fingerprint": "3f54f9e7fe888c279d123c91f934cac9f480aa81df73c1b6eb9bed4926951b53",
       "revision": 0
     },
+    "url:https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002": {
+      "eligible": false,
+      "fingerprint": "ddd65e07a6a0089f95ef238441294ed4173a2b009c1ddf5d36268c7a984eacf2",
+      "revision": 1
+    },
     "url:https://careers.formlabs.com/job/8256004/apply?gh_jid=8256004": {
       "eligible": false,
       "fingerprint": "bd202057dd9779f96e2e76839b86e576e99b6020620d8e4c87f3b3a6d359882c",
@@ -22747,11 +22752,6 @@
       "fingerprint": "8f1b4ef727d9d488cf622f494697fd4ab2fca3d0cc0249b5a374b511b2c9b3f3",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1kn": {
-      "eligible": false,
-      "fingerprint": "820ba2a1eb053e48cb65427de130ab41fc9333aa734fd177395f1a44153d0ad4",
-      "revision": 1
-    },
     "url:https://go.vansh.nyc/1kz": {
       "eligible": false,
       "fingerprint": "4b30932b646283d1a69fc215e0c792a6188c5dc4e361f1f49133c860bf5c8cbc",
@@ -33782,8 +33782,8 @@
     },
     "url:https://job-boards.greenhouse.io/vercel/jobs/6181759004": {
       "eligible": false,
-      "fingerprint": "c26fb9335c5ebb4c88cdd0ca938e0865fbd5c8caa689f5447d55e389f39ec2d8",
-      "revision": 0
+      "fingerprint": "c6f9a7c4db968b9e2fff6867b5e02d9265367f6bc40b5b1eab76a4754a4eb02e",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/veritiongroupllcinternships/jobs/5275320007": {
       "eligible": true,
@@ -36048,6 +36048,11 @@
       "fingerprint": "367ab83e71c8346d628e6be3a6f674051903e471e0f92a4ea52e9cd493edc395",
       "revision": 1
     },
+    "url:https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947": {
+      "eligible": false,
+      "fingerprint": "56b8575ff53dc40d33bd8c952229ad200f8ff7665596a8010094fabd6c74a507",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7": {
       "eligible": false,
       "fingerprint": "4497e79d148a7278308c168c344ca97e77eb6df5a0884a5005e606f2e8158650",
@@ -36055,7 +36060,12 @@
     },
     "url:https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c": {
       "eligible": false,
-      "fingerprint": "2bbad6ba618d55534ed2f0b1ea651526e2ef4215fd4bc38edb432c7e0efe5372",
+      "fingerprint": "8be79f906cbdaf66ad017c08314860076273eaa117f09ff7f07ee6d284d1002e",
+      "revision": 2
+    },
+    "url:https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413": {
+      "eligible": false,
+      "fingerprint": "0e0673a4b9dc71dd128efefe4d6fc4acd5d9943d84d36519836283d3cc7f600e",
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8": {
@@ -52413,10 +52423,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - tools and prototypes"
+        "title": "software engineering intern - tools and prototypes"
       },
-      "fingerprint": "d092aa7359ecba75150c15b044b604083ee7af936c1c2350c5684762f87d7428",
-      "revision": 0
+      "fingerprint": "cdfa1ff4372dc727454dd6eb9811a0ffe91e5373101960ee0edf613fe1c13087",
+      "revision": 1
     },
     "url:https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/beavercreek-oh/xmlname-2027-modeling--analytics----simulation-sciences--mass--engineer-intern_hr102437": {
       "eligible": false,
@@ -54106,6 +54116,22 @@
       "fingerprint": "0abb4cc2178ae5582d688e32193326b632309efd57623039476b623777e2adc7",
       "revision": 3
     },
+    "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---applied-ai-strategy---research_jr367516-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "salesforce",
+        "degrees": [],
+        "locations": [
+          "california - san francisco"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "summer 2027 intern - applied ai strategy & research"
+      },
+      "fingerprint": "bc2f2480663e99e9b14576113aaace810e124f015357a2c62e7899d2aae1220a",
+      "revision": 1
+    },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911-1": {
       "eligible": true,
       "evidence": {
@@ -54860,10 +54886,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern - boston"
       },
-      "fingerprint": "c5aeec88c9c7262cf620dccfc2e3cad44b2ad64384f3d9c15aa8d7be9b0f51cd",
-      "revision": 2
+      "fingerprint": "7dc4cdc987e33e47e0bb01daf48bb8fcd2e0553de9f3611f99d16a04d4b00e15",
+      "revision": 3
     },
     "url:https://sonos.wd1.myworkdayjobs.com/sonos/job/boston-ma/software-partner-engineering-intern--boston-_r2886-1": {
       "eligible": true,
@@ -58054,10 +58080,10 @@
           "fall 2027",
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineer - intern - 2027 austin - tx"
       },
-      "fingerprint": "880d7f8320efaa6ecaebde27847dda293401f72d64f0ab5706458b9db4c4a520",
-      "revision": 0
+      "fingerprint": "cbfcf2b1294a1321461c936bb3926b8cafc2936fc59c6e2e448d7ed041e78e76",
+      "revision": 1
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---austin-tx/staff-research-scientist--intern---phd-agentic-ai_ref088582w": {
       "eligible": false,
@@ -58080,10 +58106,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "2027 sophomore internship program - software engineer intern - austin - tx - 2027"
       },
-      "fingerprint": "fe3df8ec59c1b34a36d9b3c6734615b061e4bb387c68c230f8ec8edd0eb90782",
-      "revision": 0
+      "fingerprint": "4cfbca5754dd9de212e34e898bc8348140341095626b527fc6ccec6935218cb8",
+      "revision": 1
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---bellevue-wa/xmlname-2027-sophomore-internship-program---software-engineer-intern--bellevue_ref089920w-1": {
       "eligible": false,
@@ -63945,7 +63971,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 169,
+  "scan_sequence": 170,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

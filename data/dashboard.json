@@ -669,6 +669,21 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
     },
     {
+      "company": "salesforce",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a4af6bc81429199f4ed7679f916edee5a68a166833c26f676370a016499df4fe",
+      "locations": [
+        "California - San Francisco"
+      ],
+      "posted_at": "",
+      "priority": 10,
+      "priority_program": false,
+      "source": "workday",
+      "title": "Summer 2027 Intern - Applied AI Strategy & Research",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-1"
+    },
+    {
       "company": "3M",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -3907,21 +3922,6 @@
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3814718"
     },
     {
-      "company": "Avis Budget Group",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "c405c653d461a219f3c16f16781313e62d08b065ef13377f9508a94bdb9c3382",
-      "locations": [
-        "Parsippany-Troy Hills, NJ"
-      ],
-      "posted_at": "2026-09-11",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Transformation Engineer Intern - Accelerate",
-      "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388"
-    },
-    {
       "company": "Awardco",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -4740,21 +4740,6 @@
       "source": "simplify",
       "title": "Software Developer Intern",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394"
-    },
-    {
-      "company": "Booz Allen",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "321088333dd54a9012581b1299262d68141f61b773794e104d282e55301cb9df",
-      "locations": [
-        "Fort Walton Beach, FL"
-      ],
-      "posted_at": "2026-09-01",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Developer Intern",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404"
     },
     {
       "company": "Booz Allen",
@@ -8622,21 +8607,6 @@
       "url": "https://www.disneycareers.com/en/job/glendale/product-and-technology-software-engineering-intern-summer-2027/391/102343795584"
     },
     {
-      "company": "DivcoWest",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "ee6bbbf5dc5ed57aea19936e458412e613fc0595af66142fafb446bf86459988",
-      "locations": [
-        "SF"
-      ],
-      "posted_at": "2026-05-08",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI Intern",
-      "url": "https://job-boards.greenhouse.io/divcowest/jobs/4244219009"
-    },
-    {
       "company": "Divergent Technologies",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -11454,12 +11424,12 @@
       "locations": [
         "Indianapolis, IN"
       ],
-      "posted_at": "2026-11-05",
+      "posted_at": "2026-10-22",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "speedyapply",
       "title": "Software Engineering Intern",
-      "url": "https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Indianapolis-IN-USA/Software-Engineering-Intern_JR112421"
+      "url": "https://genesys.wd1.myworkdayjobs.com/en-US/2_genesys_jobs/job/Indianapolis-IN-USA/Software-Engineering-Intern_JR112421"
     },
     {
       "company": "Genworth Financial",
@@ -16454,21 +16424,6 @@
       "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921"
     },
     {
-      "company": "Lumbermen's",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "6c8e0984771fee41922cce11661fc030c43161e6a9e428636ccd3d53d54c534f",
-      "locations": [
-        "Grand Rapids, MI"
-      ],
-      "posted_at": "2026-11-05",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008"
-    },
-    {
       "company": "Lunar Outpost",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -20639,11 +20594,11 @@
       "locations": [
         "Saline, MI"
       ],
-      "posted_at": "2026-10-05",
+      "posted_at": "2026-10-06",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Tools and Prototypes",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Tools and Prototypes",
       "url": "https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes"
     },
     {
@@ -21073,21 +21028,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009"
-    },
-    {
-      "company": "Republic Airways",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "3eebd78234949a26caf3af5d3be4c565faf7b969a4cb066144b9c2ceba9909ec",
-      "locations": [
-        "Carmel, IN"
-      ],
-      "posted_at": "2026-09-17",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analytics Intern",
-      "url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Data-Analytics-Intern---Summer-2027_JR-007628"
     },
     {
       "company": "Republic Airways",
@@ -23760,21 +23700,6 @@
       "company": "Sonos",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "7bc3e0cec87003df4aa6f9214a2c7cabbeb48bb5584ddc59186215c6d25f0962",
-      "locations": [
-        "Boston, MA"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1"
-    },
-    {
-      "company": "Sonos",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "4110bf1a2945f6b482b22055bf4cb11e26fbd176e7ff06b4069e623ac0017066",
       "locations": [
         "Boston, MA"
@@ -23785,6 +23710,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Partner Engineering",
       "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1"
+    },
+    {
+      "company": "Sonos",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "7bc3e0cec87003df4aa6f9214a2c7cabbeb48bb5584ddc59186215c6d25f0962",
+      "locations": [
+        "Boston, MA"
+      ],
+      "posted_at": "2026-10-29",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Boston",
+      "url": "https://sonos.wd1.myworkdayjobs.com/en-US/sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1"
     },
     {
       "company": "Sonos",
@@ -28403,46 +28343,31 @@
       "company": "Visa",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "bdc995208dc5d8a8e2a2e2a936fc00dcc6dace780bbb6bd5d7276282c60eafb2",
-      "locations": [
-        "Austin, TX"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W"
-    },
-    {
-      "company": "Visa",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "993b37746ef093c8aa5d82fc152ab0909c077a3669caed3b4f9a6b3b69d2e6b5",
       "locations": [
         "Austin, TX"
       ],
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W"
+      "source": "speedyapply",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern - Austin - TX - 2027",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W"
     },
     {
       "company": "Visa",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "708d5559bf87a800095f066bfeced38bdceb7495a16b249fd9854910599d7c72",
+      "id": "bdc995208dc5d8a8e2a2e2a936fc00dcc6dace780bbb6bd5d7276282c60eafb2",
       "locations": [
         "Austin, TX"
       ],
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-10-28",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1"
+      "source": "speedyapply",
+      "title": "Software Engineer - Intern - 2027 Austin - TX",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W"
     },
     {
       "company": "Visa",
@@ -28862,22 +28787,6 @@
       "source": "simplify",
       "title": "Data Solution Engineer Intern",
       "url": "https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false"
-    },
-    {
-      "company": "West Bend Insurance",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "d88c93f7ae3df61c7825442214654d46ee6e418859344419dc919fe6a13935be",
-      "locations": [
-        "Madison, WI",
-        "West Bend, WI"
-      ],
-      "posted_at": "2026-09-22",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "IT Data Engineer Intern",
-      "url": "https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false"
     },
     {
       "company": "Western & Southern Financial Group",
@@ -29561,7 +29470,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-06T17:58:25.619461+00:00",
+  "last_checked": "2026-11-06T19:09:17.813848+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
