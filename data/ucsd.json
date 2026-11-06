@@ -20167,18 +20167,16 @@
           "master's"
         ],
         "locations": [
-          "sunnyvale, ca",
-          "sunnyvale, ca +1",
-          "warren, mi"
+          "sunnyvale, ca +1"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, av/ai platform"
+        "title": "2027 summer intern - software engineer - av/ai platform"
       },
-      "fingerprint": "88d129884f79d28fc4369dc84305bc19fd255a34e79d0b519ecbc78ebf7ad123",
-      "revision": 5
+      "fingerprint": "1aca05aee3642b67217f8ad35e798ef089dd9fe9599d1110a4080a3d473c0437",
+      "revision": 6
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/milford-michigan-united-states-of-america/xmlname-2027-summer-intern--systems-engineer--asd_jr-202621989": {
       "eligible": true,
@@ -56613,6 +56611,11 @@
       "fingerprint": "1325d2dabd256cc2584925221940c6252424d6afb5412a30826f88d1bb635de8",
       "revision": 0
     },
+    "url:https://uhaul.wd1.myworkdayjobs.com/uhauljobs/job/phoenix-arizona/rates---distribution-spring-intern_r259043": {
+      "eligible": false,
+      "fingerprint": "5c973cb8c182df862885cb1d48dbb16ab08a3fd853b2bfc6cb9078d21b3b1c77",
+      "revision": 1
+    },
     "url:https://uline.wd1.myworkdayjobs.com/uline_careers/job/pleasant-prairie-wi/executive-operations-analyst-internship---summer-2027_r268434": {
       "eligible": true,
       "evidence": {
@@ -58743,20 +58746,25 @@
     "url:https://www.asm.com/open-vacancies?gh_jid=5029228101": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "asm",
-        "degrees": [],
+        "category": "software",
+        "company": "asm international",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
         "locations": [
           "phoenix, az"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
-        "title": "product intelligence engineering intern, ai/ml"
+        "title": "product intelligence engineering intern - ai/ml"
       },
-      "fingerprint": "884e81cbe51d8cab23bd16217157476946c8a80550ec06537c0d6a50f56f408b",
-      "revision": 1
+      "fingerprint": "6fd3dd380f4aa471d4e6e2dae0f337e0e47ee04fbb77a75446a148558e583bec",
+      "revision": 2
     },
     "url:https://www.burns-group.com/careers/current-openings?gh_jid=4467848009": {
       "eligible": true,
@@ -63526,7 +63534,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 160,
+  "scan_sequence": 161,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

@@ -3213,7 +3213,7 @@
       "url": "https://jobs.ajg.com/jobs/57701?icims=1"
     },
     {
-      "company": "ASM",
+      "company": "ASM International",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
       "id": "4075c87cd99d831331ee3a69dc35848b509b11c362138d40d2dff9bd1aae52c4",
@@ -3223,8 +3223,8 @@
       "posted_at": "2026-11-06",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Product Intelligence Engineering Intern, AI/ML",
+      "source": "simplify",
+      "title": "Product Intelligence Engineering Intern - AI/ML",
       "url": "https://www.asm.com/open-vacancies/?gh_jid=5029228101"
     },
     {
@@ -11247,6 +11247,21 @@
       "company": "General Motors",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "ec1bfd4ed32c8e6431d0932fdd8dcbe1bb7fcb98b1b618c93cf7f9f62a6a69e2",
+      "locations": [
+        "Sunnyvale, CA +1"
+      ],
+      "posted_at": "2026-10-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "2027 Summer Intern - Software Engineer - AV/AI Platform",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696"
+    },
+    {
+      "company": "General Motors",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "b9938a1eacf7791ab7fbf7b5bd1b8b2ef08100251ab1e982744cd6dee2580da9",
       "locations": [
         "Milford, MI",
@@ -11367,22 +11382,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Digital Product: Software Engineering",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
-    },
-    {
-      "company": "General Motors",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "ec1bfd4ed32c8e6431d0932fdd8dcbe1bb7fcb98b1b618c93cf7f9f62a6a69e2",
-      "locations": [
-        "Sunnyvale, CA",
-        "Warren, MI"
-      ],
-      "posted_at": "2026-10-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, AV/AI Platform",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696"
     },
     {
       "company": "General Motors",
@@ -29605,7 +29604,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-06T07:38:42.269595+00:00",
+  "last_checked": "2026-11-06T09:12:12.820058+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
