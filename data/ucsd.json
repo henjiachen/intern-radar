@@ -8971,6 +8971,11 @@
       "fingerprint": "18ffb6f01ef2d6cc6e472b77bee4968cf717bc745eff9ec131703832215df20b",
       "revision": 1
     },
+    "url:https://careers-gannettfleming.icims.com/jobs/15085/job": {
+      "eligible": false,
+      "fingerprint": "e83bed7c3954550bf4f73a850d08735e9840fcb6c7fe9c4d43e0ac814430fc06",
+      "revision": 1
+    },
     "url:https://careers-gdms.icims.com/jobs/74537/job": {
       "eligible": false,
       "fingerprint": "ed1d529606dd144b4ce937c323727234920876b2af91b16e538edbe027d6bbc6",
@@ -12564,6 +12569,11 @@
         "title": "artificial intelligence, machine learning, & data intern"
       },
       "fingerprint": "904ca7ba0edcb3e12e264b86cdab64d365bdd7eb96f83497832426dfad0a3c54",
+      "revision": 1
+    },
+    "url:https://careers.rivian.com/jobs/35896?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "c3b5f4da10f76725fc4c125a7ba079998c55034de08af35497e84606643672b7",
       "revision": 1
     },
     "url:https://careers.roblox.com/jobs/8072713?gh_jid=8072713": {
@@ -18443,6 +18453,11 @@
       "fingerprint": "5d374391675ddf5a36498325e9e5102e868c9143548e2fbfaa2bb6f60961268f",
       "revision": 0
     },
+    "url:https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2440904": {
+      "eligible": false,
+      "fingerprint": "c53a18b6676cf0bd13fec1c39d23d20c9abbb5596f567307b8ce5c08be6883dd",
+      "revision": 1
+    },
     "url:https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/10005970": {
       "eligible": true,
       "evidence": {
@@ -22691,6 +22706,11 @@
       "fingerprint": "4927a3f982d219e8222e7ba54e1e00fe2714abfd093ef9c5e07e5cf8acd586ae",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1kn": {
+      "eligible": false,
+      "fingerprint": "820ba2a1eb053e48cb65427de130ab41fc9333aa734fd177395f1a44153d0ad4",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1s": {
       "eligible": false,
       "fingerprint": "1ca6ea592089ef650490445a1155058bf02664e874a9ee67ba8198d3620f575e",
@@ -26259,6 +26279,24 @@
       "fingerprint": "cff6fc1b107784a58f34b86afbe65696890ceba6fc35f1a183ba4e6ab0c272e1",
       "revision": 0
     },
+    "url:https://hitachi.wd1.myworkdayjobs.com/hitachi/job/dallas-texas-united-states/full-stack-developer-intern_r0149426": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "hitachi",
+        "degrees": [],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "full stack developer intern"
+      },
+      "fingerprint": "5cb1cd4d3f2e4d804b546625392a50619612598c81c91b3a3a2bf89e8419e6f4",
+      "revision": 1
+    },
     "url:https://hitachi.wd1.myworkdayjobs.com/hitachi/job/liberty-south-carolina-united-states/software-engineering-co-op_r0148733": {
       "eligible": false,
       "fingerprint": "cb5250f6f889719420ad9bd7aeb27d62c2ae4393c9a075151c70f1661f2d451b",
@@ -27588,23 +27626,9 @@
       "revision": 1
     },
     "url:https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/reston-va/seasonal-associate--full-stack-developer--remote-_r2603570": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "icf international",
-        "degrees": [],
-        "locations": [
-          "remote in usa"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "full-stack developer intern"
-      },
-      "fingerprint": "65484350b2a9eaa67d48893cb4a948090ef5ab5d2176b5a3a0ef596d2ecfab08",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "27091ff44ebb18a2f5e518c93f326fabc2c351e9518e8d2178f2e61cb6c1d004",
+      "revision": 2
     },
     "url:https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/reston-va/seasonal-associate--full-stack-developer--remote-_r2603571": {
       "eligible": false,
@@ -33199,6 +33223,11 @@
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005": {
       "eligible": false,
       "fingerprint": "6a9c49fef30fec0e35b0735a9e3411563b645234ee2acec7da533ffff45e128c",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005": {
+      "eligible": false,
+      "fingerprint": "6cfdb074c7dcd01e255d845fb31fecbd3a50629d4d4e6a1bad141e1d5289ad51",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008": {
@@ -40532,6 +40561,83 @@
       "fingerprint": "07b79166888a32d279833f36581ea8b975f41872f09aeda6a011b84b9aa37fe1",
       "revision": 0
     },
+    "url:https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "tinder",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "la",
+          "palo alto, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "backend engineer intern"
+      },
+      "fingerprint": "b351c96203a8707630a52645012771e675b0a33186f7ddaf74d23360cf2faeb1",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff": {
+      "eligible": false,
+      "fingerprint": "2706806a5056e38cac025e876b49bccf099765f81f93cc077781eaa179064f3e",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "tinder",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "palo alto, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "machine learning engineer intern"
+      },
+      "fingerprint": "dd7b99edc0341664218bc4734b40e0b1298f599ec8eafc158fb8c58f1047447d",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "tinder",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "la",
+          "palo alto, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ios engineer intern"
+      },
+      "fingerprint": "04e28d34cf623d68e9fed6ca20d6a315a1ca211b664b3c09e8984bef97b1be01",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d": {
+      "eligible": false,
+      "fingerprint": "f5c7c55dc764e4b92d56e69dc662dc79fccc0a5b6df6b468217d2dd0b5e34d47",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b": {
       "eligible": true,
       "evidence": {
@@ -42189,7 +42295,12 @@
     },
     "url:https://jobs.smartrecruiters.com/boschgroup/744000160208440": {
       "eligible": false,
-      "fingerprint": "259e98de0fffad0661d6b942e96924202276d9343f780bdcc0280c1a0c60caa6",
+      "fingerprint": "7744b9f073f66ac97e8f17757770b81e1ceb7124752cbae8a8a61f04fe44f13e",
+      "revision": 2
+    },
+    "url:https://jobs.smartrecruiters.com/boschgroup/744000160212170": {
+      "eligible": false,
+      "fingerprint": "99cb3eddaafcb8e2a216e062d13438db56066721d49180fd678141067a52f365",
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/captechconsulting/744000155019115": {
@@ -51881,6 +51992,11 @@
       "fingerprint": "7a63f139517d304ae6683832d22f572ee4909929b8a5039704a0afd058615ea3",
       "revision": 1
     },
+    "url:https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/research-assistant-positions---llms-and-ai-for-data-analysis--spring-2027-_req_0000084012-1": {
+      "eligible": false,
+      "fingerprint": "e2a2f0220ac183a035b5cc9755f6aafebc04721e58b6accd49f4cf00e59460fa",
+      "revision": 1
+    },
     "url:https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/research-assistants_req_0000074801-1": {
       "eligible": false,
       "fingerprint": "66e5448cde99f5193505b516584cbd7e63e8e3eaf88de1592f618be0aa278cec",
@@ -56910,6 +57026,11 @@
       "fingerprint": "7f3eb04d7b5bf8649adc66bbbbd8501a263c5ac01212af5651ab728975e854aa",
       "revision": 0
     },
+    "url:https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/ottawa-on/cupe---winter2027---data-analysis_jr41185": {
+      "eligible": false,
+      "fingerprint": "b6b185d2d63fa9dc4c4b03b0a9a286df89f659243434f9102bfed89fdecbb907",
+      "revision": 1
+    },
     "url:https://ursamajor.com/careers?gh_jid=4746825005": {
       "eligible": true,
       "evidence": {
@@ -57698,26 +57819,9 @@
       "revision": 0
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa/job/us---foster-city-ca/software-engineer--intern---foster-city-2027_ref089875w-1": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "visa",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "foster city, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "36c8ee7cb39228f784c4671b2dd3b13875beba5793b507de56fc13f9fcd44cc6",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "007d4d17c9bdd16f85c1b5d247085b8fbabf41d1f968a877f25e293ba59aeca5",
+      "revision": 2
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa/job/us---foster-city-ca/staff-research-scientist--intern---phd-foundational-ai_ref088579w-1": {
       "eligible": false,
@@ -57740,48 +57844,14 @@
       "revision": 0
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---ashburn-va/software-engineer--intern---2027-ashburn--va_ref089879w": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "visa",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "ashburn, va"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "a4838e73918200a4e97bdb7261770dcee253c82ee5bcbf27ca92218f0066ee91",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "6dd8106e0e96b70f94838a93a8b64436022cf6c3f4872938ea7135ea5a58e7c4",
+      "revision": 2
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---ashburn-va/xmlname-2027-sophomore-internship-program---software-engineer-intern--ashburn_ref089878w": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "visa",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "ashburn, va"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "sophomore program software engineer intern"
-      },
-      "fingerprint": "18c4741bcdc695b9d252f7e876c86d9fb548ea214a3046b2e40b950e90bf5625",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "e5b79ae6c6798f25323650a5c08fc4b6ccb286f78c58a3b37936a9d5bdc85911",
+      "revision": 2
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---austin-tx/software-engineer--intern---2027-austin--tx_ref089918w": {
       "eligible": true,
@@ -57832,26 +57902,9 @@
       "revision": 0
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---bellevue-wa/xmlname-2027-sophomore-internship-program---software-engineer-intern--bellevue_ref089920w-1": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "visa",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "bellevue, wa"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "25a6b7bc90a4accba70d4878dce30a3f7108b4a9d992f8b0fbb8eeecdfc8bd79",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "44fa9274e2505933f009f087ce36c849d1bdeaf356ef2044151a4179b69757d8",
+      "revision": 2
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---denver-co/xmlname-2027-sophomore-internship-program---software-engineer-intern--highlands-ranch_ref089880w": {
       "eligible": true,
@@ -57932,26 +57985,9 @@
       "revision": 0
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---foster-city-ca/xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref089919w": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "visa",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "foster city, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "36c8ee7cb39228f784c4671b2dd3b13875beba5793b507de56fc13f9fcd44cc6",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "007d4d17c9bdd16f85c1b5d247085b8fbabf41d1f968a877f25e293ba59aeca5",
+      "revision": 2
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/us---foster-city-ca/software-engineer--intern---foster-city-2027_ref088587w-3": {
       "eligible": true,
@@ -61941,6 +61977,9 @@
     "https://go.vansh.nyc/1kc": 166,
     "https://go.vansh.nyc/1ke": 166,
     "https://go.vansh.nyc/1kf": 166,
+    "https://go.vansh.nyc/1kl": 167,
+    "https://go.vansh.nyc/1kq": 167,
+    "https://go.vansh.nyc/1kr": 167,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -63042,6 +63081,9 @@
     "https://go.vansh.nyc/1kc": "https://corporatejobs-alaskaair.icims.com/jobs/21277/intern---software-engineer-%28summer-2027%29/job",
     "https://go.vansh.nyc/1ke": "https://corporatejobs-alaskaair.icims.com/jobs/21508/intern---software-delivery-platform-%28summer-2027%29/job",
     "https://go.vansh.nyc/1kf": "https://uscareers-docusign.icims.com/jobs/30464/software-engineering-intern-%e2%80%93-self-service-directory-diagnostics/job",
+    "https://go.vansh.nyc/1kl": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72",
+    "https://go.vansh.nyc/1kq": "https://careersenus-itt-inc.icims.com/jobs/17657/data-analytics---ai-intern-%28summer-2027%29/job",
+    "https://go.vansh.nyc/1kr": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dallas-Texas-United-States/Full-Stack-Developer-Intern_R0149426",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -63698,7 +63740,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 166,
+  "scan_sequence": 167,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
