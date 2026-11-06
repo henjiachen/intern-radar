@@ -13183,6 +13183,11 @@
       "fingerprint": "5cd91857e0a840689ae84d3d1a261d2763c1785af66804d97fa4829c3a1e8c1e",
       "revision": 2
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8358262": {
+      "eligible": false,
+      "fingerprint": "6cc1c905604de487fe24ced4fd7ed5089e1dbb31bfe2981f7f26bb8d3bf70a5d",
+      "revision": 1
+    },
     "url:https://careers.zimmerbiomet.com/us/en/job/13309": {
       "eligible": false,
       "fingerprint": "005f0a8e54c09074602631ac2edc0c277b2743c3ec54b1bddff67b1416d0ed2d",
@@ -26025,10 +26030,8 @@
           "bachelor's"
         ],
         "locations": [
-          "remote",
           "remote - pennsylvania, usa +43",
-          "remote in usa",
-          "united states"
+          "remote in usa"
         ],
         "requirements": [],
         "terms": [
@@ -26036,8 +26039,8 @@
         ],
         "title": "provider delivery software engineer intern"
       },
-      "fingerprint": "2329bc532ecacb9675dad43572beeb01a71753508b898dbb1ea1d5324684e286",
-      "revision": 3
+      "fingerprint": "fe1818414e6fe2098b5015f25d6f9d8cdf4a2893e5944946b3e5a5362bb2ea5a",
+      "revision": 4
     },
     "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-reimbursement-analyst-undergraduate-intern_j287154": {
       "eligible": true,
@@ -44992,6 +44995,25 @@
       "fingerprint": "03ae082390f003431252547200fd9619da61dbcd0ea808046f452d7a7571e562",
       "revision": 0
     },
+    "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/ai-automation-development-intern---assessment---authorization_r-00195319": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "kudu dynamics",
+        "degrees": [],
+        "locations": [
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai/automation development intern, assessment & authorization"
+      },
+      "fingerprint": "99441d1d1ce93b47443da9eea15a3b0bd1f8b9ecacda7bfd6f942c464f15b082",
+      "revision": 1
+    },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/business-systems-ai-intern_r-00193327": {
       "eligible": false,
       "fingerprint": "36b07a76784a36b09a4e62a10279caaf028e6f603cb1dec46433bcd85e47760c",
@@ -56542,6 +56564,24 @@
       "fingerprint": "4d6f80b7d104d330abca43eae871e02d4a5fb1fc1645443469de59a068ea799c",
       "revision": 1
     },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-ai-strategist-internship_req381279": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "t-mobile",
+        "degrees": [],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai strategist intern"
+      },
+      "fingerprint": "f26606ff39f13aeff924d82c0de88a9ef7dde7b8f939164d29c6663676f7327b",
+      "revision": 1
+    },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineer-hr-data-products-internship_req380916": {
       "eligible": true,
       "evidence": {
@@ -62404,6 +62444,8 @@
     "https://go.vansh.nyc/1ku": 168,
     "https://go.vansh.nyc/1kv": 168,
     "https://go.vansh.nyc/1kw": 168,
+    "https://go.vansh.nyc/1l3": 172,
+    "https://go.vansh.nyc/1l9": 172,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -63523,6 +63565,8 @@
     "https://go.vansh.nyc/1ku": "https://invitation-charter.icims.com/jobs/81731/2027-summer-intern%3a-data-science/job",
     "https://go.vansh.nyc/1kv": "https://invitation-charter.icims.com/jobs/81795/2027-summer-intern%3a-software-engineer/job",
     "https://go.vansh.nyc/1kw": "https://invitation-charter.icims.com/jobs/82077/2027-summer-intern%3a-data-developer/job",
+    "https://go.vansh.nyc/1l3": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319",
+    "https://go.vansh.nyc/1l9": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -64179,7 +64223,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 171,
+  "scan_sequence": 172,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
