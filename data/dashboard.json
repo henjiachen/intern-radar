@@ -18663,21 +18663,6 @@
       "company": "Northrop Grumman",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "aa89521c9e81f6044ce3019cc3d3287e85733f27740b745ff073ebae2e58537a",
-      "locations": [
-        "Redondo Beach, CA"
-      ],
-      "posted_at": "2026-11-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Ground Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057"
-    },
-    {
-      "company": "Northrop Grumman",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "13cbcfc22604e0bb90afe741aaba0fab624d00af9e17a204173dd141b0287190",
       "locations": [
         "Sykesville, MD"
@@ -20861,6 +20846,21 @@
       "company": "Raytheon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "73e3939c52e94e9e377b34dc59449174fbb9e51cc5c283a6c306bc2c75868b0e",
+      "locations": [
+        "West Valley City, UT"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
+    },
+    {
+      "company": "Raytheon",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "ac4b3e7b598e7b9e838d24e2ac65f394a3b914d42ef3153afc7c42dcae46ba00",
       "locations": [
         "Cedar Rapids, IA"
@@ -21366,6 +21366,23 @@
       "source": "simplify",
       "title": "Full Stack Software Engineer Intern",
       "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"
+    },
+    {
+      "company": "Rippling",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "93bde44868ff9b589229c3123828a91670eae238f6b9c59836694bef4b0de5f3",
+      "locations": [
+        "Seattle, WA",
+        "SF",
+        "NYC"
+      ],
+      "posted_at": "2026-09-22",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Backend Focused",
+      "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"
     },
     {
       "company": "Riverside Research",
@@ -22137,21 +22154,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520"
-    },
-    {
-      "company": "RTX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "73e3939c52e94e9e377b34dc59449174fbb9e51cc5c283a6c306bc2c75868b0e",
-      "locations": [
-        "West Valley City, UT"
-      ],
-      "posted_at": "2026-11-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
     },
     {
       "company": "RTX",
@@ -28279,66 +28281,6 @@
       "company": "Visa",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "5673c1bb74e761b7fac55100827e15f20f22a214adaf6efb73e1c137b74a4832",
-      "locations": [
-        "Foster City, CA"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Science Intern - Data and AI Team",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1"
-    },
-    {
-      "company": "Visa",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "e9ef7a61f6d10fa9dfe1ca4d41f09ec545bafec8348f1d19bf7c807430eb0a0a",
-      "locations": [
-        "Foster City, CA"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Science Intern - Data and AI Team",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W"
-    },
-    {
-      "company": "Visa",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "d2b7232e3387aabaeabda9c380b5c5049924d714cd87e56636738e63e7015106",
-      "locations": [
-        "Foster City, CA"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Product Management Intern - Data and AI Team",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W"
-    },
-    {
-      "company": "Visa",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "989954aa631ecbcc9a371dac27e68e3b28523fd2191cc156438cf60f7045dc14",
-      "locations": [
-        "Foster City, CA"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Product Management Intern - Data and AI Team",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1"
-    },
-    {
-      "company": "Visa",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "bbdd592c3895f0b59a3ee0a2577e340abb7aec4a0b1150766bb2dd44c91c8cfb",
       "locations": [
         "Bellevue, WA"
@@ -29557,7 +29499,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-06T11:17:54.417324+00:00",
+  "last_checked": "2026-11-06T12:08:28.753380+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
