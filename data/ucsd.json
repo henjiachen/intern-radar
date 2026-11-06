@@ -2117,9 +2117,23 @@
       "revision": 2
     },
     "url:https://americas-cookmedical.icims.com/jobs/19550/job": {
-      "eligible": false,
-      "fingerprint": "a16342f0361af31a9b44592cffa45e370115cb7b2a635570d9172cd84cbbe9dd",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "cook group",
+        "degrees": [],
+        "locations": [
+          "bloomington, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "applied ai & full stack development intern"
+      },
+      "fingerprint": "a195f3193929a9fcbea3a29ff12f5bdd3456831fc4a447e03776958053f43951",
+      "revision": 2
     },
     "url:https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/amafm---quantaum-internship-2027_r39562": {
       "eligible": false,
@@ -8795,9 +8809,25 @@
       "revision": 1
     },
     "url:https://careers-berkley.icims.com/jobs/14444/job": {
-      "eligible": false,
-      "fingerprint": "98b28761ef31086338d9653397141c23af4a3f05500c8e03e98be9cf8c0fbcf4",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "w.r. berkley",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "urbandale, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software developer intern - .net"
+      },
+      "fingerprint": "bbf872eca1410dcf990f4df182100806e101c1928805bae4c5480d4a9cb57c92",
+      "revision": 2
     },
     "url:https://careers-berkley.icims.com/jobs/14445/job": {
       "eligible": false,
@@ -9327,7 +9357,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "intercontinental exchange",
+        "company": "intercontinental exchange, inc.",
         "degrees": [],
         "locations": [
           "jacksonville, fl"
@@ -9336,10 +9366,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern"
       },
-      "fingerprint": "eef070d4065759f24cad49ce61f07f448ec6dbc0c67527180919919bae47fd15",
-      "revision": 1
+      "fingerprint": "c10fb8e1443e1b7aad7163448195ebb749678cdc99df2f623112ac7d706df121",
+      "revision": 2
     },
     "url:https://careers-ice.icims.com/jobs/14076/job": {
       "eligible": true,
@@ -13118,6 +13148,11 @@
       "fingerprint": "1cd937f77f9de0b7050a2ceb3530630fc90fcb8d1f9d7ea34f3df47b3bd42ee6",
       "revision": 0
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8350832": {
+      "eligible": false,
+      "fingerprint": "53fc8941d31e69d4d0dfb6d95fe34fbab00ee8e8e65513fd50b8925192bd089a",
+      "revision": 1
+    },
     "url:https://careers.zimmerbiomet.com/us/en/job/13309": {
       "eligible": false,
       "fingerprint": "005f0a8e54c09074602631ac2edc0c277b2743c3ec54b1bddff67b1416d0ed2d",
@@ -14865,7 +14900,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "alaska air group",
+        "company": "alaska airlines",
         "degrees": [],
         "locations": [
           "seatac, wa"
@@ -14876,8 +14911,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "eecf9cc04a1e18a39b82098e45781cda0722014eb313d24c378256ac6a2c62c0",
-      "revision": 1
+      "fingerprint": "653f2c02725b40da465a8191de365cf951b34750d8e161345cdf954912148d82",
+      "revision": 2
     },
     "url:https://corporatejobs-alaskaair.icims.com/jobs/21281/job": {
       "eligible": true,
@@ -14917,6 +14952,24 @@
         "title": "bi analyst intern"
       },
       "fingerprint": "ddd851ea6990385602dedd5d198c015b0ebc6e29da9baac27fc19bb04ce49f09",
+      "revision": 1
+    },
+    "url:https://corporatejobs-alaskaair.icims.com/jobs/21508/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "alaska airlines",
+        "degrees": [],
+        "locations": [
+          "seatac, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software delivery platform intern"
+      },
+      "fingerprint": "0ccdd27bf824901723a059fc6f3fb19fc3fb2fb4820edd2f4009f9b13547d92b",
       "revision": 1
     },
     "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/irvine-us/associate-software-engineer---irvine--ca_r39736": {
@@ -22632,6 +22685,11 @@
       "eligible": false,
       "fingerprint": "ac2367ecdb86555ceb30e8e05ee043dce929e9a1493e8f2ec788c5fee382c4de",
       "revision": 0
+    },
+    "url:https://go.vansh.nyc/1k8": {
+      "eligible": false,
+      "fingerprint": "4927a3f982d219e8222e7ba54e1e00fe2714abfd093ef9c5e07e5cf8acd586ae",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/1s": {
       "eligible": false,
@@ -41312,6 +41370,11 @@
       "fingerprint": "23fede1d47e5deae6dcca681cc620bc1de6de2ae53052b1b31d951e90ac7b3cb",
       "revision": 1
     },
+    "url:https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d": {
+      "eligible": false,
+      "fingerprint": "8f294103c117812095e6fbb95bd8aba684dc37471d3a6ee67e236d25d31bb449",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b": {
       "eligible": false,
       "fingerprint": "8536c2b73bf6f8f689abbeb896153c0028f892ab2b8e8d8580ce68670006b868",
@@ -42122,6 +42185,11 @@
     "url:https://jobs.smartrecruiters.com/boschgroup/744000159363644": {
       "eligible": false,
       "fingerprint": "358d4227a0b928965c9fe950a4da6bc1315dc0ecbdcef127975bc8caa4beb76f",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/boschgroup/744000160208440": {
+      "eligible": false,
+      "fingerprint": "259e98de0fffad0661d6b942e96924202276d9343f780bdcc0280c1a0c60caa6",
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/captechconsulting/744000155019115": {
@@ -48275,10 +48343,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineer intern - summer 2027"
       },
-      "fingerprint": "d8d8585a33e807a39e63508bf97de761a1df4eccdea82dfa8fbabb0d60255e30",
-      "revision": 0
+      "fingerprint": "93f26353718f8650809ed40f2502a569b92c8e055e933d3ee07df63483a16909",
+      "revision": 1
     },
     "url:https://mckesson.wd3.myworkdayjobs.com/external_careers/job/usa-co-longmont/software-installation---it-support-intern---summer-2027_jr0152304": {
       "eligible": true,
@@ -53405,6 +53473,11 @@
       "fingerprint": "d0c7bbf1a0454bd3ff93480e4df5dfcc12e32c6578285f54e9203d9ee3f98969",
       "revision": 0
     },
+    "url:https://roche.wd3.myworkdayjobs.com/roche-ext/job/welwyn/industrial-placement-student---data-expert--compliance-by-design--data-capability--ddc--computational-sciences-center-of-excellence_202610-127533": {
+      "eligible": false,
+      "fingerprint": "5d9b37637b23e3f04d276c0b82e7dd55d3abf06e5ffba4c95fc56b9b578b6af8",
+      "revision": 1
+    },
     "url:https://roche.wd3.myworkdayjobs.com/roche-ext/job/welwyn/industrial-placement-student-cs-coe-ddc-data-capability_202610-124915": {
       "eligible": false,
       "fingerprint": "eea4fed6c58c4686030c6d4dcba56e172ae48b8ac18e36af9211cbc22eee8c9e",
@@ -57012,6 +57085,24 @@
         "title": "embedded firmware co-op"
       },
       "fingerprint": "f957ede9ab5d2fdd6d8dd032fd2a42481d28be5fea9829461dbcf43eb5e8c4d6",
+      "revision": 1
+    },
+    "url:https://uscareers-docusign.icims.com/jobs/30464/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "docusign",
+        "degrees": [],
+        "locations": [
+          "seattle, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, self-service directory diagnostics"
+      },
+      "fingerprint": "4c74f67ba6f489e91b4cb7df0061259f225216005134b8bf04fbccb3376d4088",
       "revision": 1
     },
     "url:https://uscareers-docusign.icims.com/jobs/30470/job": {
@@ -61841,6 +61932,15 @@
     "https://go.vansh.nyc/1ju": 154,
     "https://go.vansh.nyc/1jv": 154,
     "https://go.vansh.nyc/1jy": 154,
+    "https://go.vansh.nyc/1k3": 166,
+    "https://go.vansh.nyc/1k4": 166,
+    "https://go.vansh.nyc/1k6": 166,
+    "https://go.vansh.nyc/1k9": 166,
+    "https://go.vansh.nyc/1ka": 166,
+    "https://go.vansh.nyc/1kb": 166,
+    "https://go.vansh.nyc/1kc": 166,
+    "https://go.vansh.nyc/1ke": 166,
+    "https://go.vansh.nyc/1kf": 166,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -62933,6 +63033,15 @@
     "https://go.vansh.nyc/1ju": "https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false",
     "https://go.vansh.nyc/1jv": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548",
     "https://go.vansh.nyc/1jy": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-J-Street-Offices-Suite-2-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Data-Science-Intern_R-2686828",
+    "https://go.vansh.nyc/1k3": "https://americas-cookmedical.icims.com/jobs/19550/intern%2c-applied-ai-%26-full-stack-development/job",
+    "https://go.vansh.nyc/1k4": "https://careers-berkley.icims.com/jobs/14444/software-developer-%28.net%29-intern/job",
+    "https://go.vansh.nyc/1k6": "https://careers-ice.icims.com/jobs/14075/summer-internship-program-2027---software-engineering-intern/job",
+    "https://go.vansh.nyc/1k9": "https://careers-westernsouthern.icims.com/jobs/25222/software-developer-intern-%28agency-systems%29-%28full-year-2027%29/job",
+    "https://go.vansh.nyc/1ka": "https://careersus-shure.icims.com/jobs/5018/embedded-software-intern/job",
+    "https://go.vansh.nyc/1kb": "https://careersus-shure.icims.com/jobs/5020/application-software-development-intern/job",
+    "https://go.vansh.nyc/1kc": "https://corporatejobs-alaskaair.icims.com/jobs/21277/intern---software-engineer-%28summer-2027%29/job",
+    "https://go.vansh.nyc/1ke": "https://corporatejobs-alaskaair.icims.com/jobs/21508/intern---software-delivery-platform-%28summer-2027%29/job",
+    "https://go.vansh.nyc/1kf": "https://uscareers-docusign.icims.com/jobs/30464/software-engineering-intern-%e2%80%93-self-service-directory-diagnostics/job",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -63589,7 +63698,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 165,
+  "scan_sequence": 166,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
