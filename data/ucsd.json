@@ -35413,6 +35413,11 @@
       "fingerprint": "471bfd5b2547ec7373c07e90f452ba9b62568e732dc10af01b07be0e80158d9b",
       "revision": 0
     },
+    "url:https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280": {
+      "eligible": false,
+      "fingerprint": "72c0457d408d6643c8eed7ed8c24efd6e9954a0b6d2a4eb0eff3f6f6595596d6",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/human-computer-lab/3ceb956a-f231-4238-bb2e-365515b930a7": {
       "eligible": false,
       "fingerprint": "06f7cfc5ff95c4b56578f7d3d1c1e7682e46fb6e7f9cbe521bf01c30053665a0",
@@ -49361,10 +49366,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "engineering intern, software, mission assurance, quality"
+        "title": "engineering intern - multiple teams"
       },
-      "fingerprint": "c583327dfc003584366b577988d811216197195df73e9af4e1622fc54898bb38",
-      "revision": 2
+      "fingerprint": "cd9aac92aebe86f482e48655b25679acedfe9448b7bf992adfe575850681d26f",
+      "revision": 3
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-azusa/xmlname-2027-software-engineer-intern---azusa-ca_r10257903": {
       "eligible": true,
@@ -61139,10 +61144,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software/ai engineer intern - handheld mobile computers"
+        "title": "2027 summer internship - us - software/ai engineer - handheld mobile computers"
       },
-      "fingerprint": "8509dc81a0f1f2804f030dc5ff482bc5bf652ab8edfe47a5ad157a7e2df43c35",
-      "revision": 2
+      "fingerprint": "1752511aa33d79c6440c8c98a58540db8ec779f99775b9d4062bfc96186091a9",
+      "revision": 3
     },
     "url:https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/holtsville-new-york/xmlname-2027-summer-internship--us----software-engineer_jr103626": {
       "eligible": false,
@@ -63521,7 +63526,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 159,
+  "scan_sequence": 160,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
