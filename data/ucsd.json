@@ -22612,11 +22612,6 @@
       "fingerprint": "5adbd9ba1f56c575261cbaf0310b26196167f325311aff3b13c13c99c9effa03",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1jt": {
-      "eligible": false,
-      "fingerprint": "2061f599cecdc8b4d24d21999b5bcdec93e9be7e4b62d7abb4f8e4e2e25638cd",
-      "revision": 1
-    },
     "url:https://go.vansh.nyc/1k": {
       "eligible": false,
       "fingerprint": "ac2367ecdb86555ceb30e8e05ee043dce929e9a1493e8f2ec788c5fee382c4de",
@@ -25235,67 +25230,16 @@
           "master's"
         ],
         "locations": [
-          "alabama",
-          "alaska",
-          "arizona",
-          "arkansas",
-          "california",
-          "colorado",
-          "connecticut",
-          "delaware",
-          "florida",
-          "georgia",
-          "hawaii",
-          "idaho",
-          "illinois",
-          "indiana",
-          "iowa",
-          "kansas",
-          "kentucky",
-          "louisiana",
-          "maine",
-          "maryland",
-          "massachusetts",
-          "michigan",
-          "minnesota",
-          "mississippi",
-          "missouri",
-          "montana",
-          "nebraska",
-          "nevada",
-          "new hampshire",
-          "new jersey",
-          "new mexico",
-          "north carolina",
-          "north dakota",
-          "nyc",
-          "ohio",
-          "oklahoma",
-          "oregon",
-          "pennsylvania",
-          "pennsylvania, usa +42",
-          "rhode island",
-          "south carolina",
-          "south dakota",
-          "tennessee",
-          "texas",
-          "utah",
-          "vermont",
-          "virginia",
-          "washington",
-          "washington, dc",
-          "west virginia",
-          "wisconsin",
-          "wyoming"
+          "pennsylvania, usa +42"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "ai services and platforms software engineer intern"
+        "title": "summer 2027 ai services and platforms software engineer graduate intern"
       },
-      "fingerprint": "4a738385bafad9ca69f3150913bb6e70d5e43ebd528a80f58a23866a7fdd8b4d",
-      "revision": 2
+      "fingerprint": "a3efec5e6c08fbd46cb55b6c40ef9fa3e6ea588226b3041e4ed7948285118ed4",
+      "revision": 3
     },
     "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-applied-gen-ai-data-scientist-graduate-intern_j288007": {
       "eligible": true,
@@ -40158,10 +40102,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "intern - software engineer - summer 2027"
       },
-      "fingerprint": "d80fe28405b1a1673d09beb7fc373bc52760c92923fa8e41b6d00e9e0de489ae",
-      "revision": 2
+      "fingerprint": "d32193fd8dfe04b3dffcaef408009a041142269397546cf907a19edf691b3a56",
+      "revision": 3
     },
     "url:https://jobs.lever.co/colibrigroup/dda06cac-4ba7-4291-bcdc-6b6873c98488": {
       "eligible": false,
@@ -47429,20 +47373,23 @@
     "url:https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/reno-nv/intern-software-engineering_r322885": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "light & wonder",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "reno, nv"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "software engineer intern"
       },
-      "fingerprint": "0151a786d58484870503e6bff30fb427aaa6e3a9471add333301e6d8950fd30a",
-      "revision": 1
+      "fingerprint": "de79ce27b9bdbdd95e4b310e049c28ce2898f7ad8f89de0263cc8c28d4be5bda",
+      "revision": 2
     },
     "url:https://lockheedmartin.eightfold.ai/careers/job/996477427840": {
       "eligible": true,
@@ -63477,7 +63424,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 155,
+  "scan_sequence": 156,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

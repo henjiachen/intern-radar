@@ -7469,6 +7469,21 @@
       "company": "Commonwealth Fusion Systems",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "085e41b8adbb16f0a4da853f18e3e809b4f275b83835477f47acf55fadea5969",
+      "locations": [
+        "Devens, MA"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Intern - Software Engineer - Summer 2027",
+      "url": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d"
+    },
+    {
+      "company": "Commonwealth Fusion Systems",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "5481179ec049acbdfe6160f234f2d6d343d20f761036cdc62a00446aef61d8b2",
       "locations": [
         "Devens, MA"
@@ -7479,21 +7494,6 @@
       "source": "simplify",
       "title": "Plasma Physics Intern",
       "url": "https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply"
-    },
-    {
-      "company": "Commonwealth Fusion Systems",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "085e41b8adbb16f0a4da853f18e3e809b4f275b83835477f47acf55fadea5969",
-      "locations": [
-        "Devens, MA"
-      ],
-      "posted_at": "2026-11-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d/apply"
     },
     {
       "company": "Compeer Financial",
@@ -12520,71 +12520,6 @@
       "company": "Highmark Health",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "f0658d14bc38bae0c93a47c14c44eec492f02e98fc30ba04d2b3b94c83c7e757",
-      "locations": [
-        "New Mexico",
-        "Washington",
-        "Kansas",
-        "Pennsylvania",
-        "North Dakota",
-        "Oregon",
-        "Delaware",
-        "Iowa",
-        "California",
-        "Washington, DC",
-        "Vermont",
-        "Wyoming",
-        "Connecticut",
-        "Texas",
-        "Montana",
-        "Florida",
-        "New Hampshire",
-        "Nevada",
-        "South Carolina",
-        "South Dakota",
-        "Georgia",
-        "Arizona",
-        "Mississippi",
-        "Tennessee",
-        "Virginia",
-        "Arkansas",
-        "Minnesota",
-        "Colorado",
-        "Nebraska",
-        "Rhode Island",
-        "Utah",
-        "Kentucky",
-        "West Virginia",
-        "NYC",
-        "Maryland",
-        "Hawaii",
-        "Wisconsin",
-        "Maine",
-        "Massachusetts",
-        "North Carolina",
-        "Oklahoma",
-        "Missouri",
-        "Ohio",
-        "New Jersey",
-        "Indiana",
-        "Louisiana",
-        "Alaska",
-        "Michigan",
-        "Illinois",
-        "Alabama",
-        "Idaho"
-      ],
-      "posted_at": "2026-11-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI Services and Platforms Software Engineer Intern",
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322"
-    },
-    {
-      "company": "Highmark Health",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "df6c877276fde859d89e149ebe84ca8f491ae2b9b75e88d50b188c139e827cce",
       "locations": [
         "New Mexico",
@@ -12993,6 +12928,21 @@
       "source": "simplify",
       "title": "Software Engineer Graduate Intern",
       "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845"
+    },
+    {
+      "company": "Highmark Health",
+      "graduation_detail": "\ud83d\udcc5 Grad year stated: 2027 AI Services and Platforms Software Engineer Graduate",
+      "graduation_status": "stated",
+      "id": "f0658d14bc38bae0c93a47c14c44eec492f02e98fc30ba04d2b3b94c83c7e757",
+      "locations": [
+        "Pennsylvania, USA +42"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Summer 2027 AI Services and Platforms Software Engineer Graduate Intern",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322"
     },
     {
       "company": "Highmark Health",
@@ -16285,9 +16235,9 @@
       "posted_at": "2026-11-06",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
-      "url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Reno-NV/Intern-Software-Engineering_R322885"
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
     },
     {
       "company": "LinkedIn",
@@ -18149,24 +18099,6 @@
       "source": "simplify",
       "title": "Data Scientist Intern",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32460"
-    },
-    {
-      "company": "Navy Federal",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "15e895cd99ca1713b096ed38271a46e183fb8107b1f3fd81348944a48e0ed409",
-      "locations": [
-        "Winchester, VA",
-        "Pensacola, FL",
-        "Vienna, VA",
-        "San Diego, CA"
-      ],
-      "posted_at": "2026-09-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Mobile Developer Intern - Summer Associate",
-      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368"
     },
     {
       "company": "Navy Federal",
@@ -29779,7 +29711,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-06T01:27:05.511375+00:00",
+  "last_checked": "2026-11-06T03:03:25.970273+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
