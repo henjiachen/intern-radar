@@ -11660,36 +11660,6 @@
       "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
     },
     {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Americas - Engineering",
-      "url": "https://higher.gs.com/roles/171565?type=students"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Engineering",
-      "url": "https://higher.gs.com/roles/171553?type=students"
-    },
-    {
       "company": "Gordon Food Service",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -17309,6 +17279,21 @@
       "company": "MITRE",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "263a947e12da6124c334d265ae04d3ca5ed566381f92d6925ea951f07124773a",
+      "locations": [
+        "McLean, VA"
+      ],
+      "posted_at": "2026-11-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Computer Science or Software Engineering Intern",
+      "url": "https://careers.mitre.org/us/en/job/R117315/Internships-in-Computer-Science-or-Software-Engineering"
+    },
+    {
+      "company": "MITRE",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "c3102b3de9ad6da971da5618d09471f7c2b4ecc2bf3713e46f775548c2a8e4cd",
       "locations": [
         "McLean, VA"
@@ -17364,21 +17349,6 @@
       "source": "simplify",
       "title": "Customer Experience & Analytics Intern - Undergraduate",
       "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169"
-    },
-    {
-      "company": "Molina Healthcare",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "cc21d6d98a395e3f16526f2a89fbb689c2fcc1cf4813f85d11e7b9eaafcefb30",
-      "locations": [
-        "United States"
-      ],
-      "posted_at": "2026-10-30",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analytics Intern",
-      "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040160"
     },
     {
       "company": "Molina Healthcare",
@@ -29552,15 +29522,15 @@
       "graduation_status": "unknown",
       "id": "41d752d9a09bb383b573e12250c727042d65a6e8d75cd040a48ae885d8e91e00",
       "locations": [
-        "Foster City, CA",
-        "Boston, MA"
+        "Boston, MA",
+        "Foster City, CA"
       ],
-      "posted_at": "2026-11-06",
+      "posted_at": "2026-11-07",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Data Science Intern",
-      "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97"
+      "source": "simplify",
+      "title": "Data Scientist Intern",
+      "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply"
     },
     {
       "company": "Zoox",
@@ -29638,7 +29608,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-07T03:02:43.325305+00:00",
+  "last_checked": "2026-11-07T04:04:35.029472+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
