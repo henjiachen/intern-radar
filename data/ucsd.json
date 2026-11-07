@@ -2945,18 +2945,16 @@
           "master's"
         ],
         "locations": [
-          "aliso viejo, ca",
-          "united states"
+          "aliso viejo, ca"
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "a418fb8daea2173fe01d6e500f5460fadddc5b074121095977e9bbb01bb92848",
-      "revision": 2
+      "fingerprint": "684fa8f1e6371eb9ce70cbb6bd5abe172a828a5d73c34cd9d843deaea23925fc",
+      "revision": 3
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393557044765": {
       "eligible": true,
@@ -50634,10 +50632,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "cybersecurity software engineering intern"
+        "title": "2027 cybersecurity software engineering intern - roy ut"
       },
-      "fingerprint": "9deeca882668d357df827b1bfde29a53c0257b820be4a40750113cdd648179a1",
-      "revision": 1
+      "fingerprint": "4a1a9766c94c2bdf03a51128a14666e3ca8073c4e2c173789e409f6ecbaa31a2",
+      "revision": 2
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-cyber-systems-engineer-intern---roy-ut_r10249471": {
       "eligible": true,
@@ -50670,10 +50668,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "devops software engineering intern"
+        "title": "2027 devops software engineering intern - roy ut"
       },
-      "fingerprint": "30770e5acdd857d4b938419557ce7551df639444968d69c79dc42a6e288cf01e",
-      "revision": 1
+      "fingerprint": "21f50cf0951d6904687740b832d42cf18cdd156a7950e17fda0f6847a2a35118",
+      "revision": 2
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-software-engineering-intern---roy-ut_r10259181": {
       "eligible": true,
@@ -50709,10 +50707,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software test engineering intern"
+        "title": "2027 software test engineering intern - roy ut"
       },
-      "fingerprint": "71bd8b10d553a6c9045c37e3c8984db2f9dc4fef5edcc412b353d165b97ace94",
-      "revision": 1
+      "fingerprint": "0f9af9de51486166b12fafa3602bab07a9f8221a733d2a6e46e94548b5405d5a",
+      "revision": 2
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-software-test-engineering-intern--roy-ut_r10258276-1": {
       "eligible": true,
@@ -65129,7 +65127,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 183,
+  "scan_sequence": 184,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

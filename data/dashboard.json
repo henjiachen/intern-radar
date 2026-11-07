@@ -399,21 +399,6 @@
       "company": "Microsoft",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "89c266af949247bd024606fc75c816dbd366736280f2af8ef69ce62e5756dbf5",
-      "locations": [
-        "United States"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 9,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764"
-    },
-    {
-      "company": "Microsoft",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "45cbaffe7e0fa3a786dfee6aff2699ca1e4c8a372988600d028f76e30f640364",
       "locations": [
         "Redmond, WA"
@@ -424,6 +409,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859"
+    },
+    {
+      "company": "Microsoft",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "89c266af949247bd024606fc75c816dbd366736280f2af8ef69ce62e5756dbf5",
+      "locations": [
+        "Aliso Viejo, CA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 9,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764"
     },
     {
       "company": "Microsoft",
@@ -18487,12 +18487,12 @@
       "locations": [
         "Clearfield, UT"
       ],
-      "posted_at": "2026-11-04",
+      "posted_at": "2026-11-05",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Cybersecurity Software Engineering Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177"
+      "source": "speedyapply",
+      "title": "2027 Cybersecurity Software Engineering Intern - Roy UT",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177"
     },
     {
       "company": "Northrop Grumman",
@@ -18502,12 +18502,27 @@
       "locations": [
         "Roy, UT"
       ],
-      "posted_at": "2026-11-04",
+      "posted_at": "2026-11-05",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "DevOps Software Engineering Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178"
+      "source": "speedyapply",
+      "title": "2027 DevOps Software Engineering Intern - Roy UT",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178"
+    },
+    {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "16fd0863f64ce9d53a696348b7b1a19cd94d1ecff54cc4c080e8031918a5f2b7",
+      "locations": [
+        "Roy, UT"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "2027 Software Test Engineering Intern - Roy UT",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179"
     },
     {
       "company": "Northrop Grumman",
@@ -18553,21 +18568,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181"
-    },
-    {
-      "company": "Northrop Grumman",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "16fd0863f64ce9d53a696348b7b1a19cd94d1ecff54cc4c080e8031918a5f2b7",
-      "locations": [
-        "Roy, UT"
-      ],
-      "posted_at": "2026-11-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Test Engineering Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179"
     },
     {
       "company": "NOV",
@@ -18935,21 +18935,6 @@
       "company": "Paccar",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "071ef92f3012b80985c342429af477f1a350a76ce92aa18ea49c064cf7da5f06",
-      "locations": [
-        "Denton, TX"
-      ],
-      "posted_at": "2026-11-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Engineer Intern",
-      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors"
-    },
-    {
-      "company": "Paccar",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "00ec4feae31962ab15d7d2ff0436303e99cda31102366832f3869f58f7053ed7",
       "locations": [
         "Chillicothe, OH"
@@ -18975,6 +18960,21 @@
       "source": "vanshb03",
       "title": "Data Engineer Intern",
       "url": "https://career5.successfactors.eu/career?career_ns=job_listing&company=paccarinc&career_job_req_id=73733"
+    },
+    {
+      "company": "Paccar",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "071ef92f3012b80985c342429af477f1a350a76ce92aa18ea49c064cf7da5f06",
+      "locations": [
+        "Denton, TX"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data Engineer Intern",
+      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors"
     },
     {
       "company": "Paccar",
@@ -29427,7 +29427,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-07T09:01:46.439356+00:00",
+  "last_checked": "2026-11-07T09:59:14.889427+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
