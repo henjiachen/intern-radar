@@ -9746,6 +9746,11 @@
       "fingerprint": "4551e0ad3c29c6b2e204ba1a300cb268ef27eb24f9f9d6d801acc77430f2f7d6",
       "revision": 1
     },
+    "url:https://careers-rcm.icims.com/jobs/5575/job": {
+      "eligible": false,
+      "fingerprint": "49f52661cb23204f54bff05a634df104594b20b2df8944383ea06391b2725602",
+      "revision": 1
+    },
     "url:https://careers-resonetics.icims.com/jobs/5550/job": {
       "eligible": false,
       "fingerprint": "2ff86dde1e7cae4dbf90c3a6fcd9642676e39979e828095820ac420e3e4fc391",
@@ -11890,6 +11895,24 @@
       },
       "fingerprint": "2b4f3c2fd6890856695cf9ca27b3e6d27750988673e0d2129da3fb11e3ee6267",
       "revision": 0
+    },
+    "url:https://careers.mitre.org/us/en/job/r117632/data-science-intern": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "mitre",
+        "degrees": [],
+        "locations": [
+          "mclean, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "76ad2982464f82b18edd4c942f83fbf6f9dd429c663c8e35f1552956cb5f7119",
+      "revision": 1
     },
     "url:https://careers.mitre.org/us/en/job/r117661/data-science-and-engineering-intern": {
       "eligible": true,
@@ -14910,6 +14933,26 @@
       "eligible": false,
       "fingerprint": "157d59ed2f73a1b26bc6b68a3171a75d271e1a8f631e5ece850a05406c820e7b",
       "revision": 0
+    },
+    "url:https://corningjobs.corning.com/job/corning-intern,-image-analysis-summer-2027-ny-14831/1448762800?ats=successfactors": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "corning",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "corning, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "image analysis intern"
+      },
+      "fingerprint": "4b59e757f9824bd352e8bf9d0f1ee1ad713cbd439b049d59a9778ef9d30f29c8",
+      "revision": 1
     },
     "url:https://corningjobs.corning.com/job/corning-intern,-measurements-summer-2027-ny-14831/1433453700?ats=successfactors": {
       "eligible": true,
@@ -19268,20 +19311,24 @@
     "url:https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/260831": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "gm financial",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "arlington, tx"
         ],
         "requirements": [],
         "terms": [
+          "summer 2026",
           "summer 2027"
         ],
-        "title": "software development engineer intern"
+        "title": "software engineer intern"
       },
-      "fingerprint": "4495d75d6d5324408967e5da4bd15a19557c2cfdb88dc6fe4e02353b4c3b3ff9",
-      "revision": 1
+      "fingerprint": "fcf9d87f224bb290c1cb9af329e5916441f13e9591a44507aceb61b364e5ab4c",
+      "revision": 2
     },
     "url:https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/260839": {
       "eligible": true,
@@ -19856,6 +19903,26 @@
       },
       "fingerprint": "3dfd1d5a17287d52282cee5f1757d3b3069f9be211f7a0e3995ab0be0b2c88b6",
       "revision": 0
+    },
+    "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/claims-technical-intern---summer-2027_r9873-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "great american insurance company",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "cincinnati, oh"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "claims technical intern"
+      },
+      "fingerprint": "2204ea728a2b274b5b53bacae52670816e0bc3fe9e51e065fcf7b61d39cb7115",
+      "revision": 1
     },
     "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/cloud-data-platform-intern---summer-2027_r9795": {
       "eligible": true,
@@ -24987,6 +25054,26 @@
       "fingerprint": "b168e955d7a4e86a162990db7d200badbeb6a2f6b55bec7602bd1cef48dff765",
       "revision": 1
     },
+    "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---middleburg-heights-ohmid/xmlname-2027-summer-engineering-intern---cleveland-oh_r26039950": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "united parcel service",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "middleburg heights, oh"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "summer engineer intern"
+      },
+      "fingerprint": "dfdf1df914fd196706ff41d56e8291cd53eeed1336ddd146377d62c11609d28a",
+      "revision": 1
+    },
     "url:https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-corporate-offices-gacor/americas-region-business-analytics-summer-2027-intern_r26030513": {
       "eligible": true,
       "evidence": {
@@ -28451,9 +28538,11 @@
     "url:https://invesco.wd1.myworkdayjobs.com/ivz/job/dallas-texas/early-career-intern---real-estate--data-science-_r-15091-1": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "invesco",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "dallas, tx"
         ],
@@ -28461,9 +28550,29 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "real estate intern, data science"
+        "title": "data science intern - real estate"
       },
-      "fingerprint": "25b5c64b3f238d4ad684d5a6a93f6813ef22532f3d4f13b241e9f1511d0925ad",
+      "fingerprint": "02c15d09e77a6e0570e00c91c7b9e6e33935da2af7f0de749a0605daf3738191",
+      "revision": 2
+    },
+    "url:https://invesco.wd1.myworkdayjobs.com/ivzearlycareers/job/dallas-texas/early-career-intern---real-estate--data-science-_r-15091": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "invesco",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern - real estate"
+      },
+      "fingerprint": "02c15d09e77a6e0570e00c91c7b9e6e33935da2af7f0de749a0605daf3738191",
       "revision": 1
     },
     "url:https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/montreal/intern--genai-and-digital-workplace--january---april-2027-_r5003": {
@@ -30123,6 +30232,11 @@
       "eligible": false,
       "fingerprint": "3189eb4f2a0225ff52784db68d89622692a7b6fb48a607ede9ab814a83d924c0",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/brave/jobs/8360001": {
+      "eligible": false,
+      "fingerprint": "4642b04b802341975d09cdb528df6e215805af6b6fe6a982fb849c74a4fe92a7",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/braze/jobs/8301086": {
       "eligible": true,
@@ -36411,6 +36525,11 @@
       "fingerprint": "e231d9570c243b06ca36676f10f8e8a742cdcee8dbb3e4a1ced2d7ace085f74e",
       "revision": 1
     },
+    "url:https://jobs.ashbyhq.com/niural/0daacf58-a15d-4c6f-bfa0-0fc069e4956e": {
+      "eligible": false,
+      "fingerprint": "331d2714255cd7e62df29d00d33b8924a6d3ae7655b073c94c859fd1838ca783",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb": {
       "eligible": false,
       "fingerprint": "dac20659533f4c2bf24eedb97269a117beba8432d3bf914322008fd4f69004fa",
@@ -36418,8 +36537,8 @@
     },
     "url:https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947": {
       "eligible": false,
-      "fingerprint": "2e28f0a9b61cc8ea5eafa4091a1e71abd87941ce75cce63b17f3454630461808",
-      "revision": 2
+      "fingerprint": "faac3752dea61b81e3d7d4c3824d2e8f8ac2407a828ec48ee1a1d5d61fff8c37",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7": {
       "eligible": false,
@@ -36433,8 +36552,8 @@
     },
     "url:https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413": {
       "eligible": false,
-      "fingerprint": "4566d5ae83bd4cfc6f3c02daed665cb5814d70e78be525088deead37486e6ae8",
-      "revision": 2
+      "fingerprint": "6481938a78612558e3392e3212f5bb8b80d4c8543b627c58c8b860aee42289ba",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8": {
       "eligible": false,
@@ -36578,20 +36697,25 @@
     "url:https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "parspec",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
         "locations": [
           "san mateo, ca"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "applied ai engineer intern"
       },
-      "fingerprint": "bd77c18f9fd46fd3747e7891fa546916ded86448f8518fbd5e2955abff5d7469",
-      "revision": 1
+      "fingerprint": "13579ee7c525217e95c95dbd1ce182176f83ac5be610a288570c0cd88a1cf89d",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587": {
       "eligible": true,
@@ -40127,6 +40251,21 @@
       "fingerprint": "bd3b4e69ab74706e2de6d4a434fcfd2c9dad5e1bf611bf0b4f5f346b4bd4c031",
       "revision": 1
     },
+    "url:https://jobs.keysight.com/jobs/54739?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "55a79b947bf1f157860d591190346626385938787ae0b38d5923f1aebddff425",
+      "revision": 1
+    },
+    "url:https://jobs.keysight.com/jobs/54741?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "dd07e321edcb80a722c9b5036a468c7446ec6f2db7de27cb5196a3f563ca8bdf",
+      "revision": 1
+    },
+    "url:https://jobs.keysight.com/jobs/54742?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "4e9f7fe6ceca89d78c9b3b26c65d718c9b1c89ff47d7848cd7d4025a4f14f675",
+      "revision": 1
+    },
     "url:https://jobs.keysight.com/jobs/54805?icims=1": {
       "eligible": true,
       "evidence": {
@@ -42062,6 +42201,25 @@
     "url:https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877": {
       "eligible": false,
       "fingerprint": "2f440d4756cb1b8178a985fb2141240a24a40ba1f5e5b1a3c4c1fabb678516e5",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "zoox",
+        "degrees": [],
+        "locations": [
+          "boston, ma",
+          "foster city, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "6113438a598ff661778092f89c302e29e955854da9bdb855b045f82a5a561c1e",
       "revision": 1
     },
     "url:https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520": {
@@ -48169,12 +48327,35 @@
       "fingerprint": "7b342b358286318c7c1f26c0b3f6d188261be4226a0a79b596c2efcb28e02002",
       "revision": 0
     },
+    "url:https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/freeport-me/business--data-analyst-intern--summer-2027-_jr11275": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "l.l.bean",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "freeport, me"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "business analyst/data analyst intern"
+      },
+      "fingerprint": "3cbe1e26ff8b95c3c5d38ae9d95dad0ce8a45745666b5cbe28bbd5f5cea313ad",
+      "revision": 1
+    },
     "url:https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/freeport-me/software-developer-intern--summer-2027-_jr11274-1": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "llbean",
-        "degrees": [],
+        "category": "software",
+        "company": "l.l.bean",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "freeport, me"
         ],
@@ -48184,8 +48365,8 @@
         ],
         "title": "software developer intern"
       },
-      "fingerprint": "1645bf46a398878d99fd8a80475bc1a5bb1fe92d2772ea8472fb53d9976a7c71",
-      "revision": 1
+      "fingerprint": "54f883594847aa1b03c5ca2d7868048adef96043ad1cd90d81cb1fb94ad2a41d",
+      "revision": 2
     },
     "url:https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/reno-nv/intern-software-engineering_r322885": {
       "eligible": true,
@@ -53759,6 +53940,42 @@
       "fingerprint": "38a4e8918c981c6549b6ef235eaea94836d6b57af3f3276fe13ed18087e1dbc1",
       "revision": 1
     },
+    "url:https://recruiting.paylocity.com/recruiting/jobs/details/4646257": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "enovation controls",
+        "degrees": [],
+        "locations": [
+          "tulsa, ok"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded machine learning engineer intern"
+      },
+      "fingerprint": "9405f36133c0a46b60d3762774037d07650b9b020c4c3dd6693ff1f3504d7fd4",
+      "revision": 1
+    },
+    "url:https://recruiting.paylocity.com/recruiting/jobs/details/4648416": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "enovation controls",
+        "degrees": [],
+        "locations": [
+          "tulsa, ok"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "manufacturing software engineer intern"
+      },
+      "fingerprint": "ccd5a4c5abfc2359bd9ba6b4c1bc5f9d883f8975de53bb3dc88ff24d6618da75",
+      "revision": 1
+    },
     "url:https://recruiting.ultipro.com/gas1003/jobboard/6eb19b1f-4963-9bbd-eff5-d321e7265519/opportunitydetail?opportunityid=52b782dd-a1b7-4a41-8bde-a39d265fc776": {
       "eligible": true,
       "evidence": {
@@ -56924,7 +57141,7 @@
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-ai-engineering-internship_req380765": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "t-mobile",
         "degrees": [],
         "locations": [
@@ -56936,15 +57153,58 @@
         ],
         "title": "ai engineering intern"
       },
-      "fingerprint": "4d6f80b7d104d330abca43eae871e02d4a5fb1fc1645443469de59a068ea799c",
+      "fingerprint": "d471335ebb42bae9b8fa69afad1a9eee41db7eaf7d51cf3e081332a2332cc7e8",
+      "revision": 2
+    },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-ai-engineering-internship_req381194": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "t-mobile",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineering intern"
+      },
+      "fingerprint": "50068cc8ba0bd75b344cf8a1f8da146507d85a466afe3e41f89ba37635bd9e6d",
+      "revision": 1
+    },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-ai-engineering-internship_req381198": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "t-mobile",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineering intern"
+      },
+      "fingerprint": "96ad4ecec6e7a42dafd933491112cc52a3a076339c1b92128603bb2b4b60f1e5",
       "revision": 1
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-ai-strategist-internship_req381279": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "t-mobile",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "bellevue, wa"
         ],
@@ -56954,15 +57214,18 @@
         ],
         "title": "ai strategist intern"
       },
-      "fingerprint": "f26606ff39f13aeff924d82c0de88a9ef7dde7b8f939164d29c6663676f7327b",
-      "revision": 1
+      "fingerprint": "442c8586ca0dad15206c2afb38331ebe3c308d11a169b595583cc748e744da86",
+      "revision": 2
     },
-    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineer-hr-data-products-internship_req380916": {
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineer-hr-data-products-internship_req380766": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "t-mobile",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "bellevue, wa"
         ],
@@ -56970,10 +57233,30 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, hr data products"
+        "title": "software engineer hr data products intern"
       },
-      "fingerprint": "59b2e993d95391d0ae1b31a56470eba71c8d5334fffa0eceff60862cbdd94510",
+      "fingerprint": "1a177c5b0b0eab1106cab0b3cc121f08fb4b180a9f33fcb7f21650e210b68087",
       "revision": 1
+    },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineer-hr-data-products-internship_req380916": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "t-mobile",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - hr data products"
+      },
+      "fingerprint": "6a2204f6f0b0f978a4df9c233fd41f0e8de4d0b9d95d1ae9b25086310b9df05f",
+      "revision": 2
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineering-internship_req380757": {
       "eligible": true,
@@ -56991,6 +57274,92 @@
         "title": "software engineering intern"
       },
       "fingerprint": "7f981e6a9c6dbafd8f2ee735d7fdd18d20e47ec17a2e89f185380fb26b12637b",
+      "revision": 1
+    },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineering-internship_req380768": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "t-mobile",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "61841bfb94fe94f64bfaacc325a7734f6c7a0567451bbb3e5545f8df86a3eb48",
+      "revision": 1
+    },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineering-internship_req380917": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "t-mobile",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "61841bfb94fe94f64bfaacc325a7734f6c7a0567451bbb3e5545f8df86a3eb48",
+      "revision": 1
+    },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/frisco-texas/summer-2027-data-engineering-internship_req380754": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "t-mobile",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "atlanta, ga",
+          "frisco, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "fb18b4b049daa5058e2a6968871968001ba5a528f8fa6972449e387008c3b847",
+      "revision": 1
+    },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/frisco-texas/summer-2027-data-engineering-internship_req380755": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "t-mobile",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "atlanta, ga",
+          "frisco, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineering intern"
+      },
+      "fingerprint": "25797fdfb391698c44935c26a3a9d9d6ff03e6496d72f4919c29713171b14b2a",
       "revision": 1
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/new-york-new-york/summer-2027-software-engineering-internship_req380886": {
@@ -60659,9 +61028,19 @@
       "fingerprint": "8b39ced4097225323b0fb7efe6744e7c7d548e89b77b8877c7c9727d4b467dc8",
       "revision": 1
     },
+    "url:https://www.metacareers.com/jobs/1406087328180524": {
+      "eligible": false,
+      "fingerprint": "a0748ee3ccb26d54fcdf0218016f651c46213fd49113504b83f94d4f01aea4d1",
+      "revision": 1
+    },
     "url:https://www.metacareers.com/jobs/1406585275871250": {
       "eligible": false,
       "fingerprint": "4e1935f3643e1835646bd9ed9108fc82d4af98a80a3801d5d72caa67b7993052",
+      "revision": 1
+    },
+    "url:https://www.metacareers.com/jobs/1414987577372371": {
+      "eligible": false,
+      "fingerprint": "4ef48ea3e0a198cf3f8473d06c07f5a6496146cb062140b63da8f12dd5909ded",
       "revision": 1
     },
     "url:https://www.metacareers.com/jobs/1416549056773684": {
@@ -60763,6 +61142,11 @@
       "fingerprint": "0ffcb0f2c3fa9d3fc07b1677a8d9b8ee0387922d36ce510aa2dca3bad8728f3d",
       "revision": 0
     },
+    "url:https://www.metacareers.com/jobs/1667187061776108": {
+      "eligible": false,
+      "fingerprint": "d3dcdea98fc69430de9613ae4662c5f53a6e8b35029cb5b35e1b678b8e4b602c",
+      "revision": 1
+    },
     "url:https://www.metacareers.com/jobs/1674394627579563": {
       "eligible": false,
       "fingerprint": "ab0e8379a90609ec4f526d19af4525dce44b55292b94b509861a8a8be99f8f7e",
@@ -60777,6 +61161,11 @@
       "eligible": false,
       "fingerprint": "301770c7e6ec4e3993d39a46a461cb8ad53e78ebeb0fe90e030d71ca56d61fa2",
       "revision": 0
+    },
+    "url:https://www.metacareers.com/jobs/1750797606003820": {
+      "eligible": false,
+      "fingerprint": "ee1fd92775fda4f7a2d36bf910c2784fce383dd6171b42072d5bab5237ed3cd2",
+      "revision": 1
     },
     "url:https://www.metacareers.com/jobs/1751935042548465": {
       "eligible": false,
@@ -60797,6 +61186,11 @@
       "eligible": false,
       "fingerprint": "d8bc7a5b74d551e4c06a401a0d3d78260284e383673e8ab2b14f4c81f0c40d72",
       "revision": 0
+    },
+    "url:https://www.metacareers.com/jobs/1826604892017856": {
+      "eligible": false,
+      "fingerprint": "9de7d003324de3f5d98b068a321e53bdfc1db2c706fbb06f1d55a1b4816e93e1",
+      "revision": 1
     },
     "url:https://www.metacareers.com/jobs/1832390484751700": {
       "eligible": false,
@@ -61354,8 +61748,8 @@
     },
     "url:https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786": {
       "eligible": false,
-      "fingerprint": "f44e78662d20d97045adf833d2edae8f9f03fd5a0e92d1e988aa217770b7d2bc",
-      "revision": 1
+      "fingerprint": "fc4c1c65b21572fd19f175c465f8d4a3f1251ab9d6d8e5d1acae23320ddd4e50",
+      "revision": 2
     },
     "url:https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern": {
       "eligible": false,
@@ -61837,6 +62231,11 @@
       },
       "fingerprint": "a06612d62df610a01160a311b3e09f7f33d72c6d8b1ff3e4c096d26090955ffd",
       "revision": 0
+    },
+    "url:https://www.tesla.com/careers/search/job/289240": {
+      "eligible": false,
+      "fingerprint": "02419827cfca4948831190d96b2f6a241e2522d2d72c6fe271c8acd08c4c1e85",
+      "revision": 1
     },
     "url:https://www.tower-research.ca/postes-vacants?gh_jid=8212194": {
       "eligible": false,
@@ -62868,6 +63267,10 @@
     "https://go.vansh.nyc/1l3": 172,
     "https://go.vansh.nyc/1l9": 172,
     "https://go.vansh.nyc/1lJ": 175,
+    "https://go.vansh.nyc/1lN": 176,
+    "https://go.vansh.nyc/1lO": 176,
+    "https://go.vansh.nyc/1lQ": 176,
+    "https://go.vansh.nyc/1lR": 176,
     "https://go.vansh.nyc/1le": 173,
     "https://go.vansh.nyc/1lh": 174,
     "https://go.vansh.nyc/1ln": 174,
@@ -64002,6 +64405,10 @@
     "https://go.vansh.nyc/1l3": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319",
     "https://go.vansh.nyc/1l9": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279",
     "https://go.vansh.nyc/1lJ": "https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504",
+    "https://go.vansh.nyc/1lN": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257",
+    "https://go.vansh.nyc/1lO": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416",
+    "https://go.vansh.nyc/1lQ": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
+    "https://go.vansh.nyc/1lR": "https://careers.mitre.org/us/en/job/R117632/Data-Science-Intern",
     "https://go.vansh.nyc/1le": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1",
     "https://go.vansh.nyc/1lh": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148",
     "https://go.vansh.nyc/1ln": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
@@ -64670,7 +65077,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 175,
+  "scan_sequence": 176,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
