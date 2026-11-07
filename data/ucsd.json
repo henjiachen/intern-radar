@@ -35471,6 +35471,27 @@
       "fingerprint": "75d533792052a879995e7f5b42bb386deb3519e426110f1a9856e3a88001d26d",
       "revision": 0
     },
+    "url:https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "drivewealth",
+        "degrees": [
+          "bachelor's",
+          "mba"
+        ],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai consulting associate program brokerage intern"
+      },
+      "fingerprint": "8e495568688ee35f2db5a3599ffb162ec6049e0a32c04427db1b39b6ae14119a",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87": {
       "eligible": true,
       "evidence": {
@@ -59762,6 +59783,11 @@
       "fingerprint": "045234a06d7e1fd6fafd4045874b88b2d6fb3dae969c813dcf221464bb66ae53",
       "revision": 0
     },
+    "url:https://westmonroe.com/careers/job-details-students?gh_jid=6183029004": {
+      "eligible": false,
+      "fingerprint": "6de0280768b14e667e14232cb071fed8456a285564211fbc34bff62a7ff05cfc",
+      "revision": 1
+    },
     "url:https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/software-engineer-intern_r22585": {
       "eligible": false,
       "fingerprint": "0258e6b0fdec76506cb44eca9122dc3b0c639748641b408a6f0a569df38990dd",
@@ -65127,7 +65153,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 184,
+  "scan_sequence": 185,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
