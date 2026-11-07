@@ -4105,6 +4105,21 @@
       "company": "Baird",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "95a8bf428947036ec87c0df3db7630f3fc094b19b47239e8bd26058e38a26116",
+      "locations": [
+        "Milwaukee, WI"
+      ],
+      "posted_at": "2026-09-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Capital Markets Compliance Data & Analytics Intern",
+      "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Capital-Markets-Compliance-Data---Analytics--Year-Round-_R2026962-2"
+    },
+    {
+      "company": "Baird",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "93e7d0c113a83baac956c1a032b1f806a1e4c3cc68ddbe396e50531b99f34464",
       "locations": [
         "Milwaukee, WI"
@@ -27191,22 +27206,6 @@
       "url": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
     },
     {
-      "company": "Trane Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "438f9af9bf46202781d54cac78b581edb5e64f537121b9920c44dfd3659c203e",
-      "locations": [
-        "Minneapolis, MN",
-        "Davidson, NC"
-      ],
-      "posted_at": "2026-09-01",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI & Analytics Intern",
-      "url": "https://careers.tranetechnologies.com/global/en/job/JR-7591"
-    },
-    {
       "company": "Transcard Payments",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -27569,23 +27568,6 @@
       "source": "simplify",
       "title": "Software Development Intern - Summer 2027",
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
-    },
-    {
-      "company": "Tyler Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "16dc7eb93500aa9ee329c737c74f4d38d27446e7f659c60289b0fca943b5f5ad",
-      "locations": [
-        "Yarmouth, ME",
-        "Orono, ME",
-        "Falmouth, ME"
-      ],
-      "posted_at": "2026-09-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Intern - Summer 2027",
-      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
     },
     {
       "company": "Uber",
@@ -29656,7 +29638,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-07T02:12:48.810825+00:00",
+  "last_checked": "2026-11-07T03:02:43.325305+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

@@ -6309,6 +6309,26 @@
       "fingerprint": "7928f957734acd57dac00d25bebb6306b31b527d00150d6189c1666cf235600f",
       "revision": 1
     },
+    "url:https://baird.wd1.myworkdayjobs.com/careers/job/wi-milwaukee/internship---capital-markets-compliance-data---analytics--year-round-_r2026962-2": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "baird",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "milwaukee, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "capital markets compliance data & analytics intern"
+      },
+      "fingerprint": "60707c6f5da1958d369e889be11b23ba94531c9c676e2b1690575791f6d6d025",
+      "revision": 1
+    },
     "url:https://baird.wd1.myworkdayjobs.com/careers/job/wi-milwaukee/internship---it-data---analytics--year-round-_r20261012-1": {
       "eligible": true,
       "evidence": {
@@ -48235,6 +48255,21 @@
       "fingerprint": "092bd43771779b019276d5e510a468f188868aa23cf79bc7832be7f9a497cc9c",
       "revision": 1
     },
+    "url:https://lifeattiktok.com/search/7704912455690504453": {
+      "eligible": false,
+      "fingerprint": "c6296753ea67403811f9949c8e1b6de72a07c8abe8d16d58dd96396cc17a82fa",
+      "revision": 1
+    },
+    "url:https://lifeattiktok.com/search/7704981006856145205": {
+      "eligible": false,
+      "fingerprint": "e4a87eed919afa57c21662c612238c43914b0ad1c2179d52816185ab8d7986d8",
+      "revision": 1
+    },
+    "url:https://lifeattiktok.com/search/7705012688944810245": {
+      "eligible": false,
+      "fingerprint": "6e75cab0cdb3504e1dd8060e1d60f0825568f6412d712922c448212330dfeb8f",
+      "revision": 1
+    },
     "url:https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/rosemont-il/it-intern_jr-025323": {
       "eligible": true,
       "evidence": {
@@ -65077,7 +65112,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 177,
+  "scan_sequence": 178,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
