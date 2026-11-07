@@ -29265,11 +29265,10 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "jm family enterprises",
+        "company": "jm family",
         "degrees": [],
         "locations": [
-          "deerfield beach, fl",
-          "jacksonville, fl"
+          "deerfield beach, fl"
         ],
         "requirements": [],
         "terms": [
@@ -29277,8 +29276,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "a55197bf871b6df66e5c4491b4b87b7a512668e482c6839bc22600c4452cb5ff",
-      "revision": 1
+      "fingerprint": "aa201f24049113670e069062469a4d276343abc11508168d8a21c6fea69d46ab",
+      "revision": 2
     },
     "url:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/software-engineer-intern_jr105182": {
       "eligible": true,
@@ -62715,10 +62714,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "2027 summer internship - us - software engineer"
       },
-      "fingerprint": "899b17b885053ac3a4bebcb83951e29d2310dc9ffe6c1f31f9b2c195f0f4c691",
-      "revision": 1
+      "fingerprint": "2856e0c4642da818ecba350f0154d592eca27ba81b0e70ea59048f075f6c6469",
+      "revision": 2
     },
     "url:https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/holtsville-new-york/xmlname-2027-summer-internship--us----software-engineer_jr103657": {
       "eligible": true,
@@ -65146,7 +65145,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 180,
+  "scan_sequence": 181,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
