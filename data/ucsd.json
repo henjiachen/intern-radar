@@ -8971,9 +8971,25 @@
       "revision": 1
     },
     "url:https://careers-daytonfreight.icims.com/jobs/18249/job": {
-      "eligible": false,
-      "fingerprint": "c0d65920a0129a3bf004692deb57bf23b76a8f1ff5fcaf5ad40e79c6af0c6257",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "dayton freight lines",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "dayton, oh"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "software developer intern"
+      },
+      "fingerprint": "50980c8b0452fcd7a671822cb2372ce5460ead79337fb6240a406f9997ea86c6",
+      "revision": 2
     },
     "url:https://careers-daytonfreight.icims.com/jobs/18278/job": {
       "eligible": false,
@@ -9031,9 +9047,27 @@
       "revision": 1
     },
     "url:https://careers-framatome.icims.com/jobs/3385/job": {
-      "eligible": false,
-      "fingerprint": "18ffb6f01ef2d6cc6e472b77bee4968cf717bc745eff9ec131703832215df20b",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "framatome",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "lynchburg, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "ai and software innovation intern"
+      },
+      "fingerprint": "3efb3c9abe79c6995541771b5aa030527d0bd23a0230c9f48af46b746c6d3a0d",
+      "revision": 2
     },
     "url:https://careers-gannettfleming.icims.com/jobs/15085/job": {
       "eligible": false,
@@ -10003,6 +10037,7 @@
           "bachelor's"
         ],
         "locations": [
+          "long island city, ny",
           "long island city, queens, ny"
         ],
         "requirements": [],
@@ -10011,8 +10046,8 @@
         ],
         "title": "software engineering intern - summer 2027"
       },
-      "fingerprint": "f56448eb33a871a0fa26aeb3cd0ae3ccfc51363e4f0d8b5ef21c1355b444c517",
-      "revision": 1
+      "fingerprint": "c5d61d238e92afdff65a26aacb15c8ff64649f710626ab83d0a08ce9202a99d5",
+      "revision": 2
     },
     "url:https://careers-springswindowfashions.icims.com/jobs/12945/job": {
       "eligible": true,
@@ -22980,6 +23015,21 @@
       "fingerprint": "5bfea5b0795198cedeba8a7f1aa4f164dbab2cd2e0ef689ea715ada451c8bbb6",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1mb": {
+      "eligible": false,
+      "fingerprint": "0744eab17ab9e1a20ec5312c8ac8981ed197b440e8895d1c19a7dc366673d8ab",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1mc": {
+      "eligible": false,
+      "fingerprint": "d734ca447f9ce15868c6ff7024b6b4dba61974955fc3205cfb4f48f20e14ea10",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1md": {
+      "eligible": false,
+      "fingerprint": "4f5bd6dd739faccab482b42cc2a7216a12e50d83b1126830ac8d81ef2e96bc66",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1s": {
       "eligible": false,
       "fingerprint": "1ca6ea592089ef650490445a1155058bf02664e874a9ee67ba8198d3620f575e",
@@ -33349,11 +33399,13 @@
           "kent, wa"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 internship - software"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software intern"
       },
-      "fingerprint": "61e1812d479770a3106fb8abe2ff1682a3b996f561fbecff76b778c7adccbd88",
-      "revision": 0
+      "fingerprint": "4fb8f98f9b51c2fb51ec24d018bffb3925b196d335aae8730d75920ff3d1a437",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008": {
       "eligible": true,
@@ -63459,6 +63511,12 @@
     "https://go.vansh.nyc/1ly": 174,
     "https://go.vansh.nyc/1m2": 188,
     "https://go.vansh.nyc/1m3": 188,
+    "https://go.vansh.nyc/1m5": 192,
+    "https://go.vansh.nyc/1m6": 192,
+    "https://go.vansh.nyc/1m9": 192,
+    "https://go.vansh.nyc/1me": 192,
+    "https://go.vansh.nyc/1mf": 192,
+    "https://go.vansh.nyc/1mg": 192,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -64601,6 +64659,12 @@
     "https://go.vansh.nyc/1ly": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1",
     "https://go.vansh.nyc/1m2": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008",
     "https://go.vansh.nyc/1m3": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008",
+    "https://go.vansh.nyc/1m5": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004",
+    "https://go.vansh.nyc/1m6": "https://careers-framatome.icims.com/jobs/3385/ai-and-software-innovation-intern/job",
+    "https://go.vansh.nyc/1m9": "https://careers-daytonfreight.icims.com/jobs/18249/software-developer-intern/job",
+    "https://go.vansh.nyc/1me": "https://careers-springswindowfashions.icims.com/jobs/12881/textile-engineering-analytics-%26-software-internship---summer-2027/job",
+    "https://go.vansh.nyc/1mf": "https://careers-springswindowfashions.icims.com/jobs/12891/software-engineering-internship---summer-2027/job",
+    "https://go.vansh.nyc/1mg": "https://careers-empiricalfoods.icims.com/jobs/4161/software-engineering-intern---summer-2027/job",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -65257,7 +65321,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 191,
+  "scan_sequence": 192,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
