@@ -965,6 +965,36 @@
       "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022387"
     },
     {
+      "company": "Aechelon Technology",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f9a004ce659867731a2477e4ed4fcf0bc6cf196f489362fc748ba99c3a683b83",
+      "locations": [
+        "Overland Park, KS"
+      ],
+      "posted_at": "2026-08-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Junior Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008"
+    },
+    {
+      "company": "Aechelon Technology",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "baa109e72774ff9fd23c1c8d8f1e1ac1284d3893c8cc5eee27206267a1ba1504",
+      "locations": [
+        "Farmer's Branch, TX"
+      ],
+      "posted_at": "2026-08-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Junior Software Engineer Intern, RTK",
+      "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008"
+    },
+    {
       "company": "Aerospace Corporation",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -14963,21 +14993,6 @@
       "company": "JM Family",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "8ecd2dbccacdd5c4fd59faf22a4d8aefcd87c61e48ab15abc15e1dc8255ccd9e",
-      "locations": [
-        "Deerfield Beach, FL"
-      ],
-      "posted_at": "2026-10-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158"
-    },
-    {
-      "company": "JM Family",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "4550362f739594b963ef454322c07229868e607389ccec03306da6cfcc854194",
       "locations": [
         "Deerfield Beach, FL"
@@ -15003,6 +15018,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199"
+    },
+    {
+      "company": "JM Family",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "8ecd2dbccacdd5c4fd59faf22a4d8aefcd87c61e48ab15abc15e1dc8255ccd9e",
+      "locations": [
+        "Deerfield Beach, FL"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Software Engineer Intern",
+      "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158"
     },
     {
       "company": "John D. and Catherine T. MacArthur Foundation",
@@ -29503,7 +29533,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-07T13:08:41.114649+00:00",
+  "last_checked": "2026-11-07T14:00:17.000728+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

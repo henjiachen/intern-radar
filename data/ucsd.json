@@ -29577,6 +29577,42 @@
       "fingerprint": "b083b8fb9a9b4e04041369d78bb4a7579fb530f7fcb8db53f94e7b32f8cb4e20",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "aechelon technology",
+        "degrees": [],
+        "locations": [
+          "overland park, ks"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "junior software engineer intern"
+      },
+      "fingerprint": "6c629a326c7788d686e26f99cc74a03d177c6fed9242296c26a866655703327d",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "aechelon technology",
+        "degrees": [],
+        "locations": [
+          "farmer's branch, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "junior software engineer intern, rtk"
+      },
+      "fingerprint": "9043ebbc67c74b194270c925209b8cdf45b1663415a3fd9a5ee6d67bcc00b873",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008": {
       "eligible": false,
       "fingerprint": "793656a2f85e884816fd4baa1789d716df750c78e235f10db30706d8ddc90c97",
@@ -63408,6 +63444,7 @@
     "https://go.vansh.nyc/1lQ": 176,
     "https://go.vansh.nyc/1lR": 176,
     "https://go.vansh.nyc/1lX": 179,
+    "https://go.vansh.nyc/1lZ": 188,
     "https://go.vansh.nyc/1le": 173,
     "https://go.vansh.nyc/1lh": 174,
     "https://go.vansh.nyc/1ln": 174,
@@ -63420,6 +63457,8 @@
     "https://go.vansh.nyc/1lw": 174,
     "https://go.vansh.nyc/1lx": 174,
     "https://go.vansh.nyc/1ly": 174,
+    "https://go.vansh.nyc/1m2": 188,
+    "https://go.vansh.nyc/1m3": 188,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -64547,6 +64586,7 @@
     "https://go.vansh.nyc/1lQ": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
     "https://go.vansh.nyc/1lR": "https://careers.mitre.org/us/en/job/R117632/Data-Science-Intern",
     "https://go.vansh.nyc/1lX": "https://careers.mitre.org/us/en/job/R117315/Internships-in-Computer-Science-or-Software-Engineering",
+    "https://go.vansh.nyc/1lZ": "https://careers-barrios.icims.com/jobs/2897/data-and-computer-eng-sci-intern---summer-2027/job",
     "https://go.vansh.nyc/1le": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1",
     "https://go.vansh.nyc/1lh": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148",
     "https://go.vansh.nyc/1ln": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
@@ -64559,6 +64599,8 @@
     "https://go.vansh.nyc/1lw": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1",
     "https://go.vansh.nyc/1lx": "https://careersus-shure.icims.com/jobs/4976/cloud-software-engineering-intern/job",
     "https://go.vansh.nyc/1ly": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1",
+    "https://go.vansh.nyc/1m2": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008",
+    "https://go.vansh.nyc/1m3": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -65215,7 +65257,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 187,
+  "scan_sequence": 188,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
