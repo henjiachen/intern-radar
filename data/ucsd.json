@@ -7021,6 +7021,27 @@
       "fingerprint": "44da26589c0918957f05723efce4bdf9e4989f37aa4bd759c633cc0614404fd2",
       "revision": 0
     },
+    "url:https://boards.greenhouse.io/drivewealth/jobs/8039368003": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "drivewealth",
+        "degrees": [
+          "bachelor's",
+          "mba"
+        ],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai consulting associate program brokerage intern"
+      },
+      "fingerprint": "8e495568688ee35f2db5a3599ffb162ec6049e0a32c04427db1b39b6ae14119a",
+      "revision": 1
+    },
     "url:https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272": {
       "eligible": false,
       "fingerprint": "30341759b0414fbd02a0543e35c74b2d53a0dc28df716f52519969840646cd3c",
@@ -36596,6 +36617,27 @@
       "fingerprint": "dac20659533f4c2bf24eedb97269a117beba8432d3bf914322008fd4f69004fa",
       "revision": 2
     },
+    "url:https://jobs.ashbyhq.com/northwoodspace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "northwood space",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "la",
+          "torrance, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "supply chain data & analytics intern"
+      },
+      "fingerprint": "3efbecfdf12042c06a73f24756c4e738ccc3a85755e6ab689cd2a586e98146dc",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947": {
       "eligible": false,
       "fingerprint": "faac3752dea61b81e3d7d4c3824d2e8f8ac2407a828ec48ee1a1d5d61fff8c37",
@@ -62311,6 +62353,26 @@
       "fingerprint": "02419827cfca4948831190d96b2f6a241e2522d2d72c6fe271c8acd08c4c1e85",
       "revision": 1
     },
+    "url:https://www.tesla.com/careers/search/job/289241": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "tesla",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "palo alto, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - si reinforcement learning"
+      },
+      "fingerprint": "4bc7a69e7be257a26783f3b6772268e7afa61f09c217dc3d6a8d77e6e5221213",
+      "revision": 1
+    },
     "url:https://www.tower-research.ca/postes-vacants?gh_jid=8212194": {
       "eligible": false,
       "fingerprint": "621dee5058e5d1cc9aaefd86e69519ad003dfcb3750f5d75bc5cb573ac6500f8",
@@ -65153,7 +65215,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 185,
+  "scan_sequence": 186,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
