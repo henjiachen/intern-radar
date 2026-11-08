@@ -23088,6 +23088,30 @@
       "fingerprint": "1e5eb3fe00c30ae074a184b1a07db34ce73fc4ea6fef957a44f977debc3309df",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1mo": {
+      "eligible": false,
+      "fingerprint": "3ef4834cb468e0127fa02adb43af88a0f8a3716371adf13b674c69fdcb18e913",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1mq": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "doordash",
+        "degrees": [],
+        "locations": [
+          "duncan, sc",
+          "toronto, canada"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "b90764fc079ede50985c39d333596ff65511c16e38e5354d185568bf3afe4675",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1s": {
       "eligible": false,
       "fingerprint": "1ca6ea592089ef650490445a1155058bf02664e874a9ee67ba8198d3620f575e",
@@ -65415,7 +65439,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 209,
+  "scan_sequence": 210,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
