@@ -9896,9 +9896,25 @@
       "revision": 1
     },
     "url:https://careers-sdsurf.icims.com/jobs/21086/job": {
-      "eligible": false,
-      "fingerprint": "de3ebc5cd11e0bcdc1e7268f1cbfabf56b9979f43661b0a92d0c0a605454d75e",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "sdsu research foundation",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san diego, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "computer science intern"
+      },
+      "fingerprint": "c55873fb2e2b4fc7796b1098345023cdb5c8a7e12ffb647e61607029e952f663",
+      "revision": 2
     },
     "url:https://careers-sig.icims.com/jobs/10785/job": {
       "eligible": false,
@@ -15062,9 +15078,26 @@
       "revision": 0
     },
     "url:https://copart.wd12.myworkdayjobs.com/copart/job/dallas-tx---headquarters/software-engineering-intern_jr111861": {
-      "eligible": false,
-      "fingerprint": "157d59ed2f73a1b26bc6b68a3171a75d271e1a8f631e5ece850a05406c820e7b",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "copart",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "1043ab20b67fa8f8eb323c938bddbdff121d386be02064ee54bd1d52bd78fcf8",
+      "revision": 1
     },
     "url:https://corningjobs.corning.com/job/corning-intern,-image-analysis-summer-2027-ny-14831/1448762800?ats=successfactors": {
       "eligible": true,
@@ -28037,9 +28070,23 @@
       "revision": 1
     },
     "url:https://ice.jibeapply.com/jobs/14105?icims=1": {
-      "eligible": false,
-      "fingerprint": "a95b47a585b5bded2d7c3367ee331741469781ce6ba952eae3620a6a107615b3",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "intercontinental exchange",
+        "degrees": [],
+        "locations": [
+          "new york, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "27a61fd0446c896ab0894f9fe4e5387e3b60075400a491e8c1268a19a0e26a82",
+      "revision": 2
     },
     "url:https://ice.jibeapply.com/jobs/14113?icims=1": {
       "eligible": false,
@@ -37232,9 +37279,27 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c": {
-      "eligible": false,
-      "fingerprint": "1c0d41f714dc81b1df4419fd71e1890ea9a4579e7509da1156051f0e17c2edcc",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "quadric",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "burlingame, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "ai kernel engineer intern"
+      },
+      "fingerprint": "a5237a44c6541680ecb05adebbd97cc5ea4f24463a58fb3ef119761f38114d4c",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/quadrillion-labs/579cef88-1dbf-45b5-a938-7ddc23505765": {
       "eligible": false,
@@ -63791,6 +63856,7 @@
     "https://go.vansh.nyc/1mU": 214,
     "https://go.vansh.nyc/1mV": 214,
     "https://go.vansh.nyc/1mX": 214,
+    "https://go.vansh.nyc/1mZ": 218,
     "https://go.vansh.nyc/1me": 192,
     "https://go.vansh.nyc/1mf": 192,
     "https://go.vansh.nyc/1mg": 192,
@@ -63798,6 +63864,11 @@
     "https://go.vansh.nyc/1mo": 196,
     "https://go.vansh.nyc/1mp": 196,
     "https://go.vansh.nyc/1mz": 199,
+    "https://go.vansh.nyc/1n1": 218,
+    "https://go.vansh.nyc/1n3": 218,
+    "https://go.vansh.nyc/1n6": 218,
+    "https://go.vansh.nyc/1n7": 218,
+    "https://go.vansh.nyc/1n8": 218,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -64952,6 +65023,7 @@
     "https://go.vansh.nyc/1mU": "https://johndeere.eightfold.ai/careers/job/137483990265",
     "https://go.vansh.nyc/1mV": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342",
     "https://go.vansh.nyc/1mX": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803",
+    "https://go.vansh.nyc/1mZ": "https://careers-sdsurf.icims.com/jobs/21086/job?mobile=true&needsRedirect=false",
     "https://go.vansh.nyc/1me": "https://careers-springswindowfashions.icims.com/jobs/12881/textile-engineering-analytics-%26-software-internship---summer-2027/job",
     "https://go.vansh.nyc/1mf": "https://careers-springswindowfashions.icims.com/jobs/12891/software-engineering-internship---summer-2027/job",
     "https://go.vansh.nyc/1mg": "https://careers-empiricalfoods.icims.com/jobs/4161/software-engineering-intern---summer-2027/job",
@@ -64959,6 +65031,11 @@
     "https://go.vansh.nyc/1mo": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903",
     "https://go.vansh.nyc/1mp": "https://axiomconsultants.applicantpro.com/jobs/4268287",
     "https://go.vansh.nyc/1mz": "https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false",
+    "https://go.vansh.nyc/1n1": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861",
+    "https://go.vansh.nyc/1n3": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c",
+    "https://go.vansh.nyc/1n6": "https://ice.jibeapply.com/jobs/14105?icims=1",
+    "https://go.vansh.nyc/1n7": "https://ice.jibeapply.com/jobs/14078?icims=1",
+    "https://go.vansh.nyc/1n8": "https://ice.jibeapply.com/jobs/14077?icims=1",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -65615,7 +65692,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 217,
+  "scan_sequence": 218,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

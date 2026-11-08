@@ -7741,6 +7741,21 @@
       "url": "https://americas-cookmedical.icims.com/jobs/19427/job?mobile=true&needsRedirect=false"
     },
     {
+      "company": "Copart",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "1a75745c96d5f8436b8e11b5d6b460bdbca9294df69637cb1c5a32043f3d448a",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-10-23",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861"
+    },
+    {
       "company": "Corgan",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -14335,6 +14350,21 @@
       "company": "Intercontinental Exchange",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "a29f4d79aa5f1dc3d26e0bd3befd7d2db05e392d8304a7a22bb9e872e5c62c48",
+      "locations": [
+        "NYC"
+      ],
+      "posted_at": "2026-10-23",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ice.jibeapply.com/jobs/14105?icims=1"
+    },
+    {
+      "company": "Intercontinental Exchange",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "9f84b2b946a3b1679de635d56f0933321d66acb761148ac0bc4ad64c318ade1d",
       "locations": [
         "Jacksonville, FL"
@@ -14698,24 +14728,6 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://invitation-charter.icims.com/jobs/81795/2027-summer-intern%3a-software-engineer/job"
-    },
-    {
-      "company": "Iridium Communications",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "bc453952b32fba0f24f623966aaee5aa0f6c7d67fcd48787b6cdcf9163f7ee37",
-      "locations": [
-        "McLean, VA",
-        "Tempe, AZ",
-        "Leesburg, VA",
-        "Chandler, AZ"
-      ],
-      "posted_at": "2026-10-31",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
-      "url": "https://careers-iridium.icims.com/jobs/5136/iridium-software-engineering-internship-%e2%80%93-summer-2027/job"
     },
     {
       "company": "Itron",
@@ -20408,6 +20420,21 @@
       "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798"
     },
     {
+      "company": "Quadric",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2bd3eb5d830b1f7d630fdf18c33809a534aa800cc40ca4de5f9d365e794352fb",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "posted_at": "2026-10-23",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Kernel Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c/application?embed=true"
+    },
+    {
       "company": "Quadrillion",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -22499,6 +22526,21 @@
       "source": "simplify",
       "title": "Renewable Energy Analyst Intern",
       "url": "https://apply.workable.com/scout-clean-energy/j/30CCB1602D/apply"
+    },
+    {
+      "company": "SDSU Research Foundation",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "fb7e5704d8b9e0e3e7afda019970125c09878980a691d2054ab82f851e200604",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-10-21",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Computer Science Intern",
+      "url": "https://careers-sdsurf.icims.com/jobs/21086/job?mobile=true&needsRedirect=false"
     },
     {
       "company": "Seagate Technology",
@@ -29564,7 +29606,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-08T20:51:39.018713+00:00",
+  "last_checked": "2026-11-08T21:51:16.074614+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
