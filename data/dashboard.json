@@ -9374,23 +9374,6 @@
       "company": "Edison International",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "fd4799b8593a82ff91c6c7860ca00f80c0b9a8b1728019f2277b3c8005c04b07",
-      "locations": [
-        "Alhambra, CA",
-        "Pomona, CA",
-        "Rosemead, CA"
-      ],
-      "posted_at": "2026-09-01",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Computer Science Intern",
-      "url": "https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors"
-    },
-    {
-      "company": "Edison International",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "e4a20c599b5d9fd243034757c56b882c408e1ec2499ab7700770c8364af42782",
       "locations": [
         "Pomona, CA",
@@ -11717,36 +11700,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Americas - Engineering",
-      "url": "https://higher.gs.com/roles/171565?type=students"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Engineering",
-      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -29593,7 +29546,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-08T09:59:41.665558+00:00",
+  "last_checked": "2026-11-08T10:56:51.630510+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
