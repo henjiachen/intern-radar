@@ -15081,6 +15081,22 @@
       "company": "John Deere",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "df90d3b103af1f661433e1895ffe01f58f1b15d653c95a2bcc1a25cc81191077",
+      "locations": [
+        "Waterloo, IA",
+        "Cary, NC"
+      ],
+      "posted_at": "2026-10-23",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Product Engineering",
+      "url": "https://johndeere.eightfold.ai/careers/job/137483990265"
+    },
+    {
+      "company": "John Deere",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "9ca8885000e6b1c839e0f3fcb49aa5f6f0534249b7fca4f135a37a339e911296",
       "locations": [
         "Ames, IA"
@@ -29561,7 +29577,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-08T16:52:44.785743+00:00",
+  "last_checked": "2026-11-08T17:48:34.166734+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

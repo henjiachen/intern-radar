@@ -44400,9 +44400,27 @@
       "revision": 1
     },
     "url:https://johndeere.eightfold.ai/careers/job/137483990265": {
-      "eligible": false,
-      "fingerprint": "cff7334a8aebd8682a3362530199ec13e2bf41f504a56bc0d7259a9acae2b59d",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "john deere",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "cary, nc",
+          "waterloo, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern - product engineering"
+      },
+      "fingerprint": "535e44c94283a73cd5d8ad54177c0dfb4efdd8acd0cb74416efd4a56c5fb43ed",
+      "revision": 1
     },
     "url:https://joinbytedance.com/search/7600201731980675333": {
       "eligible": true,
@@ -63618,6 +63636,9 @@
     "https://go.vansh.nyc/1mE": 199,
     "https://go.vansh.nyc/1mJ": 203,
     "https://go.vansh.nyc/1mK": 203,
+    "https://go.vansh.nyc/1mU": 214,
+    "https://go.vansh.nyc/1mV": 214,
+    "https://go.vansh.nyc/1mX": 214,
     "https://go.vansh.nyc/1me": 192,
     "https://go.vansh.nyc/1mf": 192,
     "https://go.vansh.nyc/1mg": 192,
@@ -64776,6 +64797,9 @@
     "https://go.vansh.nyc/1mE": "https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2603021909",
     "https://go.vansh.nyc/1mJ": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650",
     "https://go.vansh.nyc/1mK": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003",
+    "https://go.vansh.nyc/1mU": "https://johndeere.eightfold.ai/careers/job/137483990265",
+    "https://go.vansh.nyc/1mV": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342",
+    "https://go.vansh.nyc/1mX": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803",
     "https://go.vansh.nyc/1me": "https://careers-springswindowfashions.icims.com/jobs/12881/textile-engineering-analytics-%26-software-internship---summer-2027/job",
     "https://go.vansh.nyc/1mf": "https://careers-springswindowfashions.icims.com/jobs/12891/software-engineering-internship---summer-2027/job",
     "https://go.vansh.nyc/1mg": "https://careers-empiricalfoods.icims.com/jobs/4161/software-engineering-intern---summer-2027/job",
@@ -65439,7 +65463,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 213,
+  "scan_sequence": 214,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
