@@ -6580,8 +6580,8 @@
     },
     "url:https://blackcape.applytojob.com/apply/7o6mmayryt/us-military-skillbridge-internship-software-engineerarlington-va": {
       "eligible": false,
-      "fingerprint": "02aa8d4bbb90028f8ac987c2efb681158cf9b45cf3a9c2a243483a0c74486e54",
-      "revision": 0
+      "fingerprint": "54ffbb68c75597ebaaad7dd05f90ef2f545684a59e4b443f22435f49f1fb6bda",
+      "revision": 1
     },
     "url:https://blackhawknetwork.jibeapply.com/jobs/26866?icims=1": {
       "eligible": true,
@@ -8842,6 +8842,11 @@
         "title": "applied ai & analytics intern"
       },
       "fingerprint": "e5c5c50c58d0b29ea06ab4242ff5b1508b70e20839908570b4a11d86b293f960",
+      "revision": 1
+    },
+    "url:https://careers-alliedconsultants.icims.com/jobs/8815/job": {
+      "eligible": false,
+      "fingerprint": "90fe1e7aebad241386a7211d7e30114e8719d16d4a33a2afd3d4c60e9b77bd9e",
       "revision": 1
     },
     "url:https://careers-americas.icims.com/jobs/26266/job": {
@@ -13350,8 +13355,8 @@
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8350832": {
       "eligible": false,
-      "fingerprint": "5cd91857e0a840689ae84d3d1a261d2763c1785af66804d97fa4829c3a1e8c1e",
-      "revision": 2
+      "fingerprint": "60106a1361119df0a6ecbe8c33b358b838308698312ee6d3fd6f958f4441445d",
+      "revision": 3
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8351210": {
       "eligible": false,
@@ -14871,8 +14876,8 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12184": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 3
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 4
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12185": {
       "eligible": false,
@@ -15756,8 +15761,8 @@
     },
     "url:https://datarobot.wd1.myworkdayjobs.com/datarobot_external_careers/job/boston-massachusetts-us/software-design-engineer-intern_r-102764": {
       "eligible": false,
-      "fingerprint": "fe186da9e76aa204279f8adc52a2c92049e4b718ab4a965abd1ba6cc41f6d95b",
-      "revision": 1
+      "fingerprint": "61d207ee52024fa0a088d7e0c8c727505089f477152d0387cf9b367107b500d2",
+      "revision": 2
     },
     "url:https://davidyurman.wd1.myworkdayjobs.com/davidyurmancareers/job/new-york-ny/strategic-analytics-intern_r-101176": {
       "eligible": false,
@@ -27015,9 +27020,25 @@
       "revision": 0
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern---hp-iq_uni4806": {
-      "eligible": false,
-      "fingerprint": "7ddbdf0f3cc2036c9a86bb0e5e64724b711cd43b2acd3a6f5815eb3419aea63d",
-      "revision": 4
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "hp inc.",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "9a3ea2a00b8efc2745926e96122e87f34f5efddd9dd1dc2550b897e252c31318",
+      "revision": 5
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--aiml-platform---hp-iq_uni4800": {
       "eligible": true,
@@ -30146,8 +30167,8 @@
     },
     "url:https://job-boards.greenhouse.io/astranis/jobs/4704571006": {
       "eligible": false,
-      "fingerprint": "ca39591c029293b769008692fb303acc4b28b9f6b973784fa0b5a3b5551283d7",
-      "revision": 2
+      "fingerprint": "a6dc83166c44bef7fba43d7980e92199ab61e20643b150f9a98465a5869ac08b",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/astranis/jobs/4704595006": {
       "eligible": false,
@@ -33805,29 +33826,99 @@
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005": {
-      "eligible": false,
-      "fingerprint": "b920bdcef04d2caddc37708772e0089c21c6b0ed2ec696df1841507dbacca3c9",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "the new york times",
+        "degrees": [],
+        "locations": [
+          "new york city, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "full-stack engineer intern"
+      },
+      "fingerprint": "01354b5b820a4efd455175c7c8ee6a625178626d8c679b7655371519bff44df6",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005": {
-      "eligible": false,
-      "fingerprint": "0e2ff9c576bbb23883d7a9aa91d37edc69761ac84376d76296e33809d2c61e10",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "the new york times",
+        "degrees": [],
+        "locations": [
+          "new york city, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "frontend engineer intern"
+      },
+      "fingerprint": "dfbbb676295520db06197f71b31438e49904b566d253f8eba458761eb0970e8d",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005": {
-      "eligible": false,
-      "fingerprint": "66b5ae07b96266c578d7ac7390f7532a2bed2c5d1120f6310ac0254765ccfaf7",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "the new york times",
+        "degrees": [],
+        "locations": [
+          "new york city, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "android engineer intern"
+      },
+      "fingerprint": "1f2696d16bc7f3b98c4c89cc6c79b4dffdbac4c6fdc95e5b9ccdb324b0bdaa17",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005": {
-      "eligible": false,
-      "fingerprint": "c55fa951288d98cd638eb03fa8ebbcb871e9b8c889de16f9b45ecae9cc35999d",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "the new york times",
+        "degrees": [],
+        "locations": [
+          "new york city, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ios engineer intern"
+      },
+      "fingerprint": "30b497a08aa92f6037883d0ebec364314bc51e28cd8717c6c29de6c0255ca5fe",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005": {
-      "eligible": false,
-      "fingerprint": "ddea4f82b2b3bf620a4124bdd602438e1e0c8ef59cd94c7ee6b4cf822dbb6cfd",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "the new york times",
+        "degrees": [],
+        "locations": [
+          "new york city, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "backend engineer intern"
+      },
+      "fingerprint": "6a2a2ef86e7fa6222e3845efa10ed22f119a343aa9c5b19e0721c77932222635",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008": {
       "eligible": false,
@@ -36791,8 +36882,8 @@
     },
     "url:https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947": {
       "eligible": false,
-      "fingerprint": "faac3752dea61b81e3d7d4c3824d2e8f8ac2407a828ec48ee1a1d5d61fff8c37",
-      "revision": 3
+      "fingerprint": "dba0f13ea68f5114e50f573955901e60562fe20dec9b3a5a5fed796c001b574b",
+      "revision": 4
     },
     "url:https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7": {
       "eligible": false,
@@ -36806,8 +36897,8 @@
     },
     "url:https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413": {
       "eligible": false,
-      "fingerprint": "6481938a78612558e3392e3212f5bb8b80d4c8543b627c58c8b860aee42289ba",
-      "revision": 3
+      "fingerprint": "580ac7ddb3563aefaa62ce785c76de6ae9c3b8db07261eb66236e8cfb6152eb8",
+      "revision": 4
     },
     "url:https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8": {
       "eligible": false,
@@ -37131,26 +37222,9 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "pylon",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "san francisco, ca",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "adfb0f857f7befc11de92caa6526d5f3c0f0f3c98555c8e06c7733390926f590",
-      "revision": 0
+      "eligible": false,
+      "fingerprint": "522ddc2b70afd0653c0c9b18c5da8063ae49fcc4d95e9141fe33b345955207ef",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52": {
       "eligible": false,
@@ -41436,7 +41510,8 @@
         ],
         "locations": [
           "la",
-          "palo alto, ca"
+          "palo alto, ca",
+          "palo alto, ca +1"
         ],
         "requirements": [],
         "terms": [
@@ -41444,8 +41519,8 @@
         ],
         "title": "backend engineer intern"
       },
-      "fingerprint": "b351c96203a8707630a52645012771e675b0a33186f7ddaf74d23360cf2faeb1",
-      "revision": 1
+      "fingerprint": "bf587915fed388fb4b17e50505a33e647dd61f61906364db07c4b093bc59c496",
+      "revision": 2
     },
     "url:https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff": {
       "eligible": false,
@@ -41485,6 +41560,7 @@
         ],
         "locations": [
           "la",
+          "los angeles, ca +1",
           "palo alto, ca"
         ],
         "requirements": [],
@@ -41493,13 +41569,30 @@
         ],
         "title": "ios engineer intern"
       },
-      "fingerprint": "04e28d34cf623d68e9fed6ca20d6a315a1ca211b664b3c09e8984bef97b1be01",
-      "revision": 1
+      "fingerprint": "80d5ef371923ad0543c5e2d6f31925c37f59f5b610a5915b3e473c67c851793e",
+      "revision": 2
     },
     "url:https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d": {
-      "eligible": false,
-      "fingerprint": "f5c7c55dc764e4b92d56e69dc662dc79fccc0a5b6df6b468217d2dd0b5e34d47",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "tinder",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "la",
+          "los angeles, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "android engineer intern"
+      },
+      "fingerprint": "9ef718ace892fe47a4afe6176f0551b506fdf52055c35ea8255974ce95801ee7",
+      "revision": 2
     },
     "url:https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b": {
       "eligible": true,
@@ -43195,6 +43288,11 @@
       "eligible": false,
       "fingerprint": "7744b9f073f66ac97e8f17757770b81e1ceb7124752cbae8a8a61f04fe44f13e",
       "revision": 2
+    },
+    "url:https://jobs.smartrecruiters.com/boschgroup/744000160208440-motorsport-software-and-data-analytics-graduate-intern-?oga=true": {
+      "eligible": false,
+      "fingerprint": "34dd112bb6b0d907099ae9bb8eff29c5b5312617b0a2d40e8d9b0981c2943867",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/boschgroup/744000160212170": {
       "eligible": false,
@@ -56546,6 +56644,22 @@
       "fingerprint": "e95b0ce2c6daff7e56027ae6a30c9042ae0747888afa18a1844e2617a2cf3ba6",
       "revision": 1
     },
+    "url:https://studentopportunities-lutron.icims.com/jobs/5363/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lutron",
+        "degrees": [],
+        "locations": [
+          "coopersburg, pa"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "summer 2027 - embedded software engineering intern - lehigh valley - pa"
+      },
+      "fingerprint": "5ffc87b1c399cef25ca9cd26f7c167cc1cd87dd21f88cd54150082cedefa4234",
+      "revision": 1
+    },
     "url:https://studentopportunities-lutron.icims.com/jobs/5364/job": {
       "eligible": false,
       "fingerprint": "07e494b9781af9701d0cf17ca5fcb1dc4230ec468f4382b2777adcc85705ba98",
@@ -58760,6 +58874,11 @@
       "fingerprint": "60778fa7c254e8be4d40ccf4ad268eea4707ae73a6180e7ea5482f7f8243d3bc",
       "revision": 1
     },
+    "url:https://uscareers-docusign.icims.com/jobs/30509/job": {
+      "eligible": false,
+      "fingerprint": "60778fa7c254e8be4d40ccf4ad268eea4707ae73a6180e7ea5482f7f8243d3bc",
+      "revision": 1
+    },
     "url:https://uscareers-docusign.icims.com/jobs/30513/job": {
       "eligible": false,
       "fingerprint": "60778fa7c254e8be4d40ccf4ad268eea4707ae73a6180e7ea5482f7f8243d3bc",
@@ -59207,9 +59326,20 @@
       "revision": 0
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa/job/us---ashburn-va/xmlname-2027-sophomore-internship-program---software-engineer-intern--ashburn_ref089878w-1": {
-      "eligible": false,
-      "fingerprint": "e5b79ae6c6798f25323650a5c08fc4b6ccb286f78c58a3b37936a9d5bdc85911",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "visa",
+        "degrees": [],
+        "locations": [
+          "ashburn, va"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "2027 sophomore internship program - software engineer intern - ashburn"
+      },
+      "fingerprint": "33deb11bf2ad033718ce7383fdb6dec2aaae275bd74d94255b9b556a0437f6e2",
+      "revision": 1
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa/job/us---austin-tx/software-engineer--intern---2027-austin--tx_ref089918w-1": {
       "eligible": true,
@@ -59254,15 +59384,26 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "2027 sophomore internship program - software engineer intern - austin - tx - 2027"
       },
-      "fingerprint": "fe3df8ec59c1b34a36d9b3c6734615b061e4bb387c68c230f8ec8edd0eb90782",
-      "revision": 0
+      "fingerprint": "4cfbca5754dd9de212e34e898bc8348140341095626b527fc6ccec6935218cb8",
+      "revision": 1
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa/job/us---bellevue-wa/xmlname-2027-sophomore-internship-program---software-engineer-intern--bellevue_ref089920w-2": {
-      "eligible": false,
-      "fingerprint": "44fa9274e2505933f009f087ce36c849d1bdeaf356ef2044151a4179b69757d8",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "visa",
+        "degrees": [],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "2027 sophomore internship program - software engineer intern - bellevue"
+      },
+      "fingerprint": "fd3f141a6c78acb819f0e8144b20f9c90209f6c0cdcd5d3aa0c7a58cd7cadbcd",
+      "revision": 1
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa/job/us---denver-co/xmlname-2027-sophomore-internship-program---software-engineer-intern--highlands-ranch_ref089880w-1": {
       "eligible": true,
@@ -59328,9 +59469,20 @@
       "revision": 0
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa/job/us---foster-city-ca/software-engineer--intern---foster-city-2027_ref089875w-1": {
-      "eligible": false,
-      "fingerprint": "007d4d17c9bdd16f85c1b5d247085b8fbabf41d1f968a877f25e293ba59aeca5",
-      "revision": 2
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "visa",
+        "degrees": [],
+        "locations": [
+          "foster city, ca"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "software engineer - intern - foster city 2027"
+      },
+      "fingerprint": "fc83e0afae2b4ce52ad9a798a6cd6bb4c79d625c045387780dc68e08629bfdea",
+      "revision": 3
     },
     "url:https://visa.wd5.myworkdayjobs.com/visa/job/us---foster-city-ca/staff-research-scientist--intern---phd-foundational-ai_ref088579w-1": {
       "eligible": false,
@@ -62068,8 +62220,8 @@
     },
     "url:https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786": {
       "eligible": false,
-      "fingerprint": "fc4c1c65b21572fd19f175c465f8d4a3f1251ab9d6d8e5d1acae23320ddd4e50",
-      "revision": 2
+      "fingerprint": "012ee6a806226facf434c962a7442e3aeebca2e4eb38b72f93f740f1f0e6e1e0",
+      "revision": 3
     },
     "url:https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern": {
       "eligible": false,
@@ -65463,7 +65615,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 214,
+  "scan_sequence": 215,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
