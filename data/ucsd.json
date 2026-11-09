@@ -327,6 +327,11 @@
       "fingerprint": "712b7181b233a9d6f4cf7109160312307ae0c42bae93548a1765f4a61c325bb4",
       "revision": 0
     },
+    "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/bucharest/xmlname-2027-intern--security-engineer_r172468": {
+      "eligible": false,
+      "fingerprint": "18073091dc6b08123344799e258efd619ce3224194236561f79cb2ad8aff41ed",
+      "revision": 1
+    },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/bucharest/xmlname-2027-intern--software-engineer_r173018": {
       "eligible": false,
       "fingerprint": "cd1abb3eb121d2ed922c37a393c4478ab46fe25f0899f442ae8dc8427d3e78c3",
@@ -2759,10 +2764,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - coreai"
+        "title": "software engineer intern, coreai"
       },
-      "fingerprint": "32bf1d9102086bd88c17f105af090de6aae4d242024af1aee09a15b93644d332",
-      "revision": 2
+      "fingerprint": "3f50cafa5d7841e3eb9bcc97923d883e0ae3f13755b72f9cd82422b5d58a99aa",
+      "revision": 3
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393556982928": {
       "eligible": false,
@@ -44042,6 +44047,16 @@
       "fingerprint": "9e29d2bf69d12bc575e16773d63273c7b3e7a9c6c89e94bf7f5c930bcd211192",
       "revision": 0
     },
+    "url:https://jobs.smartrecruiters.com/redbull/744000160572014": {
+      "eligible": false,
+      "fingerprint": "972f71d6440013ca55b43d924267dee764a21ad5df352a8f69a5fa6bf88f624f",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/redbull/744000160572389": {
+      "eligible": false,
+      "fingerprint": "da49162c51a8b0854af79c9a25702b8ee5c3dfa02f75d422114b3da17b34afed",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/redwingshoecompany/744000159979648": {
       "eligible": true,
       "evidence": {
@@ -48825,6 +48840,11 @@
     "url:https://lifeattiktok.com/search/7704981006856145205": {
       "eligible": false,
       "fingerprint": "e4a87eed919afa57c21662c612238c43914b0ad1c2179d52816185ab8d7986d8",
+      "revision": 1
+    },
+    "url:https://lifeattiktok.com/search/7704986879082907909": {
+      "eligible": false,
+      "fingerprint": "134091277c189bceba7da32e92b5be8d6e25703c883027db0f8629f72f9dbbc5",
       "revision": 1
     },
     "url:https://lifeattiktok.com/search/7705012688944810245": {
@@ -65883,7 +65903,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 226,
+  "scan_sequence": 227,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
