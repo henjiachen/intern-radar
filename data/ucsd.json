@@ -7736,10 +7736,10 @@
           "summer 2027",
           "winter 2026"
         ],
-        "title": "software engineering intern"
+        "title": "software engineering intern - year-round"
       },
-      "fingerprint": "887a1ab55340939bb27afd562e12f90b23bf02a7e50bfb24722649337ff8201b",
-      "revision": 2
+      "fingerprint": "3dcd11b934798aea3ba6d3699112f0798ad612d96f081b08fa73f002c2f608e4",
+      "revision": 3
     },
     "url:https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/auburn-hills---michigan---usa/software-test-intern_r2026-4385-1": {
       "eligible": true,
@@ -7791,8 +7791,8 @@
     },
     "url:https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/us-ma---framingham/embedded-software-engineer-co-op----audio-tech_r29278": {
       "eligible": false,
-      "fingerprint": "43effeba9048a15551a78374ae0211a65e30b3f0b3dea4924761ba8a8376d526",
-      "revision": 0
+      "fingerprint": "5914d1655c34a574857002a7704ccc54f5cc3f59392b42ac7b78d2fcf2934174",
+      "revision": 1
     },
     "url:https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/us-ma---framingham/software-dsp-research-engineer-co-op_r29369": {
       "eligible": false,
@@ -8283,8 +8283,8 @@
     },
     "url:https://caci.wd1.myworkdayjobs.com/external/job/danbury-ct-us/embedded-software-engineering-co-op---spring-2027_331368": {
       "eligible": false,
-      "fingerprint": "d38523a15d8b90df1d75693634097259ba47edf89a39b2923324dad22a10d51f",
-      "revision": 0
+      "fingerprint": "51dd0c21a71518cbab57c6c6ae0e4059fa9c5746dd5c83647617f0cecdc7b842",
+      "revision": 1
     },
     "url:https://caci.wd1.myworkdayjobs.com/external/job/danbury-ct-us/software-engineering-co-op---summer---fall-2027_331354": {
       "eligible": false,
@@ -11782,6 +11782,24 @@
       "eligible": false,
       "fingerprint": "834500d7b280d89bdfe8f6dfe1fe7110ed79c4bd3680ab72252cb213b1368238",
       "revision": 0
+    },
+    "url:https://careers.jhuapl.edu/jobs/60673": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "johns hopkins apl",
+        "degrees": [],
+        "locations": [
+          "laurel, md"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "artificial intelligence intern, information fusion"
+      },
+      "fingerprint": "f73cf2ee4a4c1243a216f4915d702b5c0e83e7ef532c7db5ecca1d5710ee7f5d",
+      "revision": 1
     },
     "url:https://careers.jhuapl.edu/jobs/60742?icims=1": {
       "eligible": false,
@@ -20584,24 +20602,23 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "general dynamics information technology",
+        "company": "gdit",
         "degrees": [
           "associate's",
           "bachelor's",
           "master's"
         ],
         "locations": [
-          "egg harbor township, nj",
           "usa"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software developer intern"
+        "title": "gdit summer internship program-summer 2027 software development internship -egg harbor township new jersey"
       },
-      "fingerprint": "0d219761f92d42b22ec0c7b6dbfe143b88b0486f66fc9d8dd3165d8fa042bafd",
-      "revision": 0
+      "fingerprint": "6866488c8ce21c6d126ff1641524bc94576d3236b1399f741232b191a49e8716",
+      "revision": 1
     },
     "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-va-falls-church/financial-data-analyst-intern--seasonal-_rq230761": {
       "eligible": true,
@@ -23590,23 +23607,9 @@
       "revision": 0
     },
     "url:https://go.vansh.nyc/8o": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "soti",
-        "degrees": [],
-        "locations": [
-          "mississauga, on",
-          "rochester, mn"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software developer intern, soti mobicontrol apple hq"
-      },
-      "fingerprint": "9a38f8a4c9069c7c616bfb81324d7cba3e1bd3c35dad44e150da1e8aa2b94ce0",
-      "revision": 0
+      "eligible": false,
+      "fingerprint": "2b13ef83735d907c70f2d454bc25ef82b1736c6657ea5344b95b324bafeb7ce2",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/8u": {
       "eligible": true,
@@ -24172,7 +24175,6 @@
         "locations": [
           "eden prairie, mn",
           "new york, ny",
-          "ottawa, canada",
           "vancouver, canada"
         ],
         "requirements": [],
@@ -24181,8 +24183,8 @@
         ],
         "title": "software engineering intern, applications"
       },
-      "fingerprint": "2da18019f422625bf25466f43c97d21f69184917a7ba5a2477c0846897a54e13",
-      "revision": 0
+      "fingerprint": "16476168cd4f677c03f87b85d8dc4c13653276631753579138d0dc05241c0eec",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/gw": {
       "eligible": false,
@@ -27706,47 +27708,14 @@
       "revision": 1
     },
     "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/sunnyvale-california-united-states-of-america/firmware-engineering-intern_1214254": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "hewlett packard enterprise",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "sunnyvale, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "firmware engineer intern"
-      },
-      "fingerprint": "1eba1b3df902851360b33c90564a45c18802d9a7bd0c8a93688d3cee857c6bb6",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "0d48f45b3c35dd708aa5dec73e2b83ee429270c6a6eeaf3f80f16cf58043ee1a",
+      "revision": 2
     },
     "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/sunnyvale-california-united-states-of-america/software-engineering-intern_1214146": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "hewlett packard enterprise",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "sunnyvale, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "add788d381dc92bf1bb1c57de84c2c9a1527b0effc665e263fe4ffb6fc2c11e6",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "5f2a96c91a654d9416d1c85f2d8eb15437092214f3b583fbb96d4128cd1c7961",
+      "revision": 3
     },
     "url:https://hubcareers-docusign.icims.com/jobs/30578/job": {
       "eligible": true,
@@ -30528,28 +30497,9 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/astranis/jobs/4705597006": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "astranis",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "san francisco",
-          "sf"
-        ],
-        "requirements": [
-          "as an intern, you will have an amazing opportunity to work on hard problems \u2014 we pride ourselves on giving everyone at astranis a chance to do meaningful work on challenging projects, no matter their seniority. many past interns have designed and tested hardware/software that is heading to space on our first satellite, and many of them are now full-time employees at astranis.",
-          "mission applications intern (summer 2027)"
-        ],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "mission applications intern (summer 2027)"
-      },
-      "fingerprint": "cf91328403e897ac49dff34c9577b74a59aaefe1fe77caee64626fd2d98b37a6",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "fb69af2bf56869733f054eeb2dbc3dda2a90546ea0914c5fcd36380f1863f0c8",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/astranis/jobs/4705610006": {
       "eligible": true,
@@ -38850,6 +38800,24 @@
       "fingerprint": "c7767e21768ca50026793c6a061382c364c8ba05577016a9d815ca546c4c9560",
       "revision": 0
     },
+    "url:https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "uipath",
+        "degrees": [],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "312794f19fc98452ddc106a005faf9dd69fa3618bfb941e99b9e00a5164460e1",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae": {
       "eligible": false,
       "fingerprint": "03d4d963ae253b685e9e2dffb1ce11762eb5e94ed1a4953d562dd451cecee29b",
@@ -44245,6 +44213,24 @@
       "fingerprint": "65683715b38983895a3f0b3e35d279010a8fdb1cc4fa28588e066214a28cfd30",
       "revision": 1
     },
+    "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160680539": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nbcuniversal",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern, advertising & partnerships"
+      },
+      "fingerprint": "2e13d7e09ffbfa9394e1c1f02803f12bc0551eb0654a0cee686baad2a14516e9",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/paconsulting/744000155685700": {
       "eligible": false,
       "fingerprint": "db3d54da19f5d2dbed13f6d9ce377415ec0ba8791f8f46882bc995dc09b0854d",
@@ -46372,10 +46358,7 @@
           "bachelor's"
         ],
         "locations": [
-          "odenton, md",
-          "remote - odenton, md +1",
-          "remote in usa",
-          "shiloh, il"
+          "remote - odenton, md +1"
         ],
         "requirements": [],
         "terms": [
@@ -46383,8 +46366,8 @@
         ],
         "title": "software engineering & ai intern"
       },
-      "fingerprint": "27e6430191cb9ea66ed0ec4b5d76613f840757643e5a8ee89fe3920ae365d23d",
-      "revision": 4
+      "fingerprint": "af261abaaac3e44e898e1b65755aca485bacc412832318beaba19cba78f4d74a",
+      "revision": 5
     },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/annapolis-junction-md/software-developer-intern_r-00195829": {
       "eligible": true,
@@ -56049,14 +56032,50 @@
       "revision": 1
     },
     "url:https://seatgeek.com/jobs/8227553?gh_jid=8227553": {
-      "eligible": false,
-      "fingerprint": "308352c68d15e239ced1e06ea1d283c046d56b1121f846994703e1b1baa55d3c",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "seatgeek",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "new york city, ny",
+          "new york, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "summer 2028"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "a4cc345be5e8a377ce8ddd5c37887c261a59b279949ae39a128640afb2472855",
+      "revision": 1
     },
     "url:https://seatgeek.com/jobs/8247554?gh_jid=8247554": {
       "eligible": false,
       "fingerprint": "bf5caadcd33c95214630b82dd2b5b1147d45df37dd2997d6da5fe61eeccaa35c",
       "revision": 0
+    },
+    "url:https://seatgeek.com/jobs/8248151?gh_jid=8248151": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "seatgeek",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "security engineer intern"
+      },
+      "fingerprint": "577084b00003ccff6f1005dbf855450daad2f87ca868276ec7138a7028fefc54",
+      "revision": 1
     },
     "url:https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-excellence-way-plano-tx-usa/business-intelligence---data-analytics-intern_r121949": {
       "eligible": false,
@@ -56106,25 +56125,9 @@
       "revision": 0
     },
     "url:https://selinc.wd1.myworkdayjobs.com/sel/job/north-carolina---charlotte/engineering-intern_2026-23468": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "schweitzer engineering laboratories",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "charlotte, nc"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "38f4cbbd9c8f0ec0dd91df0b1c64d71d72dad6dacf718d7aa0122a89367e77f3",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "4c6004b49f78a3c3438378eeba715f6e13b68c958f907bac951db16784192b9b",
+      "revision": 3
     },
     "url:https://selinc.wd1.myworkdayjobs.com/sel/job/washington---pullman/software-engineer-intern_2026-23816": {
       "eligible": false,
@@ -56252,8 +56255,8 @@
     },
     "url:https://simon.wd1.myworkdayjobs.com/simon/job/indianapolis-in/intern---front-end-developer--computer-science--web-development--or-information-sciences-majors-_r13975": {
       "eligible": false,
-      "fingerprint": "8151bd7453f6916315637af42ea9aa1e49f4ecff75ad59d53bcd4b92ac44370a",
-      "revision": 2
+      "fingerprint": "a2f3ffc72c12883f2a09da3bd198c0f0e42f3336ea644b6ca7c384a6d6be0abf",
+      "revision": 3
     },
     "url:https://simoncomputing.applicantpro.com/jobs/4115690": {
       "eligible": true,
@@ -56585,10 +56588,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - partner engineering"
+        "title": "software partner engineering intern - boston"
       },
-      "fingerprint": "1d05c43aca7431a163f8e2231763c20ca65653370669e15cc8ae5852a62aecdf",
-      "revision": 0
+      "fingerprint": "9725de4e71878399f14889057d8e3b624a3c0dc5baa0b58cf436b87f954d3c26",
+      "revision": 1
     },
     "url:https://sonos.wd1.myworkdayjobs.com/sonos/job/seattle-wa/data-engineering-intern--seattle-_r2897-1": {
       "eligible": false,
@@ -56931,6 +56934,11 @@
       "eligible": false,
       "fingerprint": "26ab4aea886d5f667a095d4755cc514ca57477ccd16993ac0cc5140fe46f5eaa",
       "revision": 0
+    },
+    "url:https://stripe.com/jobs/search?gh_jid=8194283": {
+      "eligible": false,
+      "fingerprint": "e9245f27f8a749d795b29d30a26c6da79bef6cff88a0a7fce5f400ab8296125e",
+      "revision": 1
     },
     "url:https://stripe.com/jobs/search?gh_jid=8241260": {
       "eligible": false,
@@ -63890,6 +63898,24 @@
       "eligible": false,
       "fingerprint": "2acf46c373c63a2c6015de573c47bb80d5a2c85e80c7af290b6860c4fff880ff",
       "revision": 0
+    },
+    "url:https://zoetis.wd5.myworkdayjobs.com/zoetis/job/parsippany/ai-assistant-development-intern_jr00022012-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "zoetis",
+        "degrees": [],
+        "locations": [
+          "parsippany, nj"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai assistant development intern"
+      },
+      "fingerprint": "66a98f9f035e176b66761e1e4add7f902b14fdb86c0650d8abccc9ff3778619e",
+      "revision": 1
     }
   },
   "link_checks": {
@@ -64434,6 +64460,11 @@
     "https://go.vansh.nyc/1oD": 232,
     "https://go.vansh.nyc/1oE": 232,
     "https://go.vansh.nyc/1oI": 232,
+    "https://go.vansh.nyc/1oN": 233,
+    "https://go.vansh.nyc/1oO": 233,
+    "https://go.vansh.nyc/1oP": 233,
+    "https://go.vansh.nyc/1oQ": 233,
+    "https://go.vansh.nyc/1oZ": 233,
     "https://go.vansh.nyc/1oa": 226,
     "https://go.vansh.nyc/1ob": 226,
     "https://go.vansh.nyc/1od": 226,
@@ -64446,6 +64477,7 @@
     "https://go.vansh.nyc/1ot": 231,
     "https://go.vansh.nyc/1ou": 231,
     "https://go.vansh.nyc/1ov": 231,
+    "https://go.vansh.nyc/1p0": 233,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -65643,6 +65675,11 @@
     "https://go.vansh.nyc/1oD": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935",
     "https://go.vansh.nyc/1oE": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767",
     "https://go.vansh.nyc/1oI": "https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871",
+    "https://go.vansh.nyc/1oN": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04",
+    "https://go.vansh.nyc/1oO": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160680539",
+    "https://go.vansh.nyc/1oP": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/AI-Assistant-Development-Intern_JR00022012-1",
+    "https://go.vansh.nyc/1oQ": "https://careers.jhuapl.edu/jobs/60673",
+    "https://go.vansh.nyc/1oZ": "https://seatgeek.com/jobs/8248151?gh_jid=8248151",
     "https://go.vansh.nyc/1oa": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637",
     "https://go.vansh.nyc/1ob": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634",
     "https://go.vansh.nyc/1od": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
@@ -65655,6 +65692,7 @@
     "https://go.vansh.nyc/1ot": "https://job-boards.greenhouse.io/sharpelectronics/jobs/4482958009",
     "https://go.vansh.nyc/1ou": "https://mt.avature.net/en_US/careers/JobDetail/23080",
     "https://go.vansh.nyc/1ov": "https://jobs.lever.co/CesiumAstro/e3abc815-107d-4206-8a83-dd02932e2361",
+    "https://go.vansh.nyc/1p0": "https://seatgeek.com/jobs/8227553?gh_jid=8227553",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -66311,7 +66349,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 232,
+  "scan_sequence": 233,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
