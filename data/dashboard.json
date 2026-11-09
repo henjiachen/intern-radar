@@ -3473,6 +3473,21 @@
       "company": "Astera Labs",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "6822d8728a4badc9235d3bc1dc10904639cf88165a356b6c1cefc03c0e669b2b",
+      "locations": [
+        "Vancouver, Canada"
+      ],
+      "posted_at": "2026-10-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Firmware Engineer Intern",
+      "url": "https://go.vansh.nyc/1of"
+    },
+    {
+      "company": "Astera Labs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "fb55261652956181cede2d5465dfe4c76f6a2b7d0b13441d967de2dccc2b8c28",
       "locations": [
         "San Jose, CA"
@@ -6320,21 +6335,6 @@
       "company": "CACI",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "1107fef0e3ef3a52bd2e4d430a9b1ff0d8e729bdf05bd8f0dbebe7c530c1b4d1",
-      "locations": [
-        "Danbury, CT"
-      ],
-      "posted_at": "2026-09-01",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Embedded Software Engineer Co-op",
-      "url": "https://go.vansh.nyc/Lu"
-    },
-    {
-      "company": "CACI",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "83a4e50626aab0917c4f3477314b274f5426aa87c8ba6ac21d28d9fd9ca4fefe",
       "locations": [
         "Ashburn, VA"
@@ -6377,21 +6377,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999"
-    },
-    {
-      "company": "CACI",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "25eccc1185e9eac97551feac52e028b3fb30acc81326a200e41c9cb9a4e45600",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "posted_at": "2026-10-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Co-op",
-      "url": "https://go.vansh.nyc/YV"
     },
     {
       "company": "CACI",
@@ -15783,10 +15768,10 @@
       "locations": [
         "Boston, MA"
       ],
-      "posted_at": "2026-09-12",
+      "posted_at": "2026-09-13",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "speedyapply",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
     },
@@ -18079,6 +18064,66 @@
       "source": "simplify",
       "title": "Summer Associate Intern - Business Intelligence & Data Analytics",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32107"
+    },
+    {
+      "company": "NBCUniversal",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "72066f82ec55a90ecc7b439c93b744ebdf2f17867a13d77d917544d1bd6dda39",
+      "locations": [
+        "Universal City, CA"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data, AI & Machine Learning Intern, Media Tech",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935"
+    },
+    {
+      "company": "NBCUniversal",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a5a2ee4781281375fbffd9920cb6724ce743ce253fe990b342cbe62e316eb9ef",
+      "locations": [
+        "New York, NY"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data, AI & Machine Learning Intern, Media Tech",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767"
+    },
+    {
+      "company": "NBCUniversal",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ecfc5ff440071461fd08e35fcf4e702c477c45d29ec6c70debb95f17e9c6b609",
+      "locations": [
+        "New York, NY"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459"
+    },
+    {
+      "company": "NBCUniversal",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5e56d3ff230d1c96d8735b2468620ca134d48278cd5d9886be9640be1513da2b",
+      "locations": [
+        "Universal City, CA"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659379"
     },
     {
       "company": "NCR Atleos",
@@ -21161,6 +21206,21 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Microservice Developer",
       "url": "https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8580"
+    },
+    {
+      "company": "Riot Games",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "3c9daacd557ba7eeec52f9ad42f7f59dd055929d3f56cb459d62f47fd9ad2569",
+      "locations": [
+        "LA"
+      ],
+      "posted_at": "2026-10-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014"
     },
     {
       "company": "Rippling",
@@ -27283,6 +27343,21 @@
       "url": "https://careers.trccompanies.com/jobs/27074?icims=1"
     },
     {
+      "company": "tri",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "6db3897ea886d63c5dceab1b1b82c4840de72e1bf748c5eff0a1861175c5bf5c",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Robotics Intern, Teleoperation and Spatial Computing",
+      "url": "https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871"
+    },
+    {
       "company": "Tria Federal",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29604,7 +29679,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-09T16:18:36.927123+00:00",
+  "last_checked": "2026-11-09T18:05:18.527480+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

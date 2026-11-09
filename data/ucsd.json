@@ -23345,13 +23345,42 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/1of": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "astera labs",
+        "degrees": [],
+        "locations": [
+          "universal city, ca",
+          "vancouver, canada"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "firmware engineer intern"
+      },
+      "fingerprint": "da8a14080c5c3cbe41c12b0f704afd1ae03666b5b4f396d5d5687d89ad23bebd",
+      "revision": 2
+    },
+    "url:https://go.vansh.nyc/1og": {
       "eligible": false,
-      "fingerprint": "ef94737b57a66cb4169d37a933574441eac287cc8341327144b09cb2961f9b12",
+      "fingerprint": "776506184e49f989c82596c67cc43687c8df5a9ab4eee1f4a2411367168870d4",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1oj": {
+      "eligible": false,
+      "fingerprint": "ab92a4930277ae49a3176a4ffd1be32f2f93cc9804fd99bbea81d3fadab04a6a",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1ol": {
       "eligible": false,
       "fingerprint": "8352da9d00a1a58bad3d71c5448bb95fa1be4d797c06c1417a043895b14492b2",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1oz": {
+      "eligible": false,
+      "fingerprint": "8e361dfa9d004a0ab8b4a3820f08d18b3c6ce2727fd2beffef609e2336ba9003",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1s": {
@@ -42761,6 +42790,24 @@
       "fingerprint": "8e4cb2e5f43a87e5dd4b40482c8e03e9d8a4df922cab8d33661b78f19bfd74f8",
       "revision": 2
     },
+    "url:https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tri",
+        "degrees": [],
+        "locations": [
+          "cambridge, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "robotics intern, teleoperation and spatial computing"
+      },
+      "fingerprint": "691ec7d1ea60945081b9fd036bd814d8dd5180b0a399c27b0050502bfbef334c",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4": {
       "eligible": false,
       "fingerprint": "8536c2b73bf6f8f689abbeb896153c0028f892ab2b8e8d8580ce68670006b868",
@@ -43894,8 +43941,7 @@
           "bachelor's"
         ],
         "locations": [
-          "mountain view, ca",
-          "mountain view, ca, united states"
+          "mountain view, ca"
         ],
         "requirements": [],
         "terms": [
@@ -43903,8 +43949,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "0cfaabdedb72cad494ee30a63a07cf45a1efc69779aa32f37d22a93397cfc91a",
-      "revision": 0
+      "fingerprint": "de887dfda3f48451f1713782e649db1cae2e02fdcfbeb8e52daddd07a6f510aa",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/linkedin3/744000158394370": {
       "eligible": true,
@@ -44126,6 +44172,78 @@
       "eligible": false,
       "fingerprint": "c19ecf745c69afd6cb6c3fe6405518623b2352934b6d704f2835b1fe14943613",
       "revision": 0
+    },
+    "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160649935": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nbcuniversal",
+        "degrees": [],
+        "locations": [
+          "universal city, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data, ai & machine learning intern, media tech"
+      },
+      "fingerprint": "1229cc57ed848c99535e23b4e8a0f1b314298332ef6a3813c50350e20f6a09ce",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160650767": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nbcuniversal",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data, ai & machine learning intern, media tech"
+      },
+      "fingerprint": "756fbecb1a5addb93854153914299dd5e54315357fb8dc58bdca6638fa152575",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160659379": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nbcuniversal",
+        "degrees": [],
+        "locations": [
+          "universal city, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "3df9994f9fe89ccf377aa58bbd4a8fba22e834896b3d344f421504e8c3db1a29",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160659459": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nbcuniversal",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "65683715b38983895a3f0b3e35d279010a8fdb1cc4fa28588e066214a28cfd30",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/paconsulting/744000155685700": {
       "eligible": false,
@@ -62559,9 +62677,25 @@
       "revision": 0
     },
     "url:https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014": {
-      "eligible": false,
-      "fingerprint": "b4a7cf4e1ae05f1261c953708ce6c62bb52d77a75e37c46e7e1160027d192487",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "riot games",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "la",
+          "los angeles, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "36df0d766b2163367b48212eefb992f8b19cc15d1ed47fd7408bc84889fdff94",
+      "revision": 1
     },
     "url:https://www.riverlane.com/jobs?gh_jid=5000786101": {
       "eligible": false,
@@ -64295,6 +64429,11 @@
     "https://go.vansh.nyc/1o3": 226,
     "https://go.vansh.nyc/1o4": 226,
     "https://go.vansh.nyc/1o8": 226,
+    "https://go.vansh.nyc/1oA": 232,
+    "https://go.vansh.nyc/1oB": 232,
+    "https://go.vansh.nyc/1oD": 232,
+    "https://go.vansh.nyc/1oE": 232,
+    "https://go.vansh.nyc/1oI": 232,
     "https://go.vansh.nyc/1oa": 226,
     "https://go.vansh.nyc/1ob": 226,
     "https://go.vansh.nyc/1od": 226,
@@ -65499,6 +65638,11 @@
     "https://go.vansh.nyc/1o3": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
     "https://go.vansh.nyc/1o4": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957",
     "https://go.vansh.nyc/1o8": "https://jobs.smartrecruiters.com/WellmarkInc/744000152679699",
+    "https://go.vansh.nyc/1oA": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459",
+    "https://go.vansh.nyc/1oB": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659379",
+    "https://go.vansh.nyc/1oD": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935",
+    "https://go.vansh.nyc/1oE": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767",
+    "https://go.vansh.nyc/1oI": "https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871",
     "https://go.vansh.nyc/1oa": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637",
     "https://go.vansh.nyc/1ob": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634",
     "https://go.vansh.nyc/1od": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
@@ -66167,7 +66311,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 231,
+  "scan_sequence": 232,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
