@@ -6486,6 +6486,21 @@
       "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356"
     },
     {
+      "company": "Carnegie Mellon University",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "8da40a7758a4dce7c06e95721721d0530b86702c1ec0f983488971c8de2e42af",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Advanced Computing Lab Intern",
+      "url": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336"
+    },
+    {
       "company": "Cboe",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -11929,21 +11944,6 @@
       "source": "simplify",
       "title": "Summer Intern - Digital & Technology - AI & Machine Learning",
       "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205"
-    },
-    {
-      "company": "GuidePoint Security",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "0df0f37cf678c2fe87be43d6a7735a8481cf85bcd7947abf5b2a5240f1645582",
-      "locations": [
-        "Remote in USA"
-      ],
-      "posted_at": "2026-10-08",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI & Data Science Intern - GPSU",
-      "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004"
     },
     {
       "company": "GuideStone",
@@ -19839,6 +19839,22 @@
       "url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007"
     },
     {
+      "company": "Persona AI",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "e92bfd110c7167295cdd7285c4a10d4f2d7c44518ba81d51c27c0095b7bb4df5",
+      "locations": [
+        "Pensacola, FL",
+        "Houston, TX"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Humanoid Robotics Software Intern",
+      "url": "https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb"
+    },
+    {
       "company": "Philips",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -20821,21 +20837,6 @@
       "source": "vanshb03",
       "title": "Genomics, Computational Biology & Translational Data Science Intern",
       "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Genomics--Computational-Biology---Translational-Data-Science_R52557-1"
-    },
-    {
-      "company": "Regeneron Pharmaceuticals",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "2fd1f2de791b12fd4cc7a9959774f301ce10661f9b9bee50f2a17286c0a61706",
-      "locations": [
-        "Rensselaer, NY"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "IT and Systems Intern - Industrial Operations and Product Supply",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822"
     },
     {
       "company": "Relay",
@@ -29478,6 +29479,23 @@
       "company": "Zoetis",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "d64c065a900e7aa059b27b738aebe619e3a675148aa4a2ee8bb1827e4685c278",
+      "locations": [
+        "Remote",
+        "United States",
+        "Kalamazoo, MI"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Architecture, Enablement & Tools Intern, AI Capabilities",
+      "url": "https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016-1"
+    },
+    {
+      "company": "Zoetis",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "e1dcb70beac476ada9b8649157048d63d063da6a7931a4193f12a7ae69d2cd26",
       "locations": [
         "Parsippany, NJ"
@@ -29581,7 +29599,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-09T21:05:56.424502+00:00",
+  "last_checked": "2026-11-09T22:00:04.166447+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

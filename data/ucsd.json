@@ -7390,27 +7390,9 @@
       "revision": 1
     },
     "url:https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "guidepoint security",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "remote",
-          "remote in usa",
-          "united states"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "ai & data science intern - gpsu"
-      },
-      "fingerprint": "f5ca1a4ae1fcf7f7b9ff203a1420f97bbb7d49a7aeda155e76b16c797f87bc40",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "82b8c2cd4c69083fbd2d118201052ed0350dc6ab7e028266ceb1cb1a320c59ed",
+      "revision": 2
     },
     "url:https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003": {
       "eligible": false,
@@ -11160,6 +11142,11 @@
       "eligible": false,
       "fingerprint": "3f54f9e7fe888c279d123c91f934cac9f480aa81df73c1b6eb9bed4926951b53",
       "revision": 0
+    },
+    "url:https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002": {
+      "eligible": false,
+      "fingerprint": "77f4312dde5804c643f82aa91098ffa08af9f4141162e7e2be5d1575fab752c3",
+      "revision": 1
     },
     "url:https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002": {
       "eligible": false,
@@ -15056,6 +15043,24 @@
       "eligible": false,
       "fingerprint": "9c7e752ba64f5c17aa87d75b548ed3450484ec4a8bece0c47f3d7aab079baf3b",
       "revision": 0
+    },
+    "url:https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/advanced-computing-lab-intern---summer-2027-_2025336": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "carnegie mellon university",
+        "degrees": [],
+        "locations": [
+          "pittsburgh, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "advanced computing lab intern"
+      },
+      "fingerprint": "a13f1fd917bae92a15cba7832cf4d320d06e1a9c16530e8a53ee7d3bcef1ef34",
+      "revision": 1
     },
     "url:https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/full-stack-software-development-intern_2025287-1": {
       "eligible": false,
@@ -23410,6 +23415,16 @@
       "fingerprint": "c671f390a68873be4b2cd3c262ba185bfc909ca9f8cbe7ca74aec46029c65a25",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1pa": {
+      "eligible": false,
+      "fingerprint": "5bafe9ae3ffca26ae0294b19a6755cc98492c2adcee2b2577bbaaa4bba459f44",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1pf": {
+      "eligible": false,
+      "fingerprint": "92e2192dfeff2b5920d7b61189e8c4648804533cb58bbc528ab81003cbcd80ad",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1s": {
       "eligible": false,
       "fingerprint": "1ca6ea592089ef650490445a1155058bf02664e874a9ee67ba8198d3620f575e",
@@ -27719,8 +27734,8 @@
     },
     "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/sunnyvale-california-united-states-of-america/firmware-engineering-intern_1214254": {
       "eligible": false,
-      "fingerprint": "0d48f45b3c35dd708aa5dec73e2b83ee429270c6a6eeaf3f80f16cf58043ee1a",
-      "revision": 2
+      "fingerprint": "541a5ea356d6df01b0a4bdc0b112756664aadd1e826a111c907fce787bdab686",
+      "revision": 3
     },
     "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/sunnyvale-california-united-states-of-america/software-engineering-intern_1214146": {
       "eligible": false,
@@ -36645,6 +36660,21 @@
       "fingerprint": "73b32a7b25865a675a49ca9e9f1074ee4d879f3e9834f0cc38bbe3e23cddb64b",
       "revision": 0
     },
+    "url:https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d": {
+      "eligible": false,
+      "fingerprint": "0f5cf4de0752e27719de6f18f0006cb9dbf8cc6f7476f424990f783105dc0833",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7": {
+      "eligible": false,
+      "fingerprint": "0f92c5dc6b7d4dc8efe22a7ed664dbf615959b5add90cc672d8c8678948f9800",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf": {
+      "eligible": false,
+      "fingerprint": "7127b3211a6c1e64232b0b31fbeced8abf859dac55a5d527f891cdbc869b8f8d",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c": {
       "eligible": false,
       "fingerprint": "03a4f1b1ad1801d871a557e4c1b927672550e10e05ab8ccd4f48d510874de33b",
@@ -37456,6 +37486,25 @@
         "title": "robotics software internship - manipulation"
       },
       "fingerprint": "a757bd9f36ffd23b5b5d649b2608b1a67a7fd02d5ab85fc700f5b1a3b76df8de",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "persona ai",
+        "degrees": [],
+        "locations": [
+          "houston, tx",
+          "pensacola, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "humanoid robotics software intern"
+      },
+      "fingerprint": "72a1a54bfd48a776648e32ad67c3b36e5f58088af8ac0a369c5523137033c371",
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630": {
@@ -63909,6 +63958,26 @@
       "fingerprint": "81926926f7712f6f8436024efb115941e8b2e817a08a17786577226dc317f6d5",
       "revision": 0
     },
+    "url:https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/us-remote/ai-capabilities-intern---ai-architecture--enablement---tools_jr00022016-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "zoetis",
+        "degrees": [],
+        "locations": [
+          "kalamazoo, mi",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai architecture, enablement & tools intern, ai capabilities"
+      },
+      "fingerprint": "e5318cfc664ad83478d5f3727d0e0c5fad4c52d123ee92f3c32f8d53e770ea94",
+      "revision": 1
+    },
     "url:https://zoetis.wd5.myworkdayjobs.com/zoetis/job/kalamazoo---downtown-portage-street/chemistry-data-science-intern---digital-cmc-workflows_jr00021822-2": {
       "eligible": false,
       "fingerprint": "2acf46c373c63a2c6015de573c47bb80d5a2c85e80c7af290b6860c4fff880ff",
@@ -64493,6 +64562,9 @@
     "https://go.vansh.nyc/1ou": 231,
     "https://go.vansh.nyc/1ov": 231,
     "https://go.vansh.nyc/1p0": 233,
+    "https://go.vansh.nyc/1p9": 236,
+    "https://go.vansh.nyc/1pb": 236,
+    "https://go.vansh.nyc/1ph": 236,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -65708,6 +65780,9 @@
     "https://go.vansh.nyc/1ou": "https://mt.avature.net/en_US/careers/JobDetail/23080",
     "https://go.vansh.nyc/1ov": "https://jobs.lever.co/CesiumAstro/e3abc815-107d-4206-8a83-dd02932e2361",
     "https://go.vansh.nyc/1p0": "https://seatgeek.com/jobs/8227553?gh_jid=8227553",
+    "https://go.vansh.nyc/1p9": "https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb",
+    "https://go.vansh.nyc/1pb": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336",
+    "https://go.vansh.nyc/1ph": "https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016-1",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -66364,7 +66439,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 235,
+  "scan_sequence": 236,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
