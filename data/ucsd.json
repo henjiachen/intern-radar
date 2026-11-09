@@ -4016,9 +4016,26 @@
       "revision": 0
     },
     "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/usa-home-office---wr/linux-software-development-intern_j000704399": {
-      "eligible": false,
-      "fingerprint": "0c3ca637be49ec38f26b28061b2c3cc8c7a1d47c2db7870ff3224269fca52a41",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "aptiv",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "home, wa",
+          "san antonio, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "linux software development intern"
+      },
+      "fingerprint": "eedbf766416c831d91afab0d450dc2ca36607ce87d1e042b421b378fa3eaacff",
+      "revision": 1
     },
     "url:https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/usa-san-diego-ca---wr/product-analyst-intern_j000704400": {
       "eligible": true,
@@ -16123,9 +16140,25 @@
       "revision": 1
     },
     "url:https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/nyc---1211-ave-of-the-americas/summer-2027-internship-program---marketing-data-science-intern_job_req_55876": {
-      "eligible": false,
-      "fingerprint": "203243b9a1a3a15dc60d68aa823cdcfb72ee023ab4ec1aaebc62d984a212f197",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "dow jones",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "new york, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "marketing data science intern"
+      },
+      "fingerprint": "efd4e51a777ca4db24df7654f6d3232170c00465bba2ceb5ef1aab2ab7488bcc",
+      "revision": 1
     },
     "url:https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/nyc---1211-ave-of-the-americas/summer-2027-internship-program---software-engineering-intern_job_req_55891": {
       "eligible": false,
@@ -21017,9 +21050,25 @@
       "revision": 0
     },
     "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/atlanta/scs-commercial-intern------ai-data-mining-agent_r5055036-1": {
-      "eligible": false,
-      "fingerprint": "a4fd49a3a9e899c673b035a2e5f4ff8b18b43db8bc519a7581759e792842cf21",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "ge vernova",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "atlanta, ga"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "scs commercial intern - : ai data mining agent"
+      },
+      "fingerprint": "467f92e76e360a12e90591e8ca3396a104809e290f9b14da5b55cca50337470f",
+      "revision": 1
     },
     "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---agi---ai-post-training-and-model-alignment-intern---summer-2027_r5054822-1": {
       "eligible": true,
@@ -23150,9 +23199,24 @@
       "fingerprint": "b90764fc079ede50985c39d333596ff65511c16e38e5354d185568bf3afe4675",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1nb": {
+      "eligible": false,
+      "fingerprint": "9c0a2ccc20d042a3e3b3a4e98f586f9ba1b6395393727a1b06e5eb0daf73b7d2",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1no": {
       "eligible": false,
       "fingerprint": "87aee6cbf7e2136efec9770c312168e9af37d5a0ab4bd6dc3d7feadeede221ff",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1nu": {
+      "eligible": false,
+      "fingerprint": "bf113b6035b78ab46b62a3699197d923a5d6468ff6b68d8a4e5f27fdf6cd28f9",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1nw": {
+      "eligible": false,
+      "fingerprint": "e7b68c8e342b3c94bc12ef937e8516369c73cce7af509df966a5fa724ae25e08",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1s": {
@@ -29611,6 +29675,7 @@
           "bachelor's"
         ],
         "locations": [
+          "new york, ny",
           "new york, united states",
           "nyc"
         ],
@@ -29624,8 +29689,8 @@
         ],
         "title": "machine learning engineer intern - summer 2027"
       },
-      "fingerprint": "491a2cfcb926b639c1e60206f5c3f11905366e1394a830327d2f9bf1f556f038",
-      "revision": 0
+      "fingerprint": "28dd04b22b84b9e3def8488cde06ad4a439faaba8ba77bd7e5423645e68d24b6",
+      "revision": 1
     },
     "url:https://job-boards.eu.greenhouse.io/imc/jobs/4975945101": {
       "eligible": false,
@@ -33411,6 +33476,7 @@
           "master's"
         ],
         "locations": [
+          "new york, ny",
           "nyc",
           "san francisco, ca",
           "sf"
@@ -33421,8 +33487,8 @@
         ],
         "title": "software engineer intern - summer 2027"
       },
-      "fingerprint": "e9dade824659d10364934d0c53094c2e4ff223e71f81bb1255bf34a62c0b0bcf",
-      "revision": 0
+      "fingerprint": "c04f5bf012adaa24047aa8c694e67105c8a65bec170faaff160c01c2be8d7b29",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003": {
       "eligible": false,
@@ -46032,9 +46098,25 @@
       "revision": 1
     },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/atlantic-city-nj/systems--integration-and-software-engineer-intern_r-00194152": {
-      "eligible": false,
-      "fingerprint": "583cb2a1277090c6d60f02dc92c3efa90c0b7377c1810ee747b6af252f5cea4f",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "leidos",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "atlantic city, nj"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "systems integration and software engineer intern"
+      },
+      "fingerprint": "147e99fd2cc443bed769692d59fd7df6900dcdc8b1c7ee1370d1debe84122851",
+      "revision": 1
     },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/fort-belvoir-va/data-engineer-intern_r-00195576": {
       "eligible": true,
@@ -55603,6 +55685,11 @@
       "fingerprint": "a002c8f36973165457dc1e8559846db590a73aa1c5d892bec3115b148e69188c",
       "revision": 1
     },
+    "url:https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-excellence-way-plano-tx-usa/epro-business---data-analyst-intern_r121996": {
+      "eligible": false,
+      "fingerprint": "d3fc6a86794ea78cd81f5d8a29b47b69cd18a92c4e699fc54244dfa328d05782",
+      "revision": 1
+    },
     "url:https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-excellence-way-plano-tx-usa/samsung-care-ai-data-analytic-intern_r121971-1": {
       "eligible": true,
       "evidence": {
@@ -57871,17 +57958,16 @@
           "master's"
         ],
         "locations": [
-          "new york city, ny",
-          "nyc"
+          "new york city, ny"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "summer 2027 software engineering internship"
       },
-      "fingerprint": "051b727c0db92bf63de196871f5093bf9a03eef4e960bb96a6f0510dd9bcd455",
-      "revision": 4
+      "fingerprint": "504c31549117c9ff0d1b3fec3da34c9e742879a94f08c3b9d408d3dd4f834cc6",
+      "revision": 5
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/overland-park-kansas/summer-2027-assoc-ai-engineer-internship_req380484": {
       "eligible": true,
@@ -58000,10 +58086,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "summer 2027 software engineering internship"
       },
-      "fingerprint": "caf7e64f3e55a01d59fd9e5833d38ac645aa5fdf83130b4d620077b8a6a233cf",
-      "revision": 2
+      "fingerprint": "1cb22b001ba81e033441ef6823323cc70d8c8bf6a73fea4710d341fb84ab4a40",
+      "revision": 3
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/philadelphia-pennsylvania/summer-2027-t-ads-software-engineering-internship_req381234": {
       "eligible": true,
@@ -63246,10 +63332,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "2027 summer internship - us - software engineer"
       },
-      "fingerprint": "518dcb8c7bc205f44def3670031db5d9e02f1e71cfa013edb61f603620bc46a6",
-      "revision": 1
+      "fingerprint": "83e473b50b6596f3766e97834b0a59a22961e5f98a70d7e7c66f4619b973863f",
+      "revision": 2
     },
     "url:https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/kennesaw-georgia/xmlname-2027-summer-internship--us----software-engineer--ai-features---product-convergence--zebra-task-manager_jr103636": {
       "eligible": true,
@@ -63889,9 +63975,19 @@
     "https://go.vansh.nyc/1n6": 218,
     "https://go.vansh.nyc/1n7": 218,
     "https://go.vansh.nyc/1n8": 218,
+    "https://go.vansh.nyc/1nC": 225,
+    "https://go.vansh.nyc/1nD": 225,
+    "https://go.vansh.nyc/1nE": 225,
+    "https://go.vansh.nyc/1nF": 225,
+    "https://go.vansh.nyc/1nG": 225,
     "https://go.vansh.nyc/1ng": 221,
     "https://go.vansh.nyc/1nq": 224,
     "https://go.vansh.nyc/1nr": 224,
+    "https://go.vansh.nyc/1ns": 225,
+    "https://go.vansh.nyc/1nt": 225,
+    "https://go.vansh.nyc/1nv": 225,
+    "https://go.vansh.nyc/1nx": 225,
+    "https://go.vansh.nyc/1nz": 225,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -65059,9 +65155,19 @@
     "https://go.vansh.nyc/1n6": "https://ice.jibeapply.com/jobs/14105?icims=1",
     "https://go.vansh.nyc/1n7": "https://ice.jibeapply.com/jobs/14078?icims=1",
     "https://go.vansh.nyc/1n8": "https://ice.jibeapply.com/jobs/14077?icims=1",
+    "https://go.vansh.nyc/1nC": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job?mobile=true&needsRedirect=false",
+    "https://go.vansh.nyc/1nD": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Marketing-Data-Science-Intern_Job_Req_55876",
+    "https://go.vansh.nyc/1nE": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/SCS-Commercial-Intern------AI-Data-Mining-Agent_R5055036-1",
+    "https://go.vansh.nyc/1nF": "https://jobs.ashbyhq.com/skyband%20systems/1e68c6d9-c810-418d-9171-f2a23f013d06",
+    "https://go.vansh.nyc/1nG": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003",
     "https://go.vansh.nyc/1ng": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3",
     "https://go.vansh.nyc/1nq": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007",
     "https://go.vansh.nyc/1nr": "https://careers.garmin.com/jobs/20129?icims=1",
+    "https://go.vansh.nyc/1ns": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
+    "https://go.vansh.nyc/1nt": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
+    "https://go.vansh.nyc/1nv": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101",
+    "https://go.vansh.nyc/1nx": "https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false",
+    "https://go.vansh.nyc/1nz": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -65718,7 +65824,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 224,
+  "scan_sequence": 225,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
