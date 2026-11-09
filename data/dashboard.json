@@ -684,6 +684,21 @@
       "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049"
     },
     {
+      "company": "7-Eleven",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ba9c318723d371df6e7dcdb81800f386a6386b57a2e9e0c7a027ec58df40b1ff",
+      "locations": [
+        "Irving, TX"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Engineer Intern",
+      "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281"
+    },
+    {
       "company": "AArete",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -1993,6 +2008,25 @@
       "company": "Amazon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "3aebe5db8f6ff1102d91b8ca98bc7a7d5bc079665f5548ff61ccba82ab4f2218",
+      "locations": [
+        "Boston, MA",
+        "Seattle, WA",
+        "Austin, TX",
+        "Arlington County, Arlington, VA",
+        "Denver, CO"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027"
+    },
+    {
+      "company": "Amazon",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "e57c81cbae9aab3a4c3d0e0b43de7cb1ff45bafa867f34779218f5b48d41ae15",
       "locations": [
         "United States"
@@ -3228,6 +3262,21 @@
       "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561"
     },
     {
+      "company": "Art of Problem Solving",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ab5f8963dfeeab1ea00bb64e432c6e32afa87f2f4dc053e80accfd4f3fa2b254",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003"
+    },
+    {
       "company": "Arthur J. Gallagher & Co.",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -4312,6 +4361,51 @@
       "source": "simplify",
       "title": "Renewable Generation Performance Intern",
       "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008"
+    },
+    {
+      "company": "Biodesix",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "0ed839acff76171af8c022d9c9138397b46e63988572bb1e17ad1743a46a0d0a",
+      "locations": [
+        "Louisville, CO"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Research & Development Intern",
+      "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485306009"
+    },
+    {
+      "company": "Biodesix",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "d4b11157da3b5299f870c99542805eb70bb7d0599de0d83168bcf919ac7234cf",
+      "locations": [
+        "Louisville, CO"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Analytics & Business Intelligence Intern",
+      "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485182009"
+    },
+    {
+      "company": "Biodesix",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5172ae1a9ed2826476008a8a79d7b4296fd5de81dd39ebf90f678376fc8b1d6e",
+      "locations": [
+        "Louisville, CO"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485410009"
     },
     {
       "company": "Blackhawk Network Holdings",
@@ -9671,6 +9765,21 @@
       "company": "Epic Games",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
+      "id": "d6bc922723e41ac991899479691c2a963f8bc89bdd2f5464763eb4ce4ea35f2e",
+      "locations": [
+        "Cary,North Carolina,United States"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "greenhouse",
+      "title": "AI Programmer Intern",
+      "url": "https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004"
+    },
+    {
+      "company": "Epic Games",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "a6ebe76cc09a88d9a67386a265a7ee45f09da0e59cf6e83b6374aa1cdbc41e34",
       "locations": [
         "Cary,North Carolina,United States"
@@ -10027,21 +10136,6 @@
       "source": "simplify",
       "title": "Software Development Engineer Intern",
       "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311"
-    },
-    {
-      "company": "F&G",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "6090419225a615cafe3846704547193d180ce5e32f3a84acf8ca709a604a2321",
-      "locations": [
-        "Des Moines, IA"
-      ],
-      "posted_at": "2026-09-11",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Business Intelligence Intern",
-      "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003"
     },
     {
       "company": "F&G",
@@ -10407,6 +10501,21 @@
       "source": "speedyapply",
       "title": "Embedded Software Intern - Summer 2027",
       "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8222268"
+    },
+    {
+      "company": "Fortrea",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "cc97ba763a55f8a0167879ece67cdaae3d3712cae970281b87e4bfb73fdf457d",
+      "locations": [
+        "Remote in USA"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AIML Rapid Development Studio Intern",
+      "url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/AIML-Rapid-Development-Studio-Internship_266655"
     },
     {
       "company": "Found Energy",
@@ -11805,6 +11914,21 @@
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Data-Intern---Summer-2027_R9820"
     },
     {
+      "company": "Great American Insurance Company",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c535b413afaa5739d7f1d63c199f1f2df5b456fbe59b0fc0960b55a4d935bdbc",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Telematics / Predictive Analytics Intern",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868"
+    },
+    {
       "company": "GreatAmerica Financial Services",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -12673,21 +12797,6 @@
       "source": "simplify",
       "title": "Evaluation Analytics Graduate Intern",
       "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Evaluation-Analytics-Graduate-Intern_J288013"
-    },
-    {
-      "company": "Highmark Health",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "10fb21cb1bf2123f1741423828e8ad01ea0148ba7c319ae31e5c0b7e89656147",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "posted_at": "2026-10-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Market Analytics Graduate Intern",
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906"
     },
     {
       "company": "Highmark Health",
@@ -13964,6 +14073,21 @@
       "url": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true"
     },
     {
+      "company": "Integration Innovation (i3)",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "06c44d4df466e69865cde2508827cd0df7d306f9dd3a01aed4332f8aa3dec662",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Management Intern",
+      "url": "https://i3-corps.jibeapply.com/jobs/5490?icims=1&lang=en-us"
+    },
+    {
       "company": "Intel",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -14998,6 +15122,21 @@
       "source": "simplify",
       "title": "Acoustic Algorithm Development Engineer Intern",
       "url": "https://careers.jhuapl.edu/jobs/59784?icims=1"
+    },
+    {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "327a7539c5ed2d9e0e40dac5aed472f8d45e5d83911201d1bc7b39c0db556e43",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Artificial Intelligence Intern - Information Fusion",
+      "url": "https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us"
     },
     {
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -19784,15 +19923,15 @@
       "graduation_status": "unknown",
       "id": "e92bfd110c7167295cdd7285c4a10d4f2d7c44518ba81d51c27c0095b7bb4df5",
       "locations": [
-        "Pensacola, FL",
-        "Houston, TX"
+        "Houston, TX",
+        "Pensacola, FL"
       ],
       "posted_at": "2026-11-09",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Humanoid Robotics Software Intern",
-      "url": "https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb"
+      "url": "https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb/application?embed=true"
     },
     {
       "company": "Philips",
@@ -19808,6 +19947,21 @@
       "source": "simplify",
       "title": "Data Engineering Co-op",
       "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-July-December-2027_587486"
+    },
+    {
+      "company": "Philips",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2dc31a19ac01ac0eaf12961be3009076c3ba4f4b92539b0d58666719b5744daa",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "posted_at": "2026-10-14",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Insights and Analytics Intern - Health Systems Marketing",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454"
     },
     {
       "company": "Physical Reasoning",
@@ -19931,6 +20085,21 @@
       "source": "greenhouse",
       "title": "Software Engineer Intern 2027 (USA)",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577"
+    },
+    {
+      "company": "Pivotal Aero",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c7addf9a857dccf54a3a8c92a2ce0c03335335ea76971ce6ee9400d155b00888",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4/apply"
     },
     {
       "company": "Plexus",
@@ -22073,6 +22242,36 @@
       "company": "Ryan",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "bf30351612a58d464ea4d1cbe20bc09938bcaf98c039fc876eb4c0a15c32230e",
+      "locations": [
+        "Burlington, VT"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Application Development Intern - Application Development",
+      "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810"
+    },
+    {
+      "company": "Ryan",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ab8936309484d276dc4b5901ed63ce484e88a7ae6e5bc480e05b6998bf26c995",
+      "locations": [
+        "Burlington, VT"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Application Development Intern - Application Development",
+      "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Burlington/Summer-2027-Intern--Application-Development_R0020810-1"
+    },
+    {
+      "company": "Ryan",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "4a01be5c03672215e8775d0e646796304034e4710b3acf5f6df17007fd9718b3",
       "locations": [
         "Plano, TX"
@@ -24102,25 +24301,6 @@
       "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced/job/Sun-Life-Wellesley/Business-Operations-Software-Engineer-2027-Co-op_JR00128863-1"
     },
     {
-      "company": "Sun Life",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "6b047bc3d41e669b96c0ff006e5af67f61f1bf19b2a88d3920703aa0ce8f021d",
-      "locations": [
-        "Milwaukee, WI",
-        "Kansas City, MO",
-        "Hartford, CT",
-        "Portland, ME",
-        "Wellesley, MA"
-      ],
-      "posted_at": "2026-10-23",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Science Intern",
-      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1"
-    },
-    {
       "company": "Susquehanna International Group",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -25224,6 +25404,21 @@
       "source": "simplify",
       "title": "iOS Engineer Intern",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005"
+    },
+    {
+      "company": "The New York Times",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "7a4f7c2f3e94a2f166b27fa17b3b77fee9744398da7a1c04c2c7b086d848c32f",
+      "locations": [
+        "New York, NY"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "ML Scientist Intern",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005"
     },
     {
       "company": "The Nuclear Company",
@@ -27770,6 +27965,21 @@
       "company": "V2X",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "53c7e1a7f2433c2745f70c5d007e9170a8453a40680614ca06e3c26eaa5e599a",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Engineering Intern",
+      "url": "https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us"
+    },
+    {
+      "company": "V2X",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "e8b44546232c8e7de1746dfb9745e62972f5730e67ddc5c678b125de8cdf96ec",
       "locations": [
         "Indianapolis, IN"
@@ -29253,17 +29463,17 @@
       "url": "https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016-1"
     },
     {
-      "company": "Zoetis",
+      "company": "Zoetis Services",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
       "id": "e1dcb70beac476ada9b8649157048d63d063da6a7931a4193f12a7ae69d2cd26",
       "locations": [
-        "Parsippany, NJ"
+        "Parsippany-Troy Hills, NJ"
       ],
       "posted_at": "2026-11-09",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "AI Assistant Development Intern",
       "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/AI-Assistant-Development-Intern_JR00022012-1"
     },
@@ -29359,7 +29569,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-09T22:58:31.977772+00:00",
+  "last_checked": "2026-11-09T23:52:19.072391+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
