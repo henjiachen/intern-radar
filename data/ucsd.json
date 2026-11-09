@@ -15005,18 +15005,18 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12183": {
       "eligible": false,
-      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
-      "revision": 4
+      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
+      "revision": 5
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12184": {
       "eligible": false,
-      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
-      "revision": 4
+      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
+      "revision": 5
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12185": {
       "eligible": false,
-      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
-      "revision": 2
+      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
+      "revision": 3
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---seattle/gen-ai-intern_r12193": {
       "eligible": true,
@@ -23425,6 +23425,16 @@
       "fingerprint": "92e2192dfeff2b5920d7b61189e8c4648804533cb58bbc528ab81003cbcd80ad",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1pi": {
+      "eligible": false,
+      "fingerprint": "92e2192dfeff2b5920d7b61189e8c4648804533cb58bbc528ab81003cbcd80ad",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1pk": {
+      "eligible": false,
+      "fingerprint": "ea979027f41079c929be747dbfdd7060e70375181e6b24554694f7aa26385b4c",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1s": {
       "eligible": false,
       "fingerprint": "1ca6ea592089ef650490445a1155058bf02664e874a9ee67ba8198d3620f575e",
@@ -27278,9 +27288,25 @@
       "revision": 2
     },
     "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-systems-intern_uni4801-1": {
-      "eligible": false,
-      "fingerprint": "64cd168443a383d68e915c7e2f6d8e9d55c83a58104e60fe74c9d32e92bd448c",
-      "revision": 2
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "hp inc.",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san francisco, ca",
+          "sf"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software systems intern - iq"
+      },
+      "fingerprint": "39800bda7f94ca408d912510232b4dffe59471a67aa3eb34d90f13111452e255",
+      "revision": 3
     },
     "url:https://hp.wd5.myworkdayjobs.com/externalcareersite/job/spring-texas-united-states-of-america/finance-intern_uni4241-1": {
       "eligible": false,
@@ -27333,25 +27359,9 @@
       "revision": 0
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern---hp-iq_uni4806": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "hp inc.",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "san francisco, ca",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "9a3ea2a00b8efc2745926e96122e87f34f5efddd9dd1dc2550b897e252c31318",
-      "revision": 5
+      "eligible": false,
+      "fingerprint": "7ddbdf0f3cc2036c9a86bb0e5e64724b711cd43b2acd3a6f5815eb3419aea63d",
+      "revision": 6
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--aiml-platform---hp-iq_uni4800": {
       "eligible": true,
@@ -37657,23 +37667,23 @@
     },
     "url:https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "eligible": false,
-      "fingerprint": "cb0632cd7584e3bde3dd3a1508f321610e6040b1922d721198613b2c88c8163e",
-      "revision": 1
+      "fingerprint": "f218f76076e3faa445952849fa1f78a6420f9633efc923734a536d28c8cc505a",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04": {
       "eligible": false,
-      "fingerprint": "14a082b279c1bfd524f27e27e0c7ecc9206e531855506a54a12e4a3883e040e8",
-      "revision": 1
+      "fingerprint": "e9367756df1621296d4f84580796c3dee8cc1c8da4a29b7d449c996727624897",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9": {
       "eligible": false,
-      "fingerprint": "246e4eca78f23f94b44d96969e49db45f4ba65b0fc5f0178c4ba897906cb6761",
-      "revision": 1
+      "fingerprint": "3a3ad005f1e8b9915ff3229409d648c6ca896d41f73e5281e7c71b20cf6e82cb",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8": {
       "eligible": false,
-      "fingerprint": "53b9bdc6010b6f454795713af6a09722b0247660de91f422811ef0f2a462e494",
-      "revision": 1
+      "fingerprint": "d142146ea6b91154c39f44ce8fd41465b316f78cd352b1b553381d824b4b5738",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718": {
       "eligible": true,
@@ -42596,10 +42606,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "embedded firmware intern"
+        "title": "summer 2027 intern - embedded firmware - 5810"
       },
-      "fingerprint": "c6c3bd81f041db5e2728b6bb8910879d1a3d062783984c7e7890d2a9ea177b96",
-      "revision": 2
+      "fingerprint": "9c1a96197c0c9b3799911634fc48425182c77b4921b8188fd5fb6896ed845027",
+      "revision": 3
     },
     "url:https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949": {
       "eligible": true,
@@ -42809,8 +42819,8 @@
     },
     "url:https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047": {
       "eligible": false,
-      "fingerprint": "23fede1d47e5deae6dcca681cc620bc1de6de2ae53052b1b31d951e90ac7b3cb",
-      "revision": 1
+      "fingerprint": "31dac2e96b3c04c63fe77c7155c300f7f1a00c6b5cbe8cb04c20c0785b92e449",
+      "revision": 2
     },
     "url:https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd": {
       "eligible": false,
@@ -42853,6 +42863,11 @@
     "url:https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9": {
       "eligible": false,
       "fingerprint": "461ba13461123f9c742e73134df8aee8e71cc999a7aa7d4c18c94d0e4b65e89e",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415": {
+      "eligible": false,
+      "fingerprint": "1c56487429aa5e81bacead9bfc1b69180f5981790e5b93ba43d6252271af4acd",
       "revision": 1
     },
     "url:https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e": {
@@ -45889,8 +45904,8 @@
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/austin-tx/software-engineer--ai-ml--intern_2642125-1": {
       "eligible": false,
-      "fingerprint": "98411827f8fbbcc31d46528e78fd9b3c8132bd51ea68faed48eb909ee8e66c79",
-      "revision": 2
+      "fingerprint": "6b9a94bbb28c5db133bdbf87d558ed42317c1bdaf7e3e38207cedf843cccd564",
+      "revision": 3
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/austin-tx/software-engineering-intern_2642004-1": {
       "eligible": true,
@@ -46071,8 +46086,8 @@
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/austin-tx/software-engineer--ai-ml--intern_2642125": {
       "eligible": false,
-      "fingerprint": "98411827f8fbbcc31d46528e78fd9b3c8132bd51ea68faed48eb909ee8e66c79",
-      "revision": 2
+      "fingerprint": "6b9a94bbb28c5db133bdbf87d558ed42317c1bdaf7e3e38207cedf843cccd564",
+      "revision": 3
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/austin-tx/software-engineering-intern_2642004": {
       "eligible": true,
@@ -46479,17 +46494,16 @@
           "bachelor's"
         ],
         "locations": [
-          "arlington county, arlington, va",
           "arlington, va"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern"
       },
-      "fingerprint": "718572b65a098a90f300c4d7058a75937719444a605cb90f1e12c265a6ccce46",
-      "revision": 1
+      "fingerprint": "04c38134c063c9bba033f6fc6cf51c23e583595e3f2340c9a90606dbd5607484",
+      "revision": 2
     },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/atlantic-city-nj/systems--integration-and-software-engineer-intern_r-00194152": {
       "eligible": true,
@@ -57251,6 +57265,22 @@
       "fingerprint": "07e494b9781af9701d0cf17ca5fcb1dc4230ec468f4382b2777adcc85705ba98",
       "revision": 1
     },
+    "url:https://studentopportunities-lutron.icims.com/jobs/5382/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lutron",
+        "degrees": [],
+        "locations": [
+          "coopersburg, pa"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "summer 2027 - software engineering intern - lehigh valley - pa"
+      },
+      "fingerprint": "7b3077cb0c32d6488f338b5e4825b5be9e6fe5f2edbf70e2f9a57c69800321f4",
+      "revision": 1
+    },
     "url:https://studentopportunities-lutron.icims.com/jobs/5384/job": {
       "eligible": true,
       "evidence": {
@@ -66439,7 +66469,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 236,
+  "scan_sequence": 237,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
