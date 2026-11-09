@@ -23204,19 +23204,48 @@
       "fingerprint": "9c0a2ccc20d042a3e3b3a4e98f586f9ba1b6395393727a1b06e5eb0daf73b7d2",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1no": {
-      "eligible": false,
-      "fingerprint": "87aee6cbf7e2136efec9770c312168e9af37d5a0ab4bd6dc3d7feadeede221ff",
-      "revision": 1
-    },
     "url:https://go.vansh.nyc/1nu": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tenstorrent",
+        "degrees": [],
+        "locations": [
+          "toronto, canada",
+          "washington, dc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai software intern"
+      },
+      "fingerprint": "d02b6086387931e5ce29e7846c2aa10930a7883fdac9d4c827452ae3ba1bb2af",
+      "revision": 2
+    },
+    "url:https://go.vansh.nyc/1o0": {
       "eligible": false,
-      "fingerprint": "bf113b6035b78ab46b62a3699197d923a5d6468ff6b68d8a4e5f27fdf6cd28f9",
+      "fingerprint": "cb95d5f2a64464e09f9ed35737451e8b34f7eb8f32069ffb496a88b28480f143",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1nw": {
+    "url:https://go.vansh.nyc/1o5": {
       "eligible": false,
-      "fingerprint": "e7b68c8e342b3c94bc12ef937e8516369c73cce7af509df966a5fa724ae25e08",
+      "fingerprint": "3d0415ae16dae08e486ca6cb7ae3b21a77760183bcddf598162fd56d82dc902a",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1o9": {
+      "eligible": false,
+      "fingerprint": "0619c021325e5f6330a7c0c2a1aa1a8d9bef08b175857bb2f5de1fb88507b4e0",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1oe": {
+      "eligible": false,
+      "fingerprint": "ba809c72eeea5be5422a8d36eadf25f2efa86ebbfad925b00297f317cc0a08f0",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1of": {
+      "eligible": false,
+      "fingerprint": "ef94737b57a66cb4169d37a933574441eac287cc8341327144b09cb2961f9b12",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1s": {
@@ -63980,6 +64009,14 @@
     "https://go.vansh.nyc/1nE": 225,
     "https://go.vansh.nyc/1nF": 225,
     "https://go.vansh.nyc/1nG": 225,
+    "https://go.vansh.nyc/1nI": 226,
+    "https://go.vansh.nyc/1nM": 226,
+    "https://go.vansh.nyc/1nN": 226,
+    "https://go.vansh.nyc/1nQ": 226,
+    "https://go.vansh.nyc/1nR": 226,
+    "https://go.vansh.nyc/1nT": 226,
+    "https://go.vansh.nyc/1nV": 226,
+    "https://go.vansh.nyc/1nZ": 226,
     "https://go.vansh.nyc/1ng": 221,
     "https://go.vansh.nyc/1nq": 224,
     "https://go.vansh.nyc/1nr": 224,
@@ -63988,6 +64025,13 @@
     "https://go.vansh.nyc/1nv": 225,
     "https://go.vansh.nyc/1nx": 225,
     "https://go.vansh.nyc/1nz": 225,
+    "https://go.vansh.nyc/1o1": 226,
+    "https://go.vansh.nyc/1o3": 226,
+    "https://go.vansh.nyc/1o4": 226,
+    "https://go.vansh.nyc/1o8": 226,
+    "https://go.vansh.nyc/1oa": 226,
+    "https://go.vansh.nyc/1ob": 226,
+    "https://go.vansh.nyc/1od": 226,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -65160,6 +65204,14 @@
     "https://go.vansh.nyc/1nE": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/SCS-Commercial-Intern------AI-Data-Mining-Agent_R5055036-1",
     "https://go.vansh.nyc/1nF": "https://jobs.ashbyhq.com/skyband%20systems/1e68c6d9-c810-418d-9171-f2a23f013d06",
     "https://go.vansh.nyc/1nG": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003",
+    "https://go.vansh.nyc/1nI": "https://job-boards.greenhouse.io/vardaspace/jobs/8010159003",
+    "https://go.vansh.nyc/1nM": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198",
+    "https://go.vansh.nyc/1nN": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051",
+    "https://go.vansh.nyc/1nQ": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
+    "https://go.vansh.nyc/1nR": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+    "https://go.vansh.nyc/1nT": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job",
+    "https://go.vansh.nyc/1nV": "https://careers-gdms.icims.com/jobs/75346/job?mobile=true&needsRedirect=false",
+    "https://go.vansh.nyc/1nZ": "https://jobs.jobvite.com/tylertech/job/oQFRAfwG?nl=1&nl=1&fr=false",
     "https://go.vansh.nyc/1ng": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3",
     "https://go.vansh.nyc/1nq": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007",
     "https://go.vansh.nyc/1nr": "https://careers.garmin.com/jobs/20129?icims=1",
@@ -65168,6 +65220,13 @@
     "https://go.vansh.nyc/1nv": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101",
     "https://go.vansh.nyc/1nx": "https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false",
     "https://go.vansh.nyc/1nz": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399",
+    "https://go.vansh.nyc/1o1": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
+    "https://go.vansh.nyc/1o3": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
+    "https://go.vansh.nyc/1o4": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957",
+    "https://go.vansh.nyc/1o8": "https://jobs.smartrecruiters.com/WellmarkInc/744000152679699",
+    "https://go.vansh.nyc/1oa": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637",
+    "https://go.vansh.nyc/1ob": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634",
+    "https://go.vansh.nyc/1od": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -65824,7 +65883,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 225,
+  "scan_sequence": 226,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

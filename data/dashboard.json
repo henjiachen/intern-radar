@@ -14969,21 +14969,6 @@
       "company": "JM Family",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "ab7945bf27da2f6e0bd472cc0fdd419adc55b4fbd8e8ef753771d8bd5d3e7179",
-      "locations": [
-        "Deerfield Beach, FL"
-      ],
-      "posted_at": "2026-10-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Customer Experience Data Analyst Intern",
-      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125"
-    },
-    {
-      "company": "JM Family",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "4aa3930cfd9ff0c867fc6993cdbeaaf2a19b5f69217a4766e5fc125fa9266d72",
       "locations": [
         "Deerfield Beach, FL"
@@ -15235,22 +15220,6 @@
       "source": "simplify",
       "title": "Data Science Co-op - Summer 2027",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "e89f9bf6930a372bc7a51b45f95e1fceb530c396d3e668d7fa459e5b1f21174f",
-      "locations": [
-        "Spring House, PA",
-        "Raritan, NJ"
-      ],
-      "posted_at": "2026-10-12",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "IDAR Summer Intern - Ease",
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--EASE-_R-102328"
     },
     {
       "company": "Johnson & Johnson",
@@ -24823,6 +24792,21 @@
       "company": "Tenstorrent",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "6eddc924eb649592cf1f3b2cfedd9e62e9f4d222fc75002bd87f90b779d8e1f2",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "posted_at": "2026-10-08",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Software Intern",
+      "url": "https://go.vansh.nyc/1nu"
+    },
+    {
+      "company": "Tenstorrent",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "e6fe39fc2be8c34eb85d74c781dd0fc9c06caca269f37d8c30e659379bcc7fdd",
       "locations": [
         "Austin, TX",
@@ -29569,7 +29553,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-09T07:43:36.049098+00:00",
+  "last_checked": "2026-11-09T09:27:02.765732+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
