@@ -2614,6 +2614,11 @@
       "fingerprint": "85dcc7ef5180362e09e9d56822350319891e3d1a2bf9c5e3cd93f88703de840c",
       "revision": 1
     },
+    "url:https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/houston-headquarters/ai-implementation-intern_r115510": {
+      "eligible": false,
+      "fingerprint": "85dcc7ef5180362e09e9d56822350319891e3d1a2bf9c5e3cd93f88703de840c",
+      "revision": 1
+    },
     "url:https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534": {
       "eligible": false,
       "fingerprint": "5f90dd1b0e7745fbdf329c9dcfe586c5dc8697f4f078f597c8f799f3c90c0387",
@@ -4630,6 +4635,11 @@
       },
       "fingerprint": "04f37f2f21c43f8e19f401ab6cfaf4aecf7db804b0b98ac857df51cf6a359bab",
       "revision": 0
+    },
+    "url:https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/alpharetta-ga/ai---automation-intern_r50811": {
+      "eligible": false,
+      "fingerprint": "23d69940eb0813deabd2de975cd695f90b0184b6f8e13de5206139602d0c1fd6",
+      "revision": 1
     },
     "url:https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24": {
       "eligible": false,
@@ -9397,6 +9407,50 @@
       "fingerprint": "f736b22c8b2fea868ee37d13a1f6440756b85a8947bb2be7c8e3a5f46bab466c",
       "revision": 1
     },
+    "url:https://careers-gdms.icims.com/jobs/75970/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "general dynamics mission systems",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "chantilly, va",
+          "pittsfield, ma",
+          "scottsdale, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "full-stack software engineer intern"
+      },
+      "fingerprint": "69a431cfc99cb3c8f745f87c8a82315ae0f838b1f39b11ab7eb96fd085c54bfc",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/75971/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "general dynamics mission systems",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "chantilly, va",
+          "pittsfield, ma",
+          "scottsdale, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "full-stack application development intern"
+      },
+      "fingerprint": "26f61ed702d81626fb1b9d41e7eb3af7830c0d4c09749acf69d19f609d529067",
+      "revision": 1
+    },
     "url:https://careers-gdms.icims.com/jobs/76785/job": {
       "eligible": false,
       "fingerprint": "ff50fd1b52fe5ea90835303024a749e8298cb8848d0f3528b2b1278d1069d810",
@@ -9633,8 +9687,6 @@
           "bachelor's"
         ],
         "locations": [
-          "chandler, az",
-          "leesburg, va",
           "mclean, va",
           "tempe, az"
         ],
@@ -9644,8 +9696,8 @@
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "e683fd65ad2f9b04596ae1ec988ddd49c829c60f05f846fb140cb14a5940baf2",
-      "revision": 3
+      "fingerprint": "2c55b8c84a1d4977bf89f1239b0853b4acaaac5a34211477110f3988f3862d02",
+      "revision": 4
     },
     "url:https://careers-kinaxis.icims.com/jobs/35297/job": {
       "eligible": false,
@@ -11372,6 +11424,26 @@
         "title": "ai engineering intern"
       },
       "fingerprint": "512580dbc551cc136a777d9a714a19f52dbf0670dc3f65a57ce678b9eada2302",
+      "revision": 1
+    },
+    "url:https://careers.haskell.com/jobs/7415?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "haskell",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "jacksonville, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineering design intern for facility design"
+      },
+      "fingerprint": "58414e266e6215ebe2e3a1918ba1cc084d4727216436051d1150831ed137a742",
       "revision": 1
     },
     "url:https://careers.herzog.com/jobs/2931?icims=1": {
@@ -14326,6 +14398,11 @@
       "fingerprint": "0dca636bd4cc28bf78029b4eb06bd73bc2eed35d0675e0286eac4359b1fa8927",
       "revision": 0
     },
+    "url:https://cibc.wd3.myworkdayjobs.com/search/job/toronto-on/associate-technology-leadership-advancement-program---summer-2027_2623078-1": {
+      "eligible": false,
+      "fingerprint": "77c18dd84bcd4e6c17cb7223e874631c264253c54671c7183fb9dece6f0605ff",
+      "revision": 1
+    },
     "url:https://cibc.wd3.myworkdayjobs.com/search/job/toronto-on/business-analyst-co-op_2622052-1": {
       "eligible": false,
       "fingerprint": "1c733ee52472d5e1dc369c756e40a89a152407dcefddf8feacb1ed69d190e8f4",
@@ -14621,6 +14698,26 @@
       "fingerprint": "387d70b5a65c515dcb56c133e040626d54495c3d256912ca8a20ece16549b6a9",
       "revision": 0
     },
+    "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/software-engineer-full-stack---backend-i--intern----united-states_2024647-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cisco",
+        "degrees": [],
+        "locations": [
+          "austin, tx",
+          "research triangle park, nc",
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, full-stack / backend i"
+      },
+      "fingerprint": "32a77540a2dc743338f04701dffdccf51be32f909923057d3c20c2122adcda70",
+      "revision": 1
+    },
     "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/usa-research-triangle-park/software-consulting-engineer-i--intern--united-states_2025180": {
       "eligible": true,
       "evidence": {
@@ -14728,6 +14825,16 @@
       },
       "fingerprint": "b5cc93399188aca937aa3c2584d357d49f3508addd914cedcf8a3468d68c226d",
       "revision": 0
+    },
+    "url:https://citi.wd5.myworkdayjobs.com/2/job/london--united-kingdom/technology---application-development--summer-analyst--united-kingdom---london--2027_261007037": {
+      "eligible": false,
+      "fingerprint": "b1948846be219f1b0f388af10b99a5bdb4899621cedad4a75d27636342f61e5a",
+      "revision": 1
+    },
+    "url:https://citi.wd5.myworkdayjobs.com/2/job/london--united-kingdom/technology--application-development--full-time-analyst--united-kingdom---london--2027--2026-summer-intern-converts-only-_261006358": {
+      "eligible": false,
+      "fingerprint": "96a32e929f704af5ba029d5744f678ee6670cb297f08690137f9fedc850a0110",
+      "revision": 1
     },
     "url:https://citi.wd5.myworkdayjobs.com/2/job/mississauga-ontario-canada/technology--application-development--summer-analyst--mississauga--canada--2027_261003301": {
       "eligible": false,
@@ -22312,6 +22419,11 @@
       "fingerprint": "981ea84ef4efa6d82b57420b3454705a241d8641d05600f69663d8cb1839c996",
       "revision": 3
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-va-sterling-291--22640-davis-dr--davis/software-engineering-intern--e2d-in-1-_01888020": {
+      "eligible": false,
+      "fingerprint": "530778737f2fc0cb3e05d5d2213f21ffc53f0beea7d671a5f692e9bf1d9b5118",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-va-sterling-291--22640-davis-dr--davis/software-engineering-intern--summer-2027-_01885169": {
       "eligible": true,
       "evidence": {
@@ -23237,6 +23349,11 @@
       "fingerprint": "ef94737b57a66cb4169d37a933574441eac287cc8341327144b09cb2961f9b12",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1ol": {
+      "eligible": false,
+      "fingerprint": "8352da9d00a1a58bad3d71c5448bb95fa1be4d797c06c1417a043895b14492b2",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1s": {
       "eligible": false,
       "fingerprint": "1ca6ea592089ef650490445a1155058bf02664e874a9ee67ba8198d3620f575e",
@@ -23562,8 +23679,8 @@
     },
     "url:https://go.vansh.nyc/av": {
       "eligible": false,
-      "fingerprint": "cc0381a7b35e205369835b03ace2b44f1b6cc4a5beaafeb74695642aeafed42c",
-      "revision": 0
+      "fingerprint": "85514154fc3f7dd65fdd2eb1215a789e2832f45db053fae4d3e27d679b1f26e5",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/b": {
       "eligible": false,
@@ -25175,6 +25292,26 @@
       "eligible": false,
       "fingerprint": "49e82a2e12e546ed1709d8ccdcead45a9b2f2edbe70552823deb6cc67d22ff53",
       "revision": 0
+    },
+    "url:https://haskell.jibeapply.com/jobs/7415?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "haskell",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "jacksonville, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineering design intern for facility design"
+      },
+      "fingerprint": "58414e266e6215ebe2e3a1918ba1cc084d4727216436051d1150831ed137a742",
+      "revision": 1
     },
     "url:https://hayselectricalservices.applytojob.com/apply/x0z5nlcjcr/intern-data-analyst": {
       "eligible": false,
@@ -31215,6 +31352,27 @@
       "fingerprint": "7bc492b055feed6a9e769b432e476c727b97760791883ced1a2b4e3795c86589",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/enova/jobs/8366036": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "enova",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "analytics intern"
+      },
+      "fingerprint": "a1c2c85401c5c33ee412ac427cc77db76c423575920c9a394c1e326552977322",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008": {
       "eligible": false,
       "fingerprint": "cf0d1714aec2c25874f5900fbef7f12376213d3cb8b9325c0022aca7166420dd",
@@ -32321,6 +32479,11 @@
       "eligible": false,
       "fingerprint": "f0b56b3749fdc7840d2b9422bee732f81df9347344898e2ebc64f7b965747cbe",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007": {
+      "eligible": false,
+      "fingerprint": "cba07305882d5ac1071fb9f4cfdce8ad64008121f2177fb0b9faf2cd0af22c82",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003": {
       "eligible": true,
@@ -33482,6 +33645,24 @@
     "url:https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725275006": {
       "eligible": false,
       "fingerprint": "bccd786b4587ba912dc96064763fe21d4d67d9fe83b13d421d3097deaea41c19",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/sharpelectronics/jobs/4482958009": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "sharp electronics",
+        "degrees": [],
+        "locations": [
+          "montvale, nj"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it ai intern"
+      },
+      "fingerprint": "679a77c717d0e53328bd46b48158694c35f05a6cf9799ab5ae4f41ddd365c990",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003": {
@@ -41291,6 +41472,28 @@
       "fingerprint": "2af4e44fc659040b72fb890743ed62356e0d7b4d37088f011978206cc41e4573",
       "revision": 0
     },
+    "url:https://jobs.lever.co/cesiumastro/e3abc815-107d-4206-8a83-dd02932e2361": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "cesiumastro",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "melbourne, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded software engineer intern"
+      },
+      "fingerprint": "e949ed795e79cb35c90739852b0ec9d7b0929f29c7cedd323b0169f3bc3e85fe",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a": {
       "eligible": true,
       "evidence": {
@@ -42944,6 +43147,11 @@
         "title": "compiler software engineering intern"
       },
       "fingerprint": "1c294260df11e8e900d79331dd13326fa1e7a821fa5be263676a7be964787363",
+      "revision": 1
+    },
+    "url:https://jobs.paccar.com/job/chillicothe-data-analyst-intern-oh-45601-8829/1455610233?ats=successfactors": {
+      "eligible": false,
+      "fingerprint": "00902ce5301e017c8168426bdca9c12a703e309e0272142efe45a69d210f6df8",
       "revision": 1
     },
     "url:https://jobs.paccar.com/job/denton-2027-summer-internship-ai-driven-vehicle-definition-tx-76205-7864/1453573733?ats=successfactors": {
@@ -46047,11 +46255,9 @@
         ],
         "locations": [
           "odenton, md",
-          "remote",
           "remote - odenton, md +1",
           "remote in usa",
-          "shiloh, il",
-          "united states"
+          "shiloh, il"
         ],
         "requirements": [],
         "terms": [
@@ -46059,8 +46265,8 @@
         ],
         "title": "software engineering & ai intern"
       },
-      "fingerprint": "af6cd6caa5de49de764566809320cfab6582ef33e112ddee75f8ee6b6281d10c",
-      "revision": 3
+      "fingerprint": "27e6430191cb9ea66ed0ec4b5d76613f840757643e5a8ee89fe3920ae365d23d",
+      "revision": 4
     },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/annapolis-junction-md/software-developer-intern_r-00195829": {
       "eligible": true,
@@ -50636,6 +50842,27 @@
       "eligible": false,
       "fingerprint": "baa247c6e7425d19b3f32fc2fa0c00bc2accd7b57629f6808a817350575bb11a",
       "revision": 0
+    },
+    "url:https://mt.avature.net/en_us/careers/jobdetail/23080": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "mettler toledo",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "oakland, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded software engineering intern"
+      },
+      "fingerprint": "c10dccd63a0bae0e409d4fda3a58631ba48029a3b089bd31437b2b9d7f563c6e",
+      "revision": 1
     },
     "url:https://mtb.wd5.myworkdayjobs.com/campus/job/buffalo-ny/technology-intern---software-engineering--enterprise-api-services-development-team-_r90812": {
       "eligible": true,
@@ -55906,25 +56133,9 @@
       "revision": 0
     },
     "url:https://simon.wd1.myworkdayjobs.com/simon/job/indianapolis-in/intern---front-end-developer--computer-science--web-development--or-information-sciences-majors-_r13975": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "simon property group",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "indianapolis, in"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027",
-          "winter 2026"
-        ],
-        "title": "front end developer intern"
-      },
-      "fingerprint": "8c14b3c9e57d41698f61688986b756b949fc11763fbcb0f687a37efbe4056c9e",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "8151bd7453f6916315637af42ea9aa1e49f4ecff75ad59d53bcd4b92ac44370a",
+      "revision": 2
     },
     "url:https://simoncomputing.applicantpro.com/jobs/4115690": {
       "eligible": true,
@@ -64091,6 +64302,11 @@
     "https://go.vansh.nyc/1oh": 230,
     "https://go.vansh.nyc/1oi": 230,
     "https://go.vansh.nyc/1oj": 230,
+    "https://go.vansh.nyc/1ok": 231,
+    "https://go.vansh.nyc/1om": 231,
+    "https://go.vansh.nyc/1ot": 231,
+    "https://go.vansh.nyc/1ou": 231,
+    "https://go.vansh.nyc/1ov": 231,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -65290,6 +65506,11 @@
     "https://go.vansh.nyc/1oh": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719536006",
     "https://go.vansh.nyc/1oi": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719539006",
     "https://go.vansh.nyc/1oj": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006",
+    "https://go.vansh.nyc/1ok": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2024647-1",
+    "https://go.vansh.nyc/1om": "https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false",
+    "https://go.vansh.nyc/1ot": "https://job-boards.greenhouse.io/sharpelectronics/jobs/4482958009",
+    "https://go.vansh.nyc/1ou": "https://mt.avature.net/en_US/careers/JobDetail/23080",
+    "https://go.vansh.nyc/1ov": "https://jobs.lever.co/CesiumAstro/e3abc815-107d-4206-8a83-dd02932e2361",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -65946,7 +66167,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 230,
+  "scan_sequence": 231,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
