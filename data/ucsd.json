@@ -23150,6 +23150,11 @@
       "fingerprint": "b90764fc079ede50985c39d333596ff65511c16e38e5354d185568bf3afe4675",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1no": {
+      "eligible": false,
+      "fingerprint": "87aee6cbf7e2136efec9770c312168e9af37d5a0ab4bd6dc3d7feadeede221ff",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1s": {
       "eligible": false,
       "fingerprint": "1ca6ea592089ef650490445a1155058bf02664e874a9ee67ba8198d3620f575e",
@@ -57867,7 +57872,6 @@
         ],
         "locations": [
           "new york city, ny",
-          "new york, ny",
           "nyc"
         ],
         "requirements": [],
@@ -57876,8 +57880,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "a7e4bb991691add31ee6b5292acfdf22f1edb1b7ac3839fb7621354ab3bc162b",
-      "revision": 3
+      "fingerprint": "051b727c0db92bf63de196871f5093bf9a03eef4e960bb96a6f0510dd9bcd455",
+      "revision": 4
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/overland-park-kansas/summer-2027-assoc-ai-engineer-internship_req380484": {
       "eligible": true,
@@ -61202,9 +61206,25 @@
       "revision": 0
     },
     "url:https://www.indie.inc/careers/internships/current-openings?gh_jid=5265696007": {
-      "eligible": false,
-      "fingerprint": "9228629c8d3202e0c6258d5b6940149b41fb521512ad262c92ce91fce263f7d5",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "indie",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "aliso viejo, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "applications software developer intern"
+      },
+      "fingerprint": "3f28bebcd8eefd292fbeeaf2323786b0fae2c56f3c07fb06e417429219381452",
+      "revision": 1
     },
     "url:https://www.ixl.com/company/jobs?gh_jid=8862214002": {
       "eligible": true,
@@ -63870,6 +63890,8 @@
     "https://go.vansh.nyc/1n7": 218,
     "https://go.vansh.nyc/1n8": 218,
     "https://go.vansh.nyc/1ng": 221,
+    "https://go.vansh.nyc/1nq": 224,
+    "https://go.vansh.nyc/1nr": 224,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -65038,6 +65060,8 @@
     "https://go.vansh.nyc/1n7": "https://ice.jibeapply.com/jobs/14078?icims=1",
     "https://go.vansh.nyc/1n8": "https://ice.jibeapply.com/jobs/14077?icims=1",
     "https://go.vansh.nyc/1ng": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3",
+    "https://go.vansh.nyc/1nq": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007",
+    "https://go.vansh.nyc/1nr": "https://careers.garmin.com/jobs/20129?icims=1",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -65694,7 +65718,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 223,
+  "scan_sequence": 224,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
