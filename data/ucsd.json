@@ -18287,6 +18287,11 @@
       "fingerprint": "7d2173d5ec497afa95157c2fe7a2389c6f20e463b4128fd5d4c1620a47153590",
       "revision": 0
     },
+    "url:https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004": {
+      "eligible": false,
+      "fingerprint": "471869758646980d319a60c4be99cc3032be076a7c422c4a0c4b5d5179ecb344",
+      "revision": 1
+    },
     "url:https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004": {
       "eligible": true,
       "evidence": {
@@ -23026,8 +23031,8 @@
     },
     "url:https://go.vansh.nyc/1fe": {
       "eligible": false,
-      "fingerprint": "c199cc252f0082683b9921360049a95e56615f56d9f8cdb7602645c11b064c70",
-      "revision": 2
+      "fingerprint": "c3b985e0704342d8d370aa0621220f0b0cfd4f0aeeda2e8336e18f5e692b07a6",
+      "revision": 3
     },
     "url:https://go.vansh.nyc/1ff": {
       "eligible": false,
@@ -30498,8 +30503,8 @@
     },
     "url:https://job-boards.greenhouse.io/astranis/jobs/4705597006": {
       "eligible": false,
-      "fingerprint": "fb69af2bf56869733f054eeb2dbc3dda2a90546ea0914c5fcd36380f1863f0c8",
-      "revision": 3
+      "fingerprint": "715d878bf6a42e3bea7c707ad5738d4b1895597836603e35ae0d4a51497ee8a9",
+      "revision": 4
     },
     "url:https://job-boards.greenhouse.io/astranis/jobs/4705610006": {
       "eligible": true,
@@ -37598,23 +37603,23 @@
     },
     "url:https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "eligible": false,
-      "fingerprint": "f218f76076e3faa445952849fa1f78a6420f9633efc923734a536d28c8cc505a",
-      "revision": 0
+      "fingerprint": "cb0632cd7584e3bde3dd3a1508f321610e6040b1922d721198613b2c88c8163e",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04": {
       "eligible": false,
-      "fingerprint": "e9367756df1621296d4f84580796c3dee8cc1c8da4a29b7d449c996727624897",
-      "revision": 0
+      "fingerprint": "14a082b279c1bfd524f27e27e0c7ecc9206e531855506a54a12e4a3883e040e8",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9": {
       "eligible": false,
-      "fingerprint": "3a3ad005f1e8b9915ff3229409d648c6ca896d41f73e5281e7c71b20cf6e82cb",
-      "revision": 0
+      "fingerprint": "246e4eca78f23f94b44d96969e49db45f4ba65b0fc5f0178c4ba897906cb6761",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8": {
       "eligible": false,
-      "fingerprint": "d142146ea6b91154c39f44ce8fd41465b316f78cd352b1b553381d824b4b5738",
-      "revision": 0
+      "fingerprint": "53b9bdc6010b6f454795713af6a09722b0247660de91f422811ef0f2a462e494",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718": {
       "eligible": true,
@@ -61194,6 +61199,11 @@
       "fingerprint": "6fd3dd380f4aa471d4e6e2dae0f337e0e47ee04fbb77a75446a148558e583bec",
       "revision": 2
     },
+    "url:https://www.brex.com/careers/8935242002?gh_jid=8935242002": {
+      "eligible": false,
+      "fingerprint": "00294948bdfc56efae43b00462486c48dada99bf2e1a8896b130782cff9efedb",
+      "revision": 1
+    },
     "url:https://www.burns-group.com/careers/current-openings?gh_jid=4467848009": {
       "eligible": true,
       "evidence": {
@@ -66349,7 +66359,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 233,
+  "scan_sequence": 234,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
