@@ -1010,6 +1010,21 @@
       "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008"
     },
     {
+      "company": "Aerospace",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "78e2d35226f4f4deff763eb23b79d0cc23b84f1e4041b250b813b0bfb639e1fb",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "2027 Software Engineering Undergrad Intern",
+      "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102"
+    },
+    {
       "company": "Aerospace Corporation",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -14888,21 +14903,6 @@
       "url": "https://invitation-charter.icims.com/jobs/81731/2027-summer-intern%3a-data-science/job"
     },
     {
-      "company": "Invitation-charter",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "589a11bf979b2f22021a291447b270c3b319d52daebecfeeff9beff0f009d6e5",
-      "locations": [
-        "Englewood, CO"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern",
-      "url": "https://invitation-charter.icims.com/jobs/81795/2027-summer-intern%3a-software-engineer/job"
-    },
-    {
       "company": "Iridium Communications",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -16372,6 +16372,21 @@
       "source": "simplify",
       "title": "AI & Analytics Intern",
       "url": "https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false"
+    },
+    {
+      "company": "LG AI Research",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "aee9770a09d329de51c0fe763fa70a733cb52563e138271d5bbefb506f086454",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "posted_at": "2026-09-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Scientist/Engineer Intern",
+      "url": "https://www.lgresearch.ai/careers?gh_jid=4130830005"
     },
     {
       "company": "Liberty Mutual",
@@ -24159,6 +24174,21 @@
       "url": "https://specteraerospace.bamboohr.com/careers/122/"
     },
     {
+      "company": "Spectrum",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "589a11bf979b2f22021a291447b270c3b319d52daebecfeeff9beff0f009d6e5",
+      "locations": [
+        "Englewood, CO"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "2027 Summer Intern: Software Engineer",
+      "url": "https://invitation-charter.icims.com/jobs/81795/2027-summer-intern%3a-software-engineer/job"
+    },
+    {
       "company": "Springs Window Fashions",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29802,7 +29832,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-10T06:07:08.879042+00:00",
+  "last_checked": "2026-11-10T07:28:28.061005+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

@@ -563,9 +563,20 @@
       "revision": 1
     },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-software-engineering-undergrad-intern_r017102": {
-      "eligible": false,
-      "fingerprint": "f326750f3dcb8140c9c3457836f0b2aad862fda3ad12553e814611b665d33d4b",
-      "revision": 3
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "aerospace",
+        "degrees": [],
+        "locations": [
+          "el segundo, ca"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "2027 software engineering undergrad intern"
+      },
+      "fingerprint": "a967a0170e6c6d19fccc683484ad98c06a0871e795f1a860d0cc6e3dd4e60060",
+      "revision": 4
     },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-software-tools-and-assurance-engineering-grad-intern_r016753": {
       "eligible": false,
@@ -2661,6 +2672,7 @@
         "company": "domino data lab",
         "degrees": [],
         "locations": [
+          "new york, ny",
           "nyc",
           "remote - new york city, ny"
         ],
@@ -2668,10 +2680,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineer intern, campus recruiting"
       },
-      "fingerprint": "c5c6451d9f11041b3a339d86d046cbb69974b7c80df769cbfa5d6dffe9b217c1",
-      "revision": 0
+      "fingerprint": "2741df1c043b4f412a7f40bf0b9e344f7b5934a3ba724607a6027e9d4a578d72",
+      "revision": 1
     },
     "url:https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002": {
       "eligible": false,
@@ -29507,7 +29519,7 @@
       "eligible": true,
       "evidence": {
         "category": "",
-        "company": "invitation-charter",
+        "company": "spectrum",
         "degrees": [],
         "locations": [
           "englewood, co"
@@ -29516,10 +29528,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "2027 summer intern: software engineer"
       },
-      "fingerprint": "6dac6133cca93987ec056cd3c8d5a247dbacaf64ea48d6fb3d3f67ca8e9b518b",
-      "revision": 2
+      "fingerprint": "41915522a0dac9f72649386ae2ceb24d937e7916eb5b62fc4b0a597be0c27ef9",
+      "revision": 3
     },
     "url:https://invitation-charter.icims.com/jobs/82077/job": {
       "eligible": true,
@@ -63034,6 +63046,24 @@
       "fingerprint": "adc459856d251607610b88d60b4261acd0350382f3d24bda4d4befdeb296208c",
       "revision": 1
     },
+    "url:https://www.lgresearch.ai/careers?gh_jid=4130830005": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lg ai research",
+        "degrees": [],
+        "locations": [
+          "ann arbor, mi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai scientist/engineer intern"
+      },
+      "fingerprint": "ba29eeacb38e7fb6db3abbede776627505637de7896c6f0c249b2539a4c6ec73",
+      "revision": 1
+    },
     "url:https://www.mastercontrol.com/careers/job-listings/role?role=4738478005&gh_jid=4738478005": {
       "eligible": false,
       "fingerprint": "fc7ea5d1c6155a10eccda97898e64346c89815d73220491a81c7ef20f1f2876a",
@@ -65647,6 +65677,10 @@
     "https://go.vansh.nyc/1pv": 238,
     "https://go.vansh.nyc/1px": 238,
     "https://go.vansh.nyc/1q0": 242,
+    "https://go.vansh.nyc/1q2": 244,
+    "https://go.vansh.nyc/1q4": 244,
+    "https://go.vansh.nyc/1q5": 244,
+    "https://go.vansh.nyc/1q6": 244,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -66885,6 +66919,10 @@
     "https://go.vansh.nyc/1pv": "https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004",
     "https://go.vansh.nyc/1px": "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4",
     "https://go.vansh.nyc/1q0": "https://lockheedmartin.eightfold.ai/careers/job/996477758184",
+    "https://go.vansh.nyc/1q2": "https://www.lgresearch.ai/careers?gh_jid=4130830005",
+    "https://go.vansh.nyc/1q4": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560",
+    "https://go.vansh.nyc/1q5": "https://job-boards.greenhouse.io/testnisc/jobs/8174088",
+    "https://go.vansh.nyc/1q6": "https://job-boards.greenhouse.io/testnisc/jobs/8174096",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -67541,7 +67579,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 243,
+  "scan_sequence": 244,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
