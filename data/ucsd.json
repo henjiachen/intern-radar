@@ -548,25 +548,9 @@
       "revision": 0
     },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-embedded-software-engineering-undergrad-intern_r016949": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "the aerospace corporation",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "el segundo, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "embedded software engineer intern - multiple teams"
-      },
-      "fingerprint": "5cbcb97ff41f598deb48314cac511e3ed2e55fc9d51e42413a16c9ea38c5b662",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "be089d208d76204fb13f7fa130f3a0b59e03a2f0c381d9bdb189e92ae4291d28",
+      "revision": 2
     },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-network-systems-grad-intern_r016836": {
       "eligible": false,
@@ -24540,8 +24524,7 @@
         "company": "cryptic vector",
         "degrees": [],
         "locations": [
-          "liberty township, oh",
-          "toronto, canada"
+          "liberty township, oh"
         ],
         "requirements": [],
         "terms": [
@@ -24549,8 +24532,8 @@
         ],
         "title": "full stack developer intern"
       },
-      "fingerprint": "65e0e5cb6e0430fb8b1dd22b8aef67de914a8dac116ba6e8724be376c464501e",
-      "revision": 1
+      "fingerprint": "1223c9a108f8c0320e56f5ef1d021e4ad53ea6dbc527823c9fd14d5d1a2c2ddd",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/gv": {
       "eligible": true,
@@ -32266,8 +32249,8 @@
     },
     "url:https://job-boards.greenhouse.io/gitai/jobs/5437128008": {
       "eligible": false,
-      "fingerprint": "58e3711fd8645c0de1c7a2ac7f08bc49aa5b2839864b64a652013a06faed40ba",
-      "revision": 0
+      "fingerprint": "8c8db77811880dd66216c7be892020fd994fdbfc4e62da5e334b7341d8c2ff4d",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/gleanwork/jobs/4747670005": {
       "eligible": true,
@@ -36650,7 +36633,7 @@
           "phd"
         ],
         "locations": [
-          "san jose, ca"
+          "san jose"
         ],
         "requirements": [
           "our chip simulation and tooling role will co-design, develop, and test simulations of our custom hardware and tools that engineers use to analyze those systems. you will be working at the cutting edge of hardware innovation, closely coordinating with both software and hardware teams across their whole development path. we are looking for spring '27, and summer '27 interns."
@@ -36662,8 +36645,8 @@
         ],
         "title": "chip simulation software intern"
       },
-      "fingerprint": "9ff6935879ed5cddcb8ac195adbe576b620d27024dd2c163a22c1712eb4f529e",
-      "revision": 1
+      "fingerprint": "be112b78483b3c660f27bcc8dfbbde480a9a374c5a716ac305c0f80ac62181ac",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc": {
       "eligible": false,
@@ -67558,7 +67541,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 242,
+  "scan_sequence": 243,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
