@@ -17159,6 +17159,26 @@
       "fingerprint": "1f55aff0c51ba26f5dec2e67f7ded33640f30ef71eebbe6910d85062a20e6883",
       "revision": 0
     },
+    "url:https://echo.wd1.myworkdayjobs.com/echo_logistics/job/remote/software-engineering-intern--chicago_r4645-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "echo",
+        "degrees": [],
+        "locations": [
+          "chicago, il",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "fea0d7b352f218f35f90b8163ed61306031593f5949f077c85d81e4ed3cddab6",
+      "revision": 1
+    },
     "url:https://ecmtek.bamboohr.com/careers/51": {
       "eligible": true,
       "evidence": {
@@ -23941,6 +23961,11 @@
       "fingerprint": "40cdd45086acb1a3d45fc444af5d77dfc1362e76e157d76cae2b6c6ccc579ae5",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1rb": {
+      "eligible": false,
+      "fingerprint": "2f65da66d70125f371134d4f6d15bf46cc1b0197f6aecc6212e185652d36eea0",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1ri": {
       "eligible": false,
       "fingerprint": "101070ffa8d82bd758add50dcc0747d46895cd082fcaf6655aa064789069c535",
@@ -24073,6 +24098,11 @@
       "eligible": false,
       "fingerprint": "607d4ff5969544be20545c1a3f995e84122a8832e70e57a0210d33dcef69b45e",
       "revision": 0
+    },
+    "url:https://go.vansh.nyc/4r": {
+      "eligible": false,
+      "fingerprint": "d20eb9541b8ae212b6e63abc86c23cb13fd153796e301f949e76f91f8bda9b8e",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/53": {
       "eligible": false,
@@ -29856,6 +29886,25 @@
       "eligible": false,
       "fingerprint": "d39578fd3ae0223898a89ae5e4a1e79f87c6ad541116ce5e344a3d859d4d5623",
       "revision": 0
+    },
+    "url:https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/st-petersburgtampa-fl/ai-agent-developer-intern--supply-chain-it---ai---enablement-_j2469054": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "jabil",
+        "degrees": [],
+        "locations": [
+          "st. petersburg, fl",
+          "tampa, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai agent developer intern, supply chain it - ai & enablement"
+      },
+      "fingerprint": "02edf2cabcc719fe45f23b39aea6d6e0c88cc9432b866f65acad1a6462938366",
+      "revision": 1
     },
     "url:https://jainglobal.wd5.myworkdayjobs.com/externalsite/job/new-york-new-york/compliance-technology-intern_jr100607": {
       "eligible": false,
@@ -41156,6 +41205,24 @@
       "fingerprint": "58fd78baae0adb2c2f087dd8e08ffa37009ea7828484a868337098e86a34029f",
       "revision": 1
     },
+    "url:https://jobs.dover.com/mason/d9502f47-0735-4749-9282-ba3fefee65c0": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "mason",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineer intern"
+      },
+      "fingerprint": "4dcb2e012a094bf6074b087091075057727e6393f4562f47d35b2081201a76f5",
+      "revision": 1
+    },
     "url:https://jobs.dover.com/metasys/6eda7667-033f-43b1-b3b3-823bb5ab3f3a": {
       "eligible": true,
       "evidence": {
@@ -41326,6 +41393,42 @@
       "fingerprint": "a4b738e83505ae3aab846c194dd18991044bb4cb1f2ee0e369d621966c971662",
       "revision": 1
     },
+    "url:https://jobs.dover.com/semianalysis/fc7fae10-0e48-4c21-bd72-09791d0a308f": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "semianalysis",
+        "degrees": [],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "a60ee2665e0119f28ff468931a606e7b8a14252bdb6a3065bfad5daa308a4840",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/sigiqai/9d3a9bb3-aa1e-48dd-8537-268ef2adaace": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "sigiq.ai",
+        "degrees": [],
+        "locations": [
+          "berkeley, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "machine learning intern/resident"
+      },
+      "fingerprint": "c8c8bad21cf7fedf02e3f84406bd77251bfaaa66c0e1170b97b087e82536040c",
+      "revision": 1
+    },
     "url:https://jobs.dover.com/stealth-startup-enterprise-ai/2c10df67-23b0-4ac3-9a6d-b124d28cbc0a": {
       "eligible": true,
       "evidence": {
@@ -41346,6 +41449,42 @@
       "fingerprint": "06cdf78a9a2df0eb17fd7b614aace3f914b7fc18e734f21efbf20865e5d3d8ed",
       "revision": 1
     },
+    "url:https://jobs.dover.com/substrate/0b6dae53-f196-4ebf-af38-210a24a0a422": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "substrate",
+        "degrees": [],
+        "locations": [
+          "san francisco, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "systems software engineer intern"
+      },
+      "fingerprint": "d3a8ee3d9755ce91ba0ef3eb62eb0a6a09c719b69964a9700f0f130f3938e3a0",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/terrabyte-green/37ae0657-7251-4d81-870e-9e6d21b351a5": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "terrabyte green",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineering intern"
+      },
+      "fingerprint": "c340c1d549ee46832642fceb44e15d6581ea5194335a1dba185059859300fa28",
+      "revision": 1
+    },
     "url:https://jobs.dover.com/uplimit/c7aec592-abea-4db6-92d2-bb61521d2f71": {
       "eligible": true,
       "evidence": {
@@ -41362,6 +41501,24 @@
         "title": "software engineer intern"
       },
       "fingerprint": "ba1c229adf7aa0417d79af1ec177b16e0d79af326baae9202a361a894b404368",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/vooma/9b5d521b-d0f8-45f0-b050-a05ef9dd72aa": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "vooma",
+        "degrees": [],
+        "locations": [
+          "san mateo, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "f4274e421738ead473398429068ccfb0c2e7d25becc152976d71b8f58588c3e3",
       "revision": 1
     },
     "url:https://jobs.ea.com/en_us/careers/jobdetail/ai-enablement-intern-summer-2027/216185": {
@@ -43782,9 +43939,22 @@
       "revision": 0
     },
     "url:https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e": {
-      "eligible": false,
-      "fingerprint": "dd6e8e27ec4608466720a67bcfadf93971b580ffa3931e2913c1d02501028ce0",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "palantir",
+        "degrees": [],
+        "locations": [
+          "denver, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer, intern - connectivity platform and product"
+      },
+      "fingerprint": "a1145b6c7b9db5089ed1f71e5db93de50849392dda2404373305cc86fe8093c7",
+      "revision": 2
     },
     "url:https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb": {
       "eligible": false,
@@ -66731,6 +66901,9 @@
     "https://go.vansh.nyc/1r5": 252,
     "https://go.vansh.nyc/1r7": 252,
     "https://go.vansh.nyc/1r9": 252,
+    "https://go.vansh.nyc/1rA": 253,
+    "https://go.vansh.nyc/1rC": 253,
+    "https://go.vansh.nyc/1rF": 253,
     "https://go.vansh.nyc/1ra": 252,
     "https://go.vansh.nyc/1rb": 252,
     "https://go.vansh.nyc/1rc": 252,
@@ -66740,6 +66913,12 @@
     "https://go.vansh.nyc/1rg": 252,
     "https://go.vansh.nyc/1rh": 252,
     "https://go.vansh.nyc/1rm": 252,
+    "https://go.vansh.nyc/1rs": 253,
+    "https://go.vansh.nyc/1rv": 253,
+    "https://go.vansh.nyc/1rw": 253,
+    "https://go.vansh.nyc/1rx": 253,
+    "https://go.vansh.nyc/1ry": 253,
+    "https://go.vansh.nyc/1rz": 253,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -68006,6 +68185,9 @@
     "https://go.vansh.nyc/1r5": "https://jobs.dover.com/metasys/9721c413-3798-4aef-a3bb-aa4aba5fdc19",
     "https://go.vansh.nyc/1r7": "https://jobs.dover.com/metasys/b37b1761-9e7d-47ea-8bd1-e22435433419",
     "https://go.vansh.nyc/1r9": "https://jobs.dover.com/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e",
+    "https://go.vansh.nyc/1rA": "https://jobs.dover.com/vooma/9b5d521b-d0f8-45f0-b050-a05ef9dd72aa",
+    "https://go.vansh.nyc/1rC": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054",
+    "https://go.vansh.nyc/1rF": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
     "https://go.vansh.nyc/1ra": "https://jobs.dover.com/holiday-world/3fe57939-9964-48c4-a7eb-ce2ee0bb002c",
     "https://go.vansh.nyc/1rb": "https://jobs.dover.com/holiday-world/6f878988-19b0-44d5-bd92-8e9cb9e6fdff",
     "https://go.vansh.nyc/1rc": "https://jobs.dover.com/northwaysports/8cf0ac7e-7fb0-4807-a0c7-348a8f28413a",
@@ -68015,6 +68197,12 @@
     "https://go.vansh.nyc/1rg": "https://jobs.dover.com/operio/c0d270a6-eb23-4837-960f-eacb542a7434",
     "https://go.vansh.nyc/1rh": "https://jobs.dover.com/stealth-startup-enterprise-ai/2c10df67-23b0-4ac3-9a6d-b124d28cbc0a",
     "https://go.vansh.nyc/1rm": "https://jobs.dover.com/uplimit/c7aec592-abea-4db6-92d2-bb61521d2f71",
+    "https://go.vansh.nyc/1rs": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e",
+    "https://go.vansh.nyc/1rv": "https://jobs.dover.com/semianalysis/fc7fae10-0e48-4c21-bd72-09791d0a308f",
+    "https://go.vansh.nyc/1rw": "https://jobs.dover.com/sigiqai/9d3a9bb3-aa1e-48dd-8537-268ef2adaace",
+    "https://go.vansh.nyc/1rx": "https://jobs.dover.com/substrate/0b6dae53-f196-4ebf-af38-210a24a0a422",
+    "https://go.vansh.nyc/1ry": "https://jobs.dover.com/terrabyte-green/37ae0657-7251-4d81-870e-9e6d21b351a5",
+    "https://go.vansh.nyc/1rz": "https://jobs.dover.com/mason/d9502f47-0735-4749-9282-ba3fefee65c0",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -68671,7 +68859,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 252,
+  "scan_sequence": 253,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

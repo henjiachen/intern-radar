@@ -9572,6 +9572,23 @@
       "url": "https://eaton.eightfold.ai/careers/job/687239365640"
     },
     {
+      "company": "Echo",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c1f6ab80e6cb416030a0920e2f455421c32bc2b44acac912502b249c31667d64",
+      "locations": [
+        "Chicago, IL",
+        "Remote",
+        "United States"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1"
+    },
+    {
       "company": "Ecmtek",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -15283,6 +15300,22 @@
       "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006"
     },
     {
+      "company": "Jabil",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2a13ccadc207764f11c4e913ce4665ad4fc8cbb32672167f073f67f26b244324",
+      "locations": [
+        "St. Petersburg, FL",
+        "Tampa, FL"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Agent Developer Intern, Supply Chain IT - AI & Enablement",
+      "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054"
+    },
+    {
       "company": "Jane Street",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -17304,6 +17337,21 @@
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1"
     },
     {
+      "company": "Mason",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "b386e657825f04c7557c94d15bc2da9c110a9b731ac75fbd5ee8b80ccb1ce240",
+      "locations": [
+        "New York, NY"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Engineer Intern",
+      "url": "https://jobs.dover.com/mason/d9502f47-0735-4749-9282-ba3fefee65c0"
+    },
+    {
       "company": "Mativ",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -17991,22 +18039,6 @@
       "source": "simplify",
       "title": "Android Application Developer Intern - Summer 2027",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740"
-    },
-    {
-      "company": "Motorola",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "55a7de31ef8f4eeae8668c6ee9f819b61eec26d92350a62958e1fc56cd524eb7",
-      "locations": [
-        "Schaumburg, IL",
-        "Plantation, FL"
-      ],
-      "posted_at": "2026-09-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Android Platform Software Engineer Intern - Summer 2027",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363"
     },
     {
       "company": "Motorola",
@@ -19898,6 +19930,21 @@
       "company": "palantir",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
+      "id": "c887983fc44dc709e23454bd65de76383735ab3266b41b23a2638d4b5057e7ee",
+      "locations": [
+        "Denver, CO"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Software Engineer, Intern - Connectivity Platform and Product",
+      "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e"
+    },
+    {
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "49a218e59254295e209f10701e5e906550f00a0435d7439278cdb0ca4d18f08c",
       "locations": [
         "New York, NY"
@@ -21536,21 +21583,6 @@
       "source": "vanshb03",
       "title": "Genomics, Computational Biology & Translational Data Science Intern",
       "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Genomics--Computational-Biology---Translational-Data-Science_R52557-1"
-    },
-    {
-      "company": "Regeneron Pharmaceuticals",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "2fd1f2de791b12fd4cc7a9959774f301ce10661f9b9bee50f2a17286c0a61706",
-      "locations": [
-        "Rensselaer, NY"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "IT and Systems Intern - Industrial Operations and Product Supply",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822"
     },
     {
       "company": "Relay",
@@ -23478,6 +23510,21 @@
       "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application?embed=true"
     },
     {
+      "company": "SemiAnalysis",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c67a5abc5d2c674e22047082687986e5253d2d51c70ac3b409193fa9eeb3d733",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data Engineer Intern",
+      "url": "https://jobs.dover.com/semianalysis/fc7fae10-0e48-4c21-bd72-09791d0a308f"
+    },
+    {
       "company": "Sephora",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -24158,6 +24205,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230"
+    },
+    {
+      "company": "SigIQ.ai",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a034504b42dcb17e47484c607ad70e716b5cd7a17a62612a52bc2dbf4323ddfc",
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Machine Learning Intern/Resident",
+      "url": "https://jobs.dover.com/sigiqai/9d3a9bb3-aa1e-48dd-8537-268ef2adaace"
     },
     {
       "company": "Sigma Computing",
@@ -25014,6 +25076,21 @@
       "url": "https://studentsstartups.zohorecruit.com/jobs/careers/771729000005388012"
     },
     {
+      "company": "Substrate",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "6c0cfe1d21091921b4feebe86bc9657adfd22b5316a8c26596ceb0959fa0346a",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Systems Software Engineer Intern",
+      "url": "https://jobs.dover.com/substrate/0b6dae53-f196-4ebf-af38-210a24a0a422"
+    },
+    {
       "company": "Subtotal",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -25072,21 +25149,6 @@
       "source": "vanshb03",
       "title": "Machine Learning Engineering Intern",
       "url": "https://careers.sig.com/jobs/11555"
-    },
-    {
-      "company": "Susquehanna International Group (SIG)",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "e2f3df6f5749484ed434142c5f88f99571f4b4e39cdddccdfe4117c068e677b5",
-      "locations": [
-        "Ardmore, PA"
-      ],
-      "posted_at": "2026-06-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Electricity + Natural Gas Analyst Intern",
-      "url": "https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false"
     },
     {
       "company": "Susquehanna International Group (SIG)",
@@ -25744,6 +25806,21 @@
       "source": "vanshb03",
       "title": "Systems Intern, Validation, Software, Design, Architecture & Packaging",
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007"
+    },
+    {
+      "company": "TerraByte Green",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "7d5313e73d4bee67dc24af8c75ee9f7196d3a9b32fb1b3c1a3d198dea4262051",
+      "locations": [
+        "United States"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Engineering Intern",
+      "url": "https://jobs.dover.com/terrabyte-green/37ae0657-7251-4d81-870e-9e6d21b351a5"
     },
     {
       "company": "Terranova",
@@ -29457,6 +29534,21 @@
       "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Digital-Collaboration---Data-Insights_35969R"
     },
     {
+      "company": "Vooma",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "fc0280a83ce2905318cf9d154893ff85e6d4d6a814c7f0d04e54dcc6d31ae32d",
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.dover.com/vooma/9b5d521b-d0f8-45f0-b050-a05ef9dd72aa"
+    },
+    {
       "company": "Voyager Technologies",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -30356,7 +30448,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-10T17:07:20.912188+00:00",
+  "last_checked": "2026-11-10T17:58:20.396308+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
