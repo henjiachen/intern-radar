@@ -15315,6 +15315,21 @@
       "company": "Johns Hopkins APL",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "9ae144605db4a4576dc09d725ba5e34a6e1171aa1ca8ce261e23a5c5b6c99933",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI & Data Science Intern, Analytic Capabilities",
+      "url": "https://careers.jhuapl.edu/jobs/60008"
+    },
+    {
+      "company": "Johns Hopkins APL",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "85886a2d070169e51a6e0dba150466422b65a6481155071fbac49293636d30fe",
       "locations": [
         "Laurel, MD"
@@ -15817,6 +15832,21 @@
       "url": "https://jobs.keysight.com/jobs/54319?icims=1"
     },
     {
+      "company": "Kiewit",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "fd2051a8c0f4db4854a812b1cd8ea143f6aae34e87ba410dff5fe985a6742e99",
+      "locations": [
+        "Omaha, NE"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Machine Learning Intern, Kiewit Data Services",
+      "url": "https://kiewitcareers.kiewit.com/job/Omaha-Machine-Learning-Intern-Kiewit-Data-Services-%28Summer-2027%29-NE-68046/1449066200"
+    },
+    {
       "company": "Kinder Morgan",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -16208,6 +16238,21 @@
       "url": "https://careers.l3harris.com/en/job/bristol/software-engineering-intern/4832/100436665344"
     },
     {
+      "company": "L3Harris Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ce89c08aef41caccf869349c1b7fa429f55d6cf6829514c0547bd51d04b00556",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.l3harris.com/en/job/rochester/software-engineering-intern/4832/100436664928"
+    },
+    {
       "company": "LabCorp",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -16514,6 +16559,22 @@
       "company": "Lockheed Martin",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "568c7bc3e7cc14d0c276e1c6626f091983bc459b2d73e0c40d09768e105fe6d5",
+      "locations": [
+        "Bethesda, MD",
+        "Rockville, MD"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://lockheedmartin.eightfold.ai/careers/job/996477337950"
+    },
+    {
+      "company": "Lockheed Martin",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "5af6ee2970c009bcebeb78d561307ce6a7439a47285cfbd402e3b661fe8b1a73",
       "locations": [
         "Huntsville, AL"
@@ -16554,6 +16615,21 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://lockheedmartin.eightfold.ai/careers/job/996477472018"
+    },
+    {
+      "company": "Lockheed Martin",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5bb9765cf299185682dd31c6353cc728ef5853b8220aaf383515496cc4eec078",
+      "locations": [
+        "Mt Laurel Township, NJ"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://lockheedmartin.eightfold.ai/careers/job/996477758184"
     },
     {
       "company": "Los Alamos National Laboratory",
@@ -29801,7 +29877,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-10T04:05:11.643216+00:00",
+  "last_checked": "2026-11-10T05:07:48.573338+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

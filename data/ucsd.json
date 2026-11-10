@@ -11887,6 +11887,24 @@
       "fingerprint": "2063209dab50299133f121c82965d7b2699776f8eeb7297a4dfd701ed20777f2",
       "revision": 0
     },
+    "url:https://careers.jhuapl.edu/jobs/60008": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "johns hopkins apl",
+        "degrees": [],
+        "locations": [
+          "laurel, md"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai & data science intern, analytic capabilities"
+      },
+      "fingerprint": "98d9c77428582873c2b4686d321abbc93d06d7d5bf1dd57c6cfc027be905b4ca",
+      "revision": 1
+    },
     "url:https://careers.jhuapl.edu/jobs/60223?icims=1": {
       "eligible": true,
       "evidence": {
@@ -12157,6 +12175,24 @@
         "title": "software engineering intern"
       },
       "fingerprint": "4bc169be3b574a4fd2e4fe187f937112ef8424ff88e42a7d1be3971b8b0e36a2",
+      "revision": 1
+    },
+    "url:https://careers.l3harris.com/en/job/rochester/software-engineering-intern/4832/100436664928": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "l3harris technologies",
+        "degrees": [],
+        "locations": [
+          "rochester, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "49453dea874822bbf985bed324287ba940bc0e3b1348418bdd470687e697923c",
       "revision": 1
     },
     "url:https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101765422480": {
@@ -23738,6 +23774,11 @@
     "url:https://go.vansh.nyc/1py": {
       "eligible": false,
       "fingerprint": "e07056b8a9a60244a032eeea11e2d998bc13d3d2f68ed832d3b03795244ee013",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1q1": {
+      "eligible": false,
+      "fingerprint": "27688ac6444609659e88d3f348855116da76a98f855319a3a7331f2cf7b9824d",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1s": {
@@ -46460,6 +46501,24 @@
       "fingerprint": "e81113c533cb0448179f510a5bb0e167f931f8d46f7497f6ac37117c5a7bc2d9",
       "revision": 0
     },
+    "url:https://kiewitcareers.kiewit.com/job/omaha-machine-learning-intern-kiewit-data-services-%28summer-2027%29-ne-68046/1449066200": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "kiewit",
+        "degrees": [],
+        "locations": [
+          "omaha, ne"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "machine learning intern, kiewit data services"
+      },
+      "fingerprint": "8f1f5459d4cac78860274b7e2dbf2a586f961698a76ebb40772af3f897e3d067",
+      "revision": 1
+    },
     "url:https://kinaxis.jibeapply.com/jobs/35297?icims=1": {
       "eligible": false,
       "fingerprint": "567cb55fd4e35d3326f568e8391ad32920dab03eda7a5b7bb240709a70a06505",
@@ -50038,6 +50097,25 @@
       "fingerprint": "de79ce27b9bdbdd95e4b310e049c28ce2898f7ad8f89de0263cc8c28d4be5bda",
       "revision": 2
     },
+    "url:https://lockheedmartin.eightfold.ai/careers/job/996477337950": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lockheed martin",
+        "degrees": [],
+        "locations": [
+          "bethesda, md",
+          "rockville, md"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development intern"
+      },
+      "fingerprint": "ce5f872b32a0391fa0e3962da8185b1c96af7c04003823070915bfe4daa620d1",
+      "revision": 1
+    },
     "url:https://lockheedmartin.eightfold.ai/careers/job/996477427840": {
       "eligible": true,
       "evidence": {
@@ -50090,6 +50168,24 @@
         "title": "software engineer intern"
       },
       "fingerprint": "637f8bf8a62e22702ea2347aa2570364a7e6a15df3c5fec317e4766d5ea0f4df",
+      "revision": 1
+    },
+    "url:https://lockheedmartin.eightfold.ai/careers/job/996477758184": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lockheed martin",
+        "degrees": [],
+        "locations": [
+          "mt laurel township, nj"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "6c7081730eab683a2e5f3901eb6d143fea18bf17f63d04128820a7478390c874",
       "revision": 1
     },
     "url:https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/lowes-charlotte-technology-hub-3505/exploratory-software-engineering---undergrad-internship---summer-2027_jr-02623542": {
@@ -65554,6 +65650,10 @@
     "https://go.vansh.nyc/1pL": 239,
     "https://go.vansh.nyc/1pM": 240,
     "https://go.vansh.nyc/1pR": 241,
+    "https://go.vansh.nyc/1pW": 242,
+    "https://go.vansh.nyc/1pX": 242,
+    "https://go.vansh.nyc/1pY": 242,
+    "https://go.vansh.nyc/1pZ": 242,
     "https://go.vansh.nyc/1pb": 236,
     "https://go.vansh.nyc/1ph": 236,
     "https://go.vansh.nyc/1pn": 238,
@@ -65563,6 +65663,7 @@
     "https://go.vansh.nyc/1pt": 238,
     "https://go.vansh.nyc/1pv": 238,
     "https://go.vansh.nyc/1px": 238,
+    "https://go.vansh.nyc/1q0": 242,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -66787,6 +66888,10 @@
     "https://go.vansh.nyc/1pL": "https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8",
     "https://go.vansh.nyc/1pM": "https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e",
     "https://go.vansh.nyc/1pR": "https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881",
+    "https://go.vansh.nyc/1pW": "https://careers.jhuapl.edu/jobs/60008",
+    "https://go.vansh.nyc/1pX": "https://kiewitcareers.kiewit.com/job/Omaha-Machine-Learning-Intern-Kiewit-Data-Services-%28Summer-2027%29-NE-68046/1449066200",
+    "https://go.vansh.nyc/1pY": "https://careers.l3harris.com/en/job/rochester/software-engineering-intern/4832/100436664928",
+    "https://go.vansh.nyc/1pZ": "https://lockheedmartin.eightfold.ai/careers/job/996477337950",
     "https://go.vansh.nyc/1pb": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336",
     "https://go.vansh.nyc/1ph": "https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016-1",
     "https://go.vansh.nyc/1pn": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005",
@@ -66796,6 +66901,7 @@
     "https://go.vansh.nyc/1pt": "https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003",
     "https://go.vansh.nyc/1pv": "https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004",
     "https://go.vansh.nyc/1px": "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4",
+    "https://go.vansh.nyc/1q0": "https://lockheedmartin.eightfold.ai/careers/job/996477758184",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -67452,7 +67558,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 241,
+  "scan_sequence": 242,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
