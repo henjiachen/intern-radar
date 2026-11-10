@@ -44238,6 +44238,128 @@
       "fingerprint": "02eb11fdc4fd9977fae930b05df07724f2fcd68ba56801c4c6a97013edae1b73",
       "revision": 0
     },
+    "url:https://jobs.selective.com/jobs/5689?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "selective insurance",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "charlotte, nc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it information management intern"
+      },
+      "fingerprint": "3bbeee63e651607e730c78264250b7301d7b96e2c5ee973a684205079fc7cb8c",
+      "revision": 1
+    },
+    "url:https://jobs.selective.com/jobs/5701?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "selective insurance",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "charlotte, nc",
+          "hartford, ct"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it commercial lines summer intern"
+      },
+      "fingerprint": "d40c38264cb9262dbd5aaa86bd7a9e6efdb694d705b8b3d6b9f5292dac72eb0b",
+      "revision": 1
+    },
+    "url:https://jobs.selective.com/jobs/5707?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "selective insurance",
+        "degrees": [],
+        "locations": [
+          "branchville, nj"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "business intelligence & insights intern"
+      },
+      "fingerprint": "b1112bfc4c5632cd8d05e8ecb371ce5b28c5e131612b10873cef062692e326c6",
+      "revision": 1
+    },
+    "url:https://jobs.selective.com/jobs/5750?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "selective insurance",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "charlotte, nc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it claims application delivery intern"
+      },
+      "fingerprint": "abd7df86a2844d326d9cce9b301a6d1a695e53273757b7467840227855ffd248",
+      "revision": 1
+    },
+    "url:https://jobs.selective.com/jobs/5757?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "selective insurance",
+        "degrees": [],
+        "locations": [
+          "charlotte, nc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it information management intern"
+      },
+      "fingerprint": "e1a61d7a539006bf5f9217ae553c00bef82ba13a42974f84e2a464c31d626f71",
+      "revision": 1
+    },
+    "url:https://jobs.selective.com/jobs/5777?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "selective insurance",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "short hills, millburn, nj"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it information management intern"
+      },
+      "fingerprint": "1f8994bea2e7b76d61e63cb7e92657b41877dcdcf301f600af4a6a7af145d442",
+      "revision": 1
+    },
+    "url:https://jobs.selective.com/jobs/5778?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "4304501ebbea5e234c7e3f55e2cca5baa6f27dd6b78a3567cf059b1d08815068",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/abbvie/3743990014697918": {
       "eligible": true,
       "evidence": {
@@ -51658,8 +51780,8 @@
     },
     "url:https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/torrance-ca/intern--software-engineering_r-26-19948": {
       "eligible": false,
-      "fingerprint": "49fb2499cd37548a052afb25348d9e1763dd2c73deb0c9233f8841eca233e696",
-      "revision": 2
+      "fingerprint": "1aedc7e93291891d760ab6fc90dd503bf8aa5e41f4b374357c52174476beadfc",
+      "revision": 3
     },
     "url:https://mosaic.wd5.myworkdayjobs.com/mosaic/job/us---tampa-fl-lithia-area/artificial-intelligence-co-op-intern---spring-2027_64729": {
       "eligible": false,
@@ -60410,6 +60532,31 @@
       "fingerprint": "f15ae0fd97c01213807ede9f75cd8fe647162cbf58fe49ba0692ca3cf8b30bea",
       "revision": 1
     },
+    "url:https://us-envoyair.icims.com/jobs/13086/job": {
+      "eligible": false,
+      "fingerprint": "f28e7f2e3b20bef034d57fc0394066b84c5a250080893a28bad3976120b35c39",
+      "revision": 1
+    },
+    "url:https://us-envoyair.icims.com/jobs/13089/job": {
+      "eligible": false,
+      "fingerprint": "8e4611626f08f26366692a1b0d1b9e832ba915779f5d8c19a72f84520078ce33",
+      "revision": 1
+    },
+    "url:https://us-envoyair.icims.com/jobs/13091/job": {
+      "eligible": false,
+      "fingerprint": "5a40254ae572dd56d8ada4ecf4a0f9bf6bd40e213f2e58d48c77559928a76339",
+      "revision": 1
+    },
+    "url:https://us-envoyair.icims.com/jobs/13094/job": {
+      "eligible": false,
+      "fingerprint": "318da27390df527e64fdb3df379d8c9d46c5435f019260d75c3386099b669679",
+      "revision": 1
+    },
+    "url:https://us-envoyair.icims.com/jobs/13099/job": {
+      "eligible": false,
+      "fingerprint": "60a0031ccb1a7c569be3450616b96166d62dabf41fd48580d56d4080e3b0298c",
+      "revision": 1
+    },
     "url:https://us-erac.icims.com/jobs/566721/job": {
       "eligible": true,
       "evidence": {
@@ -64639,6 +64786,11 @@
       "fingerprint": "4bc7a69e7be257a26783f3b6772268e7afa61f09c217dc3d6a8d77e6e5221213",
       "revision": 1
     },
+    "url:https://www.tesla.com/careers/search/job/289480": {
+      "eligible": false,
+      "fingerprint": "22533fac05565b8a2e3b0f39e4e36f85800a9a50361ad2f7c080a6e3cbc65b86",
+      "revision": 1
+    },
     "url:https://www.tower-research.ca/postes-vacants?gh_jid=8212194": {
       "eligible": false,
       "fingerprint": "621dee5058e5d1cc9aaefd86e69519ad003dfcb3750f5d75bc5cb573ac6500f8",
@@ -67741,7 +67893,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 246,
+  "scan_sequence": 247,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
