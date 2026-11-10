@@ -10090,7 +10090,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "riverside research",
+        "company": "riverside research institute",
         "degrees": [
           "bachelor's",
           "master's"
@@ -10104,8 +10104,8 @@
         ],
         "title": "software applications intern"
       },
-      "fingerprint": "edd98d4c16f8eee2683dc9be618d7816c7cb8409669ea8323c5278c3cad2f620",
-      "revision": 3
+      "fingerprint": "4b5d8b2e1ead9bdfe53cdb9ec8e60e1330cd577dbd55db6a170d015ebabc6e93",
+      "revision": 4
     },
     "url:https://careers-sas.icims.com/jobs/42786/job": {
       "eligible": false,
@@ -10874,25 +10874,9 @@
       "revision": 2
     },
     "url:https://careers.arcfield.com/jobs/8759?icims=1": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "arcfield",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "middletown, ri"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer-on call intern"
-      },
-      "fingerprint": "ad352f29a27ddeac669d3ee8077f66a821970a1d028b92b88ecc78ac167ee2b4",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "6bf35ef1beddeefe433728832e997c278196c99adee3324107d6be731dbe3a5a",
+      "revision": 2
     },
     "url:https://careers.axa.com/jobs/25497?icims=1": {
       "eligible": true,
@@ -47836,26 +47820,9 @@
       "revision": 0
     },
     "url:https://lifeattiktok.com/search/7629500062003218741": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "tiktok",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2026",
-          "summer 2027"
-        ],
-        "title": "software engineer project intern - recommendation infrastructure"
-      },
-      "fingerprint": "2699b668d09e7f6c41eba637916d80d0814e9421b660b6623e92ed254af76a1c",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "09a8fc06869b10871ac223eca3d5fbd9507bead576ad716d5f0c7988902846c7",
+      "revision": 2
     },
     "url:https://lifeattiktok.com/search/7630767896739154229": {
       "eligible": false,
@@ -53212,6 +53179,24 @@
       "fingerprint": "e7f424f5380ad96a84c64bfaf200a1390b4c0a0cc263839a6498aec98a6dc1b0",
       "revision": 0
     },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/ai-operations-intern--ai-clouds---summer-2027_jr2029119-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nvidia",
+        "degrees": [],
+        "locations": [
+          "santa clara, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai operations intern, ai clouds"
+      },
+      "fingerprint": "e37c4792fb0c37e172b46eeb6ea7f9389530a391a21a80415126bac296f544d5",
+      "revision": 1
+    },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/applied-deep-learning-phd-research-intern--reinforcement-learning-for-llms---fall-2026_jr2012398": {
       "eligible": false,
       "fingerprint": "e8f71b3715d12a87e473a5aae16563a1e6b648d43e97df8d9f235b1bd5c64dad",
@@ -57018,6 +57003,11 @@
       "eligible": false,
       "fingerprint": "a5ad994f94d00e4be7695e026c1524f0e13792514af47f2af558e2151166024e",
       "revision": 2
+    },
+    "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---palo-alto/summer-2027-intern---ai-foundry-incubation_jr366655": {
+      "eligible": false,
+      "fingerprint": "babb95bd5d94a11f83b871abc46bb05dc51d7a5415b93d73b115e0bbc588cf05",
+      "revision": 1
     },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---palo-alto/summer-2027-intern---ai-research_jr365111-1": {
       "eligible": false,
@@ -61188,10 +61178,11 @@
     "url:https://veteransunited.wd1.myworkdayjobs.com/vuhl/job/remote-mo/intern---software-engineer---summer-2027_r6249": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "veterans united home loans",
         "degrees": [],
         "locations": [
+          "missouri",
           "remote",
           "united states"
         ],
@@ -61201,8 +61192,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "ae23a2092544bd5f97a1938d13cb8ed09db0c7f602065fedfb78eae21b485311",
-      "revision": 1
+      "fingerprint": "f8708bc49103bdf761b9b233c311661cba064f6504634878d3ca3dc4bf07ece6",
+      "revision": 2
     },
     "url:https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity": {
       "eligible": false,
@@ -66054,6 +66045,7 @@
     "https://go.vansh.nyc/1qf": 248,
     "https://go.vansh.nyc/1qg": 248,
     "https://go.vansh.nyc/1qh": 248,
+    "https://go.vansh.nyc/1qq": 250,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -67300,6 +67292,7 @@
     "https://go.vansh.nyc/1qf": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007",
     "https://go.vansh.nyc/1qg": "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002",
     "https://go.vansh.nyc/1qh": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
+    "https://go.vansh.nyc/1qq": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -67956,7 +67949,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 249,
+  "scan_sequence": 250,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

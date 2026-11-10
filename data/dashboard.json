@@ -170,6 +170,21 @@
       "company": "NVIDIA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "2c4d8ba23dbf0d0883bee333c3583be4fe094c20025b539d72c7ee8392c76882",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 7,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Operations Intern, AI Clouds",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1"
+    },
+    {
+      "company": "NVIDIA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "154b8519884188556032981094bfc70b4f7c49926385df01968c4b00dcc4e0a2",
       "locations": [
         "Austin, TX"
@@ -3199,21 +3214,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257176007"
-    },
-    {
-      "company": "Arcfield",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "0fca83cf1b8ee6ab3f6d90ff7a4822cf7cfe4b44900e7d3b91609a1d68bf418a",
-      "locations": [
-        "Middletown, RI"
-      ],
-      "posted_at": "2026-10-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer-On Call Intern",
-      "url": "https://careers.arcfield.com/jobs/8759?icims=1"
     },
     {
       "company": "Arconic",
@@ -15480,22 +15480,6 @@
       "company": "Johnson & Johnson",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "e89f9bf6930a372bc7a51b45f95e1fceb530c396d3e668d7fa459e5b1f21174f",
-      "locations": [
-        "Spring House, PA",
-        "Raritan, NJ"
-      ],
-      "posted_at": "2026-10-12",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "IDAR Summer Intern - Ease",
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/IDAR-Summer-Intern--EASE-_R-102328"
-    },
-    {
-      "company": "Johnson & Johnson",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "bc87ae7041c6119efcde6fa083100f069177db95c2641e5c0c12ad917777730f",
       "locations": [
         "Cincinnati, OH"
@@ -21582,19 +21566,19 @@
       "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"
     },
     {
-      "company": "Riverside Research",
+      "company": "Riverside Research Institute",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
       "id": "d11ee71ddbaadd3ff71833f36002abf7e4c851af85569479429186402d12c9f5",
       "locations": [
         "Fairborn, OH"
       ],
-      "posted_at": "2026-11-05",
+      "posted_at": "2026-11-06",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "speedyapply",
       "title": "Software Applications Intern",
-      "url": "https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false"
+      "url": "https://careers-riversideresearch.icims.com/jobs/4461/software-applications-intern/job"
     },
     {
       "company": "Rivian",
@@ -27534,21 +27518,6 @@
       "url": "https://lifeattiktok.com/search/7584179082162653445"
     },
     {
-      "company": "TikTok",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "165c229981de90d63fbdb097f1bc52f957a62616d42ddae62fc4dcc380205ba2",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "posted_at": "2026-04-20",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Project Intern - Recommendation Infrastructure",
-      "url": "https://lifeattiktok.com/search/7629500062003218741"
-    },
-    {
       "company": "Tinder",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -28940,20 +28909,19 @@
       "url": "https://ats.rippling.com/veryable-careers/jobs/87c0311c-cd08-449c-8353-03c48314e4cb"
     },
     {
-      "company": "Veterans United Home Loans",
+      "company": "Veterans United",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
       "id": "67878f1235f8c17ab4ddccb14531c2afef7bfccdb661d956420703e3bb643d4a",
       "locations": [
-        "Remote",
-        "United States"
+        "Missouri"
       ],
-      "posted_at": "2026-10-06",
+      "posted_at": "2026-09-28",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Software Engineer Intern",
-      "url": "https://veteransunited.wd1.myworkdayjobs.com/vuhl/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249"
+      "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249"
     },
     {
       "company": "Viam",
@@ -29984,7 +29952,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-10T13:22:14.762643+00:00",
+  "last_checked": "2026-11-10T15:04:40.945230+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
