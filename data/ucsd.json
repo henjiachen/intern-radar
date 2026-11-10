@@ -29748,6 +29748,11 @@
       "fingerprint": "7d299d41ff93f665603ecf7336e89d271996eb7578ea3cfbc01cc1c947e24a2d",
       "revision": 0
     },
+    "url:https://jj.wd5.myworkdayjobs.com/jj/job/cambridge-massachusetts-united-states-of-america/post-doc---ai-ml-and-optimization_r-106767-2": {
+      "eligible": false,
+      "fingerprint": "e62d634b05cfb5c4bf641a825592d38a4b144424a4e5f641cbad104f1eedfa77",
+      "revision": 1
+    },
     "url:https://jj.wd5.myworkdayjobs.com/jj/job/cincinnati-ohio-united-states-of-america/data-science-co-op--summer-2027_r-096746": {
       "eligible": true,
       "evidence": {
@@ -65836,6 +65841,7 @@
     "https://go.vansh.nyc/1q4": 244,
     "https://go.vansh.nyc/1q5": 244,
     "https://go.vansh.nyc/1q6": 244,
+    "https://go.vansh.nyc/1qb": 246,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -67078,6 +67084,7 @@
     "https://go.vansh.nyc/1q4": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560",
     "https://go.vansh.nyc/1q5": "https://job-boards.greenhouse.io/testnisc/jobs/8174088",
     "https://go.vansh.nyc/1q6": "https://job-boards.greenhouse.io/testnisc/jobs/8174096",
+    "https://go.vansh.nyc/1qb": "https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -67734,7 +67741,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 245,
+  "scan_sequence": 246,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
