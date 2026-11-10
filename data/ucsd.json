@@ -23966,14 +23966,9 @@
       "fingerprint": "2f65da66d70125f371134d4f6d15bf46cc1b0197f6aecc6212e185652d36eea0",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1ri": {
+    "url:https://go.vansh.nyc/1rh": {
       "eligible": false,
-      "fingerprint": "101070ffa8d82bd758add50dcc0747d46895cd082fcaf6655aa064789069c535",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1rj": {
-      "eligible": false,
-      "fingerprint": "f267e17943db98c16b96b2c973f2d2817abf5af2709696de1da1c29a9587a785",
+      "fingerprint": "d6ee0df45588e8a2e0c52dd35d95035f465530e50506c8da7f4e8a9979ddd9e5",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1rl": {
@@ -29752,6 +29747,24 @@
       "fingerprint": "41915522a0dac9f72649386ae2ceb24d937e7916eb5b62fc4b0a597be0c27ef9",
       "revision": 3
     },
+    "url:https://invitation-charter.icims.com/jobs/81912/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "invitation-charter",
+        "degrees": [],
+        "locations": [
+          "greenwood village, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "353d020989281d0bce2a88853bae6708acdc34277af957832d00c4fe5ac7734c",
+      "revision": 1
+    },
     "url:https://invitation-charter.icims.com/jobs/82077/job": {
       "eligible": true,
       "evidence": {
@@ -33239,8 +33252,8 @@
     },
     "url:https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003": {
       "eligible": false,
-      "fingerprint": "a6d63ea439ef68ad409deead73f21f20289e3f0852aa101925d0cdb83d9ae753",
-      "revision": 0
+      "fingerprint": "72109b683adca77f91f4ed5fd96efe2b978dd7c99d9db2a09150612ad89b713a",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003": {
       "eligible": false,
@@ -37436,17 +37449,16 @@
           "master's"
         ],
         "locations": [
-          "new york city, ny",
-          "nyc"
+          "new york city, ny"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern - summer 2027"
       },
-      "fingerprint": "22900f4ff0454dc1ca9e58813522a07be8b7146c4cebc9b9f8c42b4857c5dd9c",
-      "revision": 2
+      "fingerprint": "f74919c653c1dc0aa1c99d266f790c78fc5efe5e3f5dbbdead95c1245ab29164",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584": {
       "eligible": true,
@@ -44417,8 +44429,8 @@
     },
     "url:https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f": {
       "eligible": false,
-      "fingerprint": "543e94ab08683fc848f4ed5877d30615dfef7fbde89ef3bfb26bf448eab951aa",
-      "revision": 0
+      "fingerprint": "9d9a481698761da07b8696f18d71fe071c8534e31a5c426693947611d51c566d",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424": {
       "eligible": false,
@@ -44434,6 +44446,24 @@
       "eligible": false,
       "fingerprint": "cfb2f8f0570c4572f3a741d4016245b1704a5ce362f91663433b2bd60e326f49",
       "revision": 2
+    },
+    "url:https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tri",
+        "degrees": [],
+        "locations": [
+          "los altos, ca"
+        ],
+        "requirements": [
+          "this is a summer 2027 paid 12-week internship opportunity. please note that this internship will be a hybrid in-office role."
+        ],
+        "terms": [],
+        "title": "human-centered ai research intern, causal reasoning models (summer 2027)"
+      },
+      "fingerprint": "cf609d8502869f309253515315ceb795f45b9f932b52bb6cdeef4ce81ed8e1e1",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e": {
       "eligible": false,
@@ -48043,26 +48073,9 @@
       "revision": 1
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineering-intern_2641581": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "kla",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "milpitas, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2026",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "d4e495064720bbf4e2967092477117cfdb7d65a991363a4e14149bf8052d3363",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "48d5c704efc58ada8a4e07db4bd73126e2f8c394692d3f7d12f4be1df26cb7ea",
+      "revision": 2
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineering-intern_2642189": {
       "eligible": false,
@@ -53626,25 +53639,9 @@
       "revision": 2
     },
     "url:https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/usa---rhode-island---east-providence/intern--software-engineering-_req53006": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "nordson",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "east providence, ri"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027",
-          "winter 2026"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "ac5b4565afd836d81d29f42c920a5b102710ad4ab6675ddc503a6f7ca4aac2fb",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "504444d52eb0f3e778c53c26f4f00f547e5e554512f066d4929ab5789b31b580",
+      "revision": 2
     },
     "url:https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/milwaukee-wi-corporate/enterprise-sustainability---impact-intern---modeling---analytics--summer-2027_jr-46171": {
       "eligible": false,
@@ -57770,8 +57767,8 @@
     },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---palo-alto/summer-2027-intern---ai-foundry-incubation_jr366655": {
       "eligible": false,
-      "fingerprint": "babb95bd5d94a11f83b871abc46bb05dc51d7a5415b93d73b115e0bbc588cf05",
-      "revision": 1
+      "fingerprint": "fa5b521300b1a3354d76204b5afa7de7e864c81e338ce97f6b70dc68ee2ce146",
+      "revision": 2
     },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---palo-alto/summer-2027-intern---ai-research_jr365111-1": {
       "eligible": false,
@@ -66904,6 +66901,7 @@
     "https://go.vansh.nyc/1rA": 253,
     "https://go.vansh.nyc/1rC": 253,
     "https://go.vansh.nyc/1rF": 253,
+    "https://go.vansh.nyc/1rK": 254,
     "https://go.vansh.nyc/1ra": 252,
     "https://go.vansh.nyc/1rb": 252,
     "https://go.vansh.nyc/1rc": 252,
@@ -68188,6 +68186,7 @@
     "https://go.vansh.nyc/1rA": "https://jobs.dover.com/vooma/9b5d521b-d0f8-45f0-b050-a05ef9dd72aa",
     "https://go.vansh.nyc/1rC": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054",
     "https://go.vansh.nyc/1rF": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
+    "https://go.vansh.nyc/1rK": "https://invitation-charter.icims.com/jobs/81912/2027-summer-intern%3a-software-engineer/job",
     "https://go.vansh.nyc/1ra": "https://jobs.dover.com/holiday-world/3fe57939-9964-48c4-a7eb-ce2ee0bb002c",
     "https://go.vansh.nyc/1rb": "https://jobs.dover.com/holiday-world/6f878988-19b0-44d5-bd92-8e9cb9e6fdff",
     "https://go.vansh.nyc/1rc": "https://jobs.dover.com/northwaysports/8cf0ac7e-7fb0-4807-a0c7-348a8f28413a",
@@ -68859,7 +68858,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 253,
+  "scan_sequence": 254,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
