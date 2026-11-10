@@ -579,25 +579,9 @@
       "revision": 1
     },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-software-engineering-undergrad-intern_r017102": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "the aerospace corporation",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "el segundo, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern - software process and architecture department - information systems and cyber division"
-      },
-      "fingerprint": "41c864ab38f3640cf7fde011d8f86b208884ac41bf5767bcdba32e31ffcb3043",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "f326750f3dcb8140c9c3457836f0b2aad862fda3ad12553e814611b665d33d4b",
+      "revision": 3
     },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-software-tools-and-assurance-engineering-grad-intern_r016753": {
       "eligible": false,
@@ -1407,6 +1391,11 @@
     "url:https://altera.wd1.myworkdayjobs.com/altera/job/toronto-ontario-canada/fpga-development-tools---intern_r03394": {
       "eligible": false,
       "fingerprint": "a367eef8d0dd10bd9e77c16fbb554396c938d6cfa5279be699c21b62f3a4f613",
+      "revision": 1
+    },
+    "url:https://altera.wd1.myworkdayjobs.com/altera/job/toronto-ontario-canada/software-engineer----intern_r03414": {
+      "eligible": false,
+      "fingerprint": "a28d2c7e02cb107216573abac53de84dea0719b111310ed2a5008677ef8ef0fe",
       "revision": 1
     },
     "url:https://altera.wd1.myworkdayjobs.com/altera/job/toronto-ontario-canada/software-engineer---factory-apps---intern_r03384": {
@@ -26057,6 +26046,11 @@
       "fingerprint": "e5295a7d0f73c5d480e7f334886faa2c33903b54b7334ed1a71c64f929b6a14f",
       "revision": 0
     },
+    "url:https://hctz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/2507010": {
+      "eligible": false,
+      "fingerprint": "9a029bf44b44eb5b8b14db0439161b619f19c36c581a305314f90703932067de",
+      "revision": 1
+    },
     "url:https://hctz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/2507070": {
       "eligible": true,
       "evidence": {
@@ -38225,6 +38219,11 @@
       "eligible": false,
       "fingerprint": "81911cc0dfb0fc1e9b3845b05afc8280b900bce75408a8ebd89852ac6cc59af2",
       "revision": 0
+    },
+    "url:https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa": {
+      "eligible": false,
+      "fingerprint": "c35e29b0f1e80e5a9f50c11b974dc997b698a75c9901d3afb7fc272075ca5388",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/regent/c32af35c-d7bc-4124-834b-7d35cf51dc7b": {
       "eligible": false,
@@ -59641,20 +59640,24 @@
     "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---or-lake-oswego/software-engineer-intern_r58171": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "trimble",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
-          "lake oswego, or"
+          "lake oswego, or",
+          "portland, or"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "35c2eea458bd0a382c3e3846848666c0cadbfa6a617f186227ce59164709c6d4",
-      "revision": 1
+      "fingerprint": "915a159b0e0bc6b1a32764af730dab7db2bd92a8113ce22451c8de19e2bf488c",
+      "revision": 2
     },
     "url:https://trustage.wd1.myworkdayjobs.com/trustage/job/madison-wi/it---innovation---ai-technology-internship--hybrid-_r-012293": {
       "eligible": true,
@@ -65550,6 +65553,7 @@
     "https://go.vansh.nyc/1pK": 239,
     "https://go.vansh.nyc/1pL": 239,
     "https://go.vansh.nyc/1pM": 240,
+    "https://go.vansh.nyc/1pR": 241,
     "https://go.vansh.nyc/1pb": 236,
     "https://go.vansh.nyc/1ph": 236,
     "https://go.vansh.nyc/1pn": 238,
@@ -66782,6 +66786,7 @@
     "https://go.vansh.nyc/1pK": "https://jobs.keysight.com/jobs/55093?icims=1&lang=en-us",
     "https://go.vansh.nyc/1pL": "https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8",
     "https://go.vansh.nyc/1pM": "https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e",
+    "https://go.vansh.nyc/1pR": "https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881",
     "https://go.vansh.nyc/1pb": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336",
     "https://go.vansh.nyc/1ph": "https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016-1",
     "https://go.vansh.nyc/1pn": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005",
@@ -67447,7 +67452,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 240,
+  "scan_sequence": 241,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
