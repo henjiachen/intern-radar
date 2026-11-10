@@ -1013,6 +1013,21 @@
       "company": "Aerospace",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "9a6f5daaceff4ad1b0fb8dc89cd2b8a373a778fec87399490ff9099974bfd361",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "posted_at": "2026-10-22",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "2027 Embedded Software Engineering Undergrad Intern",
+      "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949"
+    },
+    {
+      "company": "Aerospace",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "78e2d35226f4f4deff763eb23b79d0cc23b84f1e4041b250b813b0bfb639e1fb",
       "locations": [
         "El Segundo, CA"
@@ -3759,6 +3774,21 @@
       "source": "simplify",
       "title": "AI Research Intern",
       "url": "https://job-boards.greenhouse.io/atoms/jobs/8919596002"
+    },
+    {
+      "company": "Atoms",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c20b7e30090f44896e77f736423d569136a61c3355ef5f19d7c9ab2ea9dca103",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Robotics Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002"
     },
     {
       "company": "Auto-Owners Insurance",
@@ -11856,6 +11886,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171565?type=students"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -25252,6 +25312,24 @@
       "company": "Tenstorrent",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "8230bf785950b8c6a5812d41633fa390609f241abfb7c1cd3ac546b132646bc7",
+      "locations": [
+        "Boston, MA",
+        "Austin, TX",
+        "Santa Clara, CA",
+        "Fort Collins, CO"
+      ],
+      "posted_at": "2026-10-07",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Hardware Intern - Architecture - AI HW & System on a Chip",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007"
+    },
+    {
+      "company": "Tenstorrent",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "db32fd1b78b797c5e3a4f98fe61e0b7b067cb4857b2ebe2dd48cced03ec73a9b",
       "locations": [
         "Austin, TX",
@@ -29923,7 +30001,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-10T11:04:28.387689+00:00",
+  "last_checked": "2026-11-10T12:02:28.545670+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

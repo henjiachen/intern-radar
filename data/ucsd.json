@@ -548,9 +548,20 @@
       "revision": 0
     },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-embedded-software-engineering-undergrad-intern_r016949": {
-      "eligible": false,
-      "fingerprint": "be089d208d76204fb13f7fa130f3a0b59e03a2f0c381d9bdb189e92ae4291d28",
-      "revision": 2
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "aerospace",
+        "degrees": [],
+        "locations": [
+          "el segundo, ca"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "2027 embedded software engineering undergrad intern"
+      },
+      "fingerprint": "b30d150188b1e4e8f0673fd0118892c52b12fd4bab950719d713bfd22cbb07fc",
+      "revision": 3
     },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-network-systems-grad-intern_r016836": {
       "eligible": false,
@@ -31498,6 +31509,24 @@
       "fingerprint": "c4fcc28cb7f083d0a47f5ca4f20fa9bedb506a505044d4b5e14480a47f9001cc",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/cssmerge/jobs/8695475002": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "atoms",
+        "degrees": [],
+        "locations": [
+          "pittsburgh, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "robotics software engineer intern"
+      },
+      "fingerprint": "73f3d61006f384853bc7dbeab2df012600c3a5691fcdb2a02dcf3831b8c7e058",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/cssmerge/jobs/8888411002": {
       "eligible": false,
       "fingerprint": "39358fb8a568cdabe2f5ec9f999cd5066536ccc34135771495f37b6159b9a329",
@@ -34452,9 +34481,32 @@
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007": {
-      "eligible": false,
-      "fingerprint": "74ad01e6065db1239df2a4c57d2541e21faf0e2b40d3e2ae080944113496c4f1",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "tenstorrent",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "austin, tx",
+          "boston, ma",
+          "fort collins, co",
+          "santa clara, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "fall 2026",
+          "summer 2026",
+          "summer 2027",
+          "winter 2026"
+        ],
+        "title": "hardware intern - architecture - ai hw & system on a chip"
+      },
+      "fingerprint": "a895ca319d38d803486f334d68938c4af78f80310cf00346344f45f2525f33b0",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007": {
       "eligible": true,
@@ -64932,6 +64984,11 @@
       "fingerprint": "b113c61a65c2949278f481fa51e1da94a26c51f5045717b150b995e94e0882f9",
       "revision": 0
     },
+    "url:https://www.xanterrajobs.com/jobs/39609?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "10a6619da2e0333311f1ce3bbe7c611a088933e7df5e385526ceb7aa4ad88577",
+      "revision": 1
+    },
     "url:https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003": {
       "eligible": false,
       "fingerprint": "69e5b561c6caa481bf07063e437ba312170f823c9ec3b84d5ae4e6a58a9cbfb0",
@@ -65994,6 +66051,9 @@
     "https://go.vansh.nyc/1q5": 244,
     "https://go.vansh.nyc/1q6": 244,
     "https://go.vansh.nyc/1qb": 246,
+    "https://go.vansh.nyc/1qf": 248,
+    "https://go.vansh.nyc/1qg": 248,
+    "https://go.vansh.nyc/1qh": 248,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -67237,6 +67297,9 @@
     "https://go.vansh.nyc/1q5": "https://job-boards.greenhouse.io/testnisc/jobs/8174088",
     "https://go.vansh.nyc/1q6": "https://job-boards.greenhouse.io/testnisc/jobs/8174096",
     "https://go.vansh.nyc/1qb": "https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us",
+    "https://go.vansh.nyc/1qf": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007",
+    "https://go.vansh.nyc/1qg": "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002",
+    "https://go.vansh.nyc/1qh": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -67893,7 +67956,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 247,
+  "scan_sequence": 248,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
