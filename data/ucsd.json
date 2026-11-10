@@ -8454,8 +8454,8 @@
     },
     "url:https://caci.wd1.myworkdayjobs.com/external/job/rochester-ny-us/software-engineering-co-op-intern---spring-2027_334160": {
       "eligible": false,
-      "fingerprint": "38362d660323e1784490d201b21c56e8da9bd27a5e053a29ea3e63d496b20352",
-      "revision": 1
+      "fingerprint": "5c25fd74385e5c503e36c9e669fb90b8303a8dfc5675c37d668d4e6e53478d1f",
+      "revision": 2
     },
     "url:https://caci.wd1.myworkdayjobs.com/external/job/sarasota-fl-us/software-engineering-intern---summer-2027_332618": {
       "eligible": true,
@@ -9543,6 +9543,50 @@
         "title": "full-stack application development intern"
       },
       "fingerprint": "26f61ed702d81626fb1b9d41e7eb3af7830c0d4c09749acf69d19f609d529067",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/76088/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "general dynamics mission systems",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "chantilly, va",
+          "pittsfield, ma",
+          "scottsdale, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ontology and semantic engineering intern"
+      },
+      "fingerprint": "cf0d1833b38f774433c2ad12615a357630098b8f089df846f36b5a0a7554cf30",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/76095/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "general dynamics mission systems",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "chantilly, va",
+          "pittsfield, ma",
+          "scottsdale, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ontology data analysis and validation intern"
+      },
+      "fingerprint": "a98eda9b92fb26e0e1396e9dc3353e3e5534c411ffed9e7fb6541284dec629bc",
       "revision": 1
     },
     "url:https://careers-gdms.icims.com/jobs/76785/job": {
@@ -20342,6 +20386,11 @@
       "fingerprint": "c00b759959d81c065e99484eb1a037865c356ffcf2ad87b783fc41b99a46f11d",
       "revision": 1
     },
+    "url:https://formfactor.wd1.myworkdayjobs.com/ffi-careers/job/livermore-ca/software-engineer-intern_jr101288": {
+      "eligible": false,
+      "fingerprint": "d6fe95f21f2208d9a65ee709331db04162038f9794881be9706369ede85321bf",
+      "revision": 1
+    },
     "url:https://fortrea.wd1.myworkdayjobs.com/fortrea/job/durham/aiml-rapid-development-studio-internship_266655": {
       "eligible": true,
       "evidence": {
@@ -21484,6 +21533,11 @@
       "fingerprint": "8642de59c46e1c48ca0b1a473f2016d1b1cbe3cec6288dcd9cb3c05e8182ac28",
       "revision": 0
     },
+    "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---energy-optimization-software-engineer-intern---summer-2027_r5050022-1": {
+      "eligible": false,
+      "fingerprint": "83bdc7e16fb021c7f014dbcdd3239cbc3e8ed46e3b4749b75d2a972ffde3685a",
+      "revision": 1
+    },
     "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---project-engineer-intern---summer-2027_r5050023-1": {
       "eligible": false,
       "fingerprint": "f5bc9495126bb1d4220e68b8afac9eb0c339517515698d43a25ab8930200ba7c",
@@ -21587,6 +21641,11 @@
       },
       "fingerprint": "daacafbafe868d56d59b3440bc8c9c8e099daa79db03fea70c4aeea4d65e0382",
       "revision": 0
+    },
+    "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---energy-optimization-software-engineer-intern---summer-2027_r5050022-2": {
+      "eligible": false,
+      "fingerprint": "83bdc7e16fb021c7f014dbcdd3239cbc3e8ed46e3b4749b75d2a972ffde3685a",
+      "revision": 1
     },
     "url:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/bellevue/ge-vernova---project-engineer-intern---summer-2027_r5050023-2": {
       "eligible": false,
@@ -36357,6 +36416,24 @@
       "fingerprint": "93f5b971cd413b274bfdcbce6b753ef8f6685aec01b40027bd2b87ef24e7addd",
       "revision": 1
     },
+    "url:https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "ctgt",
+        "degrees": [],
+        "locations": [
+          "san francisco, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai evaluation research intern"
+      },
+      "fingerprint": "c94f8fc716a753b7ccc2e4e6e7d969c297c75e8e357554e61f73b99c536f9b3c",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155": {
       "eligible": false,
       "fingerprint": "af79bbf5f89af9601f4e5593d8e675a17ba27e102b49330fcb59ad5178414f2f",
@@ -44455,6 +44532,11 @@
       },
       "fingerprint": "b862267da33b797552e9cb726c591d32f958bf05d52be1cc8ace4c4405dfc823",
       "revision": 2
+    },
+    "url:https://jobs.smartrecruiters.com/intuitive/744000160747319": {
+      "eligible": false,
+      "fingerprint": "299b2122e7266acacbfc264ee048419cae537e72d4336a31e87f03fbbf467553",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/keenfinity/744000151397189": {
       "eligible": false,
@@ -52959,6 +53041,11 @@
       "eligible": false,
       "fingerprint": "0f272244129dadad4ca51d76b588d45996e08335f5b1b3624ad83f17a2e7b5bb",
       "revision": 0
+    },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/systems-research-intern--observability---summer-2027_jr2026644": {
+      "eligible": false,
+      "fingerprint": "2607d6dfbaebf2f7cd4328ea0939e12608b50a541bc01d66c2238bce6ec499c1",
+      "revision": 1
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/systems-software-intern--aerial-phy--summer-2027_jr2026530": {
       "eligible": true,
@@ -63637,17 +63724,16 @@
           "bachelor's"
         ],
         "locations": [
-          "la",
           "los angeles, ca"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern - summer 2027 - remote"
       },
-      "fingerprint": "36df0d766b2163367b48212eefb992f8b19cc15d1ed47fd7408bc84889fdff94",
-      "revision": 1
+      "fingerprint": "84504177697f0911069c83b44c7df7cdf1f1bd2089d173738ce61c4e2fca3113",
+      "revision": 2
     },
     "url:https://www.riverlane.com/jobs?gh_jid=5000786101": {
       "eligible": false,
@@ -65463,6 +65549,7 @@
     "https://go.vansh.nyc/1pJ": 239,
     "https://go.vansh.nyc/1pK": 239,
     "https://go.vansh.nyc/1pL": 239,
+    "https://go.vansh.nyc/1pM": 240,
     "https://go.vansh.nyc/1pb": 236,
     "https://go.vansh.nyc/1ph": 236,
     "https://go.vansh.nyc/1pn": 238,
@@ -66694,6 +66781,7 @@
     "https://go.vansh.nyc/1pJ": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930",
     "https://go.vansh.nyc/1pK": "https://jobs.keysight.com/jobs/55093?icims=1&lang=en-us",
     "https://go.vansh.nyc/1pL": "https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8",
+    "https://go.vansh.nyc/1pM": "https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e",
     "https://go.vansh.nyc/1pb": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336",
     "https://go.vansh.nyc/1ph": "https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016-1",
     "https://go.vansh.nyc/1pn": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005",
@@ -67359,7 +67447,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 239,
+  "scan_sequence": 240,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

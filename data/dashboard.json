@@ -6821,21 +6821,6 @@
       "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005"
     },
     {
-      "company": "Chubb",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "cf9e4e120901aa9810d2310ae17b027245313327a01e022ab4888bcd6afdc103",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "posted_at": "2026-11-05",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Business Intelligence Intern",
-      "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335"
-    },
-    {
       "company": "Ciena",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -8070,6 +8055,21 @@
       "source": "simplify",
       "title": "Mechanical Engineering Intern",
       "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54844"
+    },
+    {
+      "company": "CTGT",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "7ad31fc79ea17c6523ae102f8a3ae4fb0a44b4d1aa3d329616eec6191cad13f8",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Evaluation Research Intern",
+      "url": "https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e"
     },
     {
       "company": "Current Lighting Employee Co",
@@ -11260,6 +11260,40 @@
       "company": "General Dynamics Mission Systems",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "3dee2b6adb3eac48b3c55e68be48d7d4888ece2b4c650733d3e0f60a6edd3c65",
+      "locations": [
+        "Chantilly, VA",
+        "Pittsfield, MA",
+        "Scottsdale, AZ"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Ontology and Semantic Engineering Intern",
+      "url": "https://careers-gdms.icims.com/jobs/76088/job?mobile=true&needsRedirect=false"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "bceed501049a3b70cf3d1cda48717a58b25ebd8d501bb4cc45d28b589a5653a6",
+      "locations": [
+        "Chantilly, VA",
+        "Pittsfield, MA",
+        "Scottsdale, AZ"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Ontology Data Analysis and Validation Intern",
+      "url": "https://careers-gdms.icims.com/jobs/76095/job?mobile=true&needsRedirect=false"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "132ad478ad4351a1fbb1f710de15f7e30d39bd0177f58df1912f818f156439ac",
       "locations": [
         "Middletown, RI",
@@ -11837,21 +11871,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831"
-    },
-    {
-      "company": "Golden Analytics",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "c467bd3514c935209dc98f8a5bc7414e96512b259749d71812711e65e531d0de",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "posted_at": "2026-10-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5"
     },
     {
       "company": "Goldman Sachs",
@@ -13849,21 +13868,6 @@
       "source": "simplify",
       "title": "Analytics Engineer Intern",
       "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003"
-    },
-    {
-      "company": "ID.me",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "75a12790027413c855badce1fb80235ee2f4e2db6a0b17b7ff23f4340c9dc45e",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "posted_at": "2026-09-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003"
     },
     {
       "company": "Idaho National Laboratory",
@@ -16480,21 +16484,6 @@
       "company": "LinkedIn",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "a718e46145da34d73e4cf52a824d060f9f29b7bd26e55fdabefbc33ad8326e12",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "posted_at": "2026-10-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169"
-    },
-    {
-      "company": "LinkedIn",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "c8ff89852dc2799aab7093ac5d97534d6af001367aa4c800dfc62f9a20e959c1",
       "locations": [
         "Mountain View, CA"
@@ -16992,21 +16981,6 @@
       "source": "simplify",
       "title": "AI-Native Development Platform Engineer Intern",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848"
-    },
-    {
-      "company": "Marvell",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "b5aadb613c8c4bade1945ce7e117cf31d9635f441b21859452a5f9c08755c3b8",
-      "locations": [
-        "Boise, ID"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Science Intern",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782"
     },
     {
       "company": "Marvell",
@@ -18043,22 +18017,6 @@
       "source": "simplify",
       "title": "AI/ML for Cybersecurity Intern",
       "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563"
-    },
-    {
-      "company": "National Life",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "5ac32c61ce9f178124cde86c8f984edbd7847b5ab87574e36aa963bb3667aedf",
-      "locations": [
-        "Montpelier, VT",
-        "Addison, TX"
-      ],
-      "posted_at": "2026-10-14",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Science Intern",
-      "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009"
     },
     {
       "company": "National Life",
@@ -21534,13 +21492,13 @@
       "graduation_status": "unknown",
       "id": "3c9daacd557ba7eeec52f9ad42f7f59dd055929d3f56cb459d62f47fd9ad2569",
       "locations": [
-        "LA"
+        "Los Angeles, CA"
       ],
-      "posted_at": "2026-10-01",
+      "posted_at": "2026-10-02",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Summer 2027 - Remote",
       "url": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014"
     },
     {
@@ -29156,21 +29114,6 @@
       "url": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Strategic-Marketing-Intern---Analytics---Segmentation--Summer-2027_10017533"
     },
     {
-      "company": "Wawa",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "c0d829e7c722ff87cdc11715f085bf74ded65b90f6221b1ddcbacf1134647aca",
-      "locations": [
-        "Media, PA"
-      ],
-      "posted_at": "2026-10-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Information Technology Development Intern",
-      "url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392"
-    },
-    {
       "company": "Waymo",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
@@ -29933,7 +29876,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-10T01:20:08.976431+00:00",
+  "last_checked": "2026-11-10T03:01:18.713461+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
