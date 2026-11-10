@@ -6408,6 +6408,24 @@
       "fingerprint": "df68cb51c6e670bd8ab80d5adbf4803063b691d2702a47f6a81d898cb65ffc4d",
       "revision": 0
     },
+    "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/washington-dc/university---summer-2027-quantum-computing-research-intern_r0249046": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "booz allen hamilton",
+        "degrees": [],
+        "locations": [
+          "washington, dc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "quantum computing research intern"
+      },
+      "fingerprint": "ec68e03c5b82bc2b544bdc4cae7a84bf44180db8336f1640ab91d45ca9008558",
+      "revision": 1
+    },
     "url:https://bah.wd1.myworkdayjobs.com/confidential/job/mclean-va/enterprise-cybersecurity-data-and-business-intelligence-analyst_r0252250": {
       "eligible": false,
       "fingerprint": "b5ae9bdc9e9c17f10c0ccca583b0ca1f7de822c81fd9898f97e545cbef827e28",
@@ -22813,8 +22831,8 @@
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-tx-richardson-c17--1717-cityline-dr--cityline-c17/software-engineer-co-op--remote-_01883545": {
       "eligible": false,
-      "fingerprint": "9bc77c307928ed4427e6326c74d1256440cf68bf625e22eacbd52f5e568ee679",
-      "revision": 0
+      "fingerprint": "07f8fbb7b521ec2285d1a2ac9aabdef6a674145bb2c8b0f4f6feba2a075b3f9b",
+      "revision": 1
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ut-west-valley-city-338--1127--1128-w-2400-s--bldg-338/software-engineering-intern--summer-2027-_01886446": {
       "eligible": true,
@@ -29517,6 +29535,11 @@
       "fingerprint": "2a12cebc51eb6a6c1a38688d1851fb49538d084214ef1b7c4e86c820f5b663b4",
       "revision": 1
     },
+    "url:https://interpublic.wd5.myworkdayjobs.com/omc/job/washington-district-of-columbia-united-states-of-america/intern--analytics_r16262": {
+      "eligible": false,
+      "fingerprint": "00c8d5414bca64cf67c9556eaf0818f203d833e88765a824e355dae1351c1927",
+      "revision": 1
+    },
     "url:https://invesco.wd1.myworkdayjobs.com/ivz/job/dallas-texas/early-career-intern---real-estate--data-science-_r-15091-1": {
       "eligible": true,
       "evidence": {
@@ -32412,6 +32435,11 @@
       "eligible": false,
       "fingerprint": "5d773c6a6663629703f53d26347adc461be7f646b3174933c61e0e6537a01852",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/gsacapital/jobs/8570668002": {
+      "eligible": false,
+      "fingerprint": "95bc69bb1b61c790448608bde5b694d9ff26a1fe88c4c93ed971d1fcf7e2db29",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/haizelabs/jobs/4685944008": {
       "eligible": false,
@@ -42775,6 +42803,11 @@
       "fingerprint": "9ef718ace892fe47a4afe6176f0551b506fdf52055c35ea8255974ce95801ee7",
       "revision": 2
     },
+    "url:https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22": {
+      "eligible": false,
+      "fingerprint": "80e18a0b80a57d0362d30d3ad8f3c4e2f3a82729ba9f880ede000cb7c3dd12b5",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b": {
       "eligible": true,
       "evidence": {
@@ -45588,6 +45621,11 @@
       "fingerprint": "f6f7da3405c3b63b943f78761ff96d1fce3897b0c055ea2ebd3739f5deddab12",
       "revision": 0
     },
+    "url:https://jobs.smartrecruiters.com/veoliaenvironnementsa/744000160896184": {
+      "eligible": false,
+      "fingerprint": "c808b6f20f03e0907216299d81c9fb222e297141ef98ff91c4831aad9a11ba09",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/vusiongroupsa/744000149935589": {
       "eligible": false,
       "fingerprint": "31ecadb29eb088d7ef12917030a9b2a73c414f7cfcdfe8953a0824f8c47505a8",
@@ -48268,10 +48306,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "backend software engineer intern"
+        "title": "backend software engineer intern - tiktok-social-foundation - 2027 summer"
       },
-      "fingerprint": "6f234dbaee1a56b46fd21109d964d4a0529c78399e9e83b3ce23ac59f57a75e2",
-      "revision": 0
+      "fingerprint": "ab327cfc218e62e17041753de3f93e51c85a7d843000f56acffa5d495808cb99",
+      "revision": 1
     },
     "url:https://lifeattiktok.com/search/7667935568626043141": {
       "eligible": false,
@@ -48336,10 +48374,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineer intern - tiktok-generalized arch-code intelligence & quality validation - 2027 summer"
       },
-      "fingerprint": "0879b16205fc07c7488a621f81cfc7bc1c2fd88756307208ea130f084faae8a4",
-      "revision": 0
+      "fingerprint": "427674e465d328870143bf1937502eaf00d751e872114091db49a383e1629a3c",
+      "revision": 1
     },
     "url:https://lifeattiktok.com/search/7667935738840090933": {
       "eligible": false,
@@ -51760,6 +51798,11 @@
       "eligible": false,
       "fingerprint": "ae1c4d1b061d75528222f425fd66a1e322d0463242674df22ff358b3ff2f73cc",
       "revision": 0
+    },
+    "url:https://modernatx.wd1.myworkdayjobs.com/m_tx/job/cambridge-massachusetts/xmlname-2027-co-op--mrna-design-engineering_r20125": {
+      "eligible": false,
+      "fingerprint": "ba908a99fc99f76cf8f264b01b7ea0cc298ef912cd104d128d43cf31a5ef731b",
+      "revision": 1
     },
     "url:https://modernatx.wd1.myworkdayjobs.com/m_tx/job/cambridge-massachusetts/xmlname-2027-co-op--mrna-design-engineering_r20128": {
       "eligible": false,
@@ -66046,6 +66089,7 @@
     "https://go.vansh.nyc/1qg": 248,
     "https://go.vansh.nyc/1qh": 248,
     "https://go.vansh.nyc/1qq": 250,
+    "https://go.vansh.nyc/1qt": 251,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -67293,6 +67337,7 @@
     "https://go.vansh.nyc/1qg": "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002",
     "https://go.vansh.nyc/1qh": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
     "https://go.vansh.nyc/1qq": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
+    "https://go.vansh.nyc/1qt": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -67949,7 +67994,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 250,
+  "scan_sequence": 251,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
