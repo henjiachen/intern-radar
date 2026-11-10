@@ -6411,9 +6411,11 @@
     "url:https://bah.wd1.myworkdayjobs.com/bah_jobs/job/washington-dc/university---summer-2027-quantum-computing-research-intern_r0249046": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "booz allen hamilton",
-        "degrees": [],
+        "category": "software",
+        "company": "booz allen",
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "washington, dc"
         ],
@@ -6423,8 +6425,8 @@
         ],
         "title": "quantum computing research intern"
       },
-      "fingerprint": "ec68e03c5b82bc2b544bdc4cae7a84bf44180db8336f1640ab91d45ca9008558",
-      "revision": 1
+      "fingerprint": "b5d0177db53a568677d0f06076d3d8a6fa743021cb738a01ab047fb25cd41744",
+      "revision": 2
     },
     "url:https://bah.wd1.myworkdayjobs.com/confidential/job/mclean-va/enterprise-cybersecurity-data-and-business-intelligence-analyst_r0252250": {
       "eligible": false,
@@ -9601,6 +9603,28 @@
         "title": "ontology data analysis and validation intern"
       },
       "fingerprint": "a98eda9b92fb26e0e1396e9dc3353e3e5534c411ffed9e7fb6541284dec629bc",
+      "revision": 1
+    },
+    "url:https://careers-gdms.icims.com/jobs/76099/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "general dynamics mission systems",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san antonio, tx",
+          "scottsdale, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "systems and software development intern"
+      },
+      "fingerprint": "0ea91dfa88fb7353e6e0372eb866a11490a5341a7364ae43be5aa3971004070e",
       "revision": 1
     },
     "url:https://careers-gdms.icims.com/jobs/76785/job": {
@@ -15198,6 +15222,24 @@
       "fingerprint": "e655a13d908b8ee828c328624bddc0d98f72afc39bbe0aca4207aaa53b2f2acd",
       "revision": 0
     },
+    "url:https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/united-states-wisconsin-milwaukee/it-digital-ai-intern--summer-2027-_wd49910": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "clarios",
+        "degrees": [],
+        "locations": [
+          "milwaukee, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it digital/ai intern"
+      },
+      "fingerprint": "acdfa1536527e9fb1bea463248e13b87b33b01a82291c771ed14a6071b78ac15",
+      "revision": 1
+    },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---boise/data-management---reporting-intern_r12057": {
       "eligible": false,
       "fingerprint": "9e3bcb371893603a637f1519e90a1b130fb2830c9ad1e21f90c9dc81b89fcf89",
@@ -17907,6 +17949,26 @@
       },
       "fingerprint": "721f34f892e01bb6597b403b238326407b53afd2c7ef524028ae7feb288bf2d9",
       "revision": 0
+    },
+    "url:https://ehpv.fa.em2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/27855": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "dp world",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "charlotte, nc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai & analytics intern - talent management"
+      },
+      "fingerprint": "45356b003f26749c979d177db6bb0459835555e0d2e7bbad203565eaafd4fc63",
+      "revision": 1
     },
     "url:https://ehtl.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/19812": {
       "eligible": true,
@@ -23858,6 +23920,45 @@
     "url:https://go.vansh.nyc/1q1": {
       "eligible": false,
       "fingerprint": "27688ac6444609659e88d3f348855116da76a98f855319a3a7331f2cf7b9824d",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1qi": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "decoda health",
+        "degrees": [],
+        "locations": [
+          "pleasanton, ca",
+          "toronto, canada"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, ww"
+      },
+      "fingerprint": "40cdd45086acb1a3d45fc444af5d77dfc1362e76e157d76cae2b6c6ccc579ae5",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ri": {
+      "eligible": false,
+      "fingerprint": "101070ffa8d82bd758add50dcc0747d46895cd082fcaf6655aa064789069c535",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1rj": {
+      "eligible": false,
+      "fingerprint": "f267e17943db98c16b96b2c973f2d2817abf5af2709696de1da1c29a9587a785",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1rl": {
+      "eligible": false,
+      "fingerprint": "76554d36111e395d76bc2a94304b0ed39979a2d661d5bb2cf29628d46632b2f6",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1rn": {
+      "eligible": false,
+      "fingerprint": "a028c035b15d25ba085d7362293e2b315aff555dc34143cdc648dc184527b743",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1s": {
@@ -31457,6 +31558,31 @@
       "fingerprint": "85662fa3f400ea862884edc4d2f513a146bc5643d6292418e2bc9f4500492df7",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/compeerfinancial/jobs/5409874008": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "compeer financial",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "bloomington, il",
+          "eau claire, wi",
+          "lakeville, mn",
+          "mankato, mn",
+          "rochester, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics intern"
+      },
+      "fingerprint": "8b1e8c41eeb310c7e190051fb99842261e371cdda4db3b8da88bc572f8292936",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/courierhealth/jobs/5258913007": {
       "eligible": true,
       "evidence": {
@@ -37262,7 +37388,6 @@
         ],
         "locations": [
           "new york city, ny",
-          "new york, ny",
           "nyc"
         ],
         "requirements": [],
@@ -37271,8 +37396,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "d91d0eaa159669ff157779441df3158067e84bdfa74dc45bed1cefa4deaee877",
-      "revision": 1
+      "fingerprint": "22900f4ff0454dc1ca9e58813522a07be8b7146c4cebc9b9f8c42b4857c5dd9c",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584": {
       "eligible": true,
@@ -40799,6 +40924,446 @@
       "fingerprint": "6867e034052985dd9f0e691914401bf47410eb17195413add58508a6bcac76c0",
       "revision": 0
     },
+    "url:https://jobs.dover.com/akeshya-private-limited/0aa6a206-9884-4597-ad3b-f6b2e37e6af5": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "akeshya private limited",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "full stack developer intern"
+      },
+      "fingerprint": "26ab8a09faffbe9719e88e0159c7741afca2fbb9520afa6b2c1d7d6db116a026",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/akeshya-private-limited/db8a8cb8-0238-4f63-8408-1740fbefa088": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "akeshya private limited",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "flutter developer intern"
+      },
+      "fingerprint": "180607b46dc1b0e85cc4b8087b3f548e1730363599e29a742d493a3a433e1b14",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/business-web-solutions/fcaaee15-5558-480b-ba05-18b135bb1f12": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "business web solutions",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "web developer intern"
+      },
+      "fingerprint": "dfcd51ce322983dc417eccd2382d524f371b912165d7ddfcd66b8e7075d40b30",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/diffuse-bio/8e7254fe-90cc-437d-b01a-4ba837ac19e6": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "diffuse bio",
+        "degrees": [],
+        "locations": [
+          "redwood city, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "9bf8963299a8edb5cca7c7f82db80bee08595fa6289296cdc096c66d9d41c47b",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/elas/f67bc3e2-50c2-46d2-a7dc-bb6b60af59bd": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "elas",
+        "degrees": [],
+        "locations": [
+          "pleasanton, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "ea1a750e3da6a57cf110c3e8f08d9bf6f9df85f59ba141929c17da970adc850f",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/getintro/6fe86bf8-84ea-4818-b389-cf07de4c8201": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "getintro",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "3e77d1601b2bd05817c38a8f89ff5f5d7025f0919a91685ad6e317ea8bf9591c",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/headstarter/3eade93e-3f1c-403f-a3a0-1040814af77e": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "headstarter",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, agents & fe"
+      },
+      "fingerprint": "09659db313b8349005dc5a8a7714d8652f7b5f15c4cc3f66ba3eca83166d81ab",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/holiday-world/3fe57939-9964-48c4-a7eb-ce2ee0bb002c": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "holiday world",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "60117fd1e4920c236d97c08a66525b47594ef931b2a70840e02796a80cf3c1ea",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/holiday-world/6f878988-19b0-44d5-bd92-8e9cb9e6fdff": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "holiday world",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineer intern"
+      },
+      "fingerprint": "6c99363bf06a651a797ab73e6c27148338abda55bf6a58a006ff153a2d34af74",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/intelura/780e6c6d-900b-472b-a3df-52b16e110ef1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intelura",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "mobile application developer intern"
+      },
+      "fingerprint": "136933fffb68c3b3e1157b2e0fb24c7505dc66c8613f29bd10949a2d9dc6e435",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/ixana/1d90e999-8916-42de-b135-78031b8fc187": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "ixana",
+        "degrees": [],
+        "locations": [
+          "west lafayette, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded software engineer intern, wearables and iot"
+      },
+      "fingerprint": "813efd7939f8341b220f1d86ba35540e8b93c0510ce8c4549f26e6774fd13892",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/maincode/4a6d700b-a08f-412c-bd37-50c5618e169b": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "maincode",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai research residency intern"
+      },
+      "fingerprint": "58fd78baae0adb2c2f087dd8e08ffa37009ea7828484a868337098e86a34029f",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/metasys/6eda7667-033f-43b1-b3b3-823bb5ab3f3a": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "metasys",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai/ml engineer intern"
+      },
+      "fingerprint": "538ed670516920e4d31012faeb81145fa69b66f65b28f15a4a97b794fadfc9ae",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/metasys/9721c413-3798-4aef-a3bb-aa4aba5fdc19": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "metasys",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "security engineer intern"
+      },
+      "fingerprint": "6f92fa938aba3c3b5cc554c856a9fa9202ee03656743f4ee21e8e40629de2a1d",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/metasys/b37b1761-9e7d-47ea-8bd1-e22435433419": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "metasys",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "37dc8e5cf355d72e2bb276b4c99b793240c907d1018b6859ebc11e03b20851c8",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "mindsmith",
+        "degrees": [],
+        "locations": [
+          "lehi, ut"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "df54e947d6d9585cc74b924466ef3f085514c0f9dda6b5fb6a51ddb60d4f62ff",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/north-texas-family-health/a6b7e113-b823-45a1-9e8b-56aa0f6c36c9": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "north texas family health",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "e1623e81c8efcc97fc6d37cb21d03ae7da7ea80a3c994955dd16a756a6dace4c",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/northwaysports/8cf0ac7e-7fb0-4807-a0c7-348a8f28413a": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "northwaysports",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "dcc378ac4132272b5ace8e15112b7419b44aa19ce61dc6820a16dfa64a304260",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/nura/15715097-4c53-4334-8cd7-8e3c6e08172f": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nura",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "d10faaa09ca8a3f7c37b8be525385c38f9f5298a37df4429f751f0b296ea8c6c",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/operio/33f22876-e6ca-4faa-a020-f3ae95558e4f": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "operio",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "d9639b2a8fbb7ef03b9aeb5f0928bd7d5bc6707d2e46ed0629a274b838a34b7c",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/operio/c0d270a6-eb23-4837-960f-eacb542a7434": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "operio",
+        "degrees": [],
+        "locations": [
+          "palo alto, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "a4b738e83505ae3aab846c194dd18991044bb4cb1f2ee0e369d621966c971662",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/stealth-startup-enterprise-ai/2c10df67-23b0-4ac3-9a6d-b124d28cbc0a": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "stealth startup | enterprise ai",
+        "degrees": [],
+        "locations": [
+          "canada",
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "06cdf78a9a2df0eb17fd7b614aace3f914b7fc18e734f21efbf20865e5d3d8ed",
+      "revision": 1
+    },
+    "url:https://jobs.dover.com/uplimit/c7aec592-abea-4db6-92d2-bb61521d2f71": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "uplimit",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "ba1c229adf7aa0417d79af1ec177b16e0d79af326baae9202a361a894b404368",
+      "revision": 1
+    },
     "url:https://jobs.ea.com/en_us/careers/jobdetail/ai-enablement-intern-summer-2027/216185": {
       "eligible": true,
       "evidence": {
@@ -42888,6 +43453,11 @@
       "fingerprint": "645a9a561f974594b9ca7fa348d8c84ac81115f7e8f81458d3ccabbdecfd6866",
       "revision": 0
     },
+    "url:https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743": {
+      "eligible": false,
+      "fingerprint": "9e2c24b9f92737fbd44b48b8c7f8111c4a58745a8514ecc2943ca4c3be7fc420",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a": {
       "eligible": false,
       "fingerprint": "dd9898a627cb2e0078823c8bc7c454ae62d0e7e06bdc9efa3b79930378cc3e1a",
@@ -42960,6 +43530,11 @@
       "eligible": false,
       "fingerprint": "e8ecdd6c8cd9a09f3647c3afeeb1f365340ba3e5f789ab33ab0a38d756b5aea6",
       "revision": 2
+    },
+    "url:https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a": {
+      "eligible": false,
+      "fingerprint": "cea66b349193233ddef6dcf18f1d23f106dab004cbb38d08a34fed130af372c1",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6": {
       "eligible": false,
@@ -43205,6 +43780,11 @@
       "eligible": false,
       "fingerprint": "66f2a4e307f7411923ec56d21a1b0fe9c27a947d60a8b333491dce850ff1020b",
       "revision": 0
+    },
+    "url:https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e": {
+      "eligible": false,
+      "fingerprint": "dd6e8e27ec4608466720a67bcfadf93971b580ffa3931e2913c1d02501028ce0",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb": {
       "eligible": false,
@@ -51595,46 +52175,14 @@
       "revision": 3
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/longmont-max--office-co/intern---data-center-ssd-firmware_jr111461": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "micron technology",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "longmont, co"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027",
-          "winter 2026"
-        ],
-        "title": "data center ssd firmware intern"
-      },
-      "fingerprint": "08320cadd5545c77b3af6083728c69a9a8ee42951d70e720ec5254f836cdee06",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "55cd1bf5f97f8978c6b1a369de4dc688c4134a3048b8fce821bbbafeb0a2ae70",
+      "revision": 2
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/longmont-max--office-co/intern---firmware-engineer_jr111584": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "micron technology",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "longmont, co"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027",
-          "winter 2026"
-        ],
-        "title": "firmware engineer intern"
-      },
-      "fingerprint": "1ee4b6d1dc6d4153ab5e90f4dc70fed9a22c24f0bb1293f489906eb390633c52",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "331619da08cc8af6404c623e7a30d5eec4b561d255d1d8f220d1aa5677c16dbd",
+      "revision": 2
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/longmont-max--office-co/intern---ssd-firmware---cicd_jr114542": {
       "eligible": true,
@@ -53225,9 +53773,12 @@
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/ai-operations-intern--ai-clouds---summer-2027_jr2029119-1": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "nvidia",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "santa clara, ca"
         ],
@@ -53235,10 +53786,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "ai operations intern, ai clouds"
+        "title": "ai operations intern - ai clouds"
       },
-      "fingerprint": "e37c4792fb0c37e172b46eeb6ea7f9389530a391a21a80415126bac296f544d5",
-      "revision": 1
+      "fingerprint": "ccd48531d06f209fb3fe0f06cf9c73a409672c0e86e05f65501f2862f9a6b60a",
+      "revision": 2
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/applied-deep-learning-phd-research-intern--reinforcement-learning-for-llms---fall-2026_jr2012398": {
       "eligible": false,
@@ -58043,6 +58594,11 @@
       "fingerprint": "b13610f57f6a1bf8c8b8a805867c9fbdcc29e39379ff5ef7a4c007a20a5402e1",
       "revision": 1
     },
+    "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027---12-months-_r10677": {
+      "eligible": false,
+      "fingerprint": "b13610f57f6a1bf8c8b8a805867c9fbdcc29e39379ff5ef7a4c007a20a5402e1",
+      "revision": 1
+    },
     "url:https://soti.wd3.myworkdayjobs.com/soti-next-gen/job/mississauga-canada--meadowvale-office-hq/software-developer-intern--may-2027-12-months-_r10655": {
       "eligible": false,
       "fingerprint": "eb0f1b1b19f558f3bc02b482f416f56252ee9ffc0881c4d89565909b7aadd803",
@@ -59528,6 +60084,26 @@
       "fingerprint": "442c8586ca0dad15206c2afb38331ebe3c308d11a169b595583cc748e744da86",
       "revision": 2
     },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-business-analytics---reporting-internship_req381319": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "t-mobile",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "business analytics & reporting intern"
+      },
+      "fingerprint": "ba2ba2e119248148f2fca32815d931d73cab3ee13e8877fa3f54adc57aaaedb5",
+      "revision": 1
+    },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineer-hr-data-products-internship_req380766": {
       "eligible": true,
       "evidence": {
@@ -59815,6 +60391,48 @@
       },
       "fingerprint": "1cb22b001ba81e033441ef6823323cc70d8c8bf6a73fea4710d341fb84ab4a40",
       "revision": 3
+    },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/philadelphia-pennsylvania/summer-2027-t-ads-software-engineering-internship_req381219": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "t-mobile",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "philadelphia, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - t-ads"
+      },
+      "fingerprint": "a7555881acb0848cbf075f98a0633d37668b95f789bd02cfaa43c9345c62c05b",
+      "revision": 1
+    },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/philadelphia-pennsylvania/summer-2027-t-ads-software-engineering-internship_req381225": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "t-mobile",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "philadelphia, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "caf7e64f3e55a01d59fd9e5833d38ac645aa5fdf83130b4d620077b8a6a233cf",
+      "revision": 1
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/philadelphia-pennsylvania/summer-2027-t-ads-software-engineering-internship_req381234": {
       "eligible": true,
@@ -63014,6 +63632,11 @@
       "fingerprint": "5ed01a2aa6621b0f8f70927405bed661849d2df8f6bae8428ec86111bff163ec",
       "revision": 0
     },
+    "url:https://www.equipmentshare.com/careers/openings?gh_jid=8371863": {
+      "eligible": false,
+      "fingerprint": "4dfb0649a5dd49d2a5b1a09f9b315400761aa349fb224dcac66d3efaab990720",
+      "revision": 1
+    },
     "url:https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003": {
       "eligible": true,
       "evidence": {
@@ -66084,12 +66707,39 @@
     "https://go.vansh.nyc/1q4": 244,
     "https://go.vansh.nyc/1q5": 244,
     "https://go.vansh.nyc/1q6": 244,
+    "https://go.vansh.nyc/1qA": 252,
+    "https://go.vansh.nyc/1qB": 252,
+    "https://go.vansh.nyc/1qD": 252,
+    "https://go.vansh.nyc/1qE": 252,
+    "https://go.vansh.nyc/1qH": 252,
+    "https://go.vansh.nyc/1qJ": 252,
+    "https://go.vansh.nyc/1qK": 252,
+    "https://go.vansh.nyc/1qM": 252,
+    "https://go.vansh.nyc/1qO": 252,
+    "https://go.vansh.nyc/1qQ": 252,
+    "https://go.vansh.nyc/1qR": 252,
+    "https://go.vansh.nyc/1qU": 252,
     "https://go.vansh.nyc/1qb": 246,
     "https://go.vansh.nyc/1qf": 248,
     "https://go.vansh.nyc/1qg": 248,
     "https://go.vansh.nyc/1qh": 248,
     "https://go.vansh.nyc/1qq": 250,
     "https://go.vansh.nyc/1qt": 251,
+    "https://go.vansh.nyc/1qy": 252,
+    "https://go.vansh.nyc/1qz": 252,
+    "https://go.vansh.nyc/1r2": 252,
+    "https://go.vansh.nyc/1r5": 252,
+    "https://go.vansh.nyc/1r7": 252,
+    "https://go.vansh.nyc/1r9": 252,
+    "https://go.vansh.nyc/1ra": 252,
+    "https://go.vansh.nyc/1rb": 252,
+    "https://go.vansh.nyc/1rc": 252,
+    "https://go.vansh.nyc/1rd": 252,
+    "https://go.vansh.nyc/1re": 252,
+    "https://go.vansh.nyc/1rf": 252,
+    "https://go.vansh.nyc/1rg": 252,
+    "https://go.vansh.nyc/1rh": 252,
+    "https://go.vansh.nyc/1rm": 252,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -67332,12 +67982,39 @@
     "https://go.vansh.nyc/1q4": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560",
     "https://go.vansh.nyc/1q5": "https://job-boards.greenhouse.io/testnisc/jobs/8174088",
     "https://go.vansh.nyc/1q6": "https://job-boards.greenhouse.io/testnisc/jobs/8174096",
+    "https://go.vansh.nyc/1qA": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225",
+    "https://go.vansh.nyc/1qB": "https://careers-gdms.icims.com/jobs/76099/job?mobile=true&needsRedirect=false",
+    "https://go.vansh.nyc/1qD": "https://jobs.dover.com/akeshya-private-limited/0aa6a206-9884-4597-ad3b-f6b2e37e6af5",
+    "https://go.vansh.nyc/1qE": "https://jobs.dover.com/akeshya-private-limited/db8a8cb8-0238-4f63-8408-1740fbefa088",
+    "https://go.vansh.nyc/1qH": "https://jobs.dover.com/business-web-solutions/fcaaee15-5558-480b-ba05-18b135bb1f12",
+    "https://go.vansh.nyc/1qJ": "https://jobs.dover.com/diffuse-bio/8e7254fe-90cc-437d-b01a-4ba837ac19e6",
+    "https://go.vansh.nyc/1qK": "https://jobs.dover.com/elas/f67bc3e2-50c2-46d2-a7dc-bb6b60af59bd",
+    "https://go.vansh.nyc/1qM": "https://jobs.dover.com/getintro/6fe86bf8-84ea-4818-b389-cf07de4c8201",
+    "https://go.vansh.nyc/1qO": "https://jobs.dover.com/headstarter/3eade93e-3f1c-403f-a3a0-1040814af77e",
+    "https://go.vansh.nyc/1qQ": "https://jobs.dover.com/intelura/780e6c6d-900b-472b-a3df-52b16e110ef1",
+    "https://go.vansh.nyc/1qR": "https://jobs.dover.com/ixana/1d90e999-8916-42de-b135-78031b8fc187",
+    "https://go.vansh.nyc/1qU": "https://jobs.dover.com/maincode/4a6d700b-a08f-412c-bd37-50c5618e169b",
     "https://go.vansh.nyc/1qb": "https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us",
     "https://go.vansh.nyc/1qf": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007",
     "https://go.vansh.nyc/1qg": "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002",
     "https://go.vansh.nyc/1qh": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
     "https://go.vansh.nyc/1qq": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
     "https://go.vansh.nyc/1qt": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046",
+    "https://go.vansh.nyc/1qy": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910",
+    "https://go.vansh.nyc/1qz": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219",
+    "https://go.vansh.nyc/1r2": "https://jobs.dover.com/metasys/6eda7667-033f-43b1-b3b3-823bb5ab3f3a",
+    "https://go.vansh.nyc/1r5": "https://jobs.dover.com/metasys/9721c413-3798-4aef-a3bb-aa4aba5fdc19",
+    "https://go.vansh.nyc/1r7": "https://jobs.dover.com/metasys/b37b1761-9e7d-47ea-8bd1-e22435433419",
+    "https://go.vansh.nyc/1r9": "https://jobs.dover.com/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e",
+    "https://go.vansh.nyc/1ra": "https://jobs.dover.com/holiday-world/3fe57939-9964-48c4-a7eb-ce2ee0bb002c",
+    "https://go.vansh.nyc/1rb": "https://jobs.dover.com/holiday-world/6f878988-19b0-44d5-bd92-8e9cb9e6fdff",
+    "https://go.vansh.nyc/1rc": "https://jobs.dover.com/northwaysports/8cf0ac7e-7fb0-4807-a0c7-348a8f28413a",
+    "https://go.vansh.nyc/1rd": "https://jobs.dover.com/north-texas-family-health/a6b7e113-b823-45a1-9e8b-56aa0f6c36c9",
+    "https://go.vansh.nyc/1re": "https://jobs.dover.com/nura/15715097-4c53-4334-8cd7-8e3c6e08172f",
+    "https://go.vansh.nyc/1rf": "https://jobs.dover.com/operio/33f22876-e6ca-4faa-a020-f3ae95558e4f",
+    "https://go.vansh.nyc/1rg": "https://jobs.dover.com/operio/c0d270a6-eb23-4837-960f-eacb542a7434",
+    "https://go.vansh.nyc/1rh": "https://jobs.dover.com/stealth-startup-enterprise-ai/2c10df67-23b0-4ac3-9a6d-b124d28cbc0a",
+    "https://go.vansh.nyc/1rm": "https://jobs.dover.com/uplimit/c7aec592-abea-4db6-92d2-bb61521d2f71",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -67994,7 +68671,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 251,
+  "scan_sequence": 252,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
