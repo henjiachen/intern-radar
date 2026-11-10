@@ -13666,6 +13666,21 @@
       "url": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3/apply"
     },
     {
+      "company": "Hunt Oil Company",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "1fce7ed0acd88e793bf1b76884f38b23f668a37bbd28282b8f89e87f285c2508",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Application Developer Intern",
+      "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104"
+    },
+    {
       "company": "Huntington Ingalls Industries",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -16973,21 +16988,6 @@
       "source": "simplify",
       "title": "Firmware Engineer Intern",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1"
-    },
-    {
-      "company": "Mason",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "b386e657825f04c7557c94d15bc2da9c110a9b731ac75fbd5ee8b80ccb1ce240",
-      "locations": [
-        "New York, NY"
-      ],
-      "posted_at": "2026-11-10",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "AI Engineer Intern",
-      "url": "https://jobs.dover.com/mason/d9502f47-0735-4749-9282-ba3fefee65c0"
     },
     {
       "company": "Mativ",
@@ -29956,7 +29956,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-10T20:05:10.117815+00:00",
+  "last_checked": "2026-11-10T20:59:12.082103+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

@@ -19285,6 +19285,24 @@
       "fingerprint": "7298a450588b00729e7c946ecc9e7a0eb1b74a218a33ae89de9072cfde3d6fd5",
       "revision": 0
     },
+    "url:https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/1104": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "hunt oil company",
+        "degrees": [],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "application developer intern"
+      },
+      "fingerprint": "923d7d9b5b3eb8c59b4837518040305db61e7a2a5fa9ead61644929001aac997",
+      "revision": 1
+    },
     "url:https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/3022387": {
       "eligible": true,
       "evidence": {
@@ -67084,6 +67102,7 @@
     "https://go.vansh.nyc/1rx": 253,
     "https://go.vansh.nyc/1ry": 253,
     "https://go.vansh.nyc/1rz": 253,
+    "https://go.vansh.nyc/1s2": 256,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -68376,6 +68395,7 @@
     "https://go.vansh.nyc/1rx": "https://jobs.dover.com/substrate/0b6dae53-f196-4ebf-af38-210a24a0a422",
     "https://go.vansh.nyc/1ry": "https://jobs.dover.com/terrabyte-green/37ae0657-7251-4d81-870e-9e6d21b351a5",
     "https://go.vansh.nyc/1rz": "https://jobs.dover.com/mason/d9502f47-0735-4749-9282-ba3fefee65c0",
+    "https://go.vansh.nyc/1s2": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -69032,7 +69052,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 255,
+  "scan_sequence": 256,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
