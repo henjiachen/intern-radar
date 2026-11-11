@@ -39255,6 +39255,11 @@
       "fingerprint": "c35e29b0f1e80e5a9f50c11b974dc997b698a75c9901d3afb7fc272075ca5388",
       "revision": 1
     },
+    "url:https://jobs.ashbyhq.com/regent/8c76e568-34ce-49d0-ade8-fcc6bdf656cf": {
+      "eligible": false,
+      "fingerprint": "32c318be8921bc076dd2cabf1550cd24078716ce5da3adf95474d55e80a3c781",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/regent/9f25824f-486e-4d3a-b444-116b474619d7": {
       "eligible": true,
       "evidence": {
@@ -42740,6 +42745,29 @@
       "eligible": false,
       "fingerprint": "a7657128583542f8985771f706b2a4d62f57c595f67205e67693d5d8bcb9c802",
       "revision": 0
+    },
+    "url:https://jobs.jobvite.com/elire/job/om5lafww?nl=1&fr=false": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "elire",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "minneapolis, mn",
+          "remote in usa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai software developer intern - multiple teams"
+      },
+      "fingerprint": "380cd5b878b98d8e85e6423efdad0d6aa47ccb744c2afcf21f6b63406a52a0a2",
+      "revision": 1
     },
     "url:https://jobs.jobvite.com/elire/job/opplafwt?nl=1&fr=false": {
       "eligible": true,
@@ -59294,6 +59322,11 @@
       "fingerprint": "b7a748f7aed03afe308b5bc714504c7803c80b86ced673f52aaaa52d1324b6a3",
       "revision": 0
     },
+    "url:https://shopline.applytojob.com/apply/ujgi4rgms1/ai-skill-agent-skill-builder-intern": {
+      "eligible": false,
+      "fingerprint": "22fc575d6fcaa28c1f4c10a59a46d0898b420f4f265816ebc3e64f84bbe22db6",
+      "revision": 1
+    },
     "url:https://siemens.avature.net/en_us/externaljobs/jobdetail/526984": {
       "eligible": true,
       "evidence": {
@@ -70221,7 +70254,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 265,
+  "scan_sequence": 266,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
