@@ -23206,9 +23206,12 @@
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-tx-richardson-c17--1717-cityline-dr--cityline-c17/software-engineering-intern--summer-2027-_01888049": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "rtx",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "richardson, tx"
         ],
@@ -23216,10 +23219,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "software engineer intern"
       },
-      "fingerprint": "307c01f925442f4bba55e5cad8d5f7a5000c9f6610805826465b4f4bd1daca94",
-      "revision": 1
+      "fingerprint": "1ce0855ea466a0cbf10282521394efbb70a733b88fe5202cbe5ae7c4e5aaaaf5",
+      "revision": 2
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ut-west-valley-city-338--1127--1128-w-2400-s--bldg-338/software-engineering-intern--summer-2027-_01886446": {
       "eligible": true,
@@ -37744,6 +37747,27 @@
       "fingerprint": "ad5ac4d584992ac085c1201063d168224dffa375b7108ab9f99d3a818543c2fe",
       "revision": 0
     },
+    "url:https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "formulary financial",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "new york, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "506e4a138e6011038c8abc61c340bf039963a94c22a6a87e0d70fe264bc18efc",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7": {
       "eligible": false,
       "fingerprint": "9c9a946dc4fbd870f499e896e883b26bd4da56ac56d6d43f3788a04c65d1d0df",
@@ -51776,23 +51800,31 @@
       "fingerprint": "6e75cab0cdb3504e1dd8060e1d60f0825568f6412d712922c448212330dfeb8f",
       "revision": 1
     },
+    "url:https://lifeattiktok.com/search/7706422460086159669": {
+      "eligible": false,
+      "fingerprint": "2bd397ba112318e27e6d552fe8d6179227afb7b7498bc72271b41b7c7305de17",
+      "revision": 1
+    },
     "url:https://lifeattiktok.com/search/7706693387932633397": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "tiktok",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "san jose, ca"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
-        "title": "machine learning engineer intern, e-commerce recommendation mall"
+        "title": "machine learning engineer intern"
       },
-      "fingerprint": "d0b9f51391bc55278cac8b3e99b0d2cd429d3e5aca376e2a14cd99c24ddd9812",
-      "revision": 1
+      "fingerprint": "e64b503f2758e84563d4ea40f0122d8261f5c24122ed780d6fe313b0571965cc",
+      "revision": 2
     },
     "url:https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/rosemont-il/it-intern_jr-025323": {
       "eligible": true,
@@ -67865,6 +67897,7 @@
     "https://go.vansh.nyc/1sD": 260,
     "https://go.vansh.nyc/1sE": 260,
     "https://go.vansh.nyc/1sI": 260,
+    "https://go.vansh.nyc/1sP": 262,
     "https://go.vansh.nyc/1sb": 258,
     "https://go.vansh.nyc/1sc": 259,
     "https://go.vansh.nyc/1sf": 259,
@@ -69178,6 +69211,7 @@
     "https://go.vansh.nyc/1sD": "https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors",
     "https://go.vansh.nyc/1sE": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1",
     "https://go.vansh.nyc/1sI": "https://lifeattiktok.com/search/7706693387932633397",
+    "https://go.vansh.nyc/1sP": "https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04",
     "https://go.vansh.nyc/1sb": "https://jobs.ashbyhq.com/regent/9f25824f-486e-4d3a-b444-116b474619d7",
     "https://go.vansh.nyc/1sc": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806",
     "https://go.vansh.nyc/1sf": "https://jobs.ashbyhq.com/hookmusic/d95c6fa3-68b3-4ad4-b228-f44228a4f2c6",
@@ -69845,7 +69879,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 261,
+  "scan_sequence": 262,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

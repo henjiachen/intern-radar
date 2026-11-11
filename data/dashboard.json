@@ -2153,26 +2153,6 @@
       "url": "https://job-boards.greenhouse.io/amca/jobs/4425120009"
     },
     {
-      "company": "AMD",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "ac57c9fceb74bf4fc4c7b3d76344e5d93858884283fcb4f751e74aee34b73a69",
-      "locations": [
-        "Rochester, NY",
-        "Austin, TX",
-        "Longmont, CO",
-        "Fishkill, NY",
-        "Fort Collins, CO",
-        "Boxborough, MA"
-      ],
-      "posted_at": "2026-08-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern/Co-op",
-      "url": "https://careers.amd.com/jobs/90947?icims=1"
-    },
-    {
       "company": "American Bankers Association",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -10625,6 +10605,21 @@
       "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8222268"
     },
     {
+      "company": "Formulary Financial",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4e5fdbb8a0d6d982a159205116e4d8fb550da91ed864cc9e0b6ad13083327dd5",
+      "locations": [
+        "NYC"
+      ],
+      "posted_at": "2026-11-08",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true"
+    },
+    {
       "company": "Fortrea",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -11728,21 +11723,6 @@
       "company": "GlobalFoundries",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "d32505370dbd63da794a66fd30c009eeed9cb8cf0ec5413aaba7c0a24c78374a",
-      "locations": [
-        "Richardson, TX"
-      ],
-      "posted_at": "2026-10-19",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI/ML Systems Engineering Intern",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051"
-    },
-    {
-      "company": "GlobalFoundries",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "5e1097128a66bdffec716c2e564e3b1f94b43702351c9fe2468ea4ccbd48df76",
       "locations": [
         "Malta, NY"
@@ -11874,36 +11854,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Americas - Engineering",
-      "url": "https://higher.gs.com/roles/171565?type=students"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Engineering",
-      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -13812,21 +13762,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true"
-    },
-    {
-      "company": "ICF International",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "dd3cfeb2a2ffd5bbe0d22a7d77b83bf95ceb161234a9d5b565841123c0d73b90",
-      "locations": [
-        "Reston, VA"
-      ],
-      "posted_at": "2026-10-14",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI Engineer Intern",
-      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521"
     },
     {
       "company": "ICF International",
@@ -22354,6 +22289,21 @@
       "company": "RTX",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "8d95aca6f05f42afbee883337ccbbb3c3ec9da8cba3b38847aa95045376e470f",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049"
+    },
+    {
+      "company": "RTX",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "4b55d25dcbda91dade148e199da925dea5c6cc7c7e2a9a9ca89a2fd6e4e623a9",
       "locations": [
         "Aurora, CO"
@@ -22379,21 +22329,6 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806"
-    },
-    {
-      "company": "RTX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "8d95aca6f05f42afbee883337ccbbb3c3ec9da8cba3b38847aa95045376e470f",
-      "locations": [
-        "Richardson, TX"
-      ],
-      "posted_at": "2026-11-10",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049"
     },
     {
       "company": "RTX",
@@ -26739,6 +26674,21 @@
       "company": "TikTok",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "cb8dec1dfc1757bc5f8895511af14708c40e1ecac73d0095fcbc422ade1c4265",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-11-11",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://lifeattiktok.com/search/7706693387932633397"
+    },
+    {
+      "company": "TikTok",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "9b4517e07ce99af5977997998bf259ef127a49a131ded27c5833cb9d20103373",
       "locations": [
         "San Jose, CA"
@@ -27019,21 +26969,6 @@
       "source": "simplify",
       "title": "Machine Learning Engineer Intern - Search Quality",
       "url": "https://lifeattiktok.com/search/7665475460339665157"
-    },
-    {
-      "company": "TikTok",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "cb8dec1dfc1757bc5f8895511af14708c40e1ecac73d0095fcbc422ade1c4265",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "posted_at": "2026-11-11",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Machine Learning Engineer Intern, E-Commerce Recommendation Mall",
-      "url": "https://lifeattiktok.com/search/7706693387932633397"
     },
     {
       "company": "TikTok",
@@ -30100,7 +30035,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-11T03:04:25.443191+00:00",
+  "last_checked": "2026-11-11T04:11:39.564431+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
