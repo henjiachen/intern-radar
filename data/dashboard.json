@@ -3422,6 +3422,21 @@
       "company": "Astranis",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
+      "id": "eda40d95e1a86c24b323769a86ef194c92dbe358a9ed938b4d82a59c7f79e917",
+      "locations": [
+        "San Francisco"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "greenhouse",
+      "title": "Embedded Software Developer, Network/Payload Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704569006"
+    },
+    {
+      "company": "Astranis",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "24a62e68848b8a41a753ab2b3b013eef635b4565ab7c48cb63cd657c55d08c59",
       "locations": [
         "San Francisco"
@@ -30035,7 +30050,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-11T04:11:39.564431+00:00",
+  "last_checked": "2026-11-11T05:15:28.699422+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

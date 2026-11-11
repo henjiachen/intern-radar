@@ -31590,6 +31590,28 @@
       "fingerprint": "2f8bd295adde9e7d52a9522fddada8d4976473460e173e81b6b2e56de66635d9",
       "revision": 1
     },
+    "url:https://job-boards.greenhouse.io/astranis/jobs/4704569006": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "astranis",
+        "degrees": [],
+        "locations": [
+          "san francisco",
+          "san francisco, ca"
+        ],
+        "requirements": [
+          "as an intern, you will have an amazing opportunity to work on hard problems \u2014 we pride ourselves on giving everyone at astranis a chance to do meaningful work on challenging projects, no matter their seniority. many past interns have designed and tested hardware/software that is heading to space on our first satellite, and many of them are now full-time employees at astranis.",
+          "embedded software developer, network/payload software intern (summer 2027)"
+        ],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded software developer, network/payload intern (summer 2027)"
+      },
+      "fingerprint": "2c7eec193b790a6e6a16953c0b72b4c9f58aef569642c1f00135d7b530a56e00",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/astranis/jobs/4704571006": {
       "eligible": false,
       "fingerprint": "a6dc83166c44bef7fba43d7980e92199ab61e20643b150f9a98465a5869ac08b",
@@ -67898,6 +67920,7 @@
     "https://go.vansh.nyc/1sE": 260,
     "https://go.vansh.nyc/1sI": 260,
     "https://go.vansh.nyc/1sP": 262,
+    "https://go.vansh.nyc/1sT": 263,
     "https://go.vansh.nyc/1sb": 258,
     "https://go.vansh.nyc/1sc": 259,
     "https://go.vansh.nyc/1sf": 259,
@@ -69212,6 +69235,7 @@
     "https://go.vansh.nyc/1sE": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1",
     "https://go.vansh.nyc/1sI": "https://lifeattiktok.com/search/7706693387932633397",
     "https://go.vansh.nyc/1sP": "https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04",
+    "https://go.vansh.nyc/1sT": "https://job-boards.greenhouse.io/astranis/jobs/4704569006",
     "https://go.vansh.nyc/1sb": "https://jobs.ashbyhq.com/regent/9f25824f-486e-4d3a-b444-116b474619d7",
     "https://go.vansh.nyc/1sc": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806",
     "https://go.vansh.nyc/1sf": "https://jobs.ashbyhq.com/hookmusic/d95c6fa3-68b3-4ad4-b228-f44228a4f2c6",
@@ -69879,7 +69903,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 262,
+  "scan_sequence": 263,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
