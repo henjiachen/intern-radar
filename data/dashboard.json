@@ -6861,6 +6861,21 @@
       "company": "Cisco",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "2149950e655cf468757b84d117b5aee9dc1a53b5f624a3e903c3b34dd4c08a19",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Embedded Systems I",
+      "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024641EXTERNALENGLOBAL/Software-Engineer-Embedded-Systems-I-Intern-United-States"
+    },
+    {
+      "company": "Cisco",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "5ffdc1a0c06dcb3b84559a8dd4cd3ead71d2b525e84002ca7fbc82e3d39c8f9d",
       "locations": [
         "San Jose, CA",
@@ -11855,6 +11870,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171565?type=students"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -21575,6 +21620,23 @@
       "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"
     },
     {
+      "company": "Rippling",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "93bde44868ff9b589229c3123828a91670eae238f6b9c59836694bef4b0de5f3",
+      "locations": [
+        "Seattle, WA",
+        "SF",
+        "NYC"
+      ],
+      "posted_at": "2026-09-22",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Backend Focused",
+      "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"
+    },
+    {
       "company": "Riverside Research",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -22314,21 +22376,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017"
-    },
-    {
-      "company": "RTX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "88fe938a4069cd2c7b9220b405ebbd70bfc16a801dcb0eff85c8dfd3d6b238f3",
-      "locations": [
-        "Aurora, CO"
-      ],
-      "posted_at": "2026-10-22",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520"
     },
     {
       "company": "RTX",
@@ -30170,7 +30217,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-11T11:15:08.227490+00:00",
+  "last_checked": "2026-11-11T12:11:44.850562+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

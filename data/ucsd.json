@@ -11162,6 +11162,24 @@
       "fingerprint": "2cb7dbd9bf12cd755973ddea7be1ae068828e11f1a08a39505356238202ed325",
       "revision": 1
     },
+    "url:https://careers.cisco.com/global/en/job/ciscisglobal2024641externalenglobal/software-engineer-embedded-systems-i-intern-united-states": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cisco",
+        "degrees": [],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, embedded systems i"
+      },
+      "fingerprint": "500393ecdef727a30a559972e5ac9cd5fc0138f17f2f2801358739c09a6ea27d",
+      "revision": 1
+    },
     "url:https://careers.clydeinc.com/jobs/20002?icims=1": {
       "eligible": false,
       "fingerprint": "a496e6b993840bea119f6a550d0a7a25f5ca04c8fbd1dc4c6f8714b4cc60cae7",
@@ -24401,6 +24419,11 @@
       "fingerprint": "3be1c0ef81d267d0f36146a852c06abaf06298688b6f84bc81feef947c875301",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1uz": {
+      "eligible": false,
+      "fingerprint": "38b1c0936ae7bbde184f0852ad95352ccffd37b1843cc5ad28fe331700444eb9",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1x": {
       "eligible": false,
       "fingerprint": "a4462b1254ffa7412280a44344631ee84571010c348aedd976470ce6f54750be",
@@ -36458,6 +36481,11 @@
     "url:https://jobs.apple.com/en-us/details/200692438": {
       "eligible": false,
       "fingerprint": "8fdc60098d6ada9324c0665cb28fa5954c374c77ec8f9d760aadbde1fa173f6d",
+      "revision": 1
+    },
+    "url:https://jobs.apple.com/en-us/details/200693133": {
+      "eligible": false,
+      "fingerprint": "fd0aace594f63e980cba6367770dfc3198ed0357837146ad34275e057cdad31b",
       "revision": 1
     },
     "url:https://jobs.apple.com/en-us/details/200694037": {
@@ -58987,6 +59015,11 @@
       "fingerprint": "e8837e8a03d3ac2eaedff2e91f12ddbf7bf97aa44b535390e39fb77933951d39",
       "revision": 0
     },
+    "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/india---bangalore/summer-2027-intern---software-engineer_jr337715": {
+      "eligible": false,
+      "fingerprint": "5e800d2b9fcb1f7bbd556da22c340aede70b4919e3ac7d41b26a448f3466b6bd",
+      "revision": 1
+    },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/united-kingdom---london/engineering-intern_jr367683": {
       "eligible": false,
       "fingerprint": "4ab11dbad35933dbc3d5d6ec769841fe45032fc2c897345ab1fe03208d933187",
@@ -68291,6 +68324,7 @@
     "https://go.vansh.nyc/1up": 264,
     "https://go.vansh.nyc/1ur": 264,
     "https://go.vansh.nyc/1uv": 264,
+    "https://go.vansh.nyc/1uy": 269,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -69633,6 +69667,7 @@
     "https://go.vansh.nyc/1up": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32265",
     "https://go.vansh.nyc/1ur": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32334",
     "https://go.vansh.nyc/1uv": "https://careers-simventions.icims.com/jobs/1631/2027-software-development-intern/job",
+    "https://go.vansh.nyc/1uy": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024641EXTERNALENGLOBAL/Software-Engineer-Embedded-Systems-I-Intern-United-States",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -70289,7 +70324,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 268,
+  "scan_sequence": 269,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
