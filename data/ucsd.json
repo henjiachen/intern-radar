@@ -24967,6 +24967,11 @@
       "fingerprint": "ecbd170ab0cfdf089b4b48dd215a889ec5748112d38f58c46390620d33354b3f",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/ei": {
+      "eligible": false,
+      "fingerprint": "8de6be367e813adbf43671bac10fe107a9febe761ec3ab411ff2e99b18a03392",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/ej": {
       "eligible": false,
       "fingerprint": "d637e7d9396e4100a5679f9a8aae48a2604d59d0d3ccf471282168f82c677b09",
@@ -70324,7 +70329,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 269,
+  "scan_sequence": 270,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
