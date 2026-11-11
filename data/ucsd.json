@@ -6861,6 +6861,24 @@
       "fingerprint": "b36e8746aec65a138753e02ada6443001bccf83847a36547210f1b451f7cd485",
       "revision": 1
     },
+    "url:https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/san-jose-california/data-science-intern_jr-25360": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "bloom energy",
+        "degrees": [],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "08245fd8e3588082e15bd46812d1b811612ca9d9b8fd6b4a7d2cbb45f5fa5578",
+      "revision": 1
+    },
     "url:https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/greater-seattle-area/summer-2027-avionics-software-internship---graduate_r71423": {
       "eligible": false,
       "fingerprint": "806dbcf23f30ece347c95c0bde38b5b806fcaf3f8be1925c56e8a37a0d94e556",
@@ -21053,8 +21071,8 @@
     },
     "url:https://formfactor.wd1.myworkdayjobs.com/ffi-careers/job/livermore-ca/software-engineer-intern_jr101288": {
       "eligible": false,
-      "fingerprint": "d6fe95f21f2208d9a65ee709331db04162038f9794881be9706369ede85321bf",
-      "revision": 1
+      "fingerprint": "4e0b9e74f4072a3331246403556c6f84c40859318a2fa6cca0e9ceb1011bf25e",
+      "revision": 2
     },
     "url:https://fortrea.wd1.myworkdayjobs.com/fortrea/job/durham/aiml-rapid-development-studio-internship_266655": {
       "eligible": true,
@@ -25553,6 +25571,11 @@
       "fingerprint": "1223c9a108f8c0320e56f5ef1d021e4ad53ea6dbc527823c9fd14d5d1a2c2ddd",
       "revision": 2
     },
+    "url:https://go.vansh.nyc/gp": {
+      "eligible": false,
+      "fingerprint": "e0d263c63c596aacc42b1500f6fac428f851656d2a54801bc5007702e6151bff",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/gv": {
       "eligible": true,
       "evidence": {
@@ -29150,6 +29173,24 @@
         "title": "agentic ai engineer intern"
       },
       "fingerprint": "267d6b9c48b48a3d4b78254d9f6a97c4e4b96f79514ac770f5f73020a0431491",
+      "revision": 1
+    },
+    "url:https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/chicago-il/ai-engineering-intern_r0039470": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "hub international",
+        "degrees": [],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineering intern"
+      },
+      "fingerprint": "3b11b5d3800718dc8c27210d4cd93eeb75d46751649cddb117e956d4b04bf7ed",
       "revision": 1
     },
     "url:https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/louisville-ky/humana-technology-internship---summer-2027---society-of-women-engineers-conference-2026_r-433228": {
@@ -33218,6 +33259,24 @@
         "title": "software developer intern"
       },
       "fingerprint": "3c1fd77de9552c666df45019a4c3fbabac2d4ec4afb4c6cbf76caf8ea0306ed4",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404387009": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "farmers mutual hail",
+        "degrees": [],
+        "locations": [
+          "west des moines, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai intern"
+      },
+      "fingerprint": "79fc8a3ba5217301849ef88fbcd9bb2e1be9523826a61a8a8e1c336264372ec7",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4422262009": {
@@ -54039,6 +54098,24 @@
       "fingerprint": "591b135bc4f32ce51fa68239e8edd0597f66c1bf75b5b5a132dd8c3f1ac120b3",
       "revision": 0
     },
+    "url:https://mksinst.wd1.myworkdayjobs.com/mkscareersuniversity/job/andover-ma/xmlname-2027-summer-software-engineer-co-op_r20610": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "mks instruments",
+        "degrees": [],
+        "locations": [
+          "andover, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer co-op"
+      },
+      "fingerprint": "1b8f65e68bf38eceaac12bd570cef87911fb928749e66e76304471bf841eaf85",
+      "revision": 1
+    },
     "url:https://mlse.wd3.myworkdayjobs.com/mlse/job/toronto-ontario/business-analytics-intern_jr0000893-2": {
       "eligible": false,
       "fingerprint": "8302c61950ac69c2f5a8d2a55f7124a8f9108eac6b7d41f6958955f3a552ae0b",
@@ -54177,8 +54254,8 @@
     },
     "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/chicago-il/software-engineering---2026-spring-co-op_r67662": {
       "eligible": false,
-      "fingerprint": "db28bc5a5ae929ab2646a786800fbe32db44dd2ef57f416e0b9f455d4927d26a",
-      "revision": 0
+      "fingerprint": "f373434178314596378d58c63161f0a4979482c2b06454405a4e7131dd3f6f30",
+      "revision": 1
     },
     "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/chicago-il/software-engineering-intern---summer-2027_r68388": {
       "eligible": true,
@@ -60690,13 +60767,13 @@
     },
     "url:https://stripe.com/jobs/search?gh_jid=8128745": {
       "eligible": false,
-      "fingerprint": "e3e57c9a0de077964dcde8bfeec3bd0553cd6595a27d55fc04492be75cf33642",
-      "revision": 0
+      "fingerprint": "d2783e500052baa39613e601f0b195fd85f314fe9e571c67254c71041cbbf1e0",
+      "revision": 1
     },
     "url:https://stripe.com/jobs/search?gh_jid=8130805": {
       "eligible": false,
-      "fingerprint": "5ed2387cf665f5550e3f3c633a5da171f9e6aa6f0a9f998300b54e2d879a7112",
-      "revision": 0
+      "fingerprint": "889c8ded96340828080f3056595a9163d2c6225c6459572cbe25dea894014cb9",
+      "revision": 1
     },
     "url:https://stripe.com/jobs/search?gh_jid=8130807": {
       "eligible": false,
@@ -68417,6 +68494,42 @@
       "eligible": false,
       "fingerprint": "d4700ee47497c483548ab8a0c0b6c22bbc52cf9f0a43137f26a11d209a76177c",
       "revision": 1
+    },
+    "url:https://zotecpartners.applytojob.com/apply/egge30uqyo": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "zotec partners",
+        "degrees": [],
+        "locations": [
+          "carmel, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "50319edcabcfc06acf04fc0a5e10dd31f1d025983f8d23f9ca41870f33a59bd8",
+      "revision": 1
+    },
+    "url:https://zotecpartners.applytojob.com/apply/kzd502wrcy": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "zotec partners",
+        "degrees": [],
+        "locations": [
+          "carmel, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, rci"
+      },
+      "fingerprint": "68da161f8a5087b69e3bd5937879badfa999016f4c3e250067fb8963aff75417",
+      "revision": 1
     }
   },
   "link_checks": {
@@ -69126,6 +69239,12 @@
     "https://go.vansh.nyc/1vg": 277,
     "https://go.vansh.nyc/1vh": 277,
     "https://go.vansh.nyc/1vj": 277,
+    "https://go.vansh.nyc/1vm": 278,
+    "https://go.vansh.nyc/1vn": 278,
+    "https://go.vansh.nyc/1vo": 278,
+    "https://go.vansh.nyc/1vp": 278,
+    "https://go.vansh.nyc/1vq": 278,
+    "https://go.vansh.nyc/1vr": 278,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -70488,6 +70607,12 @@
     "https://go.vansh.nyc/1vg": "https://securitymetrics.bamboohr.com/careers/215",
     "https://go.vansh.nyc/1vh": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179",
     "https://go.vansh.nyc/1vj": "https://apply.workable.com/j/E81C7F7D3B",
+    "https://go.vansh.nyc/1vm": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-25360",
+    "https://go.vansh.nyc/1vn": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610",
+    "https://go.vansh.nyc/1vo": "https://zotecpartners.applytojob.com/apply/kZD502wRCY",
+    "https://go.vansh.nyc/1vp": "https://zotecpartners.applytojob.com/apply/EGGe30UqYo",
+    "https://go.vansh.nyc/1vq": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404387009",
+    "https://go.vansh.nyc/1vr": "https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/AI-Engineering-Intern_R0039470",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -71144,7 +71269,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 277,
+  "scan_sequence": 278,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
