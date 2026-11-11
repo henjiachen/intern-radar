@@ -3469,6 +3469,11 @@
       "fingerprint": "6f6cfe4ca4b3fa3228ec85c8bb4c3da5253b600de5008f0795226d3b2265e705",
       "revision": 1
     },
+    "url:https://apply.workable.com/bask-health-1/j/9d7e69054e/apply": {
+      "eligible": false,
+      "fingerprint": "a3894e1af5129439b320aeee39288f6a226da14abca9ddcee3a614453f301e3a",
+      "revision": 1
+    },
     "url:https://apply.workable.com/botpress/j/16c68a50a7/apply": {
       "eligible": false,
       "fingerprint": "5589193901e644fe3101471a5f07dc50e56b0854bf5d596564072e8c618ff768",
@@ -24291,11 +24296,6 @@
       "fingerprint": "45656528f31fc5391e468ad9fe33c31341b5d6bd56f25f82027e236b12600bff",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1sl": {
-      "eligible": false,
-      "fingerprint": "0a038d5a91efeebfe5e3709bf58b77bded4e54c4c3c35ef8daf3954dedc6d4cb",
-      "revision": 1
-    },
     "url:https://go.vansh.nyc/1so": {
       "eligible": false,
       "fingerprint": "03bad5143cd90caf5bf95c8071420366751d9802d40afd5dad16e5d907980530",
@@ -31691,13 +31691,12 @@
       "eligible": true,
       "evidence": {
         "category": "hardware",
-        "company": "astranis",
+        "company": "astranis space technologies",
         "degrees": [
           "bachelor's"
         ],
         "locations": [
-          "san francisco, ca",
-          "sf"
+          "san francisco, ca"
         ],
         "requirements": [
           "as an intern, you will have an amazing opportunity to work on hard problems \u2014 we pride ourselves on giving everyone at astranis a chance to do meaningful work on challenging projects, no matter their seniority. many past interns have designed and tested hardware/software that is now flying on our first satellite, and many of them are now full-time employees at astranis.",
@@ -31709,8 +31708,8 @@
         ],
         "title": "software defined radio hardware intern - summer 2027"
       },
-      "fingerprint": "c20ff7cc0f0043fc31ed23d4c8be0b2052aae7590c19c3f720048da832293b20",
-      "revision": 1
+      "fingerprint": "ee88f71eac6b31048fb31eb6d1822b1584643c91002c65ac175355d1d5e31ec2",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009": {
       "eligible": true,
@@ -39700,11 +39699,16 @@
     "url:https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "shield",
-        "degrees": [],
+        "category": "software",
+        "company": "shield ai",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
         "locations": [
           "dallas, tx",
+          "san diego, ca",
           "san mateo, ca"
         ],
         "requirements": [],
@@ -39713,15 +39717,18 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "c5eef8712f6c67f79e1e761747145fade1b108de60d46d27c8fec4b8340a9e88",
-      "revision": 1
+      "fingerprint": "da9407546ba0f67690aadaf889df4517e42b6568faa6ca2deaedb39a8ac3b372",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "shield",
-        "degrees": [],
+        "category": "software",
+        "company": "shield ai",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "dallas, tx"
         ],
@@ -39729,17 +39736,20 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer co-op"
+        "title": "software engineer intern co-op"
       },
-      "fingerprint": "1811b0c0fd465c2db187f4ae69a7930bbb90c3b87f2e10fb573fa99ebc2f5361",
-      "revision": 1
+      "fingerprint": "11b2359f3f4e84781bf455533db1ac76d9b82f828afef58a7322a156cf5d24e9",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "shield",
-        "degrees": [],
+        "category": "software",
+        "company": "shield ai",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "san diego, ca"
         ],
@@ -39749,8 +39759,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "17644a85b9abe0048c89e8da041dfddbbf28128c275a2b44cb4059e7b9adfa9e",
-      "revision": 1
+      "fingerprint": "aa0075d4bcd1cb3c7be94e7e5fabb4c716df6a41c310d7ce7ffa007d228e72ab",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e": {
       "eligible": false,
@@ -40391,8 +40401,8 @@
     },
     "url:https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5": {
       "eligible": false,
-      "fingerprint": "72eb19dfe64e73a2c6ad515ad46cde0ced42a73d9423a4e163a8b6830d172371",
-      "revision": 0
+      "fingerprint": "588db093a0cf08f37e3bbe6c93bf0928af2af4ed46fe617b72f3890531e47ac8",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d": {
       "eligible": false,
@@ -66568,6 +66578,26 @@
       "fingerprint": "22533fac05565b8a2e3b0f39e4e36f85800a9a50361ad2f7c080a6e3cbc65b86",
       "revision": 1
     },
+    "url:https://www.tesla.com/careers/search/job/289683": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "tesla",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "fremont, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern - it apps"
+      },
+      "fingerprint": "0c04b966e7f68069732cfbe95cf79e8580589757fd70f3cec4252e717ccc2626",
+      "revision": 1
+    },
     "url:https://www.tower-research.ca/postes-vacants?gh_jid=8212194": {
       "eligible": false,
       "fingerprint": "621dee5058e5d1cc9aaefd86e69519ad003dfcb3750f5d75bc5cb573ac6500f8",
@@ -69815,7 +69845,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 260,
+  "scan_sequence": 261,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

@@ -2156,38 +2156,6 @@
       "company": "AMD",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "2fad1eb8c82dd60acae08e42ea26c134b8c28a7a3b3a50580e98d177ca2cd1de",
-      "locations": [
-        "San Jose, CA",
-        "Santa Clara, CA"
-      ],
-      "posted_at": "2026-08-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Firmware Engineering Intern Co-op - Undergrad",
-      "url": "https://careers.amd.com/jobs/90807?icims=1"
-    },
-    {
-      "company": "AMD",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "b5109ffd2d946bec0904325983f52db91448286934d1c0b57fa35f3eb3eba110",
-      "locations": [
-        "San Jose, CA",
-        "Santa Clara, CA"
-      ],
-      "posted_at": "2026-08-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
-      "url": "https://careers.amd.com/jobs/90892?icims=1"
-    },
-    {
-      "company": "AMD",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "ac57c9fceb74bf4fc4c7b3d76344e5d93858884283fcb4f751e74aee34b73a69",
       "locations": [
         "Rochester, NY",
@@ -3489,21 +3457,6 @@
       "company": "Astranis",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
-      "id": "ecbd8ed9b70589b180bb99a3d549f863e64f799223d17c9007d9fe735b93b51a",
-      "locations": [
-        "SF"
-      ],
-      "posted_at": "2026-09-24",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Defined Radio Hardware Intern - Summer 2027",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006"
-    },
-    {
-      "company": "Astranis",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
       "id": "a6127825738158a00146393d2615637cdc801365ffd140503936ce52b606952c",
       "locations": [
         "San Francisco, CA"
@@ -3529,6 +3482,21 @@
       "source": "greenhouse",
       "title": "Software Engineer Backend Intern (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006"
+    },
+    {
+      "company": "Astranis Space Technologies",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "ecbd8ed9b70589b180bb99a3d549f863e64f799223d17c9007d9fe735b93b51a",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted_at": "2026-09-25",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Software Defined Radio Hardware Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006"
     },
     {
       "company": "AstraZeneca",
@@ -6485,21 +6453,6 @@
       "source": "simplify",
       "title": "Configuration and Automation Intern",
       "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Configuration-and-Automation_R14185"
-    },
-    {
-      "company": "CareSource",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "39a21a1586eb600158b58dc4d3718319b38e79a277632b95575d843bf9f2c368",
-      "locations": [
-        "Remote in USA"
-      ],
-      "posted_at": "2026-11-05",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analyst Intern",
-      "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356"
     },
     {
       "company": "Carnegie Mellon University",
@@ -21423,51 +21376,6 @@
       "url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Summer-2027_JR-007635"
     },
     {
-      "company": "Resideo",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "dbd3d0e3bf65ea9f9d4049f2510af4df973112f8665db7f8f36a2db16790cbf3",
-      "locations": [
-        "Aurora, IL"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Firmware Engineer Intern",
-      "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19813"
-    },
-    {
-      "company": "Resideo",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "9d8cc39b5001f7fe2d94d151281fbe626b84795f8bf3c9ddb70a24bf23e60d35",
-      "locations": [
-        "Golden Valley, MN"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Firmware Engineer Intern",
-      "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19814"
-    },
-    {
-      "company": "Resideo",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "cae72569fdc76b5d61e2a4c92186f856af35bcb054d11e1f64f13b857a262696",
-      "locations": [
-        "Austin, TX"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Mobile Software Engineer Intern",
-      "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19816"
-    },
-    {
       "company": "Revantage Corporate Services",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -23455,52 +23363,6 @@
       "url": "https://jobs.ashbyhq.com/shield/621d736b-5ae1-4d62-8f05-088753318d29"
     },
     {
-      "company": "Shield",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "59f323dab8e6a4a92601cc9a225e520bcc2059dd2c4186815e394a5e11810d24",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-11-05",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Co-op",
-      "url": "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2"
-    },
-    {
-      "company": "Shield",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "282292fc2a54d9632b6e8899c6975674144339a460fea847b9d6e0c12ae67289",
-      "locations": [
-        "San Mateo, CA",
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-09-23",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036"
-    },
-    {
-      "company": "Shield",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4f6d89d66b9ec625e6831f479815e366f1118992e2168550f6d4ef9ffd90deb1",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a"
-    },
-    {
       "company": "Shield AI",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -23567,6 +23429,36 @@
       "company": "Shield AI",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "4f6d89d66b9ec625e6831f479815e366f1118992e2168550f6d4ef9ffd90deb1",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true"
+    },
+    {
+      "company": "Shield AI",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "282292fc2a54d9632b6e8899c6975674144339a460fea847b9d6e0c12ae67289",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-09-23",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true"
+    },
+    {
+      "company": "Shield AI",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "5536171d89e270ffa2be0bc3c0aa824176fea8879ce40fc70ea20da7d421fb57",
       "locations": [
         "Dallas, TX"
@@ -23577,6 +23469,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern Co-op",
       "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true"
+    },
+    {
+      "company": "Shield AI",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "59f323dab8e6a4a92601cc9a225e520bcc2059dd2c4186815e394a5e11810d24",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern Co-op",
+      "url": "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true"
     },
     {
       "company": "ShopBack",
@@ -25611,6 +25518,21 @@
       "source": "simplify",
       "title": "Physics Engine Development Engineer Intern - Optimus",
       "url": "https://www.tesla.com/careers/search/job/282147"
+    },
+    {
+      "company": "Tesla",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5a297490a764623d3cbd05db88608219ad0a5026f049f8f42ed1c1313f119f68",
+      "locations": [
+        "Fremont, CA"
+      ],
+      "posted_at": "2026-11-11",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Developer Intern - IT Apps",
+      "url": "https://www.tesla.com/careers/search/job/289683"
     },
     {
       "company": "Tesla",
@@ -30178,7 +30100,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-11T01:22:46.124114+00:00",
+  "last_checked": "2026-11-11T03:04:25.443191+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
