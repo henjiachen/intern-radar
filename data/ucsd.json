@@ -47737,6 +47737,26 @@
       "fingerprint": "a087a0683eb241f8817beeee9b8f63f998f1ca62818d911a7d101a0bbbd235fd",
       "revision": 1
     },
+    "url:https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "trilogy health services",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "louisville, ky"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "value based care finance intern"
+      },
+      "fingerprint": "0d440373898bf66b81a485c6620f68250f02b6c04bf00a7d60cc31e117a250e8",
+      "revision": 1
+    },
     "url:https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us": {
       "eligible": true,
       "evidence": {
@@ -54952,6 +54972,11 @@
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/germany-munich/software-engineering-intern---2027_jr2029184": {
       "eligible": false,
       "fingerprint": "87651432d4997bef5020b0967f9fc459242343a986d013743cf2b743ef312f29",
+      "revision": 1
+    },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/japan-tokyo/developer-technology-engineer-intern_jr2029575": {
+      "eligible": false,
+      "fingerprint": "6517a21eafbac039a9e6b2a5bde623a7e1d13a53cdb320b86bfabdf61268a610",
       "revision": 1
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/singapore-pasir-panjang/research-intern--robotics---2027_jr2028499": {
@@ -62566,6 +62591,11 @@
     "url:https://us-envoyair.icims.com/jobs/13099/job": {
       "eligible": false,
       "fingerprint": "60a0031ccb1a7c569be3450616b96166d62dabf41fd48580d56d4080e3b0298c",
+      "revision": 1
+    },
+    "url:https://us-envoyair.icims.com/jobs/13100/job": {
+      "eligible": false,
+      "fingerprint": "73665f708ff476a43aacfa67a49b7e1e85a412860f35d28809ad866859d426f1",
       "revision": 1
     },
     "url:https://us-erac.icims.com/jobs/566721/job": {
@@ -70254,7 +70284,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 266,
+  "scan_sequence": 267,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

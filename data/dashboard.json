@@ -699,21 +699,6 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
     },
     {
-      "company": "salesforce",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "a4af6bc81429199f4ed7679f916edee5a68a166833c26f676370a016499df4fe",
-      "locations": [
-        "California - San Francisco"
-      ],
-      "posted_at": "",
-      "priority": 10,
-      "priority_program": false,
-      "source": "workday",
-      "title": "Summer 2027 Intern - Applied AI Strategy & Research",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-1"
-    },
-    {
       "company": "3M",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -2688,10 +2673,10 @@
       "locations": [
         "Greensboro, NC"
       ],
-      "posted_at": "2026-09-15",
+      "posted_at": "2026-11-05",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "vanshb03",
       "title": "Automation Developer Intern",
       "url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7"
     },
@@ -9560,21 +9545,6 @@
       "source": "vanshb03",
       "title": "Software Development Intern",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553447"
-    },
-    {
-      "company": "Electronic Arts",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "2003d635c946730738a713f9b4a1a4fc44461e0dd4b07a5afb17843ec1bff2b4",
-      "locations": [
-        "Austin, TX"
-      ],
-      "posted_at": "2026-11-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Anticheat Engineer Intern",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242"
     },
     {
       "company": "Electronic Arts",
@@ -19423,7 +19393,7 @@
       "posted_at": "2026-11-02",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "AI-Driven Vehicle Definition Intern",
       "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors"
     },
@@ -27942,6 +27912,21 @@
       "url": "https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us"
     },
     {
+      "company": "Trilogy Health Services",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "792d400342c8517087dddfefc9b2966672aca365439e1f93ea92cb73c3fce74c",
+      "locations": [
+        "Louisville, KY"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Value Based Care Finance Intern",
+      "url": "https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us"
+    },
+    {
       "company": "Trimble",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -30217,7 +30202,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-11T09:11:07.331018+00:00",
+  "last_checked": "2026-11-11T10:14:48.605719+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
