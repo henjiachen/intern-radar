@@ -1792,7 +1792,7 @@
       "locations": [
         "Redmond, WA"
       ],
-      "posted_at": "2026-10-06",
+      "posted_at": "2026-10-07",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1807,7 +1807,7 @@
       "locations": [
         "Redmond, WA"
       ],
-      "posted_at": "2026-10-23",
+      "posted_at": "2026-10-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1822,7 +1822,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-09-30",
+      "posted_at": "2026-10-01",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1837,7 +1837,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-09-29",
+      "posted_at": "2026-09-30",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1852,7 +1852,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-10-15",
+      "posted_at": "2026-10-16",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1904,7 +1904,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-09-09",
+      "posted_at": "2026-09-10",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -1919,7 +1919,7 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-09-25",
+      "posted_at": "2026-09-26",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -2009,7 +2009,7 @@
       "locations": [
         "North Reading, MA"
       ],
-      "posted_at": "2026-09-04",
+      "posted_at": "2026-09-05",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -2485,7 +2485,7 @@
       "locations": [
         "Costa Mesa, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -2500,7 +2500,7 @@
       "locations": [
         "Costa Mesa, CA"
       ],
-      "posted_at": "2026-09-15",
+      "posted_at": "2026-09-16",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -2785,7 +2785,7 @@
       "locations": [
         "Los Angeles, CA"
       ],
-      "posted_at": "2026-11-05",
+      "posted_at": "2026-11-06",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -2890,7 +2890,7 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "posted_at": "2026-11-02",
+      "posted_at": "2026-11-03",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -3152,6 +3152,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561"
+    },
+    {
+      "company": "Art of Problem Solving",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "aca1698fad4082247839a97b38e73b4dfdac7393e5c22e7185f0eb291e524eff",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Science Intern",
+      "url": "https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003"
     },
     {
       "company": "Art of Problem Solving",
@@ -3476,13 +3491,13 @@
       "graduation_status": "not_found",
       "id": "ecbd8ed9b70589b180bb99a3d549f863e64f799223d17c9007d9fe735b93b51a",
       "locations": [
-        "San Francisco"
+        "SF"
       ],
-      "posted_at": "2026-09-23",
+      "posted_at": "2026-09-24",
       "priority": 11,
       "priority_program": false,
-      "source": "greenhouse",
-      "title": "Software Defined Radio Hardware Intern (Summer 2027)",
+      "source": "simplify",
+      "title": "Software Defined Radio Hardware Intern - Summer 2027",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006"
     },
     {
@@ -5365,7 +5380,7 @@
       "locations": [
         "New York City, NY"
       ],
-      "posted_at": "2026-09-10",
+      "posted_at": "2026-09-11",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -6310,7 +6325,7 @@
       "locations": [
         "Denver, CO +1"
       ],
-      "posted_at": "2026-10-23",
+      "posted_at": "2026-10-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -6562,6 +6577,51 @@
       "url": "https://careers.celestica.com/job/Austin-Student-Intern%2C-Software-Testing-TX-73301/1449484733"
     },
     {
+      "company": "CenturyLink",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2f8d433f725304777301c8c683b29ed040b8a7fd73fd6352de9c62a8e77b0e18",
+      "locations": [
+        "Remote in USA"
+      ],
+      "posted_at": "2026-10-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI & Automation Builders Internship",
+      "url": "https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors"
+    },
+    {
+      "company": "CenturyLink",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c95c07f249f84d575df414c9183960848f4391ddab6f410c0c8ea868bd92254c",
+      "locations": [
+        "Remote in USA"
+      ],
+      "posted_at": "2026-10-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Product & Business Innovation Intern",
+      "url": "https://internaljobs.centurylink.com/job/Remote-AI-Product-&-Business-Innovation-Summer-2027-Internship-Pathway/1440948000/?ats=successfactors"
+    },
+    {
+      "company": "CenturyLink",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "cd5a0a30eb30daf42d6a2d04cc171f24cc71e4ea13c92eaf53d2039337d8fbcc",
+      "locations": [
+        "Remote in USA"
+      ],
+      "posted_at": "2026-10-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Internship - Analytics & Decision Science",
+      "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors"
+    },
+    {
       "company": "Cerity Partners",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -6795,7 +6855,7 @@
       "locations": [
         "Austin, TX"
       ],
-      "posted_at": "2026-09-12",
+      "posted_at": "2026-09-13",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -6831,6 +6891,23 @@
       "source": "vanshb03",
       "title": "Software Consulting Engineer I Intern",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180"
+    },
+    {
+      "company": "Cisco",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "45f6e1833af6e5fa788930b2b64e1dd64eac631bd4b66fe66e3500bda22f6343",
+      "locations": [
+        "San Jose, CA",
+        "Austin, TX",
+        "Research Triangle Park, NC"
+      ],
+      "posted_at": "2026-11-11",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Embedded Systems I Intern",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1"
     },
     {
       "company": "Cisco",
@@ -7998,21 +8075,6 @@
       "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54844"
     },
     {
-      "company": "CTGT",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "7ad31fc79ea17c6523ae102f8a3ae4fb0a44b4d1aa3d329616eec6191cad13f8",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "posted_at": "2026-11-10",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "AI Evaluation Research Intern",
-      "url": "https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e"
-    },
-    {
       "company": "Current Lighting Employee Co",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -8478,7 +8540,7 @@
       "locations": [
         "Chicago, IL"
       ],
-      "posted_at": "2026-07-24",
+      "posted_at": "2026-07-25",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -8948,7 +9010,7 @@
       "locations": [
         "Boston, MA"
       ],
-      "posted_at": "2026-09-01",
+      "posted_at": "2026-09-02",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -9311,6 +9373,21 @@
       "company": "DwyerOmega",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "13cc83a125fd7b26768fec5623dbe7c0396b6c3d74f505c809e7449377641b87",
+      "locations": [
+        "Remote in USA"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Applied AI Intern",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662"
+    },
+    {
+      "company": "DwyerOmega",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "368768f8b25321339ab6ad9636ee48331b384941f15aae401ffc3b7792b2a0a1",
       "locations": [
         "Westerville, OH"
@@ -9353,21 +9430,19 @@
       "url": "https://eaton.eightfold.ai/careers/job/687239365640"
     },
     {
-      "company": "Echo",
+      "company": "Echo Global Logistics",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
       "id": "c1f6ab80e6cb416030a0920e2f455421c32bc2b44acac912502b249c31667d64",
       "locations": [
-        "Chicago, IL",
-        "Remote",
         "United States"
       ],
       "posted_at": "2026-11-10",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
-      "url": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1"
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1"
     },
     {
       "company": "Ecmtek",
@@ -9599,6 +9674,22 @@
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216262"
     },
     {
+      "company": "Elire",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a621c78945a0a85ccf9b9e0b854a2ef21158f214ebc658eb598103c2991b0a92",
+      "locations": [
+        "Remote in USA",
+        "Minneapolis, MN"
+      ],
+      "posted_at": "2026-09-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
+      "url": "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false"
+    },
+    {
       "company": "Emerson Electric",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -9681,7 +9772,7 @@
       "locations": [
         "Durham, NC +1"
       ],
-      "posted_at": "2026-09-04",
+      "posted_at": "2026-09-05",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -9771,7 +9862,7 @@
       "locations": [
         "St. Louis, MO"
       ],
-      "posted_at": "2026-10-09",
+      "posted_at": "2026-10-10",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -10573,7 +10664,7 @@
       "locations": [
         "Somerville, MA"
       ],
-      "posted_at": "2026-09-22",
+      "posted_at": "2026-09-23",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -10648,7 +10739,7 @@
       "locations": [
         "Fort Wayne, IN"
       ],
-      "posted_at": "2026-09-24",
+      "posted_at": "2026-09-25",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -10858,7 +10949,7 @@
       "locations": [
         "Bossier City, LA"
       ],
-      "posted_at": "2026-09-26",
+      "posted_at": "2026-09-27",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -10873,7 +10964,7 @@
       "locations": [
         "Bossier City, LA"
       ],
-      "posted_at": "2026-09-26",
+      "posted_at": "2026-09-27",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -11086,7 +11177,7 @@
       "posted_at": "2026-11-10",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "AI/ML Business Intelligence Development Intern",
       "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935"
     },
@@ -11438,7 +11529,7 @@
       "locations": [
         "Sunnyvale, CA"
       ],
-      "posted_at": "2026-10-05",
+      "posted_at": "2026-10-06",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -12124,7 +12215,7 @@
       "locations": [
         "New York City, NY"
       ],
-      "posted_at": "2026-09-23",
+      "posted_at": "2026-09-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -13580,7 +13671,7 @@
       "locations": [
         "San Francisco, CA"
       ],
-      "posted_at": "2026-08-31",
+      "posted_at": "2026-09-01",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -13660,7 +13751,7 @@
       "posted_at": "2026-11-10",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Application Developer Intern",
       "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104"
     },
@@ -13957,7 +14048,7 @@
       "locations": [
         "Redondo Beach, CA"
       ],
-      "posted_at": "2026-10-20",
+      "posted_at": "2026-10-21",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -13987,7 +14078,7 @@
       "locations": [
         "Redondo Beach, CA"
       ],
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -14122,7 +14213,7 @@
       "locations": [
         "Pittsburgh, PA"
       ],
-      "posted_at": "2026-09-03",
+      "posted_at": "2026-09-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -14213,7 +14304,7 @@
       "locations": [
         "Acton, MA"
       ],
-      "posted_at": "2026-09-16",
+      "posted_at": "2026-09-17",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -14228,7 +14319,7 @@
       "locations": [
         "Acton, MA"
       ],
-      "posted_at": "2026-09-10",
+      "posted_at": "2026-09-11",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -14243,7 +14334,7 @@
       "locations": [
         "Acton, MA"
       ],
-      "posted_at": "2026-09-29",
+      "posted_at": "2026-09-30",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -14307,7 +14398,7 @@
       "locations": [
         "Greenwich, CT"
       ],
-      "posted_at": "2026-08-19",
+      "posted_at": "2026-08-20",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -14613,6 +14704,21 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://careers-ice.icims.com/jobs/14077/job?mobile=true&needsRedirect=false"
+    },
+    {
+      "company": "International",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ab89d690e3d233272ffe37a3460edeb7c5620cec1754156515bc426139fc0a97",
+      "locations": [
+        "Lisle, IL"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Artificial Intelligence/Machine Learning Intern",
+      "url": "https://careers.international.com/jobs/60456?icims=1&lang=en-us"
     },
     {
       "company": "Intuit",
@@ -15237,6 +15343,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199"
+    },
+    {
+      "company": "JMP Statistical Discovery",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "112fe5eb1b1a68a65fe8f0dbfd325a6405e478bc9dea6f1a5de98f5028b29910",
+      "locations": [
+        "Cary, NC"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "C++ Software Development Intern",
+      "url": "https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false"
     },
     {
       "company": "John D. and Catherine T. MacArthur Foundation",
@@ -16752,7 +16873,7 @@
       "locations": [
         "Austin, TX"
       ],
-      "posted_at": "2026-08-03",
+      "posted_at": "2026-08-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -16767,7 +16888,7 @@
       "locations": [
         "Boston, MA"
       ],
-      "posted_at": "2026-08-03",
+      "posted_at": "2026-08-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -16782,7 +16903,7 @@
       "locations": [
         "Cincinnati, OH"
       ],
-      "posted_at": "2026-08-03",
+      "posted_at": "2026-08-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -18293,7 +18414,7 @@
       "locations": [
         "New York City, NY"
       ],
-      "posted_at": "2026-11-09",
+      "posted_at": "2026-11-10",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -18308,7 +18429,7 @@
       "locations": [
         "Universal City, CA"
       ],
-      "posted_at": "2026-11-09",
+      "posted_at": "2026-11-10",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -18867,7 +18988,7 @@
       "locations": [
         "Apopka, FL"
       ],
-      "posted_at": "2026-11-09",
+      "posted_at": "2026-11-10",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -19945,7 +20066,7 @@
       "locations": [
         "San Jose, CA +4"
       ],
-      "posted_at": "2026-11-05",
+      "posted_at": "2026-11-06",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -20373,7 +20494,7 @@
       "locations": [
         "Neenah, WI"
       ],
-      "posted_at": "2026-11-02",
+      "posted_at": "2026-11-03",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -20388,7 +20509,7 @@
       "locations": [
         "Raleigh, NC"
       ],
-      "posted_at": "2026-09-01",
+      "posted_at": "2026-09-02",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -21040,6 +21161,21 @@
       "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563"
     },
     {
+      "company": "Rambus",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "180d284d05bf32eb109d6e78a54fb21bff5e69e7c971761df7a6d4eb586ca44c",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Product Engineer Intern",
+      "url": "https://careers-rambus.icims.com/jobs/23119/job?mobile=true&needsRedirect=false"
+    },
+    {
       "company": "Range",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -21062,7 +21198,7 @@
       "locations": [
         "Laramie, WY"
       ],
-      "posted_at": "2026-09-15",
+      "posted_at": "2026-09-16",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -21092,7 +21228,7 @@
       "locations": [
         "Jupiter, FL"
       ],
-      "posted_at": "2026-11-04",
+      "posted_at": "2026-11-05",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -22340,6 +22476,21 @@
       "company": "RTX",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "8d95aca6f05f42afbee883337ccbbb3c3ec9da8cba3b38847aa95045376e470f",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049"
+    },
+    {
+      "company": "RTX",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "59b53273db8827ce70e51ab82c920f5a7ab93d9f8934dceb3cc4d5ab7c47585a",
       "locations": [
         "Cedar Rapids, IA"
@@ -23203,7 +23354,7 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -23218,7 +23369,7 @@
       "locations": [
         "Santa Clara, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -24039,9 +24190,9 @@
       "posted_at": "2026-11-10",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Middleware Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03"
+      "url": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true"
     },
     {
       "company": "Skydio",
@@ -24111,7 +24262,7 @@
       "locations": [
         "Andover, MA"
       ],
-      "posted_at": "2026-11-04",
+      "posted_at": "2026-11-05",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -24270,7 +24421,7 @@
       "locations": [
         "Bastrop, TX +7"
       ],
-      "posted_at": "2026-08-03",
+      "posted_at": "2026-08-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -24677,7 +24828,7 @@
       "locations": [
         "Milwaukee, WI +4"
       ],
-      "posted_at": "2026-11-03",
+      "posted_at": "2026-11-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -24692,7 +24843,7 @@
       "locations": [
         "Hartford, CT +2"
       ],
-      "posted_at": "2026-11-03",
+      "posted_at": "2026-11-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -25176,7 +25327,7 @@
       "locations": [
         "Greenville, SC +1"
       ],
-      "posted_at": "2026-09-21",
+      "posted_at": "2026-09-22",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -26025,7 +26176,7 @@
       "locations": [
         "Remote - Minnesota, USA"
       ],
-      "posted_at": "2026-10-23",
+      "posted_at": "2026-10-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -26040,7 +26191,7 @@
       "locations": [
         "Remote - Minnesota, USA"
       ],
-      "posted_at": "2026-10-23",
+      "posted_at": "2026-10-24",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -26310,7 +26461,7 @@
       "locations": [
         "San Jose, CA"
       ],
-      "posted_at": "2026-07-29",
+      "posted_at": "2026-07-30",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -26951,6 +27102,21 @@
       "company": "TikTok",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "cb8dec1dfc1757bc5f8895511af14708c40e1ecac73d0095fcbc422ade1c4265",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-11-11",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Machine Learning Engineer Intern, E-Commerce Recommendation Mall",
+      "url": "https://lifeattiktok.com/search/7706693387932633397"
+    },
+    {
+      "company": "TikTok",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "26e5e433e942138fc29c62285c2b096fe579e9667ee27a6ce026b194eab0b5c0",
       "locations": [
         "San Jose, CA"
@@ -27480,7 +27646,7 @@
       "locations": [
         "San Jose, CA"
       ],
-      "posted_at": "2026-07-29",
+      "posted_at": "2026-07-30",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -27617,7 +27783,7 @@
       "locations": [
         "San Francisco, CA"
       ],
-      "posted_at": "2026-10-26",
+      "posted_at": "2026-10-27",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -27909,9 +28075,9 @@
       "posted_at": "2026-11-10",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
-      "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120"
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120"
     },
     {
       "company": "TruStage",
@@ -27951,7 +28117,7 @@
       "locations": [
         "Syracuse, NY"
       ],
-      "posted_at": "2026-11-06",
+      "posted_at": "2026-11-07",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -29086,6 +29252,21 @@
       "company": "Vizient",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "1c628c19daca8044fdb00302aabe0f010ffe5e2e5b014ff0dd0559c54e4989e4",
+      "locations": [
+        "Irving, TX"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Spend Management Insights Intern",
+      "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Spend-Management-Insights_36212R"
+    },
+    {
+      "company": "Vizient",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "4da1462cb103581ce41b29bd99e3732d0f39cbd6603d1936430ebe5997df4323",
       "locations": [
         "Chicago, IL"
@@ -29455,7 +29636,7 @@
       "locations": [
         "San Jose, CA"
       ],
-      "posted_at": "2026-08-13",
+      "posted_at": "2026-08-14",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -29579,7 +29760,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -29594,7 +29775,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -29609,7 +29790,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -29624,7 +29805,7 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -29654,7 +29835,7 @@
       "locations": [
         "Omaha, NE"
       ],
-      "posted_at": "2026-11-03",
+      "posted_at": "2026-11-04",
       "priority": 11,
       "priority_program": false,
       "source": "speedyapply",
@@ -29997,7 +30178,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-10T23:49:00.888219+00:00",
+  "last_checked": "2026-11-11T01:22:46.124114+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
