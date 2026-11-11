@@ -7090,6 +7090,11 @@
       "fingerprint": "33f46d2a1165f8a80225209893a55593bd550083597d0fcdae1b1da957951929",
       "revision": 0
     },
+    "url:https://boards.greenhouse.io/andurilindustries/jobs/5269977007": {
+      "eligible": false,
+      "fingerprint": "24dcfd7f221e38757c36a754c1d744c1fb1bac21a4a15d152f5ffbbd94e16861",
+      "revision": 1
+    },
     "url:https://boards.greenhouse.io/andurilindustries/jobs/5271672007": {
       "eligible": true,
       "evidence": {
@@ -70284,7 +70289,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 267,
+  "scan_sequence": 268,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
