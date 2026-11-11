@@ -5305,6 +5305,21 @@
       "url": "https://brevanhoward.wd3.myworkdayjobs.com/en-US/bh_externalcareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597"
     },
     {
+      "company": "Brex",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "816f3e80a04939225c523aac1b5ef51bbbf91dba91c54f835323fb0aad8947d5",
+      "locations": [
+        "San Francisco, California, United States"
+      ],
+      "posted_at": "2026-11-11",
+      "priority": 11,
+      "priority_program": false,
+      "source": "greenhouse",
+      "title": "Software Engineer, Intern  (Summer 2027)",
+      "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002"
+    },
+    {
       "company": "Brunswick",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -11657,6 +11672,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true"
+    },
+    {
+      "company": "GlobalFoundries",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5733ddd9e02872af369dd3d45b7a7b5c291e6b687f36778c6ea554136eee74f9",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "posted_at": "2026-11-11",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Processor Hardware/Software Integration Engineer Intern",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028"
     },
     {
       "company": "GlobalFoundries",
@@ -30112,7 +30142,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-11T16:08:53.329223+00:00",
+  "last_checked": "2026-11-11T17:13:05.924837+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
