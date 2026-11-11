@@ -12787,6 +12787,24 @@
       "fingerprint": "b2a9341a9dcaed87a39d8d36fe2c5e7a84021ae237332625707537c3b945082c",
       "revision": 1
     },
+    "url:https://careers.nintendo.com?gh_jid=4421632009": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nintendo",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it software engineer intern"
+      },
+      "fingerprint": "12a573a63781fa5a554d1e9ddeace556ec66902e1351ee9822cd047effab5ced",
+      "revision": 1
+    },
     "url:https://careers.nintendo.com?gh_jid=4469718009": {
       "eligible": false,
       "fingerprint": "a191c44c08e822f571144940124e65532d978bb50b8600e37821d33e2807c9d1",
@@ -17278,21 +17296,19 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "echo",
+        "company": "echo global logistics",
         "degrees": [],
         "locations": [
-          "chicago, il",
-          "remote",
           "united states"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "software engineer intern"
       },
-      "fingerprint": "7d0433f0e6b2ec3ebcbeb5adc8b7c1dc637b8dc7bd68350ac6e8103ee97e43f3",
-      "revision": 2
+      "fingerprint": "62b5c8f1b45a5a36c44cf065aed30ec4ecf1b7e6813b107d3754985bb47d40af",
+      "revision": 3
     },
     "url:https://ecmtek.bamboohr.com/careers/51": {
       "eligible": true,
@@ -19553,6 +19569,42 @@
         "title": "renewable generation performance intern"
       },
       "fingerprint": "8c43925b7fea4d106ee7d22eee3117218a5fceba9295a934f1bbb92dbf803dc0",
+      "revision": 1
+    },
+    "url:https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/32265": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "navy federal",
+        "degrees": [],
+        "locations": [
+          "vienna, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "associate data engineer intern"
+      },
+      "fingerprint": "2b078155074fd45e5b490570d575fffebec40dcde1ccfe2b59d6f111bfa13012",
+      "revision": 1
+    },
+    "url:https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/32334": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "navy federal",
+        "degrees": [],
+        "locations": [
+          "vienna, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "associate product security engineer intern"
+      },
+      "fingerprint": "84b02881651cbe02c4b1aa5fce9e9b5016780bc96080306c9c29625301b79e1c",
       "revision": 1
     },
     "url:https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32031": {
@@ -24302,6 +24354,46 @@
     "url:https://go.vansh.nyc/1so": {
       "eligible": false,
       "fingerprint": "03bad5143cd90caf5bf95c8071420366751d9802d40afd5dad16e5d907980530",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1t0": {
+      "eligible": false,
+      "fingerprint": "6fbbb2751b2d43f4b1b925bc7ca94f2663ff4f46c2ada42c72b99de31d2334ee",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1t1": {
+      "eligible": false,
+      "fingerprint": "7f4170b2b869396e536279144ccbd0f304aeb09ab530c5ce67cc82839c4c295a",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1t2": {
+      "eligible": false,
+      "fingerprint": "31f2c7f2bfad4d97399214fe130e4683bb4d18e9f6cc570e8dbd79e3b88b484a",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1t3": {
+      "eligible": false,
+      "fingerprint": "082f9cad7d02d3929665aba58f65c16a5525cd27f6785dc56c379e505fa398ec",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1te": {
+      "eligible": false,
+      "fingerprint": "870c73e5db3c4533a284e8703307aae496f77a72224ee51385aa6f73ee397c8a",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1tp": {
+      "eligible": false,
+      "fingerprint": "e69f4d8cb52a35367a935af519035af1cca963e7747d31b478c6c4c7410cd0c4",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ts": {
+      "eligible": false,
+      "fingerprint": "8dd3b1fd1ae3c6a5171774c22b41527b118e58c110ecca506be8ec14904195e8",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ut": {
+      "eligible": false,
+      "fingerprint": "3be1c0ef81d267d0f36146a852c06abaf06298688b6f84bc81feef947c875301",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1x": {
@@ -42658,7 +42750,9 @@
         ],
         "locations": [
           "minneapolis, mn",
-          "remote in usa"
+          "remote",
+          "remote in usa",
+          "united states"
         ],
         "requirements": [],
         "terms": [
@@ -42666,8 +42760,8 @@
         ],
         "title": "ai data science consulting intern - knowledge graphs & enterprise data"
       },
-      "fingerprint": "402664151021173e5c92fa144c9c3a412dc4b0e13e08503455096218cd5b0e7d",
-      "revision": 1
+      "fingerprint": "18d83f40115932fc61725e7333df50d9d942fa9cbe77a831efa0d01f8c96f5f4",
+      "revision": 2
     },
     "url:https://jobs.jobvite.com/gei-consultants/job/ogr5zfwv": {
       "eligible": false,
@@ -45925,6 +46019,24 @@
       "fingerprint": "3a5298ea79061e5277a972ff0763f4adef34ef5ddf67cfc54ae68e6bb7956b5c",
       "revision": 0
     },
+    "url:https://jobs.smartrecruiters.com/abbvie/3743990015679386-2027-business-technology-solutions-intern-data-software-engineering-undergraduate-?oga=true": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "abbvie",
+        "degrees": [],
+        "locations": [
+          "north chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "business technology solutions intern - data & software engineering"
+      },
+      "fingerprint": "23f8ef431aafb40d1684ee5f58edea4e04b59d9f2d3fd9ec552896cf2850a570",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/acumatica/744000159911799": {
       "eligible": false,
       "fingerprint": "6746250c3d84fb3b3a3a29d77d5ba0b75ba8b6ea8f29858f2ace1f4c71e5aee8",
@@ -46116,8 +46228,8 @@
     },
     "url:https://jobs.smartrecruiters.com/boschgroup/744000156311682-software-engineering-co-op-spring-2027?oga=true": {
       "eligible": false,
-      "fingerprint": "000c19d32cb53c07d583f103ac6db6baf21e932692d8ef6ff572c7cf63c0a17c",
-      "revision": 0
+      "fingerprint": "5acdc26bccdd7fa1d2ed7f45608e28ad9fb637e25d19e831e3ce2a465ce5a29f",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/boschgroup/744000156323136": {
       "eligible": true,
@@ -46343,6 +46455,24 @@
       "fingerprint": "1da2bc26542ea859089cabbecbc01e4e57040fd3d7cbd477e15639e40b0e4d3e",
       "revision": 0
     },
+    "url:https://jobs.smartrecruiters.com/intuitive/744000158313717-robotics-engineering-intern?oga=true": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intuitive",
+        "degrees": [],
+        "locations": [
+          "sunnyvale, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "robotics engineering intern"
+      },
+      "fingerprint": "2c6ef53184789d2283c81ecca1b41cbf9c6c7a3983d618c823d8ae0f44a4e46e",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/intuitive/744000158313919": {
       "eligible": false,
       "fingerprint": "abdd78afdb3006191975cc61512bd7a11831e41fa1438bc41e8d970660ee9acd",
@@ -46507,15 +46637,46 @@
       "fingerprint": "5ed8d38e4bcd787682b8adf1c3ed2ae7d69407592b28c3df7febd92b205b43da",
       "revision": 0
     },
+    "url:https://jobs.smartrecruiters.com/llnl/3743990015289136-data-science-institute-undergraduate-student-intern-summer-2027?oga=true": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "llnl",
+        "degrees": [],
+        "locations": [
+          "livermore, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science institute undergraduate intern"
+      },
+      "fingerprint": "a8e4c0877e6e00a4146415ebe38eb7b9677cecc52dab3463025110862cb7ff22",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/llnl/3743990015408206": {
       "eligible": false,
       "fingerprint": "62357d1ba7d177113b104593d65cefbe9a41237cca70b40a10f7ed0373afd670",
       "revision": 0
     },
     "url:https://jobs.smartrecruiters.com/llnl/3743990015408206-computing-undergraduate-student-intern-devops-internship-program-summer-2027?oga=true": {
-      "eligible": false,
-      "fingerprint": "75c5a245d91e2296d54385dda258beb87a3fd4189ec70746c56823aed44f2378",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "llnl",
+        "degrees": [],
+        "locations": [
+          "livermore, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "computing undergraduate intern - devops"
+      },
+      "fingerprint": "6c1b969dc21835122704a5fac9e212e4a7732096e70268e8b47b762c0db4157d",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/llnl/3743990015737586": {
       "eligible": false,
@@ -46649,6 +46810,25 @@
         "title": "ai engineering intern"
       },
       "fingerprint": "9cc65c90c1b371b27c933757eb300a06fd21559630cc5df217cfa92b53a7807f",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/m3usa/744000148244649-ai-engineering-intern-remote-?oga=true": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "m3 usa",
+        "degrees": [],
+        "locations": [
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineering intern (remote)"
+      },
+      "fingerprint": "94d19b3977b8dc63e43d924426d631b04fad3e409b23f272104bfccaa9d82ead",
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000153371465": {
@@ -47185,9 +47365,22 @@
       "revision": 0
     },
     "url:https://jobs.smartrecruiters.com/wellmarkinc/744000148915793-software-engineer-internship-user-experience-team-?oga=true": {
-      "eligible": false,
-      "fingerprint": "b4388f9ae35016b098e122b10f17298c515cd37e85ba522ef634420b1690896c",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "wellmark",
+        "degrees": [],
+        "locations": [
+          "des moines, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - user experience team"
+      },
+      "fingerprint": "f60ddee694fb3276d905a0fea9685838fb10e8e7986c74443457317d56ad1f97",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/wellmarkinc/744000148917718": {
       "eligible": true,
@@ -47248,14 +47441,40 @@
       "revision": 0
     },
     "url:https://jobs.smartrecruiters.com/wellmarkinc/744000150732768-software-engineer-internship-technology-healthcare-innovation?oga=true": {
-      "eligible": false,
-      "fingerprint": "cb348f3d0aa6f12b3e98e87ece76b6b64f4ac4da942a1d701e52046b494098f8",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "wellmark",
+        "degrees": [],
+        "locations": [
+          "des moines, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - technology healthcare innovation"
+      },
+      "fingerprint": "6c6bb26ad9682eaeca0a5c6614204491101701615f0e0fad65fbcef95e451ad0",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/wellmarkinc/744000152260188-software-engineer-internship-marketing-and-digital-team?oga=true": {
-      "eligible": false,
-      "fingerprint": "0b2f3b80ef74d73141ca2ede1378ce7e171ff5f87f895dfb83a74db80c0fc4e6",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "wellmark",
+        "degrees": [],
+        "locations": [
+          "des moines, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - marketing and digital team"
+      },
+      "fingerprint": "96bad9047ca78af6b01ceb1d40d03664c10862af4b154e6ba4ed9f38eb821fe4",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/wellmarkinc/744000152679699": {
       "eligible": true,
@@ -63853,9 +64072,25 @@
       "revision": 0
     },
     "url:https://westmonroe.com/careers/job-details-students?gh_jid=6183029004": {
-      "eligible": false,
-      "fingerprint": "6de0280768b14e667e14232cb071fed8456a285564211fbc34bff62a7ff05cfc",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "west monroe",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "seattle, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineering consultant intern - ai concentration"
+      },
+      "fingerprint": "ada6b0b8637a18574f0cdafac8e4ae16dbb0592ebb35a2153d67ce639c1178d2",
+      "revision": 2
     },
     "url:https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/software-engineer-intern_r22542": {
       "eligible": false,
@@ -63887,11 +64122,13 @@
           "palo alto, ca"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "manufacturing software test intern - summer 2027"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "manufacturing software test intern"
       },
-      "fingerprint": "8cb2aac5f83079c8c9114bba5cb686d7f0f089e3a53d41cd8a3ed5361d1e6238",
-      "revision": 0
+      "fingerprint": "f2d6ebe66f1896bd5bdaeaf5dd3f16cb5ac11860eccfdab8ac30b02e86c71eb9",
+      "revision": 1
     },
     "url:https://wing.com/careers/8872471002?gh_jid=8872471002": {
       "eligible": true,
@@ -63903,11 +64140,13 @@
           "palo alto, ca"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "data infra software engineering intern - summer 2027"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data infrastructure software engineering intern"
       },
-      "fingerprint": "5cce2e3f04b1e92698789ef2bdb8393732c0aee584e18147cdd968c0c84aa3fd",
-      "revision": 0
+      "fingerprint": "35f367c81bc652c3b820777359f4ff75c7dbe9683acbe76730e538277e14c573",
+      "revision": 1
     },
     "url:https://wing.com/careers/8872472002?gh_jid=8872472002": {
       "eligible": true,
@@ -63919,11 +64158,13 @@
           "palo alto, ca"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "route planning software engineering intern - summer 2027"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "route planning software engineering intern"
       },
-      "fingerprint": "fb8db0782e2b720470ba5b467ffae46c005545bf762cff4fcca1dd54e6f4d94c",
-      "revision": 0
+      "fingerprint": "0ad753759d69af60def4bba94cc129a012ad8e7260400a1f5d2f2c392879b339",
+      "revision": 1
     },
     "url:https://wing.com/careers/8872476002?gh_jid=8872476002": {
       "eligible": true,
@@ -63951,11 +64192,31 @@
           "palo alto, ca"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "execution & topology software engineering intern - summer 2027"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "execution & topology software engineering intern"
       },
-      "fingerprint": "48984fd7e8df93ccb7163a9fbde526b4d2c2fb7c09dde62e15ba8bd9aa7d594d",
-      "revision": 0
+      "fingerprint": "2f78439e4337de19fb9723d1cf822a3888a21a9aa32246606771b7865c96e87c",
+      "revision": 1
+    },
+    "url:https://wing.com/careers/8872479002?gh_jid=8872479002": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "wing",
+        "degrees": [],
+        "locations": [
+          "palo alto, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "machine learning engineering intern"
+      },
+      "fingerprint": "6347e1984e82b7342ec5aa075ad1bc6425b8d8711115d35333dd9f7489c000f1",
+      "revision": 1
     },
     "url:https://wk.wd3.myworkdayjobs.com/external/job/can---sherbrooke/dveloppeur-se--front-end---stage_r0060874": {
       "eligible": false,
@@ -67921,6 +68182,10 @@
     "https://go.vansh.nyc/1sI": 260,
     "https://go.vansh.nyc/1sP": 262,
     "https://go.vansh.nyc/1sT": 263,
+    "https://go.vansh.nyc/1sU": 264,
+    "https://go.vansh.nyc/1sV": 264,
+    "https://go.vansh.nyc/1sX": 264,
+    "https://go.vansh.nyc/1sY": 264,
     "https://go.vansh.nyc/1sb": 258,
     "https://go.vansh.nyc/1sc": 259,
     "https://go.vansh.nyc/1sf": 259,
@@ -67932,6 +68197,29 @@
     "https://go.vansh.nyc/1ss": 260,
     "https://go.vansh.nyc/1sw": 260,
     "https://go.vansh.nyc/1sz": 260,
+    "https://go.vansh.nyc/1t5": 264,
+    "https://go.vansh.nyc/1t7": 264,
+    "https://go.vansh.nyc/1t8": 264,
+    "https://go.vansh.nyc/1tD": 264,
+    "https://go.vansh.nyc/1tE": 264,
+    "https://go.vansh.nyc/1tF": 264,
+    "https://go.vansh.nyc/1tG": 264,
+    "https://go.vansh.nyc/1tH": 264,
+    "https://go.vansh.nyc/1tJ": 264,
+    "https://go.vansh.nyc/1tK": 264,
+    "https://go.vansh.nyc/1tN": 264,
+    "https://go.vansh.nyc/1ta": 264,
+    "https://go.vansh.nyc/1tj": 264,
+    "https://go.vansh.nyc/1tm": 264,
+    "https://go.vansh.nyc/1tn": 264,
+    "https://go.vansh.nyc/1tp": 264,
+    "https://go.vansh.nyc/1ts": 264,
+    "https://go.vansh.nyc/1tt": 264,
+    "https://go.vansh.nyc/1tw": 264,
+    "https://go.vansh.nyc/1tx": 264,
+    "https://go.vansh.nyc/1up": 264,
+    "https://go.vansh.nyc/1ur": 264,
+    "https://go.vansh.nyc/1uv": 264,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -69236,6 +69524,10 @@
     "https://go.vansh.nyc/1sI": "https://lifeattiktok.com/search/7706693387932633397",
     "https://go.vansh.nyc/1sP": "https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04",
     "https://go.vansh.nyc/1sT": "https://job-boards.greenhouse.io/astranis/jobs/4704569006",
+    "https://go.vansh.nyc/1sU": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003",
+    "https://go.vansh.nyc/1sV": "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false",
+    "https://go.vansh.nyc/1sX": "https://lunaroutpost.bamboohr.com/careers/391",
+    "https://go.vansh.nyc/1sY": "https://careers.gov2x.com/jobs/62843?icims=1",
     "https://go.vansh.nyc/1sb": "https://jobs.ashbyhq.com/regent/9f25824f-486e-4d3a-b444-116b474619d7",
     "https://go.vansh.nyc/1sc": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806",
     "https://go.vansh.nyc/1sf": "https://jobs.ashbyhq.com/hookmusic/d95c6fa3-68b3-4ad4-b228-f44228a4f2c6",
@@ -69247,6 +69539,29 @@
     "https://go.vansh.nyc/1ss": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049",
     "https://go.vansh.nyc/1sw": "https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false",
     "https://go.vansh.nyc/1sz": "https://careers.international.com/jobs/60456?icims=1&lang=en-us",
+    "https://go.vansh.nyc/1t5": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
+    "https://go.vansh.nyc/1t7": "https://udig.com/careers/job-listing/?gh_jid=7999436003",
+    "https://go.vansh.nyc/1t8": "https://www.williamblair.com/Careers/job-description?gh_jid=5242282007",
+    "https://go.vansh.nyc/1tD": "https://wing.com/careers/8872471002?gh_jid=8872471002",
+    "https://go.vansh.nyc/1tE": "https://wing.com/careers/8872472002?gh_jid=8872472002",
+    "https://go.vansh.nyc/1tF": "https://wing.com/careers/8872477002?gh_jid=8872477002",
+    "https://go.vansh.nyc/1tG": "https://wing.com/careers/8872468002?gh_jid=8872468002",
+    "https://go.vansh.nyc/1tH": "https://wing.com/careers/8872479002?gh_jid=8872479002",
+    "https://go.vansh.nyc/1tJ": "https://careers.nintendo.com/?gh_jid=4421632009",
+    "https://go.vansh.nyc/1tK": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682-software-engineering-co-op-spring-2027?oga=true",
+    "https://go.vansh.nyc/1tN": "https://jobs.smartrecruiters.com/Intuitive/744000158313717-robotics-engineering-intern?oga=true",
+    "https://go.vansh.nyc/1ta": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004",
+    "https://go.vansh.nyc/1tj": "https://haskell.jibeapply.com/jobs/7415?icims=1&lang=en-us",
+    "https://go.vansh.nyc/1tm": "https://jobs.smartrecruiters.com/M3USA/744000148244649-ai-engineering-intern-remote-?oga=true",
+    "https://go.vansh.nyc/1tn": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793-software-engineer-internship-user-experience-team-?oga=true",
+    "https://go.vansh.nyc/1tp": "https://jobs.smartrecruiters.com/LLNL/3743990015289136-data-science-institute-undergraduate-student-intern-summer-2027?oga=true",
+    "https://go.vansh.nyc/1ts": "https://jobs.smartrecruiters.com/LLNL/3743990015408206-computing-undergraduate-student-intern-devops-internship-program-summer-2027?oga=true",
+    "https://go.vansh.nyc/1tt": "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768-software-engineer-internship-technology-healthcare-innovation?oga=true",
+    "https://go.vansh.nyc/1tw": "https://jobs.smartrecruiters.com/AbbVie/3743990015679386-2027-business-technology-solutions-intern-data-software-engineering-undergraduate-?oga=true",
+    "https://go.vansh.nyc/1tx": "https://jobs.smartrecruiters.com/WellmarkInc/744000152260188-software-engineer-internship-marketing-and-digital-team?oga=true",
+    "https://go.vansh.nyc/1up": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32265",
+    "https://go.vansh.nyc/1ur": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32334",
+    "https://go.vansh.nyc/1uv": "https://careers-simventions.icims.com/jobs/1631/2027-software-development-intern/job",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -69903,7 +70218,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 263,
+  "scan_sequence": 264,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

@@ -35,6 +35,21 @@
       "company": "Nintendo",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "f218181643483167c6054c05d010cb17495e0c0bca75156633e66cc17270741c",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted_at": "2026-10-19",
+      "priority": 6,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "IT Software Engineer Intern",
+      "url": "https://careers.nintendo.com/?gh_jid=4421632009"
+    },
+    {
+      "company": "Nintendo",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "adaf202a2e3eabf4ea56a453b677ea3049edbb515538f31e1cb208c94604a71a",
       "locations": [
         "Redmond, WA"
@@ -802,6 +817,21 @@
       "source": "simplify",
       "title": "Sales Excellence Data Analytics Intern",
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987"
+    },
+    {
+      "company": "AbbVie",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "458c77dcb771045659d55255b43a0edce844e401d1c05a3763de66cb6d91d15f",
+      "locations": [
+        "North Chicago, IL"
+      ],
+      "posted_at": "2026-09-25",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Business Technology Solutions Intern - Data & Software Engineering",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015679386-2027-business-technology-solutions-intern-data-software-engineering-undergraduate-?oga=true"
     },
     {
       "company": "AbbVie",
@@ -2196,21 +2226,6 @@
       "source": "vanshb03",
       "title": "AI Engineer Intern, Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698"
-    },
-    {
-      "company": "American Express",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "00c499a35dc53289f817025778598823040c45d7b0865575362b56477bcc5741",
-      "locations": [
-        "Phoenix, AZ"
-      ],
-      "posted_at": "2026-11-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065"
     },
     {
       "company": "American Family Insurance Group",
@@ -11738,21 +11753,6 @@
       "company": "GlobalFoundries",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "5e1097128a66bdffec716c2e564e3b1f94b43702351c9fe2468ea4ccbd48df76",
-      "locations": [
-        "Malta, NY"
-      ],
-      "posted_at": "2026-10-14",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Human Resources Intern - HR Analytics",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Human-Resources-Intern--HR-Analytics--Summer-2027-_JR-2604494"
-    },
-    {
-      "company": "GlobalFoundries",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "bf7bcc3882a8c213be0335700ac21c927bea74a53cc080756e04b7909eca1839",
       "locations": [
         "Essex Junction, VT"
@@ -14752,6 +14752,21 @@
       "url": "https://jobs.smartrecruiters.com/Intuitive/744000159210829"
     },
     {
+      "company": "Intuitive",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "1c9bbbd4659ef2e32a63123537879ce0db959e6a5fcbc835005db679e1c4e0bc",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "posted_at": "2026-10-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Robotics Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313717-robotics-engineering-intern?oga=true"
+    },
+    {
       "company": "Intuitive Surgical",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -16492,6 +16507,36 @@
       "url": "https://jobs.smartrecruiters.com/LLNL/3743990014981596"
     },
     {
+      "company": "LLNL",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "b002ef9ce92430e9db26c198104137c633b2bcdcf3d0c1bcf298559e127846db",
+      "locations": [
+        "Livermore, CA"
+      ],
+      "posted_at": "2026-09-18",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Computing Undergraduate Intern - DevOps",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990015408206-computing-undergraduate-student-intern-devops-internship-program-summer-2027?oga=true"
+    },
+    {
+      "company": "LLNL",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "16274c77af80e8233483b01aff03a2d5f655a2d9d8bcb6031a1f7be60d5cfc06",
+      "locations": [
+        "Livermore, CA"
+      ],
+      "posted_at": "2026-09-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data Science Institute Undergraduate Intern",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990015289136-data-science-institute-undergraduate-student-intern-summer-2027?oga=true"
+    },
+    {
       "company": "Lockheed Martin",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -16842,6 +16887,22 @@
       "source": "simplify",
       "title": "Technology Intern - Software Engineering - Enterprise API Services Development Team",
       "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812"
+    },
+    {
+      "company": "M3 USA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5cb28bcefc72e8e120445a45fc106eeb55439218cd6c2a59d95761bee1ec0382",
+      "locations": [
+        "Remote",
+        "United States"
+      ],
+      "posted_at": "2026-09-08",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Engineering Intern (Remote)",
+      "url": "https://jobs.smartrecruiters.com/M3USA/744000148244649-ai-engineering-intern-remote-?oga=true"
     },
     {
       "company": "M3USA",
@@ -18081,6 +18142,21 @@
       "company": "Navy Federal",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "90f474369abea0cdda5139116d46c25598281e3de4ac9d40d3b455cd9098a88b",
+      "locations": [
+        "Vienna, VA"
+      ],
+      "posted_at": "2026-09-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Associate Data Engineer Intern",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32265"
+    },
+    {
+      "company": "Navy Federal",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "4e6620316af3a772d5daad4ae387f62b889e2ffca4dc9b2880d99beeb311cab6",
       "locations": [
         "Pensacola, FL",
@@ -18092,6 +18168,21 @@
       "source": "simplify",
       "title": "Associate Intern - Lending Automation Technology & Solutions",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32359"
+    },
+    {
+      "company": "Navy Federal",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f76ed0a65ac943277e248c1cfb8af989e92d88887629d67ce6f6fead542b3cd3",
+      "locations": [
+        "Vienna, VA"
+      ],
+      "posted_at": "2026-09-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Associate Product Security Engineer Intern",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32334"
     },
     {
       "company": "Navy Federal",
@@ -29413,6 +29504,21 @@
       "company": "Wellmark",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "ffe90f8efa756a14f1a49a384233d5636898423b283f25a8ad10d810b0136bd8",
+      "locations": [
+        "Des Moines, IA"
+      ],
+      "posted_at": "2026-09-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern - Marketing and Digital Team",
+      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000152260188-software-engineer-internship-marketing-and-digital-team?oga=true"
+    },
+    {
+      "company": "Wellmark",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "3dff1fbfd803dd3ad01a27d3f22e3c2a39479a899fecae0ac9f7b84d2e86e8d1",
       "locations": [
         "Des Moines, IA"
@@ -29455,6 +29561,36 @@
       "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768"
     },
     {
+      "company": "Wellmark",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2b99c5dbfe072e5f83a2e08cc8c5e039b36324f32d801ca1edbb412faeceea3a",
+      "locations": [
+        "Des Moines, IA"
+      ],
+      "posted_at": "2026-09-21",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern - Technology Healthcare Innovation",
+      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768-software-engineer-internship-technology-healthcare-innovation?oga=true"
+    },
+    {
+      "company": "Wellmark",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5aceb9b42cbedb2166da827710e9d7cc7111c6c06f1882bd55ebb14d04493b69",
+      "locations": [
+        "Des Moines, IA"
+      ],
+      "posted_at": "2026-09-11",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern - User Experience Team",
+      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793-software-engineer-internship-user-experience-team-?oga=true"
+    },
+    {
       "company": "West Bend Insurance",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29469,6 +29605,21 @@
       "source": "simplify",
       "title": "Data Solution Engineer Intern",
       "url": "https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false"
+    },
+    {
+      "company": "West Monroe",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "05a5e8b6fce8b98bcd7b3e44bc1c9750757c9ec82e58ff545cda109078417280",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "posted_at": "2026-10-06",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineering Consultant Intern - AI Concentration",
+      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004"
     },
     {
       "company": "Western & Southern Financial Group",
@@ -29632,11 +29783,11 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-15",
+      "posted_at": "2026-10-13",
       "priority": 11,
       "priority_program": false,
-      "source": "speedyapply",
-      "title": "Data Infra Software Engineering Intern - Summer 2027",
+      "source": "vanshb03",
+      "title": "Data Infrastructure Software Engineering Intern",
       "url": "https://wing.com/careers/8872471002?gh_jid=8872471002"
     },
     {
@@ -29647,12 +29798,27 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-15",
+      "posted_at": "2026-10-13",
       "priority": 11,
       "priority_program": false,
-      "source": "speedyapply",
-      "title": "Execution & Topology Software Engineering Intern - Summer 2027",
+      "source": "vanshb03",
+      "title": "Execution & Topology Software Engineering Intern",
       "url": "https://wing.com/careers/8872477002?gh_jid=8872477002"
+    },
+    {
+      "company": "Wing",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "03bb8cb8883d0fac07210f453a19d9166d286c7c75092879152b49fc75c7c4fd",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "posted_at": "2026-10-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Machine Learning Engineering Intern",
+      "url": "https://wing.com/careers/8872479002?gh_jid=8872479002"
     },
     {
       "company": "Wing",
@@ -29662,11 +29828,11 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-15",
+      "posted_at": "2026-10-13",
       "priority": 11,
       "priority_program": false,
-      "source": "speedyapply",
-      "title": "Manufacturing Software Test Intern - Summer 2027",
+      "source": "vanshb03",
+      "title": "Manufacturing Software Test Intern",
       "url": "https://wing.com/careers/8872468002?gh_jid=8872468002"
     },
     {
@@ -29677,11 +29843,11 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-15",
+      "posted_at": "2026-10-13",
       "priority": 11,
       "priority_program": false,
-      "source": "speedyapply",
-      "title": "Route Planning Software Engineering Intern - Summer 2027",
+      "source": "vanshb03",
+      "title": "Route Planning Software Engineering Intern",
       "url": "https://wing.com/careers/8872472002?gh_jid=8872472002"
     },
     {
@@ -30050,7 +30216,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-11T05:15:28.699422+00:00",
+  "last_checked": "2026-11-11T06:17:53.099975+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
