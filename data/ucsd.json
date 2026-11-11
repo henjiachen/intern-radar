@@ -22744,7 +22744,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "rtx",
+        "company": "raytheon",
         "degrees": [
           "bachelor's"
         ],
@@ -22755,10 +22755,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - summer 2027"
+        "title": "software engineering intern - summer 2027"
       },
-      "fingerprint": "6d5c062007f86588a4ed8e141a4b8008c0ca7a42554c433ceebd14c4493e2c9e",
-      "revision": 2
+      "fingerprint": "46bdfd1449277f0f4091db3b4060d299c3524569cc28c934c218b73d0d1b0c43",
+      "revision": 3
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-co-aurora-s77--16470-e-hughes-dr--bldg-s77/software-engineering--intern--summer-2027-_01881520": {
       "eligible": true,
@@ -25581,23 +25581,9 @@
       "revision": 0
     },
     "url:https://go.vansh.nyc/mz": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "amd",
-        "degrees": [],
-        "locations": [
-          "knoxville, tn",
-          "markham, canada"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineering co-op"
-      },
-      "fingerprint": "b098440728d8b10a5497841ff8602b52d417746bb06a0374c4e6346226ba18f9",
-      "revision": 0
+      "eligible": false,
+      "fingerprint": "8e3013310f715abb4fc159a1042e4656db265ee0f72cc57310590908e6adf8ba",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/n": {
       "eligible": false,
@@ -62500,6 +62486,24 @@
       "fingerprint": "83ad64f6b061a94a831c44f2e4197c64862347137b0725428aa8116be48901c5",
       "revision": 1
     },
+    "url:https://unisys.wd5.myworkdayjobs.com/external/job/eagan-mn-united-states-of-america/software-engineer-intern_req575421": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "unisys",
+        "degrees": [],
+        "locations": [
+          "eagan, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "ffce81322b1c4c04e2be2fb0879a190ba31b1552c3c6fb111ba6e866fa0e1f5d",
+      "revision": 1
+    },
     "url:https://unitytech.wd1.myworkdayjobs.com/unity/job/mountain-view-ca-usa/xmlname--req-6087--software-developer_jobreq-2615965": {
       "eligible": true,
       "evidence": {
@@ -66810,10 +66814,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "internship - software engineering - people products - summer 2027"
+        "title": "software engineering intern, people products"
       },
-      "fingerprint": "aa36bf714a3f59586aa7faa33b820b66694e4b370326c325d1de9fa3f9b81734",
-      "revision": 0
+      "fingerprint": "fc82c2f4236141592aaac21b8955e7a2b4187a59b0a7b26b9665c3f6b2495cc2",
+      "revision": 1
     },
     "url:https://www.tesla.com/careers/search/job/284156": {
       "eligible": false,
@@ -68326,6 +68330,7 @@
     "https://go.vansh.nyc/1tt": 264,
     "https://go.vansh.nyc/1tw": 264,
     "https://go.vansh.nyc/1tx": 264,
+    "https://go.vansh.nyc/1uC": 271,
     "https://go.vansh.nyc/1up": 264,
     "https://go.vansh.nyc/1ur": 264,
     "https://go.vansh.nyc/1uv": 264,
@@ -69669,6 +69674,7 @@
     "https://go.vansh.nyc/1tt": "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768-software-engineer-internship-technology-healthcare-innovation?oga=true",
     "https://go.vansh.nyc/1tw": "https://jobs.smartrecruiters.com/AbbVie/3743990015679386-2027-business-technology-solutions-intern-data-software-engineering-undergraduate-?oga=true",
     "https://go.vansh.nyc/1tx": "https://jobs.smartrecruiters.com/WellmarkInc/744000152260188-software-engineer-internship-marketing-and-digital-team?oga=true",
+    "https://go.vansh.nyc/1uC": "https://unisys.wd5.myworkdayjobs.com/external/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421",
     "https://go.vansh.nyc/1up": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32265",
     "https://go.vansh.nyc/1ur": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32334",
     "https://go.vansh.nyc/1uv": "https://careers-simventions.icims.com/jobs/1631/2027-software-development-intern/job",
@@ -70329,7 +70335,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 270,
+  "scan_sequence": 271,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
