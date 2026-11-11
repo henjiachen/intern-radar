@@ -7848,6 +7848,24 @@
       "fingerprint": "22d6c18667bfd2f31c9b862415f74e6ec0ac65a176b3e22ff80534753b1544de",
       "revision": 1
     },
+    "url:https://boards.greenhouse.io/summer2027/jobs/4399941009": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "beta technologies summer 2027",
+        "degrees": [],
+        "locations": [
+          "south burlington, vt"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software, controls & autonomy intern"
+      },
+      "fingerprint": "606824333ea3b85c7880d19e7e7e58b9b5dbdcdfe1924e5d1c4c9c7b559238cc",
+      "revision": 1
+    },
     "url:https://boeing.wd1.myworkdayjobs.com/intern/job/usa---everett-wa/boeing-summer-2027-internship-program--paid----data-analytics-intern_jr2026520976": {
       "eligible": true,
       "evidence": {
@@ -8933,6 +8951,24 @@
       "fingerprint": "d9426e01289c79cc55d43abb39259641699e5af5fa11d9440d9e73691d28a8c8",
       "revision": 0
     },
+    "url:https://career4.successfactors.com/career?career_ns=job_listing&company=Kiewit&career_job_req_id=183070": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "kiewit",
+        "degrees": [],
+        "locations": [
+          "la vista, ne"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "machine learning intern, kiewit data services"
+      },
+      "fingerprint": "3bc0311e9fa9d8f679b4f22e7e6881b51a772e7391f5ed3e9f4c199187fe896e",
+      "revision": 1
+    },
     "url:https://career41.sapsf.com/career?career_ns=job_listing&company=mativholdi&career_job_req_id=2179": {
       "eligible": true,
       "evidence": {
@@ -9039,6 +9075,24 @@
         "title": "applied ai & analytics intern"
       },
       "fingerprint": "e5c5c50c58d0b29ea06ab4242ff5b1508b70e20839908570b4a11d86b293f960",
+      "revision": 1
+    },
+    "url:https://career8.successfactors.com/career?career_ns=job_listing&company=NYLPRD&career_job_req_id=95358": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "new york life insurance",
+        "degrees": [],
+        "locations": [
+          "tampa, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ibm i developer intern"
+      },
+      "fingerprint": "6f830924618146b58f10f6a77aee957e98e181d0b69a26c7555225b018718292",
       "revision": 1
     },
     "url:https://careers-alliedconsultants.icims.com/jobs/8815/job": {
@@ -13869,8 +13923,8 @@
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8248060": {
       "eligible": false,
-      "fingerprint": "4b4f0534ee6b40284aaa9c1852ba874f10a0a7fc9c02dd8b872264424464d2bf",
-      "revision": 1
+      "fingerprint": "daec260bc22b7f8429a277335b159d801931b616e465b9fc521fad3a2299a2c5",
+      "revision": 2
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8250220": {
       "eligible": false,
@@ -18943,7 +18997,7 @@
         "company": "epic games",
         "degrees": [],
         "locations": [
-          "cary, nc"
+          "cary,north carolina,united states"
         ],
         "requirements": [
           "note to recruitment agencies: epic does not accept any unsolicited resumes or approaches from any unauthorized third party (including recruitment or placement agencies) (i.e., a third party with whom we do not have a negotiated and validly executed agreement). we will not pay any fees to any unauthorized third party. further details on these matters can be found here.",
@@ -18954,8 +19008,8 @@
         ],
         "title": "tools programmer intern"
       },
-      "fingerprint": "4d727305b5a739e28ac1d04cbd83b5fa4d0df259303a7c51bb4393a2fd78b633",
-      "revision": 1
+      "fingerprint": "d2bd504d58e5989eb6f3d73b9e5cbd7453d1d3b330238fe533eba7de1727a246",
+      "revision": 2
     },
     "url:https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004": {
       "eligible": true,
@@ -24466,6 +24520,11 @@
       "fingerprint": "45656528f31fc5391e468ad9fe33c31341b5d6bd56f25f82027e236b12600bff",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1sl": {
+      "eligible": false,
+      "fingerprint": "0a038d5a91efeebfe5e3709bf58b77bded4e54c4c3c35ef8daf3954dedc6d4cb",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1so": {
       "eligible": false,
       "fingerprint": "03bad5143cd90caf5bf95c8071420366751d9802d40afd5dad16e5d907980530",
@@ -24516,9 +24575,28 @@
       "fingerprint": "3be1c0ef81d267d0f36146a852c06abaf06298688b6f84bc81feef947c875301",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1uz": {
+    "url:https://go.vansh.nyc/1ux": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "astera labs",
+        "degrees": [],
+        "locations": [
+          "vancouver, canada",
+          "vienna, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "firmware engineer co-op"
+      },
+      "fingerprint": "981ceee9553be2f6c0534bad187bbadda21701cb1cd9b80e70b6c4a268f43ca9",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1v2": {
       "eligible": false,
-      "fingerprint": "38b1c0936ae7bbde184f0852ad95352ccffd37b1843cc5ad28fe331700444eb9",
+      "fingerprint": "04ba077b93440af4c4632aa5aa8fbe88519df8e862344c57d6df99f70cf30512",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1x": {
@@ -26215,6 +26293,11 @@
       },
       "fingerprint": "91e6518a4970cb20f8682cf675c54e73b7af222e22c9552b897cf3b5d8cd17ae",
       "revision": 2
+    },
+    "url:https://go.vansh.nyc/zk": {
+      "eligible": false,
+      "fingerprint": "7849ab5f89a7a5d126faba76dd85025ad31439d48897664ac2be43fab66df11b",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/zl": {
       "eligible": false,
@@ -31650,9 +31733,27 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724489005": {
-      "eligible": false,
-      "fingerprint": "bd063bb3107244ec1fbca9493abe589cd33939c5fd884bc8fa8a96071e42301b",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "astera labs",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "firmware engineer intern"
+      },
+      "fingerprint": "76cb5e2eb60153caa518cc02d466e8d80d0481c33247da4a5083f3e62d082a44",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724492005": {
       "eligible": true,
@@ -31714,9 +31815,26 @@
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731584005": {
-      "eligible": false,
-      "fingerprint": "654ec0edb0e66555a18464cad431b949e37d36d9e54145568a3c9bf3c3dfaa6a",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "astera labs",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "firmware engineer intern"
+      },
+      "fingerprint": "b6343bf26bfe9b5c51d1f2e00f744ec81b718214684bbb087dbfd791c996578c",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731585005": {
       "eligible": true,
@@ -31738,6 +31856,24 @@
         "title": "firmware engineer intern"
       },
       "fingerprint": "b6343bf26bfe9b5c51d1f2e00f744ec81b718214684bbb087dbfd791c996578c",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731591005": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "astera labs",
+        "degrees": [],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "firmware engineer intern, devsecops"
+      },
+      "fingerprint": "f3e9c0ab4300cc21c1d8baf8b2effe583eb2e85b0878525adedd631f55dda7c7",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731995005": {
@@ -40667,8 +40803,8 @@
     },
     "url:https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5": {
       "eligible": false,
-      "fingerprint": "72eb19dfe64e73a2c6ad515ad46cde0ced42a73d9423a4e163a8b6830d172371",
-      "revision": 2
+      "fingerprint": "588db093a0cf08f37e3bbe6c93bf0928af2af4ed46fe617b72f3890531e47ac8",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d": {
       "eligible": false,
@@ -45345,6 +45481,11 @@
       "eligible": false,
       "fingerprint": "c1afa900e6bce13c478935e8e564ee155796b9196bc12d4e43053822633c9998",
       "revision": 2
+    },
+    "url:https://jobs.lever.co/tri/da4b4832-36e7-4703-9841-c319efd6d495": {
+      "eligible": false,
+      "fingerprint": "1c56487429aa5e81bacead9bfc1b69180f5981790e5b93ba43d6252271af4acd",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8": {
       "eligible": false,
@@ -54119,6 +54260,24 @@
       "eligible": false,
       "fingerprint": "1362522240e82fe770098949c1e80a026c57e39e1db28eb5017f2c2dcb9d9f15",
       "revision": 0
+    },
+    "url:https://myjobs.adp.com/pennengineering/cx/job-details?reqId=5001237071406": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "penn engineering",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai & data intern"
+      },
+      "fingerprint": "85c2e0a0b866d5b3359b0dbe482459ce12d6c9880d364a478b4c410228358a05",
+      "revision": 1
     },
     "url:https://mymvw.wd5.myworkdayjobs.com/mvw/job/mvw-headquarters/corporate-intern-information-technology_jr95562": {
       "eligible": true,
@@ -64323,13 +64482,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "software engineering consultant intern - ai concentration"
       },
-      "fingerprint": "ada6b0b8637a18574f0cdafac8e4ae16dbb0592ebb35a2153d67ce639c1178d2",
-      "revision": 2
+      "fingerprint": "8cc858508e5588830c5f0dda7d117e755d53430aa4f42e4b1e3eea0e43941455",
+      "revision": 3
     },
     "url:https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/software-engineer-intern_r22542": {
       "eligible": false,
@@ -66509,6 +66667,11 @@
       "fingerprint": "84504177697f0911069c83b44c7df7cdf1f1bd2089d173738ce61c4e2fca3113",
       "revision": 2
     },
+    "url:https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771": {
+      "eligible": false,
+      "fingerprint": "0a30909b5a4e0d1e87503b821ab2a5530211b18a78c4256a770eefa66ade82b1",
+      "revision": 1
+    },
     "url:https://www.riotgames.com/en/work-with-us/job/8356815?gh_jid=8356815": {
       "eligible": false,
       "fingerprint": "bfedb5426fe98eb1805c84b1a5352eed254bf0aae62e706614b90ecdb5586365",
@@ -68480,10 +68643,17 @@
     "https://go.vansh.nyc/1uH": 273,
     "https://go.vansh.nyc/1uM": 273,
     "https://go.vansh.nyc/1uO": 274,
+    "https://go.vansh.nyc/1uT": 275,
+    "https://go.vansh.nyc/1uU": 275,
+    "https://go.vansh.nyc/1uV": 275,
     "https://go.vansh.nyc/1up": 264,
     "https://go.vansh.nyc/1ur": 264,
     "https://go.vansh.nyc/1uv": 264,
     "https://go.vansh.nyc/1uy": 269,
+    "https://go.vansh.nyc/1v0": 275,
+    "https://go.vansh.nyc/1v1": 275,
+    "https://go.vansh.nyc/1v3": 275,
+    "https://go.vansh.nyc/1v4": 275,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -69828,10 +69998,17 @@
     "https://go.vansh.nyc/1uH": "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028",
     "https://go.vansh.nyc/1uM": "https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us",
     "https://go.vansh.nyc/1uO": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "https://go.vansh.nyc/1uT": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724489005",
+    "https://go.vansh.nyc/1uU": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731584005",
+    "https://go.vansh.nyc/1uV": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731591005",
     "https://go.vansh.nyc/1up": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32265",
     "https://go.vansh.nyc/1ur": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32334",
     "https://go.vansh.nyc/1uv": "https://careers-simventions.icims.com/jobs/1631/2027-software-development-intern/job",
     "https://go.vansh.nyc/1uy": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024641EXTERNALENGLOBAL/Software-Engineer-Embedded-Systems-I-Intern-United-States",
+    "https://go.vansh.nyc/1v0": "https://myjobs.adp.com/pennengineering/cx/job-details?reqId=5001237071406",
+    "https://go.vansh.nyc/1v1": "https://career8.successfactors.com/career?career_ns=job_listing&company=NYLPRD&career_job_req_id=95358",
+    "https://go.vansh.nyc/1v3": "https://boards.greenhouse.io/summer2027/jobs/4399941009",
+    "https://go.vansh.nyc/1v4": "https://career4.successfactors.com/career?career_ns=job_listing&company=Kiewit&career_job_req_id=183070",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -70488,7 +70665,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 274,
+  "scan_sequence": 275,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
