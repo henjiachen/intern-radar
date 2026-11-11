@@ -3710,6 +3710,24 @@
       "fingerprint": "350efb4ed8cdd361ab575cea86194d80cf1f978224ec52401fd2a5fd53dc72be",
       "revision": 1
     },
+    "url:https://apply.workable.com/j/e81c7f7d3b": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "bask",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "31be4b4241ccae28382a752d5a550e836c2f26d582616e558879c62f0ba8a410",
+      "revision": 1
+    },
     "url:https://apply.workable.com/javelin-global-commodities/j/caf64e75bf/apply": {
       "eligible": false,
       "fingerprint": "2d22cfb7fca97860cbac71271e048a7bf005e3255bd5a67ec4052813fd8156e1",
@@ -5162,6 +5180,24 @@
       "eligible": false,
       "fingerprint": "49f0e4a4bd7fff46990969682070b32e76da517584270cf078dde993bb6ce8f1",
       "revision": 0
+    },
+    "url:https://avav.wd1.myworkdayjobs.com/avav/job/lawrence-ks/software-engineering-intern_9360": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "aerovironment",
+        "degrees": [],
+        "locations": [
+          "lawrence, ks"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "ce2a2dba42ab31e11977b6377e897e6a8dca36952ca025d4259e7b3cbb81424f",
+      "revision": 1
     },
     "url:https://avav.wd1.myworkdayjobs.com/avav/job/leesburg-va/titan-sv-software-engineer-intern_8901": {
       "eligible": false,
@@ -13957,11 +13993,6 @@
     "url:https://careers.withwaymo.com/jobs?gh_jid=8227633": {
       "eligible": false,
       "fingerprint": "0ec6f7c028b04d1807e0995f43d76a6ce35ee85d49afdc5bb710ee2d76214d4a",
-      "revision": 0
-    },
-    "url:https://careers.withwaymo.com/jobs?gh_jid=8227640": {
-      "eligible": false,
-      "fingerprint": "f5656df07c93c844c6c5e289decbd8d439fe5a80499d45b85eec2be89d36ffde",
       "revision": 0
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8231711": {
@@ -24628,6 +24659,11 @@
       "fingerprint": "d6ee0df45588e8a2e0c52dd35d95035f465530e50506c8da7f4e8a9979ddd9e5",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1rj": {
+      "eligible": false,
+      "fingerprint": "f267e17943db98c16b96b2c973f2d2817abf5af2709696de1da1c29a9587a785",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1rl": {
       "eligible": false,
       "fingerprint": "76554d36111e395d76bc2a94304b0ed39979a2d661d5bb2cf29628d46632b2f6",
@@ -24725,6 +24761,21 @@
     "url:https://go.vansh.nyc/1v2": {
       "eligible": false,
       "fingerprint": "04ba077b93440af4c4632aa5aa8fbe88519df8e862344c57d6df99f70cf30512",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1va": {
+      "eligible": false,
+      "fingerprint": "d695be8d72c8fa4223ba1efbc478c5dfeba45109e7513aa69b59469c8164ab23",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1vb": {
+      "eligible": false,
+      "fingerprint": "8dc511c8ff02b0148b28b3e1ad3410f3ce66c716d5c57e02221bed45ea26be09",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1vc": {
+      "eligible": false,
+      "fingerprint": "6346139f6e3432c06703cef776e9582ed52b5d416b2785546b785b90701b1a39",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1x": {
@@ -34233,6 +34284,24 @@
       "eligible": false,
       "fingerprint": "d23335b4d709086d272550f8549fbef1ecc959d4fa9d17aee9d6cabaa69092a9",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/lightmatter/jobs/5479596008": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lightmatter",
+        "degrees": [],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "laser firmware intern"
+      },
+      "fingerprint": "fb66a36bd69709501f7cc9baddc3e6a42801b4e0742a15467392e56a90ff5b9d",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/lilasciences/jobs/4465059009": {
       "eligible": false,
@@ -51082,10 +51151,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software development engineer intern, global e-commerce quality platform & ai test automation"
+        "title": "software development engineer intern - global e-commerce-quality platform & ai test automation - 2027 summer"
       },
-      "fingerprint": "064877af61567946dff14072592e90015d4c6132195048e0d09b013591951fde",
-      "revision": 1
+      "fingerprint": "2cfd02a2ae972004130599932ad7a3bf8978bde82a836d2badd6309d43fdf696",
+      "revision": 2
     },
     "url:https://lifeattiktok.com/search/7668862422178318597": {
       "eligible": true,
@@ -54247,6 +54316,24 @@
       "fingerprint": "2b181d3b6298737f53caf1cf0a67f0c3d12f0c2058345dc0a01b5e77f75cae6e",
       "revision": 0
     },
+    "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/schaumburg-il/software-engineering-intern---2027-summer-internship_r70179": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "motorola",
+        "degrees": [],
+        "locations": [
+          "schaumburg, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "294f379b87d765defd426e5807927ce8636636cd98e68a94a8c3572f572eb695",
+      "revision": 1
+    },
     "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/virginia-remote-work/software-engineer-cybersecurity-services---2027-summer-internship_r69250": {
       "eligible": true,
       "evidence": {
@@ -57131,6 +57218,24 @@
       "fingerprint": "c37fe1ceca71508bb90406e0c078c15eee379e2d36f71b0c8fb5a7d3fcc4b467",
       "revision": 0
     },
+    "url:https://ptc.wd1.myworkdayjobs.com/ptc/job/boston-ma-usa/creo-graphics-engineering-intern--summer-2027-_jr112970": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "ptc",
+        "degrees": [],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "creo graphics engineering intern"
+      },
+      "fingerprint": "26cd30607e15b040b045919ee57db4164d43f63890416ec8db341a97e7294d14",
+      "revision": 1
+    },
     "url:https://ptc.wd1.myworkdayjobs.com/ptc/job/boston-ma-usa/software-engineer-intern--summer-2027-_jr112943": {
       "eligible": true,
       "evidence": {
@@ -59443,8 +59548,8 @@
     },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/united-kingdom---london/engineering-intern_jr367683": {
       "eligible": false,
-      "fingerprint": "4ab11dbad35933dbc3d5d6ec769841fe45032fc2c897345ab1fe03208d933187",
-      "revision": 1
+      "fingerprint": "35d0b84d7b4f12dca9dbe3b6fcab19d19586f2679841ad80f588a413d1959fb4",
+      "revision": 2
     },
     "url:https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/arkansas---remote/summer-2027-intern---forward-deployed-engineer---global-public-sector_jr366026": {
       "eligible": false,
@@ -59737,6 +59842,24 @@
     "url:https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US": {
       "eligible": false,
       "fingerprint": "b8ebbabbb219f5af5c693a2b4e8de90e22b71049e35b57dd644b75693e103d9a",
+      "revision": 1
+    },
+    "url:https://securitymetrics.bamboohr.com/careers/215": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "securitymetrics",
+        "degrees": [],
+        "locations": [
+          "orem, ut"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "64671657a30c2c74770d4212073465d2bb28738be810a1ee6eade359a2684a95",
       "revision": 1
     },
     "url:https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/telecommuter-ma/data-analyst-intern_r79691": {
@@ -68997,6 +69120,12 @@
     "https://go.vansh.nyc/1v3": 275,
     "https://go.vansh.nyc/1v4": 275,
     "https://go.vansh.nyc/1v6": 276,
+    "https://go.vansh.nyc/1vd": 277,
+    "https://go.vansh.nyc/1ve": 277,
+    "https://go.vansh.nyc/1vf": 277,
+    "https://go.vansh.nyc/1vg": 277,
+    "https://go.vansh.nyc/1vh": 277,
+    "https://go.vansh.nyc/1vj": 277,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -70353,6 +70482,12 @@
     "https://go.vansh.nyc/1v3": "https://boards.greenhouse.io/summer2027/jobs/4399941009",
     "https://go.vansh.nyc/1v4": "https://career4.successfactors.com/career?career_ns=job_listing&company=Kiewit&career_job_req_id=183070",
     "https://go.vansh.nyc/1v6": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Software-Engineering-Intern--Summer-2027-_01886440",
+    "https://go.vansh.nyc/1vd": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Lawrence-KS/Software-Engineering-Intern_9360",
+    "https://go.vansh.nyc/1ve": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970",
+    "https://go.vansh.nyc/1vf": "https://job-boards.greenhouse.io/lightmatter/jobs/5479596008",
+    "https://go.vansh.nyc/1vg": "https://securitymetrics.bamboohr.com/careers/215",
+    "https://go.vansh.nyc/1vh": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179",
+    "https://go.vansh.nyc/1vj": "https://apply.workable.com/j/E81C7F7D3B",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -71009,7 +71144,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 276,
+  "scan_sequence": 277,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
