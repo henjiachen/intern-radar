@@ -4456,10 +4456,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern"
       },
-      "fingerprint": "f59cf12fce980472c58388bde537e4d445686883bb45e2c8330ac256fc1ee439",
-      "revision": 1
+      "fingerprint": "017b16c48698d557c750c0bd28aa006dee8f8fbc6a542b8c3f1f297eb35ced58",
+      "revision": 2
     },
     "url:https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003": {
       "eligible": true,
@@ -48234,6 +48234,42 @@
       "fingerprint": "f17aa0cb7d6f2f03f63f300007f012b6b666247b271553a3a9fea9463d7fc554",
       "revision": 0
     },
+    "url:https://jobs.smartrecruiters.com/servicenow/744000161204235": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "servicenow",
+        "degrees": [],
+        "locations": [
+          "san diego, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "associate information security engineer intern"
+      },
+      "fingerprint": "28dfc9541a72ba405f0b5c4ef9fd307e03c801b67d5e4cfd7f5414c3a68d9224",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/servicenow/744000161209600": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "servicenow",
+        "degrees": [],
+        "locations": [
+          "santa clara, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "associate ai engineering intern, cloud security automation"
+      },
+      "fingerprint": "d72aa08abb3c0c41fe6ff98b329b60c62011dd33144633597f40307ac7c6769c",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/sightcall/80298252": {
       "eligible": false,
       "fingerprint": "158b26e95397b3c7bb6f4f0fcf49c8663a004e36dcda4a16183ad8848a9d51cb",
@@ -69836,6 +69872,8 @@
     "https://go.vansh.nyc/1vS": 280,
     "https://go.vansh.nyc/1vT": 280,
     "https://go.vansh.nyc/1vU": 280,
+    "https://go.vansh.nyc/1vY": 282,
+    "https://go.vansh.nyc/1vZ": 282,
     "https://go.vansh.nyc/1vd": 277,
     "https://go.vansh.nyc/1ve": 277,
     "https://go.vansh.nyc/1vf": 277,
@@ -71212,6 +71250,8 @@
     "https://go.vansh.nyc/1vS": "https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082",
     "https://go.vansh.nyc/1vT": "https://boards.greenhouse.io/embed/job_app?token=8368989",
     "https://go.vansh.nyc/1vU": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619793",
+    "https://go.vansh.nyc/1vY": "https://jobs.smartrecruiters.com/ServiceNow/744000161204235",
+    "https://go.vansh.nyc/1vZ": "https://jobs.smartrecruiters.com/ServiceNow/744000161209600",
     "https://go.vansh.nyc/1vd": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Lawrence-KS/Software-Engineering-Intern_9360",
     "https://go.vansh.nyc/1ve": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970",
     "https://go.vansh.nyc/1vf": "https://job-boards.greenhouse.io/lightmatter/jobs/5479596008",
@@ -71882,7 +71922,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 281,
+  "scan_sequence": 282,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

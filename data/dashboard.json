@@ -3074,11 +3074,11 @@
       "locations": [
         "San Diego, CA"
       ],
-      "posted_at": "2026-11-09",
+      "posted_at": "2026-11-11",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern",
       "url": "https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003"
     },
     {
@@ -23615,6 +23615,36 @@
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889"
     },
     {
+      "company": "ServiceNow",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "cf69694895e735889724980419d9e5d3f980846fe3fd4e936b6bdad3f8701b9c",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "posted_at": "2026-11-12",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Associate AI Engineering Intern, Cloud Security Automation",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161209600"
+    },
+    {
+      "company": "ServiceNow",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "41f80178f21d72a0d0a78f7b4e17dfb335c270ca9677510d6ff8c5ab0352de04",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "posted_at": "2026-11-12",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Associate Information Security Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161204235"
+    },
+    {
       "company": "Sharp Electronics",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -30524,7 +30554,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-12T03:04:55.995631+00:00",
+  "last_checked": "2026-11-12T04:10:57.296650+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
