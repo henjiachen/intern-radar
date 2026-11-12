@@ -11873,8 +11873,8 @@
     },
     "url:https://careers.formlabs.com/job/8256004/apply?gh_jid=8256004": {
       "eligible": false,
-      "fingerprint": "bd202057dd9779f96e2e76839b86e576e99b6020620d8e4c87f3b3a6d359882c",
-      "revision": 0
+      "fingerprint": "b35997cf4edbd9e6018a6bc917a7bfd8810567ab4491edb78c5f3077404923eb",
+      "revision": 1
     },
     "url:https://careers.formlabs.com/job/8374598/apply?gh_jid=8374598": {
       "eligible": true,
@@ -23409,8 +23409,8 @@
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-co-aurora-s75--16800-e-centretech-pkwy--bldg-s75/part-time-software-engineer-co-op--remote-_01883452": {
       "eligible": false,
-      "fingerprint": "483f6913f161a7f4c1ebe0e4ad5a8e9ce100db7db7708d074c1f1b4e99f374a4",
-      "revision": 0
+      "fingerprint": "8d05a263d2286cade89b6f60bfc2079d4bd889115b69a18a5fc9159b81793865",
+      "revision": 1
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-co-aurora-s75--16800-e-centretech-pkwy--bldg-s75/software-engineering-intern--summer-2027-_01873646": {
       "eligible": true,
@@ -40936,9 +40936,7 @@
           "phd"
         ],
         "locations": [
-          "dallas, tx",
-          "san diego, ca",
-          "san mateo, ca"
+          "san diego, ca"
         ],
         "requirements": [],
         "terms": [
@@ -40946,8 +40944,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "da9407546ba0f67690aadaf889df4517e42b6568faa6ca2deaedb39a8ac3b372",
-      "revision": 2
+      "fingerprint": "6a74eecdbc9cd552e417d6a654587b735034a01bc4fd0e678cc633ac4262bd0a",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2": {
       "eligible": true,
@@ -72161,7 +72159,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 288,
+  "scan_sequence": 289,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
