@@ -1428,21 +1428,6 @@
       "url": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009"
     },
     {
-      "company": "AIM Defence",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "5adf0563c5b39817654e031d0b9a4a88f06f1f9bcd9839906879fb7543069350",
-      "locations": [
-        "Vancouver, Canada"
-      ],
-      "posted_at": "2026-11-10",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Computer Vision Engineering Intern",
-      "url": "https://go.vansh.nyc/1va"
-    },
-    {
       "company": "Akuna Capital",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -4401,10 +4386,10 @@
       "locations": [
         "San Jose, CA"
       ],
-      "posted_at": "2026-11-12",
+      "posted_at": "2026-11-11",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "AI Solutions Engineer Intern",
       "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361"
     },
@@ -4434,8 +4419,8 @@
       "posted_at": "2026-11-11",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "RMCC Data Science Intern",
+      "source": "simplify",
+      "title": "Data Science Intern",
       "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Data-Science-Intern_JR-25362"
     },
     {
@@ -9082,21 +9067,6 @@
       "company": "DreamWorks Animation",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "5e56d3ff230d1c96d8735b2468620ca134d48278cd5d9886be9640be1513da2b",
-      "locations": [
-        "Universal City, LA"
-      ],
-      "posted_at": "2026-11-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659379"
-    },
-    {
-      "company": "DreamWorks Animation",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "97f0c02f51bf6fddbf0ab716a4011c9a8cee2613f91cfad068c4db0e9261776b",
       "locations": [
         "Universal City, LA"
@@ -11679,6 +11649,36 @@
       "company": "General Motors",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "0e2ff1ab4b0dc801422db806340327070a12e43037320dcb49b1e4328f23f722",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "posted_at": "2026-10-12",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Research and Development Intern, AI/Machine Learning",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620"
+    },
+    {
+      "company": "General Motors",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "31db5c5356fb564940c3fda1e873e844b9485d66137e439445950fb8ec9a7c9b",
+      "locations": [
+        "Warren, MI"
+      ],
+      "posted_at": "2026-10-12",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Research and Development Intern, Machine Learning for Automation",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724"
+    },
+    {
+      "company": "General Motors",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "ec1bfd4ed32c8e6431d0932fdd8dcbe1bb7fcb98b1b618c93cf7f9f62a6a69e2",
       "locations": [
         "Sunnyvale, CA",
@@ -13593,21 +13593,6 @@
       "company": "HP IQ",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "8c71bcd9b0d36309c7623b334e611f4790ba9d372f7f99cb7bf732d21eb02398",
-      "locations": [
-        "SF"
-      ],
-      "posted_at": "2026-09-01",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Connectivity",
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004"
-    },
-    {
-      "company": "HP IQ",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "bf5f7a0274ad5f626eda1612d1bd6e190e491ff064c31b62d9816ddea49a7148",
       "locations": [
         "SF"
@@ -13618,6 +13603,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Product & Developer Productivity - Summer 2027",
       "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114890004"
+    },
+    {
+      "company": "HP IQ",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "8c71bcd9b0d36309c7623b334e611f4790ba9d372f7f99cb7bf732d21eb02398",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted_at": "2026-09-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Connectivity - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004"
     },
     {
       "company": "HP IQ",
@@ -18592,6 +18592,21 @@
       "company": "NBCUniversal",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "5e56d3ff230d1c96d8735b2468620ca134d48278cd5d9886be9640be1513da2b",
+      "locations": [
+        "Universal City, CA"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659379"
+    },
+    {
+      "company": "NBCUniversal",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "fe4fd68957756d4d887522ffee0ce995f6c0baf59380847dba549ab134dbb661",
       "locations": [
         "Universal City, CA"
@@ -20577,21 +20592,6 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://physicalreasoning.ai/join/software-engineering-intern/"
-    },
-    {
-      "company": "Pilot Company",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "751327618668a6ab216061a08760075a469ec48a941fd0ea40696889c12850b8",
-      "locations": [
-        "Knoxville, TN"
-      ],
-      "posted_at": "2026-09-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Governance Intern",
-      "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148572871"
     },
     {
       "company": "Pilot Company",
@@ -22593,13 +22593,13 @@
       "graduation_status": "unknown",
       "id": "9ac091edcc645423c3566dea8480ba74ed4af6a18bd6d1d7fb5e5dcb1552cfde",
       "locations": [
-        "Ft Wayne, IN"
+        "Fort Wayne, IN"
       ],
       "posted_at": "2026-11-11",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Electrical Engineering Intern, Firmware",
+      "source": "simplify",
+      "title": "Electrical Engineer Intern - Firmware",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316"
     },
     {
@@ -29781,21 +29781,6 @@
       "company": "Wellmark",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "3fcf86cbf230aa0936186d92841820581164faac28ab5ffbaa5e45e31bc58fb9",
-      "locations": [
-        "Des Moines, IA"
-      ],
-      "posted_at": "2026-09-11",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793"
-    },
-    {
-      "company": "Wellmark",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "266383f050312a8d3df4fe5b5b97b31d3c8fd247dfdbea21c6f5df947b566fa7",
       "locations": [
         "Des Moines, IA"
@@ -30539,7 +30524,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-12T01:29:41.297099+00:00",
+  "last_checked": "2026-11-12T03:04:55.995631+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

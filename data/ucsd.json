@@ -5017,6 +5017,11 @@
       "fingerprint": "93a0d1de00a2ccc59edfcab2619651b6c199e7d87412362f26650eaf2f03ad4e",
       "revision": 1
     },
+    "url:https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c": {
+      "eligible": false,
+      "fingerprint": "b1540cf3be69be5b81e9f95b223c710970386e16512edc7a24830cb23113370b",
+      "revision": 1
+    },
     "url:https://ats.rippling.com/linea-energy/jobs/1247c5f0-eedf-4f15-9f81-065445d89d01": {
       "eligible": false,
       "fingerprint": "5e00d2d606055a8e13279d86f6b5909229b3628ebca575a15073d04baa638636",
@@ -6917,20 +6922,24 @@
     "url:https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/san-jose-california/ai-solutions-engineer-intern_jr-25361": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "bloom energy",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "san jose, ca"
         ],
         "requirements": [],
         "terms": [
+          "summer 2026",
           "summer 2027"
         ],
         "title": "ai solutions engineer intern"
       },
-      "fingerprint": "b0bd220f61fa2659bbd8cdd7c8e06e44a9e3096250957dfeba51fab142322893",
-      "revision": 1
+      "fingerprint": "5e48cb57ab5ca58839ddcfa2f7d0ad0eb150405773b3524813413d850eb0e6e8",
+      "revision": 2
     },
     "url:https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/san-jose-california/data-science-intern_jr-25360": {
       "eligible": true,
@@ -6957,19 +6966,28 @@
     "url:https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/san-jose-california/rmcc-data-science-intern_jr-25362": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "bloom energy",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "san jose, ca"
         ],
         "requirements": [],
         "terms": [
+          "summer 2026",
           "summer 2027"
         ],
-        "title": "rmcc data science intern"
+        "title": "data science intern"
       },
-      "fingerprint": "5c7fa7a1b7aeef21295329f68b00eb5ad025675b240a11b6b3de41a5f0ded488",
+      "fingerprint": "b2aedc4190e5359bb228b9ada5fd3c6f67f1013984e28e5ff1fd6e2158cee8f7",
+      "revision": 2
+    },
+    "url:https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/san-jose-california/rmcc-systems-engineering-intern_jr-25363": {
+      "eligible": false,
+      "fingerprint": "ad69e00ef619933219e2047cb17a85f8034bf24c91c3c1e4926007b2898be02a",
       "revision": 1
     },
     "url:https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/greater-seattle-area/summer-2027-avionics-software-internship---graduate_r71423": {
@@ -21990,9 +22008,22 @@
       "revision": 0
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/mountain-view-california-united-states-of-america/xmlname-2027-summer-intern---research-and-development---ai-machine-learning_jr-202621620": {
-      "eligible": false,
-      "fingerprint": "78e4ccf63a0269f6b0e8f752950b75dab5495c000f2c87355e25a9be0a3f22aa",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "general motors",
+        "degrees": [],
+        "locations": [
+          "mountain view, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "research and development intern, ai/machine learning"
+      },
+      "fingerprint": "8842a6c97e3c87eae88ffcb73991da1ff13d9fc014732b80b9c1949a36bd68ac",
+      "revision": 1
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-intern---ai-ml-engineer---capacity---performance-engineering--autonomous-vehicles_jr-202622406": {
       "eligible": true,
@@ -22289,9 +22320,22 @@
       "revision": 0
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---machine-learning-for-automation_jr-202621724": {
-      "eligible": false,
-      "fingerprint": "1d89e5b3115616bbdadc761d097f36ae1d251ce988b1ec76a4a50672ff4fc087",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "general motors",
+        "degrees": [],
+        "locations": [
+          "warren, mi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "research and development intern, machine learning for automation"
+      },
+      "fingerprint": "1e5a3857bc47ecc6b7ca414016775b1ac37f6687cc8253a955128cbb20506cfa",
+      "revision": 1
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---vehicle-health-management_jr-202622258": {
       "eligible": false,
@@ -23748,20 +23792,24 @@
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-in-ft-wayne-150a--1010-production-rd--bldg-150a/electrical--firmware--engineering-intern--summer-2027--onsite-_01888316": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "hardware",
         "company": "rtx",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
+          "fort wayne, in",
           "ft wayne, in"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "electrical engineering intern, firmware"
+        "title": "electrical engineer intern - firmware"
       },
-      "fingerprint": "20b34f93b64da0e8e0c993b4c9e9349d95f33c89f3294832a5bc8dc6293ebd9e",
-      "revision": 1
+      "fingerprint": "e9cc83f02bce154fafbe90bf37ca1817c9b54c9a6c8130c75498e7c5dfd253b7",
+      "revision": 2
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-marlborough-ma2--1001-boston-post-rd--bldg-2/receiver--exciter----processing-architecture-software-engineer-intern--summer-2027----onsite_01885187": {
       "eligible": true,
@@ -25087,29 +25135,18 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/1va": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "aim defence",
-        "degrees": [],
-        "locations": [
-          "atlanta, ga",
-          "bloomfield hills, mi",
-          "framingham, ma",
-          "vancouver, canada"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "computer vision engineering intern"
-      },
-      "fingerprint": "07aaa005f7579543447d3a01907339f954f7e1c854baea44ac8999222a591583",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "d695be8d72c8fa4223ba1efbc478c5dfeba45109e7513aa69b59469c8164ab23",
+      "revision": 3
     },
     "url:https://go.vansh.nyc/1vt": {
       "eligible": false,
       "fingerprint": "c32def368f3482702b904c7b3977e7eda882e39ea4476b6f36e3821f35189433",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1vw": {
+      "eligible": false,
+      "fingerprint": "80817dba52eaacc7caa81675384667f73cace54f30f9522bbb455addc5bcc104",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1x": {
@@ -34206,17 +34243,16 @@
         "company": "hp iq",
         "degrees": [],
         "locations": [
-          "san francisco, ca",
-          "sf"
+          "san francisco, ca"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - connectivity"
+        "title": "software engineering intern - connectivity - summer 2027"
       },
-      "fingerprint": "94541795d18770fe791efd81df9870715bfb724af9d5d0c9b069c8c8893a17c4",
-      "revision": 0
+      "fingerprint": "3a23fdb5c10267d8befdd915d6bc41b4ebf4db4ba23bd1388846cb16120128a6",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/hpsinterns/jobs/4739898005": {
       "eligible": false,
@@ -35904,6 +35940,11 @@
     "url:https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009": {
       "eligible": false,
       "fingerprint": "72e7cb377f53ebd68ae91b897a224d003bc630a648effdb210256349c9e9baf1",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009": {
+      "eligible": false,
+      "fingerprint": "3abb87f70a7119e9221ddd2f206ecc450369ca762bda146e3766a22a39064b5a",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/solutions/jobs/4711210006": {
@@ -40242,6 +40283,11 @@
         "title": "embedded software engineer intern"
       },
       "fingerprint": "3561cb2aa5aee067537b770be2b5af927e298746a146756f4601fd2c35d4891c",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/rhoda-ai/20056166-79de-420b-8569-d0b15ee83599": {
+      "eligible": false,
+      "fingerprint": "79a5940c7f6e274284ee4d5c8b3fd970954e419bf5cf6c88454005618e7427e6",
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4": {
@@ -47844,22 +47890,21 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "dreamworks animation",
+        "company": "nbcuniversal",
         "degrees": [
           "bachelor's"
         ],
         "locations": [
-          "universal city, ca",
-          "universal city, la"
+          "universal city, ca"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern"
       },
-      "fingerprint": "178ed0bfc5da0b78d6669c470f074f42e8c4cc874b4a3ee79d083b20c04800f3",
-      "revision": 2
+      "fingerprint": "da02b0f8e0f7ba214e318d0f57d1633a2dd259b99e0e127564690f7a2ce348dc",
+      "revision": 3
     },
     "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000160659379-software-engineering-internships-summer-2027?oga=true": {
       "eligible": true,
@@ -67368,6 +67413,11 @@
       "fingerprint": "a0133a5a8b62e6efb0aad7fafcc9ef0d5b8d5debe2b5c8ef76038b70cba005a7",
       "revision": 0
     },
+    "url:https://www.metacareers.com/jobs/2690374264750493": {
+      "eligible": false,
+      "fingerprint": "a12a6c85453449d352ac4cda4e6a63775eb5fb23c8da05d39c1e98412f9ed40c",
+      "revision": 1
+    },
     "url:https://www.metacareers.com/jobs/27730225806654441": {
       "eligible": false,
       "fingerprint": "0dacd15e9619281d491aa876ef3cd0c45d4807810ea456ab5dcdb638f44b22c2",
@@ -71832,7 +71882,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 280,
+  "scan_sequence": 281,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
