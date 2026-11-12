@@ -25373,19 +25373,23 @@
       "fingerprint": "06b79d2b55cf5c2b87c1ee0535cac74844f26eba728c57fed211095e9c8b0990",
       "revision": 2
     },
-    "url:https://go.vansh.nyc/1wk": {
-      "eligible": false,
-      "fingerprint": "07a9fbeaec84cb78b5e8c95bf7bfa40e994fcf1f8926ab0d2b1edb033af6f945",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1wl": {
-      "eligible": false,
-      "fingerprint": "4c280b7316ec6eb3051d950790ee873eb65f53245edd8e94ed8ea62174cb57a3",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1wm": {
-      "eligible": false,
-      "fingerprint": "f1562de28aff1f3bd6c3a21eda614b2881cfd3b607735e3de9de8218b95b2c58",
+    "url:https://go.vansh.nyc/1wn": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "autodesk",
+        "degrees": [],
+        "locations": [
+          "cincinnati, oh",
+          "montreal, canada"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern"
+      },
+      "fingerprint": "22da6b7d039d5682070bc91708d9dfd5942cddc3598451f825357887b3d0f372",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1wv": {
@@ -33161,8 +33165,8 @@
     },
     "url:https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005": {
       "eligible": false,
-      "fingerprint": "3c15c26e351db47770716a33589878bb0336203b57213d94865bf13cb1d56490",
-      "revision": 0
+      "fingerprint": "cef46dbe954247535a988ae5d02d78357c3447fdb7b8816051619c87f160bfda",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/brave/jobs/8161945": {
       "eligible": false,
@@ -35592,26 +35596,9 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/nyisointernships/jobs/5236084007": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "new york iso",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "rensselaer, ny"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2026",
-          "summer 2027"
-        ],
-        "title": "information technology software development intern"
-      },
-      "fingerprint": "47f7baf5fd5224e8b9adff40ed98ef2b28a383d5eb2a8539e0cb337fc0e3341f",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "839647d432f35ee0cf2ad1778b47f18f04daadc7cd8a76f4b9fdcc73da303840",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/nyisointernships/jobs/5236684007": {
       "eligible": false,
@@ -72546,7 +72533,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 291,
+  "scan_sequence": 292,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
