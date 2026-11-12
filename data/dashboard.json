@@ -807,21 +807,6 @@
       "company": "AbbVie",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "458c77dcb771045659d55255b43a0edce844e401d1c05a3763de66cb6d91d15f",
-      "locations": [
-        "North Chicago, IL"
-      ],
-      "posted_at": "2026-09-25",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Business Technology Solutions Intern - Data & Software Engineering",
-      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015679386-2027-business-technology-solutions-intern-data-software-engineering-undergraduate-?oga=true"
-    },
-    {
-      "company": "AbbVie",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "6521d94577a4bdb587e8a50d43a3630821a9116a154673395788f2cef98cffe8",
       "locations": [
         "North Chicago, IL"
@@ -13409,6 +13394,36 @@
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957"
     },
     {
+      "company": "Honeywell Aerospace",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "69135a5c0c3b2fa15051faaaa1411a0934996f32194dabed77741c7b73912f67",
+      "locations": [
+        "United States"
+      ],
+      "posted_at": "2026-08-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software AI Intern",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899"
+    },
+    {
+      "company": "Honeywell Aerospace",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "d452b546bdce3a48f8f1a76badff7757de7670dd032a54ab04c2422c54bebdac",
+      "locations": [
+        "United States"
+      ],
+      "posted_at": "2026-08-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119821"
+    },
+    {
       "company": "Hook Music",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -25300,21 +25315,6 @@
       "company": "T-Mobile",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "b23c78b5789fabbc4d6a16d359fc4e3c9f032132775f55fd38b1ce3e897e7042",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI Engineering Intern",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765"
-    },
-    {
-      "company": "T-Mobile",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "bfa4cbae0dc868846b3479ed86e3e94fa05eff71922eeb5471d9c1113239beec",
       "locations": [
         "Bellevue, WA"
@@ -25356,21 +25356,6 @@
       "source": "simplify",
       "title": "Business Analytics & Reporting Intern",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319"
-    },
-    {
-      "company": "T-Mobile",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "597d7ae7087a5dc04a0bd6069f7833549a23e4b19a5a61f56000ca03646884d8",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer HR Data Products Intern",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766"
     },
     {
       "company": "T-Mobile",
@@ -30464,7 +30449,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-12T12:11:46.549128+00:00",
+  "last_checked": "2026-11-12T13:30:45.412660+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

@@ -30420,6 +30420,42 @@
       "fingerprint": "0249638e23eb84a0afda46a5592e32c20bd1d68524ba38bb6dfc0c9a762a998e",
       "revision": 1
     },
+    "url:https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/aerospace/job/119821": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "honeywell aerospace",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "dc481ee0169c255cd69f109221787b8ab618113a62fa7ef26f4f9235649527d1",
+      "revision": 1
+    },
+    "url:https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/aerospace/job/119899": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "honeywell aerospace",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software ai intern"
+      },
+      "fingerprint": "a94396399e81dddaaab2f8ce1a1bca01432a8ad0e1542e28487f732028bd6943",
+      "revision": 1
+    },
     "url:https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/119718": {
       "eligible": true,
       "evidence": {
@@ -70087,6 +70123,8 @@
     "https://go.vansh.nyc/1vr": 278,
     "https://go.vansh.nyc/1vv": 279,
     "https://go.vansh.nyc/1vw": 279,
+    "https://go.vansh.nyc/1wq": 288,
+    "https://go.vansh.nyc/1wr": 288,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -71465,6 +71503,8 @@
     "https://go.vansh.nyc/1vr": "https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/AI-Engineering-Intern_R0039470",
     "https://go.vansh.nyc/1vv": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529",
     "https://go.vansh.nyc/1vw": "https://apply.workable.com/bask-health-1/j/E81C7F7D3B",
+    "https://go.vansh.nyc/1wq": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119821",
+    "https://go.vansh.nyc/1wr": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -72121,7 +72161,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 287,
+  "scan_sequence": 288,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
