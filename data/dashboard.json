@@ -12957,21 +12957,6 @@
       "company": "Highmark Health",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "382968f0bd1c8418e8739d0e3f58f414d94f3b7c79165ae94b3422222ce7ef5f",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "posted_at": "2026-10-26",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analyst Intern",
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826"
-    },
-    {
-      "company": "Highmark Health",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "b5dc1771924cdd9c00e67858399fb7001d7234f76c0129adedd5ad31ffd76576",
       "locations": [
         "Pittsburgh, PA"
@@ -21563,21 +21548,6 @@
       "company": "Radiance Technologies",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "eb641793237feee2715728a409f90c71090ccb44415730ca94641c6ef8d7883e",
-      "locations": [
-        "Beavercreek, OH"
-      ],
-      "posted_at": "2026-11-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563"
-    },
-    {
-      "company": "Radiance Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "d7daedb66709d87fab95c300d2f599d33ce7c71189705f89f5840eb85c8578a5",
       "locations": [
         "Dayton, OH"
@@ -21588,6 +21558,21 @@
       "source": "speedyapply",
       "title": "Software Engineer Intern Spring/Summer 2027",
       "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102562"
+    },
+    {
+      "company": "Radiance Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "eb641793237feee2715728a409f90c71090ccb44415730ca94641c6ef8d7883e",
+      "locations": [
+        "Dayton, OH"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Software Engineer Intern Spring/Summer 2027",
+      "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563"
     },
     {
       "company": "Rambus",
@@ -21753,21 +21738,6 @@
       "source": "simplify",
       "title": "Robotics Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true"
-    },
-    {
-      "company": "Rendezvous Robotics",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "97ed8b6b2be75316fbb70a9e475c43d1dd6d3f1878dc23b9d0cd329da0f2ca68",
-      "locations": [
-        "Golden, CO"
-      ],
-      "posted_at": "2026-09-16",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009"
     },
     {
       "company": "Republic Airways",
@@ -22788,21 +22758,6 @@
       "source": "simplify",
       "title": "AGS Software Engineering Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646"
-    },
-    {
-      "company": "RTX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "8e4d5237646f22ed0b75c804f7ac54185b0240429b3059498c6e7c378084a9bf",
-      "locations": [
-        "Farmington, CT"
-      ],
-      "posted_at": "2026-10-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Application Portfolio Support Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Application-Portfolio-Support-Intern--Summer-2027-_01879981"
     },
     {
       "company": "RTX",
@@ -30604,7 +30559,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-12T21:59:55.452878+00:00",
+  "last_checked": "2026-11-12T22:59:28.721365+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

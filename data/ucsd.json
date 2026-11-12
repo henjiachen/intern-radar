@@ -58993,7 +58993,6 @@
           "bachelor's"
         ],
         "locations": [
-          "beavercreek, oh",
           "dayton, oh"
         ],
         "requirements": [],
@@ -59001,10 +59000,10 @@
           "spring 2027",
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineer intern spring/summer 2027"
       },
-      "fingerprint": "eb8e35c6838917da86fda64138f7791a8a1b65fb5c8b02caed7a1ed1912c9d6d",
-      "revision": 2
+      "fingerprint": "503142a5405dcfc2a84a9660b602f55a96f7be4cb64e6b2e728d934c60e36c0a",
+      "revision": 3
     },
     "url:https://ragleinc.applytojob.com/apply/box8uicios/data-engineering-intern-summer-2027": {
       "eligible": true,
@@ -72728,7 +72727,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 295,
+  "scan_sequence": 296,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
