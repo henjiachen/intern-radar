@@ -25219,6 +25219,16 @@
       "fingerprint": "a37ae857eaedc057769608d9dc0cfdae3cc59ab7607f41cd350515cd0d196375",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1wg": {
+      "eligible": false,
+      "fingerprint": "3168b5148cad7d6870ea99a71309b3080d860716415594c43610e264f7ed071e",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1wi": {
+      "eligible": false,
+      "fingerprint": "6730782c3343f5063cc7f84eba542e63138e363fb21167a1f01d77dd4b1c05b2",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1x": {
       "eligible": false,
       "fingerprint": "a4462b1254ffa7412280a44344631ee84571010c348aedd976470ce6f54750be",
@@ -38282,6 +38292,11 @@
       "eligible": false,
       "fingerprint": "267bc212669f0acc443d8a6c2068a7d62f785b61dcd9c54558000af05c622ea2",
       "revision": 0
+    },
+    "url:https://jobs.ashbyhq.com/conveo/00915c85-373b-4094-b17e-1dca197e644f": {
+      "eligible": false,
+      "fingerprint": "15b6ac555d7b24a03b9e708e1ea85f27edabd3974b3bfc2873e4a076e88b3bf1",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a": {
       "eligible": true,
@@ -72038,7 +72053,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 285,
+  "scan_sequence": 286,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
