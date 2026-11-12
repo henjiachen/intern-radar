@@ -5377,21 +5377,6 @@
       "url": "https://brevanhoward.wd3.myworkdayjobs.com/en-US/bh_externalcareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597"
     },
     {
-      "company": "Brex",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
-      "id": "816f3e80a04939225c523aac1b5ef51bbbf91dba91c54f835323fb0aad8947d5",
-      "locations": [
-        "San Francisco, California, United States"
-      ],
-      "posted_at": "2026-11-11",
-      "priority": 11,
-      "priority_program": false,
-      "source": "greenhouse",
-      "title": "Software Engineer, Intern  (Summer 2027)",
-      "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002"
-    },
-    {
       "company": "Brunswick",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -6806,6 +6791,24 @@
       "source": "simplify",
       "title": "Software Intern",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2027-_R031695"
+    },
+    {
+      "company": "Cigna",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "a8631975b1316abadf79389f4ade9bdfa8f334b69c4797047c6428d74319eece",
+      "locations": [
+        "St. Louis, MO",
+        "Austin, TX",
+        "Morris Plains, NJ",
+        "Bloomfield, CT"
+      ],
+      "posted_at": "2026-11-12",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527"
     },
     {
       "company": "Cigna Group",
@@ -17367,21 +17370,6 @@
       "source": "simplify",
       "title": "Graduate Engineer Intern - Software Development",
       "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190"
-    },
-    {
-      "company": "McDonald's",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "c488599f4425bae9c60b81e5d9ad93d1f87a743a78e70ab4dbfb60f08a0cf44d",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "posted_at": "2026-11-11",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Global Tech Infrastructure & Operations Intern",
-      "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors"
     },
     {
       "company": "Medpace",
@@ -30585,7 +30573,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-12T16:18:54.391421+00:00",
+  "last_checked": "2026-11-12T18:03:05.200897+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

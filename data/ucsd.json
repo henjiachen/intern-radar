@@ -15616,6 +15616,27 @@
       "fingerprint": "6a2fbfb065fae70a8f10dff0ce49fa93b2e8968288072d5515038c3efa86bbf6",
       "revision": 0
     },
+    "url:https://cigna.wd5.myworkdayjobs.com/cignacareers/job/st-louis-mo/the-cigna-group-s-technology-development-program----software-engineering-track-summer-internship_26009527": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cigna",
+        "degrees": [],
+        "locations": [
+          "austin, tx",
+          "bloomfield, ct",
+          "morris plains, nj",
+          "st. louis, mo"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "d5238420a36e6a56c6615192c220a162abbeddea0625c09071035e80657e0212",
+      "revision": 1
+    },
     "url:https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/remote/student-ii---ba-enterprise-business-intelligence_jr226747-1": {
       "eligible": false,
       "fingerprint": "1883db65c8643c259f6401adb3467cae2264cefffc4185b552c52bc90a7847dd",
@@ -25347,15 +25368,10 @@
       "fingerprint": "a37ae857eaedc057769608d9dc0cfdae3cc59ab7607f41cd350515cd0d196375",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1wg": {
-      "eligible": false,
-      "fingerprint": "3168b5148cad7d6870ea99a71309b3080d860716415594c43610e264f7ed071e",
-      "revision": 1
-    },
     "url:https://go.vansh.nyc/1wi": {
       "eligible": false,
-      "fingerprint": "6730782c3343f5063cc7f84eba542e63138e363fb21167a1f01d77dd4b1c05b2",
-      "revision": 1
+      "fingerprint": "06b79d2b55cf5c2b87c1ee0535cac74844f26eba728c57fed211095e9c8b0990",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1wk": {
       "eligible": false,
@@ -46483,6 +46499,11 @@
       "fingerprint": "a199b1bf659c61ad9c8821575854f9f775cde823ee4223603ee43b5ca5047275",
       "revision": 2
     },
+    "url:https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628": {
+      "eligible": false,
+      "fingerprint": "90d9bebdf01f05d54e9da0ccfa4fa2239d594e9bd0e878335ebed850b51af4c1",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4": {
       "eligible": false,
       "fingerprint": "8536c2b73bf6f8f689abbeb896153c0028f892ab2b8e8d8580ce68670006b868",
@@ -63845,6 +63866,7 @@
           "master's"
         ],
         "locations": [
+          "new york, ny",
           "nyc",
           "waltham, ma"
         ],
@@ -63854,8 +63876,8 @@
         ],
         "title": "data science intern"
       },
-      "fingerprint": "c29eef1ee4a1d6cb1ce0ec7429760c80900e2ce13b8201fd34a5e84e4d48d223",
-      "revision": 1
+      "fingerprint": "0a90d4dd946bd4d9aaa5f411efcad66b8ca116168b67f2de469df87daa9b2ef6",
+      "revision": 2
     },
     "url:https://trustage.wd1.myworkdayjobs.com/trustage/job/madison-wi/it---innovation---ai-technology-internship--hybrid-_r-012293": {
       "eligible": true,
@@ -66808,24 +66830,9 @@
       "revision": 1
     },
     "url:https://www.brex.com/careers/8936403002?gh_jid=8936403002": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "brex",
-        "degrees": [],
-        "locations": [
-          "san francisco, ca",
-          "san francisco, california, united states",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer, intern (summer 2027)"
-      },
-      "fingerprint": "37a49f4ab1bf3364be276654b9cbfa1b434f57435181d4da9a11071d936c0e2d",
-      "revision": 3
+      "eligible": false,
+      "fingerprint": "d654ef0dfa4e214596fdeda2f8d52c8a5e818411f4e0f505b4da16eee0688b6e",
+      "revision": 4
     },
     "url:https://www.burns-group.com/careers/current-openings?gh_jid=4467848009": {
       "eligible": true,
@@ -70485,6 +70492,10 @@
     "https://go.vansh.nyc/1vr": 278,
     "https://go.vansh.nyc/1vv": 279,
     "https://go.vansh.nyc/1vw": 279,
+    "https://go.vansh.nyc/1wD": 291,
+    "https://go.vansh.nyc/1wE": 291,
+    "https://go.vansh.nyc/1wF": 291,
+    "https://go.vansh.nyc/1wH": 291,
     "https://go.vansh.nyc/1wq": 288,
     "https://go.vansh.nyc/1wr": 288,
     "https://go.vansh.nyc/1wt": 290,
@@ -71869,6 +71880,10 @@
     "https://go.vansh.nyc/1vr": "https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/AI-Engineering-Intern_R0039470",
     "https://go.vansh.nyc/1vv": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529",
     "https://go.vansh.nyc/1vw": "https://apply.workable.com/bask-health-1/j/E81C7F7D3B",
+    "https://go.vansh.nyc/1wD": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Software-Engineering-Intern_JR10261",
+    "https://go.vansh.nyc/1wE": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Summer-2027-Software-Engineer-Intern--Application-Software-_JR10491-1",
+    "https://go.vansh.nyc/1wF": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881",
+    "https://go.vansh.nyc/1wH": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527",
     "https://go.vansh.nyc/1wq": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119821",
     "https://go.vansh.nyc/1wr": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899",
     "https://go.vansh.nyc/1wt": "https://argonne.wd1.myworkdayjobs.com/en-US/EDU_PUB/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702",
@@ -72531,7 +72546,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 290,
+  "scan_sequence": 291,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
