@@ -42,7 +42,7 @@
       "posted_at": "2026-10-19",
       "priority": 6,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "IT Software Engineer Intern",
       "url": "https://careers.nintendo.com/?gh_jid=4421632009"
     },
@@ -57,8 +57,8 @@
       "posted_at": "2026-10-28",
       "priority": 6,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, Audio",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Audio",
       "url": "https://careers.nintendo.com/?gh_jid=4470048009"
     },
     {
@@ -72,8 +72,8 @@
       "posted_at": "2026-10-29",
       "priority": 6,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, Connectivity",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Connectivity",
       "url": "https://careers.nintendo.com/?gh_jid=4472147009"
     },
     {
@@ -87,8 +87,8 @@
       "posted_at": "2026-10-28",
       "priority": 6,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, CPU Debugger",
+      "source": "simplify",
+      "title": "Software Engineer Intern - CPU Debugger - NTD",
       "url": "https://careers.nintendo.com/?gh_jid=4471972009"
     },
     {
@@ -102,9 +102,54 @@
       "posted_at": "2026-10-28",
       "priority": 6,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, CPU Profiler",
+      "source": "simplify",
+      "title": "Software Engineer Intern - CPU Profiler",
       "url": "https://careers.nintendo.com/?gh_jid=4469762009"
+    },
+    {
+      "company": "Nintendo",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "bfae74ffc5f73770843c0ea065089e5bf5fa26068f53a4ba7e3481e2e3617f16",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 6,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Graphics",
+      "url": "https://careers.nintendo.com/?gh_jid=4473550009"
+    },
+    {
+      "company": "Nintendo",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "044a826d41c0f9cef810447d7564c192ea081747222d763237bdf78e08f8c6fa",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted_at": "2026-10-30",
+      "priority": 6,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Performance Tools",
+      "url": "https://careers.nintendo.com/?gh_jid=4473568009"
+    },
+    {
+      "company": "Nintendo",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "af28217e36c880ef9c9e52068403001f42d96e27789a78558ba8862c00c2c78e",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted_at": "2026-10-28",
+      "priority": 6,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Platform Security",
+      "url": "https://careers.nintendo.com/?gh_jid=4469778009"
     },
     {
       "company": "Nintendo",
@@ -120,51 +165,6 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, DevOps",
       "url": "https://careers.nintendo.com/?gh_jid=4472002009"
-    },
-    {
-      "company": "Nintendo",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "bfae74ffc5f73770843c0ea065089e5bf5fa26068f53a4ba7e3481e2e3617f16",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "posted_at": "2026-10-30",
-      "priority": 6,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, Graphics",
-      "url": "https://careers.nintendo.com/?gh_jid=4473550009"
-    },
-    {
-      "company": "Nintendo",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "044a826d41c0f9cef810447d7564c192ea081747222d763237bdf78e08f8c6fa",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "posted_at": "2026-10-30",
-      "priority": 6,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, Performance Tools",
-      "url": "https://careers.nintendo.com/?gh_jid=4473568009"
-    },
-    {
-      "company": "Nintendo",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "af28217e36c880ef9c9e52068403001f42d96e27789a78558ba8862c00c2c78e",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 6,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, Platform Security",
-      "url": "https://careers.nintendo.com/?gh_jid=4469778009"
     },
     {
       "company": "NVIDIA",
@@ -11649,21 +11649,6 @@
       "company": "General Motors",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "0e2ff1ab4b0dc801422db806340327070a12e43037320dcb49b1e4328f23f722",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "posted_at": "2026-10-12",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Research and Development Intern, AI/Machine Learning",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620"
-    },
-    {
-      "company": "General Motors",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "ec1bfd4ed32c8e6431d0932fdd8dcbe1bb7fcb98b1b618c93cf7f9f62a6a69e2",
       "locations": [
         "Sunnyvale, CA",
@@ -13578,6 +13563,21 @@
       "company": "HP IQ",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "195c4b583852a98bf6d6a0ec95d02e82af43edf5c4263f524e00a8ff47c30285",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted_at": "2026-09-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Software Engineer Intern - Cloud Services - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6111955004"
+    },
+    {
+      "company": "HP IQ",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "bf5f7a0274ad5f626eda1612d1bd6e190e491ff064c31b62d9816ddea49a7148",
       "locations": [
         "SF"
@@ -15224,21 +15224,6 @@
       "source": "simplify",
       "title": "AI Center of Excellence Delivery Team Intern",
       "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176"
-    },
-    {
-      "company": "JM Family",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "8846a69517df4665f686536c688f52ff1fa6ee010307e0995aa9698435c8c8e7",
-      "locations": [
-        "Deerfield Beach, FL"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI Intern",
-      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180"
     },
     {
       "company": "JM Family",
@@ -22666,6 +22651,21 @@
       "company": "RTX",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "1fdfb5a60f4c4a3b30dd72867309f46ea70e2a067c780187f608e879e79f00ed",
+      "locations": [
+        "West Valley City, UT"
+      ],
+      "posted_at": "2026-11-11",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1"
+    },
+    {
+      "company": "RTX",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "3c167da5ec26b13d0caa6c628a0a3263e7a3493ad6193ff28379f6134180a562",
       "locations": [
         "St. Petersburg, FL"
@@ -25374,38 +25374,6 @@
       "company": "T-Mobile",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "188d3eca77f469165b089f8da85d1360866a7571c0ccc118893721f410bfa9aa",
-      "locations": [
-        "Frisco, TX",
-        "Atlanta, GA"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Engineer Intern",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754"
-    },
-    {
-      "company": "T-Mobile",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "89f3c8445c8c15f0517927f1132aa3cb685f142ed7551954a61bb066ff42cfd0",
-      "locations": [
-        "Frisco, TX",
-        "Atlanta, GA"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Engineering Intern",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755"
-    },
-    {
-      "company": "T-Mobile",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "597d7ae7087a5dc04a0bd6069f7833549a23e4b19a5a61f56000ca03646884d8",
       "locations": [
         "Bellevue, WA"
@@ -25416,21 +25384,6 @@
       "source": "simplify",
       "title": "Software Engineer HR Data Products Intern",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766"
-    },
-    {
-      "company": "T-Mobile",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "04126c3c7fdc7993db5d6df9f332b937cdcecd3bd72a8bae92b997be00edb978",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "posted_at": "2026-11-05",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650"
     },
     {
       "company": "T-Mobile",
@@ -25536,21 +25489,6 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"
-    },
-    {
-      "company": "T-Mobile",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "03c987d5e0ee3f44682753dacededba54af44d26207c46eb0248ce691be2c7e3",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757"
     },
     {
       "company": "Talos",
@@ -30539,7 +30477,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-12T06:22:05.813347+00:00",
+  "last_checked": "2026-11-12T08:28:16.629214+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

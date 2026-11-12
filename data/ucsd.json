@@ -3494,9 +3494,19 @@
       "fingerprint": "e21a36daea6ab89aed34cac99b2ea117d46310020b01d68eb49e69dc2337c306",
       "revision": 1
     },
+    "url:https://apply.workable.com/bask-health-1/j/24dd93e3ba/apply": {
+      "eligible": false,
+      "fingerprint": "17d5f6533861ae95a0554eaaeba1d07b568c3f7f14a91103de39c171c0b3ca5a",
+      "revision": 1
+    },
     "url:https://apply.workable.com/bask-health-1/j/98db106d88/apply": {
       "eligible": false,
       "fingerprint": "55fcb741394efc5bf9b3a4a0461d865a2caf89f678efe3232ab923d82eb7f5cd",
+      "revision": 1
+    },
+    "url:https://apply.workable.com/bask-health-1/j/9c2964c7cd/apply": {
+      "eligible": false,
+      "fingerprint": "369854e1291dec3e0b3a2e21d402f060c943bf00e228e39c44cfbd05ec64d515",
       "revision": 1
     },
     "url:https://apply.workable.com/bask-health-1/j/9d7e69054e/apply": {
@@ -13229,23 +13239,31 @@
       "fingerprint": "b2a9341a9dcaed87a39d8d36fe2c5e7a84021ae237332625707537c3b945082c",
       "revision": 1
     },
+    "url:https://careers.nintendo.com?gh_jid=4421623009": {
+      "eligible": false,
+      "fingerprint": "5d6ec2e9bd69b3472281b2b2106dfba36aaf7dcdf9a586d1de1279c04d3dceb1",
+      "revision": 1
+    },
     "url:https://careers.nintendo.com?gh_jid=4421632009": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "nintendo",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "redmond, wa"
         ],
         "requirements": [],
         "terms": [
+          "summer 2026",
           "summer 2027"
         ],
         "title": "it software engineer intern"
       },
-      "fingerprint": "12a573a63781fa5a554d1e9ddeace556ec66902e1351ee9822cd047effab5ced",
-      "revision": 1
+      "fingerprint": "814bff367dbd9df44f1eb988aafc6e7a34eec8d16fdb8cd5f9fd1be2e82a619c",
+      "revision": 2
     },
     "url:https://careers.nintendo.com?gh_jid=4469718009": {
       "eligible": false,
@@ -13255,9 +13273,12 @@
     "url:https://careers.nintendo.com?gh_jid=4469762009": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "nintendo",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "redmond, wa"
         ],
@@ -13265,17 +13286,20 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, cpu profiler"
+        "title": "software engineer intern - cpu profiler"
       },
-      "fingerprint": "5c83e900b61895428bba68c6483a24ea75d0e354810ace93fc10550be64de656",
-      "revision": 1
+      "fingerprint": "faa6099c4647467b29590999b45d7623bacc09dbc1317cf0cd91fdf051cff122",
+      "revision": 2
     },
     "url:https://careers.nintendo.com?gh_jid=4469778009": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "nintendo",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "redmond, wa"
         ],
@@ -13283,17 +13307,20 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, platform security"
+        "title": "software engineer intern - platform security"
       },
-      "fingerprint": "eddcaf7a89d4bbb68a5d6f8df7abdffcc0028296348f70b9ce467e5371956ce8",
-      "revision": 1
+      "fingerprint": "939b7acca044590c6d0a4f957eb267a898d0264d3128ba2de9603d09689badb2",
+      "revision": 2
     },
     "url:https://careers.nintendo.com?gh_jid=4470048009": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "nintendo",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "redmond, wa"
         ],
@@ -13301,17 +13328,20 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, audio"
+        "title": "software engineer intern - audio"
       },
-      "fingerprint": "bab260859dbf0b4b2b294133c41499aaa8d9711f5eabe0236d48bc3cd6c23c8c",
-      "revision": 1
+      "fingerprint": "13d72757a194410c711def79282ea31003716d21691d76f7d2585d33064edb62",
+      "revision": 2
     },
     "url:https://careers.nintendo.com?gh_jid=4471972009": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "nintendo",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "redmond, wa"
         ],
@@ -13319,10 +13349,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, cpu debugger"
+        "title": "software engineer intern - cpu debugger - ntd"
       },
-      "fingerprint": "773ccbab8f95bfa74d3b2e8bf0ce5ccf54e8d21d207843bf5f2d7cf061db3fd1",
-      "revision": 1
+      "fingerprint": "d21feecbc4870f572a50c589bc32db43cbf9aef478dcd4e3b90da6acdeaef793",
+      "revision": 2
     },
     "url:https://careers.nintendo.com?gh_jid=4472002009": {
       "eligible": true,
@@ -13345,9 +13375,12 @@
     "url:https://careers.nintendo.com?gh_jid=4472147009": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "nintendo",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "redmond, wa"
         ],
@@ -13355,17 +13388,20 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, connectivity"
+        "title": "software engineer intern - connectivity"
       },
-      "fingerprint": "d6782081864d748b195950223871c33043e153a9368e9523ece0ebaedc785663",
-      "revision": 2
+      "fingerprint": "3229586570368b2643f0e3ff1f4579a407a9065a06d5c63bafe3008128ca0426",
+      "revision": 3
     },
     "url:https://careers.nintendo.com?gh_jid=4473550009": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "nintendo",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "redmond, wa"
         ],
@@ -13373,17 +13409,20 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, graphics"
+        "title": "software engineer intern - graphics"
       },
-      "fingerprint": "f7621e528a47cb250561d54ac8c2a83677b5df3bc9a4414ae7474be945de3193",
-      "revision": 1
+      "fingerprint": "e5f4b8bc5b729b3bcceba3bdb3d42dd38b0c7b7876ef8a8642388cb1b22dccb5",
+      "revision": 2
     },
     "url:https://careers.nintendo.com?gh_jid=4473568009": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "nintendo",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "redmond, wa"
         ],
@@ -13391,10 +13430,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, performance tools"
+        "title": "software engineer intern - performance tools"
       },
-      "fingerprint": "2a4bc9c8728298106ff57e74d72c9abe4f4406f61b535802100413e08b92d28c",
-      "revision": 2
+      "fingerprint": "e7de982869c64e4069b0a57174edc3ba32ff2517b0210f11ecd2314a8ab99f5b",
+      "revision": 3
     },
     "url:https://careers.noblis.org/jobs/28089?icims=1&lang=en-us": {
       "eligible": false,
@@ -23266,6 +23305,27 @@
       "fingerprint": "c3be7980018669f5682252f69c76c29508df67efb979fc213e17c98ad4ee0119",
       "revision": 0
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/us-ut-west-valley-city-338--1127--1128-w-2400-s--bldg-338/software-engineering-intern--summer-2027-_01886446-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "rtx",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "west valley city, ut"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "9c1c7140b1c375ec80b71703b68d72930698f37b1198d417f836a3816fb0c3db",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/ca-qc-longueuil-j01--1000-blvd-marie-victorin--j01-bldg/stage---hiver-2027---support-aux-programmes-des-gap---internship---winter-2027---apu-programs-support_01869035": {
       "eligible": false,
       "fingerprint": "c7fb36d7ff82939f11fddc304c480d2ec81ba1a7e49bd06b806acabf91695ad4",
@@ -25147,6 +25207,16 @@
     "url:https://go.vansh.nyc/1vw": {
       "eligible": false,
       "fingerprint": "80817dba52eaacc7caa81675384667f73cace54f30f9522bbb455addc5bcc104",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1w4": {
+      "eligible": false,
+      "fingerprint": "c48922e0321c1cdfc518c28af2e5c68a24d12182549ae567ff5bd888887247eb",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1wb": {
+      "eligible": false,
+      "fingerprint": "a37ae857eaedc057769608d9dc0cfdae3cc59ab7607f41cd350515cd0d196375",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1x": {
@@ -29304,6 +29374,11 @@
       "fingerprint": "3be46a1ce466fb25b7235c65c937a0ccb0b794b917bdb0b59b57b07710e6ccc2",
       "revision": 1
     },
+    "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/milpitas-california-united-states-of-america/hpe-labs---systems-architecture-lab-research-associate-intern_1218728": {
+      "eligible": false,
+      "fingerprint": "48e359cd3ea95e037781267d632fff643d72c1d444facfde9c00515540090456",
+      "revision": 1
+    },
     "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/milpitas-california-united-states-of-america/phd-research-intern_1213426": {
       "eligible": false,
       "fingerprint": "b01eb3a134c10064f00067e24358fccc8a969095c2f2a6cc1b89af516170ff01",
@@ -32897,6 +32972,16 @@
       "fingerprint": "b10a2e164e8e556d039f58629e2a2c2374e89ea636722b9fa5382997ab54111e",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/cariadinc/jobs/5462798008": {
+      "eligible": false,
+      "fingerprint": "7a735c2e55028e63bb308e6ad7358ac9d6afb354f1981f049e497ae82722b099",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/cariadinc/jobs/5462886008": {
+      "eligible": false,
+      "fingerprint": "521de72618d39648b92b1ecf5871cdcb6aede69a41a5e6f2c48350564f00eacf",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009": {
       "eligible": false,
       "fingerprint": "78d91265be580cda6b1adf16c2cfba053d3e4e26f732d36b1f5a28a7e565f429",
@@ -34153,9 +34238,20 @@
       "revision": 0
     },
     "url:https://job-boards.greenhouse.io/hpiq/jobs/6111955004": {
-      "eligible": false,
-      "fingerprint": "7c977a99f600910f224f45aa0e9dc5b9a7c1f1dd2ab73b4261281863441cc360",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "hp iq",
+        "degrees": [],
+        "locations": [
+          "san francisco, ca"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "software engineer intern - cloud services - summer 2027"
+      },
+      "fingerprint": "f98f931fe6a743b4a0cc58a1fc4bcadb9ccdf3c147202ca5d86db4e8f4a8a1e5",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/hpiq/jobs/6114781004": {
       "eligible": true,
@@ -34996,6 +35092,11 @@
       "eligible": false,
       "fingerprint": "00170c6c45fc28c6e30d73ffc7eb310a7573f577fb0adc919a383cf0badcc4ea",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/nasdaq/jobs/4453620009": {
+      "eligible": false,
+      "fingerprint": "8fbe114bb3a05a2339193616d66238893abb2d6d0afecb2f41ef0c4c3d0fe917",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009": {
       "eligible": true,
@@ -37358,6 +37459,16 @@
     "url:https://jobs.apple.com/en-us/details/200694316": {
       "eligible": false,
       "fingerprint": "ceca84b565882c654877d9375ae498ab80225db559520a161c8ce8572e3cc371",
+      "revision": 1
+    },
+    "url:https://jobs.apple.com/en-us/details/200694477": {
+      "eligible": false,
+      "fingerprint": "2e55c987419303a1dd329a61a803b9d28f97e3a019c18e3cea2ebd68fe513090",
+      "revision": 1
+    },
+    "url:https://jobs.apple.com/en-us/details/200694489": {
+      "eligible": false,
+      "fingerprint": "c64f9784c9d737ea1b13f79225acab86173b1a44faa0557d647ee941ba26cdd6",
       "revision": 1
     },
     "url:https://jobs.ascension.org/us/en/job/15636": {
@@ -53078,6 +53189,11 @@
     "url:https://lifeattiktok.com/search/7703899923206867205": {
       "eligible": false,
       "fingerprint": "092bd43771779b019276d5e510a468f188868aa23cf79bc7832be7f9a497cc9c",
+      "revision": 1
+    },
+    "url:https://lifeattiktok.com/search/7704696088079010053": {
+      "eligible": false,
+      "fingerprint": "f7c7bbc1a0de05d47bf6416c607b3a4a3734751d6088f197631fec6060dffffe",
       "revision": 1
     },
     "url:https://lifeattiktok.com/search/7704912455690504453": {
@@ -71922,7 +72038,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 284,
+  "scan_sequence": 285,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
