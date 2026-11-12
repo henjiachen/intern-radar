@@ -55054,26 +55054,9 @@
       "revision": 1
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---smai-td-ai-engineering-team_jr112991": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "micron technology",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "boise, id"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "ai engineer intern - smai td ai engineering team"
-      },
-      "fingerprint": "dc8a3f47f94577c2be5eb91bfde67c82200056f9795cff26e56e5802ec3c1bb8",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "0706fb22ae5058b4918bf828e8ba8fda46641b34c54a80a1e0e3f1f32391ba6c",
+      "revision": 2
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---ssd-architecture-modeling_jr113803": {
       "eligible": false,
@@ -72751,7 +72734,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 293,
+  "scan_sequence": 294,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
