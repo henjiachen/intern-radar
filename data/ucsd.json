@@ -7488,6 +7488,60 @@
       "fingerprint": "8e495568688ee35f2db5a3599ffb162ec6049e0a32c04427db1b39b6ae14119a",
       "revision": 1
     },
+    "url:https://boards.greenhouse.io/ecjobb/jobs/8230750": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cargurus",
+        "degrees": [],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data platform engineer intern"
+      },
+      "fingerprint": "2178d19c1a57a079a7fc9a465d7206e6501f3669f9ec1247e0765e3a557ba96d",
+      "revision": 1
+    },
+    "url:https://boards.greenhouse.io/ecjobb/jobs/8230777": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cargurus",
+        "degrees": [],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development engineer intern, full stack"
+      },
+      "fingerprint": "bf3179e98b42c2ea1519fbc52d1ff6f4b5b77162c160d8e3b2aaeffda45bd27c",
+      "revision": 1
+    },
+    "url:https://boards.greenhouse.io/ecjobb/jobs/8231504": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cargurus",
+        "degrees": [],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development engineer intern"
+      },
+      "fingerprint": "605a2702171adddea41f677b2e534951b747ec825dad8636d2a858e51548bc18",
+      "revision": 1
+    },
     "url:https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272": {
       "eligible": false,
       "fingerprint": "30341759b0414fbd02a0543e35c74b2d53a0dc28df716f52519969840646cd3c",
@@ -8126,6 +8180,61 @@
         "title": "software, controls & autonomy intern"
       },
       "fingerprint": "606824333ea3b85c7880d19e7e7e58b9b5dbdcdfe1924e5d1c4c9c7b559238cc",
+      "revision": 1
+    },
+    "url:https://boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221739004": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "us internships public careers site",
+        "degrees": [],
+        "locations": [
+          "aliso viejo, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "undergraduate software engineering intern"
+      },
+      "fingerprint": "d9e4d7f0f7b98c9bf50c2202a513d1d3370ce852fcea422bb69bce22805843c4",
+      "revision": 1
+    },
+    "url:https://boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221754004": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "us internships public careers site",
+        "degrees": [],
+        "locations": [
+          "san diego, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "undergraduate software engineering intern"
+      },
+      "fingerprint": "cc4b3bf52cb2522342940f4a993d87b11dc4228ce34c8fbe58467b5767ceec28",
+      "revision": 1
+    },
+    "url:https://boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221826004": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "us internships public careers site",
+        "degrees": [],
+        "locations": [
+          "los angeles, ca",
+          "san mateo, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "undergraduate frontend software engineering intern"
+      },
+      "fingerprint": "5f11e002cb1d196f5350752d530c83cd9d9ee0066b57567675a49c38bd468e1d",
       "revision": 1
     },
     "url:https://boeing.wd1.myworkdayjobs.com/intern/job/usa---everett-wa/boeing-summer-2027-internship-program--paid----data-analytics-intern_jr2026520976": {
@@ -9366,6 +9475,24 @@
         "title": "ai & distribution analytics intern"
       },
       "fingerprint": "015182952d9e36839266ab426bae083ccdf268186a45a15a9a17115a51528a10",
+      "revision": 1
+    },
+    "url:https://career8.successfactors.com/career?career_ns=job_listing&company=C0000164178P&career_job_req_id=20580": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "ingersoll rand",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineer intern"
+      },
+      "fingerprint": "a3feb111d6cfba6769ed7d3531195dd908a45c120b3340132b0ab6b9aa0d7446",
       "revision": 1
     },
     "url:https://career8.successfactors.com/career?career_ns=job_listing&company=MoodysProd&career_job_req_id=14580": {
@@ -10809,11 +10936,13 @@
           "alexandria, va"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "ui/ux software intern - summer 2027"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ui/ux software intern"
       },
-      "fingerprint": "f5dd4803ec47e69a50dd6e87f05bc6f7bc3620b87cb6d3130dbbbaf768da1998",
-      "revision": 1
+      "fingerprint": "61fb7b4afe8f56898a8c5ae930799a05dbd40f60ad743bd43f766801147b7500",
+      "revision": 2
     },
     "url:https://careers-springswindowfashions.icims.com/jobs/12874/job": {
       "eligible": true,
@@ -16091,8 +16220,8 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12182": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 3
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 4
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12183": {
       "eligible": false,
@@ -16101,8 +16230,8 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12184": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 5
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 6
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12185": {
       "eligible": false,
@@ -25402,6 +25531,16 @@
       "fingerprint": "a4462b1254ffa7412280a44344631ee84571010c348aedd976470ce6f54750be",
       "revision": 0
     },
+    "url:https://go.vansh.nyc/1x0": {
+      "eligible": false,
+      "fingerprint": "2e510230fc5772bfcea9b6217a97b88e1a943590a38c86ce917195407f9b0d39",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1xd": {
+      "eligible": false,
+      "fingerprint": "422c849a18937d59f516a7d8b52851607856a096e555aeda7be41d5d03bfb73a",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/2k": {
       "eligible": false,
       "fingerprint": "490ea40bbe41f8ff17f87877dd900b6e59e36e9dff437d5d0e4313dc8f93cbcd",
@@ -30688,6 +30827,42 @@
       "fingerprint": "25de2b5cb07a164c746d0454c54e3969e30a1231f757a5586a572ec47bc8269c",
       "revision": 2
     },
+    "url:https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/key-bank-tower/ai-ml-engineer-intern_r188835": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intermountain healthcare",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai/ml engineer intern"
+      },
+      "fingerprint": "782655597c2ecbd166adf442f82920756491608dfa45dc4cf7c277a491cb91e0",
+      "revision": 1
+    },
+    "url:https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/key-bank-tower/machine-learning-operations--mlops--intern_r188318": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "intermountain healthcare",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "machine learning operations (mlops) intern"
+      },
+      "fingerprint": "9d8d8c1eb8fa01d7b914ba4244262caf7ccdf072ade2cb54b422a38fa8ad3760",
+      "revision": 1
+    },
     "url:https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579": {
       "eligible": true,
       "evidence": {
@@ -33088,10 +33263,10 @@
           "n/a",
           "summer 2027"
         ],
-        "title": "software engineer intern - r&d program"
+        "title": "afrotech 2026 software engineering internship"
       },
-      "fingerprint": "bd5941830b2e425a7cd930134a4e8dd2c98ca167705fa1d74d5f91b7018a7477",
-      "revision": 1
+      "fingerprint": "e6dabb531f53af9c549dac088ed7e6c63e07e843ce69910df5cd238bcd2bf165",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003": {
       "eligible": true,
@@ -57413,25 +57588,9 @@
       "revision": 3
     },
     "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---md-columbia/summer-embedded-developer-intern_r188299": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "parsons",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "columbia, md"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "embedded developer intern"
-      },
-      "fingerprint": "6cc25c1e1d946f1a98401d92ca7d2af61fcb865c72083a50b28987218342dbbe",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "2cbc5ce7adbef4d4dc98b0a3fab5cebe65c5f8b1c3a459210ba9523ce5e5fa71",
+      "revision": 3
     },
     "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---remote-any-location/software-engineer-intern--fall-2026-_r188147": {
       "eligible": false,
@@ -59776,6 +59935,24 @@
       "fingerprint": "9243ae51a5d1bda91b03542c07692d600be40d0efc7e55c038893cc70160a9c1",
       "revision": 1
     },
+    "url:https://recruitingbypaycor.com/career/jobintroduction.action?clientId=8a7883d09e6b0b48019ea87932341fc1&id=8a78839ea0f4259801a11d4c815a34f2": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "koniag cyber solutions",
+        "degrees": [],
+        "locations": [
+          "minneapolis, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai operations intern"
+      },
+      "fingerprint": "dfa56edf8f757cbeb753861712db0c0c45387ea9d175b4febae0edfdfebc9225",
+      "revision": 1
+    },
     "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/raleigh/software-engineer-co-op_r-059039": {
       "eligible": false,
       "fingerprint": "f9bf20ba8be3967a98fb382be7d868aba09f22f4a4c6020bb0cdc07159c31da7",
@@ -62055,6 +62232,24 @@
       },
       "fingerprint": "49cbfc0afedd25c9ba8577331f35bcbac8c788a7a282e4b7553265c8a4fde940",
       "revision": 0
+    },
+    "url:https://studentcareers-jhuapl.icims.com/jobs/60008/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "johns hopkins applied physics laboratory",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai & data science intern, analytic capabilities"
+      },
+      "fingerprint": "b67a3f2429a0535eb719dddfa3812daaa4516bda7fe1164f284edc4ebee71622",
+      "revision": 1
     },
     "url:https://studentemployment-stthomas.icims.com/jobs/9527/job": {
       "eligible": false,
@@ -66867,7 +67062,6 @@
         "locations": [
           "greenwich, ct",
           "houston, tx",
-          "houston, tx +2",
           "miami, fl",
           "new york, ny",
           "nyc"
@@ -66879,8 +67073,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "bc5d682537f23c64458d6645323cb4ecc5f3809b8a3fa32af96716009a734869",
-      "revision": 1
+      "fingerprint": "2e45f850883fa31e448c9bf17a86e68ed8b9575ce10dafedc1f394b0ac51e6ae",
+      "revision": 2
     },
     "url:https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe": {
       "eligible": false,
@@ -66889,8 +67083,8 @@
     },
     "url:https://www.citadelsecurities.com/careers/details/software-engineer-intern-us": {
       "eligible": false,
-      "fingerprint": "97f91d99b450676887be1883574202a7d64243d5f3a6fdd49655ad2b0a94def0",
-      "revision": 0
+      "fingerprint": "b5a88c62a2e20c89b6c508c54db7efc77118fa0beceeb411d8bad5243caac0a3",
+      "revision": 1
     },
     "url:https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315": {
       "eligible": true,
@@ -70483,12 +70677,24 @@
     "https://go.vansh.nyc/1wE": 291,
     "https://go.vansh.nyc/1wF": 291,
     "https://go.vansh.nyc/1wH": 291,
+    "https://go.vansh.nyc/1wW": 293,
+    "https://go.vansh.nyc/1wZ": 293,
     "https://go.vansh.nyc/1wq": 288,
     "https://go.vansh.nyc/1wr": 288,
     "https://go.vansh.nyc/1wt": 290,
     "https://go.vansh.nyc/1wu": 290,
     "https://go.vansh.nyc/1wx": 290,
     "https://go.vansh.nyc/1wz": 290,
+    "https://go.vansh.nyc/1x1": 293,
+    "https://go.vansh.nyc/1x2": 293,
+    "https://go.vansh.nyc/1x3": 293,
+    "https://go.vansh.nyc/1x4": 293,
+    "https://go.vansh.nyc/1x7": 293,
+    "https://go.vansh.nyc/1xb": 293,
+    "https://go.vansh.nyc/1xh": 293,
+    "https://go.vansh.nyc/1xp": 293,
+    "https://go.vansh.nyc/1xt": 293,
+    "https://go.vansh.nyc/1xu": 293,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -71871,12 +72077,24 @@
     "https://go.vansh.nyc/1wE": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Summer-2027-Software-Engineer-Intern--Application-Software-_JR10491-1",
     "https://go.vansh.nyc/1wF": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881",
     "https://go.vansh.nyc/1wH": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527",
+    "https://go.vansh.nyc/1wW": "https://boards.greenhouse.io/ecjobb/jobs/8230777",
+    "https://go.vansh.nyc/1wZ": "https://boards.greenhouse.io/ecjobb/jobs/8231504",
     "https://go.vansh.nyc/1wq": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119821",
     "https://go.vansh.nyc/1wr": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899",
     "https://go.vansh.nyc/1wt": "https://argonne.wd1.myworkdayjobs.com/en-US/EDU_PUB/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702",
     "https://go.vansh.nyc/1wu": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006",
     "https://go.vansh.nyc/1wx": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870",
     "https://go.vansh.nyc/1wz": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136",
+    "https://go.vansh.nyc/1x1": "https://boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221754004",
+    "https://go.vansh.nyc/1x2": "https://boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221739004",
+    "https://go.vansh.nyc/1x3": "https://boards.greenhouse.io/ecjobb/jobs/8230750",
+    "https://go.vansh.nyc/1x4": "https://career8.successfactors.com/career?career_ns=job_listing&company=C0000164178P&career_job_req_id=20580",
+    "https://go.vansh.nyc/1x7": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d09e6b0b48019ea87932341fc1&id=8a78839ea0f4259801a11d4c815a34f2",
+    "https://go.vansh.nyc/1xb": "https://boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221826004",
+    "https://go.vansh.nyc/1xh": "https://studentcareers-jhuapl.icims.com/jobs/60008/job?in_iframe=1",
+    "https://go.vansh.nyc/1xp": "https://careers-spa.icims.com/jobs/23699/job?in_iframe=1",
+    "https://go.vansh.nyc/1xt": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835",
+    "https://go.vansh.nyc/1xu": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -72533,7 +72751,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 292,
+  "scan_sequence": 293,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
