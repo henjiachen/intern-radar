@@ -547,6 +547,11 @@
       "fingerprint": "fb93b96de5852bd1fb28c254c184efe1fd5ee60d316e6fa18d1261c19aac4e9e",
       "revision": 0
     },
+    "url:https://aero.wd5.myworkdayjobs.com/external/job/colorado-springs-co/xmlname-2027-enterprise-performance-modeling-and-simulation-graduate-intern_r016942": {
+      "eligible": false,
+      "fingerprint": "1704f7a8905dcedc98cf6b3e1879f9d631660a935b94013b5de2b7e0d60fcfdd",
+      "revision": 1
+    },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-embedded-software-engineering-grad-intern_r016950": {
       "eligible": false,
       "fingerprint": "456449554a96e35414d63d4d132af86bdf939b71eb1820070e5deb5cb2a79e24",
@@ -2935,6 +2940,27 @@
       "eligible": false,
       "fingerprint": "fad767db7164ced3b08ed674a62752931ec6ace465b9ad1e26dd42801ab47f50",
       "revision": 0
+    },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557027390": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "microsoft",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data scientist intern - coreai"
+      },
+      "fingerprint": "240949d536c09a49d2724b91284e3a1a37cc707a20e88bc524c70fe1735f04f8",
+      "revision": 1
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393557037649": {
       "eligible": false,
@@ -25227,6 +25253,21 @@
     "url:https://go.vansh.nyc/1wi": {
       "eligible": false,
       "fingerprint": "6730782c3343f5063cc7f84eba542e63138e363fb21167a1f01d77dd4b1c05b2",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1wk": {
+      "eligible": false,
+      "fingerprint": "07a9fbeaec84cb78b5e8c95bf7bfa40e994fcf1f8926ab0d2b1edb033af6f945",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1wl": {
+      "eligible": false,
+      "fingerprint": "4c280b7316ec6eb3051d950790ee873eb65f53245edd8e94ed8ea62174cb57a3",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1wm": {
+      "eligible": false,
+      "fingerprint": "f1562de28aff1f3bd6c3a21eda614b2881cfd3b607735e3de9de8218b95b2c58",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1x": {
@@ -59731,6 +59772,11 @@
       "fingerprint": "aad8441ec4ebea6f14bf03c9e947a60ec55b55fbdb123bba55fbc7e6c7317583",
       "revision": 0
     },
+    "url:https://roche.wd3.myworkdayjobs.com/roche-ext/job/welwyn/ai---digitalisation-intern-graduate-psd_202610-127162": {
+      "eligible": false,
+      "fingerprint": "591074a0f9db814f73ac77b3d3ca5a1786dcf78710f0e501579f373add5142a5",
+      "revision": 1
+    },
     "url:https://roche.wd3.myworkdayjobs.com/roche-ext/job/welwyn/data-science-industrial-placement---multiple-roles-within-biostats--data-management--real-world-data-and-more_202609-122536": {
       "eligible": false,
       "fingerprint": "d0c7bbf1a0454bd3ff93480e4df5dfcc12e32c6578285f54e9203d9ee3f98969",
@@ -62840,10 +62886,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - hr data products"
+        "title": "summer 2027 software engineer hr data products internship"
       },
-      "fingerprint": "6a2204f6f0b0f978a4df9c233fd41f0e8de4d0b9d95d1ae9b25086310b9df05f",
-      "revision": 2
+      "fingerprint": "21e8f66add89a629ad3292a48b94398be7057a2a01ca9a67bdea874831298c03",
+      "revision": 3
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineering-internship_req380757": {
       "eligible": true,
@@ -62879,10 +62925,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "summer 2027 software engineering internship"
       },
-      "fingerprint": "61841bfb94fe94f64bfaacc325a7734f6c7a0567451bbb3e5545f8df86a3eb48",
-      "revision": 1
+      "fingerprint": "2171b3f093921a87dacf1c9863a4204fadc7ff8696e5ba79d3bf1d78055939eb",
+      "revision": 2
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineering-internship_req380917": {
       "eligible": true,
@@ -66809,9 +66855,26 @@
       "revision": 0
     },
     "url:https://www.hudsonrivertrading.com/careers/job?gh_jid=8052083": {
-      "eligible": false,
-      "fingerprint": "a0100aadd5a2b8c1e2ced0e68df338f986aee4f38ee9369900fe404e0ff76231",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "hudson river trading",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "austin, tx",
+          "chicago, il",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - c++ or python"
+      },
+      "fingerprint": "5a0bf55a4e4dcc4d9163297c54bcca328f436be02950980e0e6089213b21d108",
+      "revision": 1
     },
     "url:https://www.hudsonrivertrading.com/careers/job?gh_jid=8257369": {
       "eligible": false,
@@ -67234,6 +67297,11 @@
     "url:https://www.metacareers.com/jobs/1358944629494375": {
       "eligible": false,
       "fingerprint": "8b39ced4097225323b0fb7efe6744e7c7d548e89b77b8877c7c9727d4b467dc8",
+      "revision": 1
+    },
+    "url:https://www.metacareers.com/jobs/1382697917119311": {
+      "eligible": false,
+      "fingerprint": "8a1b1992c1398df54610f0fbc8ecc81c3691ff6def40deb1c8c85761e00a1ef5",
       "revision": 1
     },
     "url:https://www.metacareers.com/jobs/1406087328180524": {
@@ -72053,7 +72121,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 286,
+  "scan_sequence": 287,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

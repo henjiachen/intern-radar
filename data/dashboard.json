@@ -399,6 +399,21 @@
       "company": "Microsoft",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "fc57dba3a8a1b6338cbbc9f07c0194216d9625aba238cbcc63f00790e9b201bf",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted_at": "2026-11-12",
+      "priority": 9,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Scientist Intern - CoreAI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390"
+    },
+    {
+      "company": "Microsoft",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "ee8adbf0ba60f5b8955c7aa7acb5db43f94da7e1105aae940257498447485826",
       "locations": [
         "Redmond, WA"
@@ -13667,6 +13682,23 @@
       "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src="
     },
     {
+      "company": "Hudson River Trading",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2d9ac80ba2fd6aecf3002621ed3847fee6a304352e1e612eb42c458775b9aa76",
+      "locations": [
+        "Austin, TX",
+        "Chicago, IL",
+        "NYC"
+      ],
+      "posted_at": "2026-07-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - C++ or Python",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
+    },
+    {
       "company": "Humble Robotics",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -25283,36 +25315,6 @@
       "company": "T-Mobile",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "4e0bcf4869ff68627a5d1254ec875355b7298ea8569d8b178c5441228f838750",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI Engineering Intern",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198"
-    },
-    {
-      "company": "T-Mobile",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "72d7e9b1662ad9ac53085d13a71365c73f34527f2d1b9104dd3fa917da1687c1",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI Engineering Intern",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381194"
-    },
-    {
-      "company": "T-Mobile",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "bfa4cbae0dc868846b3479ed86e3e94fa05eff71922eeb5471d9c1113239beec",
       "locations": [
         "Bellevue, WA"
@@ -25389,21 +25391,6 @@
       "company": "T-Mobile",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "2d1d502985991784cfb01e80a324c48c46d7723ccfab6bcf24921603f5c7c28e",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768"
-    },
-    {
-      "company": "T-Mobile",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "8fc02b041d475b46e8439d9c154069ebf66577e2e876160abef0171c975d8ebb",
       "locations": [
         "Bellevue, WA"
@@ -25434,21 +25421,6 @@
       "company": "T-Mobile",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "07a33b45c0b735fdd1da10cdb94ec72277be768b02616c81a8a622b3e48fd2f4",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - HR Data Products",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916"
-    },
-    {
-      "company": "T-Mobile",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "d36630be7de1b4f38d2514d88a58ddda06e158f3cf98b2f124d95b4aa3144fac",
       "locations": [
         "Philadelphia, PA"
@@ -25474,6 +25446,36 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"
+    },
+    {
+      "company": "T-Mobile",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "07a33b45c0b735fdd1da10cdb94ec72277be768b02616c81a8a622b3e48fd2f4",
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "posted_at": "2026-11-07",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Summer 2027 Software Engineer HR Data Products Internship",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916"
+    },
+    {
+      "company": "T-Mobile",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2d1d502985991784cfb01e80a324c48c46d7723ccfab6bcf24921603f5c7c28e",
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "posted_at": "2026-11-07",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Summer 2027 Software Engineering Internship",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768"
     },
     {
       "company": "Talos",
@@ -30462,7 +30464,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-12T10:19:17.861134+00:00",
+  "last_checked": "2026-11-12T12:11:46.549128+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
