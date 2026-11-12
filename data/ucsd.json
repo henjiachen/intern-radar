@@ -35162,17 +35162,16 @@
         "company": "k2 space",
         "degrees": [],
         "locations": [
-          "la",
           "los angeles, ca"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "simulation software engineering intern"
+        "title": "simulation software engineering intern - summer 2027"
       },
-      "fingerprint": "c0b6a6a97c09993faaf1d8591ce0b85113ff97946e372b4a4e606fa195417bc0",
-      "revision": 0
+      "fingerprint": "b3f154e995daa240b7b109ab4ad814e36893c47c758f3a052767550aa4f865af",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/kasa/jobs/8197274003": {
       "eligible": false,
@@ -45997,11 +45996,6 @@
     "url:https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e": {
       "eligible": false,
       "fingerprint": "10ef5ac002e08f213d193a02639c7414cae0f8598dcb6e931bd6dc787b6dbd8d",
-      "revision": 0
-    },
-    "url:https://jobs.lever.co/palantir/909875b4-1940-41bd-b08d-a269c7235100": {
-      "eligible": false,
-      "fingerprint": "cd35c2e40a0230107c454a5d44c68c4692352de1c68e162ec7683cfda45c17b4",
       "revision": 0
     },
     "url:https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d": {
@@ -72734,7 +72728,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 294,
+  "scan_sequence": 295,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
