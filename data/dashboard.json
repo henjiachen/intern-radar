@@ -8079,21 +8079,6 @@
       "company": "Costco",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "b0fc80ba9853ce54a27af7db7054843b91e30cf17d5061f914fefebac4148208",
-      "locations": [
-        "Issaquah, WA"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "CDS Intern - Software Engineer - IT Retail Media",
-      "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11013"
-    },
-    {
-      "company": "Costco",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "14736b108e66307fc69cfc4068422cf9a59b4a700bbb807972005f97de662e3e",
       "locations": [
         "Issaquah, WA"
@@ -8134,6 +8119,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern - International Depot",
       "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10993"
+    },
+    {
+      "company": "Costco",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "b0fc80ba9853ce54a27af7db7054843b91e30cf17d5061f914fefebac4148208",
+      "locations": [
+        "Issaquah, WA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, IT Retail Media",
+      "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11013"
     },
     {
       "company": "Courier Health",
@@ -8203,12 +8203,12 @@
       "locations": [
         "Mountain View, CA"
       ],
-      "posted_at": "2026-03-18",
+      "posted_at": "2026-10-31",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "vanshb03",
       "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f/application"
+      "url": "https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f"
     },
     {
       "company": "Creative Artists Agency",
@@ -19648,6 +19648,36 @@
       "company": "Northrop Grumman",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "aae77a2c3067b1402176615aff3005e76090e8e2f4f897d6b7a01f933199e0f9",
+      "locations": [
+        "Colorado Springs, CO"
+      ],
+      "posted_at": "2026-11-03",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "2027 Software Engineering Intern - Colorado Springs",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259"
+    },
+    {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "edb5d7a1c2467d5b8ad1e82dd28a7393ff7d610821c66b2b892c2a0ea04333d5",
+      "locations": [
+        "Colorado Springs, CO"
+      ],
+      "posted_at": "2026-10-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "2027 Software Engineering Intern - Colorado Springs",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803"
+    },
+    {
+      "company": "Northrop Grumman",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "fd1965b832db95fae75dbbb7d1bc201ec722d22e0767d07fba678d452cfdcf8b",
       "locations": [
         "Apopka, FL"
@@ -19658,36 +19688,6 @@
       "source": "speedyapply",
       "title": "2027 Software Testing Engineering Intern - Apopka FL",
       "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1"
-    },
-    {
-      "company": "Northrop Grumman",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "aae77a2c3067b1402176615aff3005e76090e8e2f4f897d6b7a01f933199e0f9",
-      "locations": [
-        "Colorado Springs, CO"
-      ],
-      "posted_at": "2026-10-16",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259"
-    },
-    {
-      "company": "Northrop Grumman",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "edb5d7a1c2467d5b8ad1e82dd28a7393ff7d610821c66b2b892c2a0ea04333d5",
-      "locations": [
-        "Colorado Springs, CO"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803"
     },
     {
       "company": "Northwaysports",
@@ -20175,21 +20175,6 @@
       "company": "Paccar",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "e2ea36ee5bc2ee107da386da7a60b2fe0dd3e3f3f5b5ce0e330cfea4a60555b3",
-      "locations": [
-        "Kirkland, WA"
-      ],
-      "posted_at": "2026-11-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Greenhouse Gas Data Analyst Intern",
-      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/?ats=successfactors"
-    },
-    {
-      "company": "Paccar",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "9b7a3eacdfa6d66b2736fdd29c1e259321b44631f2678a44512f00d1b978fc66",
       "locations": [
         "Denton, TX"
@@ -20517,21 +20502,6 @@
       "source": "simplify",
       "title": "Panasonic Transformation Group Intern",
       "url": "https://careers.na.panasonic.com/jobs/51652?icims=1"
-    },
-    {
-      "company": "Panasonic Holdings",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "ebed208f29ca1a6693bbdf9cf514d14f0cccdf994fdd19c1d7efb73d749201a5",
-      "locations": [
-        "Sparks, NV"
-      ],
-      "posted_at": "2026-10-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Panasonic Transformation Group Intern",
-      "url": "https://careers.na.panasonic.com/jobs/51629?icims=1"
     },
     {
       "company": "Panera Bread",
@@ -23053,21 +23023,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055"
-    },
-    {
-      "company": "RTX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "1fdfb5a60f4c4a3b30dd72867309f46ea70e2a067c780187f608e879e79f00ed",
-      "locations": [
-        "West Valley City, UT"
-      ],
-      "posted_at": "2026-11-11",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1"
     },
     {
       "company": "RTX",
@@ -27038,21 +26993,6 @@
       "company": "TikTok",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "acc1c3d80f1bbfcd9165ebab358720f636b92416c372c3febc158a36a9152142",
-      "locations": [
-        "Austin, TX"
-      ],
-      "posted_at": "2026-09-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Client Solutions Intern - Global Business Solutions",
-      "url": "https://lifeattiktok.com/search/7684623688945961221"
-    },
-    {
-      "company": "TikTok",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "c31d015041a1cf47ceba6c163838eaafa0cf2cd66902c14f1cc96907d5564934",
       "locations": [
         "Miami, FL"
@@ -30841,7 +30781,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-13T09:14:58.189592+00:00",
+  "last_checked": "2026-11-13T10:17:45.378044+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

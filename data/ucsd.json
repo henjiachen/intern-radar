@@ -27970,6 +27970,11 @@
       "fingerprint": "9c1f3cd4cc94fea5ba18b6a7a2ad5576904cdc8a333ef74660776afe319136e7",
       "revision": 0
     },
+    "url:https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040139": {
+      "eligible": false,
+      "fingerprint": "8ece8db947f3f27934f9fb0d3e9d54ce651549e2ad3a8fbe5e9062f7468f4d47",
+      "revision": 1
+    },
     "url:https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040141": {
       "eligible": false,
       "fingerprint": "a5801b42ea4d1de1c5545f9162b5e9c841214671b1b89c2f394161f494df6272",
@@ -39520,13 +39525,12 @@
         ],
         "requirements": [],
         "terms": [
-          "summer 2026",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "93f5b971cd413b274bfdcbce6b753ef8f6685aec01b40027bd2b87ef24e7addd",
-      "revision": 1
+      "fingerprint": "30b59a55f27c4785b2b55fcef473550601937c1facc7afa7d7264ff67007e0b6",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e": {
       "eligible": true,
@@ -40678,6 +40682,11 @@
     "url:https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d": {
       "eligible": false,
       "fingerprint": "390f46afb690363a1fba0bc3e502eec7a5ea3a06d9beaffbd41ffc39b173be95",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc": {
+      "eligible": false,
+      "fingerprint": "29d62cc6e88c392d8bceddb4f6daec860ce58a38b055b1354ee19339b36a6d96",
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca": {
@@ -57074,10 +57083,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "2027 software engineering intern - colorado springs"
       },
-      "fingerprint": "d38483af710781c9d8b59466e8790b98a0a3cc456854117c6d7956a7c3efb109",
-      "revision": 1
+      "fingerprint": "d55212a8d5d99235680e8cfc1f80487d9d54de80c3dcb6dd2a6d2cb18d6a8f99",
+      "revision": 2
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-colorado-colorado-springs/xmlname-2027-software-engineering-intern---colorado-springs_r10257803": {
       "eligible": true,
@@ -57094,10 +57103,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "2027 software engineering intern - colorado springs"
       },
-      "fingerprint": "706ae82324943497a07c78e5166aa6a513e93f23218e3f892774da692a981f9a",
-      "revision": 2
+      "fingerprint": "716baae0ac5056748a263563a0a6a4cd03dd8af7b41bc094bbdf692a5552e256",
+      "revision": 3
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-florida-apopka/xmlname-2027-software-testing-engineering-intern---apopka-fl_r10259820-1": {
       "eligible": true,
@@ -73876,7 +73885,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 304,
+  "scan_sequence": 305,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
