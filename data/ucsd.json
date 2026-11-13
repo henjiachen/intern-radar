@@ -22608,18 +22608,16 @@
           "master's"
         ],
         "locations": [
-          "sunnyvale, ca",
-          "sunnyvale, ca +1",
-          "warren, mi"
+          "sunnyvale, ca +1"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - av/ai platform"
+        "title": "2027 summer intern - software engineer - av/ai platform"
       },
-      "fingerprint": "27c919e781e7af55dd1978e4e22017befa320794a4c6a133979dc0f55eb25722",
-      "revision": 7
+      "fingerprint": "1aca05aee3642b67217f8ad35e798ef089dd9fe9599d1110a4080a3d473c0437",
+      "revision": 8
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/milford-michigan-united-states-of-america/xmlname-2027-summer-intern--systems-engineer--asd_jr-202621989": {
       "eligible": true,
@@ -30236,6 +30234,161 @@
       "fingerprint": "0f1361b279f7689d92998b27a5714303db761319b9673eac5f816b2bee4a9b70",
       "revision": 4
     },
+    "url:https://huaweicanada.recruitee.com/o/co-op-engineer-ai-software-engineering": {
+      "eligible": false,
+      "fingerprint": "6d6d1ba9f6380d644b43b16b68fecea294ce3bc094db9a2f3601297567d563b9",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-engineer-compiler-7": {
+      "eligible": false,
+      "fingerprint": "798374ce4056f3e28a6327173c3d01b86737d01294c9c5554422ec5c59656ad1",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-engineer-distributed-agent-system-1": {
+      "eligible": false,
+      "fingerprint": "c4f379cd66bf7afd9714286f3e20d492e62e50966e9365bf1afb1afa747470da",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system": {
+      "eligible": false,
+      "fingerprint": "deb418fad12524589730511091b9da9ae86f307df766d6ef83662292ffcbc284",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-engineer-mobile-ai": {
+      "eligible": false,
+      "fingerprint": "019c694e2b83b6a377f67b4047cbed416bd0cfefa6082b84242b29226ad8636f",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform": {
+      "eligible": false,
+      "fingerprint": "26d0cd18f727c60bce676b20996cf8eb029d2aee1ab13ba06eb5a394d4a0eaf9",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-researcher-agentic-ai": {
+      "eligible": false,
+      "fingerprint": "22159541204bf65711f8240451c90ba325cd379908b49b4d4c48f4208821dedf",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1": {
+      "eligible": false,
+      "fingerprint": "5150c1215b6ce057b907751e03e52ac2a6eee231efd1c605d8bc2d1bdb0a5182",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-researcher-llm-post-training-agentic-coding": {
+      "eligible": false,
+      "fingerprint": "376f2ce0c86abdc52b21207b92734d25d7c2a85d283a73c903eb16987d9f22cb",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision": {
+      "eligible": false,
+      "fingerprint": "9bebba6fcd0bb3d99c88b5aea4ea648d580e5e1d62e802505b7f3400b143bfea",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision-1": {
+      "eligible": false,
+      "fingerprint": "dc241a433cf5e01d160c77f2146a13cdcbcb297e08d8470d72093ae6012a9eff",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-researcher-machine-learning-speech-audio-ai": {
+      "eligible": false,
+      "fingerprint": "74e81d4189525af45c732882b882d2bdb006c461df5eccde83db03f038daf31d",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-researcher-physical-ai": {
+      "eligible": false,
+      "fingerprint": "a53de3ccf654e20548d1485283a7e807ff8e4963d60d5dd2e440b8dd26f57953",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/co-op-researcher-video-generation-3d-computer-vision": {
+      "eligible": false,
+      "fingerprint": "44a0b0f1dcb5eb60cf7bcfaddcfc0a3bd1bfc8388cd3a08c2557129bb01411d3",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-engineer-ai": {
+      "eligible": false,
+      "fingerprint": "d30563c799d0d6221c9c62c5c0666c22397945b2cdb59ef2a208567833040660",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-engineer-game-engine-system": {
+      "eligible": false,
+      "fingerprint": "3495618fa4f15c8eca25672414e5d5358516526f8428d5c7f49285069c45e3dc",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-engineer-rl-post-training-for-llms": {
+      "eligible": false,
+      "fingerprint": "f464f3f6b53c9b0f476140aebf5c4331764856330fa919e1e14e680705c1cfa2",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-5": {
+      "eligible": false,
+      "fingerprint": "3bc708958cf17ffca559815fb5713205ab419d0db10abdb9d6fc55d2fe3c0c36",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-agentic-ai-1": {
+      "eligible": false,
+      "fingerprint": "4b0eb40a2d9a8ed757a7c386601b05b8ade64994b4b8aeef60f50489ae6f878b",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1": {
+      "eligible": false,
+      "fingerprint": "4e24959017169386c52b227426690484dd3364b6e8efd8ccfec97ed69202294a",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-ai-foundation-model-training": {
+      "eligible": false,
+      "fingerprint": "6f9582134740ac6eae2c08ac6856904b7238ce1da7010d0fc3a36da476c73be9",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-aiml-technology-insight-and-planning": {
+      "eligible": false,
+      "fingerprint": "3ce2558a93210034f220fbda106634369ed568f2982d0fb6e5088d4d4b20c001",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-applied-3d-aigc": {
+      "eligible": false,
+      "fingerprint": "7695aeac58f3387fc061f80c52783e21a4608d455d328371112f13c475d3366a",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-audio-speech-acoustic-ai": {
+      "eligible": false,
+      "fingerprint": "43dc89dae060c861e13b5d30b778f3552dbdeadd942788477aef62d72f7fcd80",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3": {
+      "eligible": false,
+      "fingerprint": "7fd5223028149579fb7ce0c7aeaefcffeca452d39399dae6d7c7c87a921ac8e2",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-1": {
+      "eligible": false,
+      "fingerprint": "56126c5a9d4876987421f5dd6332b43304e333d013e9f2933a15d967af5823b7",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3": {
+      "eligible": false,
+      "fingerprint": "45e7218b273ceb0564d9817b233a61a5311a6ce6670e2839fcd59042646e5be5",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-llms-agentic-ai-and-rl": {
+      "eligible": false,
+      "fingerprint": "ce5bc25a22064594aa435e798e3b5aaed8484ab023bb016d6e125e34b39235c0",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-ai-interaction": {
+      "eligible": false,
+      "fingerprint": "7a9c18d3acb1c356b6438b5aec32a4234975f5f4f1ece10a667938c593e2c4b0",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-learning": {
+      "eligible": false,
+      "fingerprint": "638f991be50bfdbeb11c566fa233a6a7a4c8721218dca27440c1d183a3cf8ee3",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-physical-ai": {
+      "eligible": false,
+      "fingerprint": "73953937b64a6893d6c571f70fd7f253efbbdee23881d4781ae45f2b71edcc6f",
+      "revision": 1
+    },
     "url:https://hubcareers-docusign.icims.com/jobs/30578/job": {
       "eligible": true,
       "evidence": {
@@ -32931,8 +33084,7 @@
         "company": "affirm",
         "degrees": [],
         "locations": [
-          "san francisco, ca",
-          "sf"
+          "san francisco, ca"
         ],
         "requirements": [
           "[only keep this if we do not sponsor the role] please note that visa sponsorship is not available for this position.",
@@ -32941,10 +33093,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - machine learning"
+        "title": "software engineer - machine learning intern - summer 2027"
       },
-      "fingerprint": "980991037a5082b8ebdeba5d3976a4447b4639bdf0900e694c18c44f4fae07b2",
-      "revision": 2
+      "fingerprint": "dfa610a2c3d7007553b0293996f57c3c88f51497fe330fe30a461fb061a5cae7",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/affirm/jobs/8011375003": {
       "eligible": true,
@@ -54331,9 +54483,11 @@
     "url:https://lifeattiktok.com/search/7698822572474583301": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "tiktok",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "san jose, ca"
         ],
@@ -54341,10 +54495,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "machine learning engineer intern, data-global e-commerce-search"
+        "title": "machine learning engineer intern"
       },
-      "fingerprint": "f0c5bace0240f84cf0df35596b66b339f3ef31c37bb875eaa369b48810a69919",
-      "revision": 1
+      "fingerprint": "ea90233e4dd3fb256d62e6e6c5241de78b8c16bd705d6e011fec9de410440e77",
+      "revision": 2
     },
     "url:https://lifeattiktok.com/search/7699387964317600053": {
       "eligible": false,
@@ -54416,6 +54570,11 @@
       },
       "fingerprint": "e64b503f2758e84563d4ea40f0122d8261f5c24122ed780d6fe313b0571965cc",
       "revision": 2
+    },
+    "url:https://lifeattiktok.com/search/7707222170826623285": {
+      "eligible": false,
+      "fingerprint": "3ef091f63ec1886738eda7c0b8fbe53414d0071b1591ee99f0d5f75d290cbe81",
+      "revision": 1
     },
     "url:https://lifefitness.wd1.myworkdayjobs.com/searchlfn/job/rosemont-il/it-intern_jr-025323": {
       "eligible": true,
@@ -67018,6 +67177,11 @@
       "fingerprint": "d3f186ef4d73922d100b776f919c6a4d142f8727cd91296b4f4c3729b761213b",
       "revision": 0
     },
+    "url:https://wd1.myworkdaysite.com/recruiting/abinbev/can/job/toronto-ontario/technology-internship_30102805": {
+      "eligible": false,
+      "fingerprint": "31ceffb0ee58d8c2265e0b38f3e4d8e17f630a4644d0821145a85f0596c3357e",
+      "revision": 1
+    },
     "url:https://wd1.myworkdaysite.com/recruiting/octa/octa_careers/job/orange-ca/intern--bus-operations---scheduling_jr309-1": {
       "eligible": false,
       "fingerprint": "43a61d70c17ca72a81773d1109d9c51be792e83c9515074320bc02cf07910e90",
@@ -73574,7 +73738,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 299,
+  "scan_sequence": 300,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
