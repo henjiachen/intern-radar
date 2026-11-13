@@ -3789,6 +3789,24 @@
       "fingerprint": "a2cfcfb2333ad4a595803c7de139fd3396895c5afccfe4db58eeebb55df5dad0",
       "revision": 1
     },
+    "url:https://apply.workable.com/j/71aebbcade": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "bask",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "machine learning engineering intern"
+      },
+      "fingerprint": "3247a85b2b884e4374943f7b9205ddeab57287ade8e4ae21da015942712b06e8",
+      "revision": 1
+    },
     "url:https://apply.workable.com/j/739753c003": {
       "eligible": true,
       "evidence": {
@@ -3859,6 +3877,24 @@
         "title": "software engineering intern"
       },
       "fingerprint": "31be4b4241ccae28382a752d5a550e836c2f26d582616e558879c62f0ba8a410",
+      "revision": 1
+    },
+    "url:https://apply.workable.com/j/f0e122e877": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "bask",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineering intern"
+      },
+      "fingerprint": "809c77c3ce99309c718092b3fc50450e47342dd7fafa0614e027106c7e5a5472",
       "revision": 1
     },
     "url:https://apply.workable.com/javelin-global-commodities/j/caf64e75bf/apply": {
@@ -71658,6 +71694,8 @@
     "https://go.vansh.nyc/1yj": 298,
     "https://go.vansh.nyc/1yk": 298,
     "https://go.vansh.nyc/1ym": 298,
+    "https://go.vansh.nyc/1ys": 301,
+    "https://go.vansh.nyc/1yt": 301,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -73082,6 +73120,8 @@
     "https://go.vansh.nyc/1yj": "https://careers.cintas.com/job/Mason-IT-Intern-OT-Software-Engineer-OH-45040/1450367200/?ats=successfactors",
     "https://go.vansh.nyc/1yk": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543",
     "https://go.vansh.nyc/1ym": "https://lifeattiktok.com/search/7698822572474583301",
+    "https://go.vansh.nyc/1ys": "https://apply.workable.com/j/71AEBBCADE",
+    "https://go.vansh.nyc/1yt": "https://apply.workable.com/j/F0E122E877",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -73738,7 +73778,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 300,
+  "scan_sequence": 301,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
