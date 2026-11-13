@@ -16152,19 +16152,16 @@
         "company": "cisco",
         "degrees": [],
         "locations": [
-          "austin, tx",
-          "research triangle park, nc",
-          "san jose, ca",
           "san jose, ca +2"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, full-stack / backend i"
+        "title": "software engineer full-stack / backend i - intern - united states"
       },
-      "fingerprint": "b2f62542f674333584025b70526c0e90bd6e146bd1f1554288a03feaa1addd8f",
-      "revision": 2
+      "fingerprint": "a3673f15e4e8c473c7b80762c0424d8bc92fd9582a663979e7af9f601f31e539",
+      "revision": 3
     },
     "url:https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/usa-research-triangle-park/software-consulting-engineer-i--intern--united-states_2025180": {
       "eligible": true,
@@ -36872,6 +36869,11 @@
       "fingerprint": "bfe108c2df77b6a2b6efc07206533304d69bd4cce366e990b01271ba23328877",
       "revision": 1
     },
+    "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003": {
+      "eligible": false,
+      "fingerprint": "27af4944d86383a4a39dc84d2dca944758ce720d35719a618f3bacca6bfab890",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/scaleai/jobs/4730834005": {
       "eligible": false,
       "fingerprint": "c4db30d06e857d12b34285a0387f7b839ff9ed470c0a0b4f6c3bf0dc9161f23a",
@@ -39066,9 +39068,12 @@
     "url:https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "aurora innovation",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "mountain view, ca"
         ],
@@ -39076,10 +39081,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern, vehicle platforms"
+        "title": "software engineer intern - vehicle platforms"
       },
-      "fingerprint": "8ede43fa32520b44d5e3fee8939bf33645cf5c0b198d0f4859a06d8aaa8140bc",
-      "revision": 1
+      "fingerprint": "bf041b6331ba2e2dc480975fc81f284b3e8a56ad47b10b3722621c8820f34f10",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd": {
       "eligible": true,
@@ -54603,6 +54608,11 @@
       "fingerprint": "092bd43771779b019276d5e510a468f188868aa23cf79bc7832be7f9a497cc9c",
       "revision": 1
     },
+    "url:https://lifeattiktok.com/search/7703925583541979445": {
+      "eligible": false,
+      "fingerprint": "69d999b7cfcad72421755f7c99cc0c389c324dc8c09f25c04ea658972dad480a",
+      "revision": 1
+    },
     "url:https://lifeattiktok.com/search/7704696088079010053": {
       "eligible": false,
       "fingerprint": "f7c7bbc1a0de05d47bf6416c607b3a4a3734751d6088f197631fec6060dffffe",
@@ -62353,6 +62363,11 @@
       "fingerprint": "16cb63adece836902de286340922b709339a6766b6d3e24afee3998393301d8c",
       "revision": 0
     },
+    "url:https://sjindustries.wd1.myworkdayjobs.com/sji/job/folsom-nj/engineering-design-intern_r4369": {
+      "eligible": false,
+      "fingerprint": "b5319ebe3626754e3e2ac8c8786c51b169315a6c8e70d72fe6a9c03644ee9709",
+      "revision": 1
+    },
     "url:https://sjobs.brassring.com/tgnewui/search/home/homewithpreload?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1946191": {
       "eligible": false,
       "fingerprint": "51a83de1ee18ab6e87ce09c6177bd92de516fade2314cac0bce541cccb270f9a",
@@ -65096,6 +65111,26 @@
       },
       "fingerprint": "a8cdf6ae6ead9ac0e49ce3d0b37b19eca27e40c670085ea98f1b0d005c2c0af6",
       "revision": 0
+    },
+    "url:https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/bloomington-mn/cx-and-customer-lifetime-value---operations-analyst---the-toro-company_jr17819": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "the toro company",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "bloomington, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "cx and customer lifetime value intern - operations analyst"
+      },
+      "fingerprint": "c42fec5a2f420bb5ff967256bba50c5a777c61b3f9136ac0a180c5311a5b5d88",
+      "revision": 1
     },
     "url:https://ttc.wd1.myworkdayjobs.com/toro_external_careers/job/bloomington-mn/isc-analytics-intern---the-toro-company_jr17246": {
       "eligible": true,
@@ -73841,7 +73876,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 303,
+  "scan_sequence": 304,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
