@@ -7521,6 +7521,11 @@
       "fingerprint": "b0ffdda6a14ad9908c27c6c38796f54563e509d52b560757dcb8b37fe72cbe82",
       "revision": 0
     },
+    "url:https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167": {
+      "eligible": false,
+      "fingerprint": "1df29d69e509e041d27ade1deacc23341212ace8af22a0f0fa6f1ef111587d20",
+      "revision": 1
+    },
     "url:https://boards.greenhouse.io/cloudflare/jobs/8199958": {
       "eligible": true,
       "evidence": {
@@ -24747,6 +24752,24 @@
       "fingerprint": "07f8fbb7b521ec2285d1a2ac9aabdef6a674145bb2c8b0f4f6feba2a075b3f9b",
       "revision": 1
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-tx-richardson-c17--1717-cityline-dr--cityline-c17/software-engineering-co-op--summer-fall-_01884404": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "rtx",
+        "degrees": [],
+        "locations": [
+          "richardson, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering co-op"
+      },
+      "fingerprint": "0a4964c9e9b5996d1bf14e81ddc9d8b30d17869579efa73d5b84cad9098dd2e6",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-tx-richardson-c17--1717-cityline-dr--cityline-c17/software-engineering-intern--summer-2027-_01888049": {
       "eligible": true,
       "evidence": {
@@ -30151,28 +30174,9 @@
       "revision": 0
     },
     "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/chippewa-falls-wisconsin-united-states-of-america/asic-firmware-and-diagnostic-intern_1213415": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "hewlett packard enterprise",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "bloomington, mn",
-          "chippewa falls, wi",
-          "chippewa falls, wi +1"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "asic firmware and diagnostic intern"
-      },
-      "fingerprint": "f28561bf39227154f668f37579b9a474bf754bbcb7c7516c7ba1b08b0ecb1224",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "e3a2df9aaf57fb1d8cee52cde47a446af857037217d9e749f5f5ab3a01897b7a",
+      "revision": 3
     },
     "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/fort-collins-colorado/hpc---ai-networking-intern---network-transport_1213416": {
       "eligible": true,
@@ -38404,8 +38408,8 @@
     },
     "url:https://job-boards.greenhouse.io/vercel/jobs/6181759004": {
       "eligible": false,
-      "fingerprint": "c26fb9335c5ebb4c88cdd0ca938e0865fbd5c8caa689f5447d55e389f39ec2d8",
-      "revision": 2
+      "fingerprint": "c6f9a7c4db968b9e2fff6867b5e02d9265367f6bc40b5b1eab76a4754a4eb02e",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/veritiongroupllcinternships/jobs/5275320007": {
       "eligible": true,
@@ -57928,8 +57932,8 @@
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/applied-deep-learning-phd-research-intern--reinforcement-learning-for-llms---fall-2026_jr2012398": {
       "eligible": false,
-      "fingerprint": "e8f71b3715d12a87e473a5aae16563a1e6b648d43e97df8d9f235b1bd5c64dad",
-      "revision": 6
+      "fingerprint": "29f7a70b41aeab12fc1f33d176deb6eef279f2277a2010b27a8cba5f0b9a76d1",
+      "revision": 7
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/applied-research-intern--integrated-sensing-and-communications--isac--nvidia-aerial---summer-2027_jr2028027": {
       "eligible": false,
@@ -58019,8 +58023,7 @@
           "phd"
         ],
         "locations": [
-          "santa clara, ca",
-          "us, ca, santa clara"
+          "santa clara, ca"
         ],
         "requirements": [],
         "terms": [
@@ -58028,13 +58031,13 @@
         ],
         "title": "deep learning computer architecture intern"
       },
-      "fingerprint": "19ddc534ba6c591699e61c28e4ac0f36d56f30d8ba7c066679a703898edd0e23",
-      "revision": 5
+      "fingerprint": "8400d639ec1580c35c008e40f374818983a0d235147e4bc99f1cb9ebd4bb7d21",
+      "revision": 6
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning_jr2023497-1": {
       "eligible": false,
-      "fingerprint": "2e130a5f2868de76bac5cc0b2014e17423cca8877d592cd66ad19bbf812cddb2",
-      "revision": 3
+      "fingerprint": "9399de29e1069a4982e2865aecb980bfa8fe1de46195e24a13fa38cdfe4cf167",
+      "revision": 4
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--software-engineering_jr2023495": {
       "eligible": true,
@@ -58048,8 +58051,7 @@
         ],
         "locations": [
           "canada",
-          "santa clara, ca",
-          "us, ca, santa clara"
+          "santa clara, ca"
         ],
         "requirements": [],
         "terms": [
@@ -58057,18 +58059,18 @@
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "11559cba0989c3fdad9fec0d533976dd1eb3774cded59f4a53023fc637303123",
-      "revision": 6
+      "fingerprint": "08b7f10b1959656b88bfc09ddd927266fc46735ec94e85f59870e0b66d9fe933",
+      "revision": 7
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--systems-software-engineering_jr2023492": {
       "eligible": false,
-      "fingerprint": "3bf512e1a45b0e32930183181eeb6f72a2b5c2eb6c003867fa1dde5c13798744",
-      "revision": 6
+      "fingerprint": "841e11a31695de396332da0d8756a2d660b0a6387a30ee0feaee132d86923242",
+      "revision": 7
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-spring-2027-internships--developer-and-performance-technology_jr2023499": {
       "eligible": false,
-      "fingerprint": "9febf0c3fb3d65cb99be9ec23ca8c6071c89eaa2873c8e09ae647c6c89091b92",
-      "revision": 7
+      "fingerprint": "3adf5cde254efff996fa6334d8c7b186f37b1638a27226a7a1d7407695b76852",
+      "revision": 8
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--ai-accelerator-design-and-vlsi---2027_jr2026584-1": {
       "eligible": false,
@@ -58112,8 +58114,8 @@
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--generative-ai---2026_jr2016035": {
       "eligible": false,
-      "fingerprint": "29bd436b1c572fd8c84d0a6bc0bc6091eaf61e24247872d86cbf91801993da65",
-      "revision": 6
+      "fingerprint": "59b7a470a8f5d3ea85e51304f1edda5ad03bd15d38a704cae666e118ef67aafa",
+      "revision": 7
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--generative-ai-for-physical-ai---2027_jr2025025": {
       "eligible": false,
@@ -63119,25 +63121,9 @@
       "revision": 1
     },
     "url:https://spacedynamicslaboratory.applytojob.com/apply/xb4whc202x/student-software-engineer": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "space dynamics laboratory",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "logan, ut"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "fc2500272cd483476103fe2456d0d0dee264136ce3e89193bdf7350d0e34ae37",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "9cafb6f74816e612bc8fe36dcbba627f4616b7427d202f37ce0a64d1475b56de",
+      "revision": 2
     },
     "url:https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/byron-center-michigan/is-internship---it-ecommerce---marketing-developer_r90110": {
       "eligible": false,
@@ -72152,6 +72138,7 @@
     "https://go.vansh.nyc/1z7": 315,
     "https://go.vansh.nyc/1z8": 315,
     "https://go.vansh.nyc/1z9": 315,
+    "https://go.vansh.nyc/1zb": 316,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -73592,6 +73579,7 @@
     "https://go.vansh.nyc/1z7": "https://thgrp.wd12.myworkdayjobs.com/Envita/job/Indianapolis-IN/Software-Engineering-Intern--Applied-AI_R-1727",
     "https://go.vansh.nyc/1z8": "https://thgrp.wd12.myworkdayjobs.com/Envita/job/Indianapolis-IN/Data-Scientist-Intern--Applied-AI_R-1728",
     "https://go.vansh.nyc/1z9": "https://uscareers-idemia.icims.com/jobs/8708/full-stack-software-engineering-internship/job",
+    "https://go.vansh.nyc/1zb": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -74248,7 +74236,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 315,
+  "scan_sequence": 316,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
