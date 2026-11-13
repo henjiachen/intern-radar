@@ -8034,21 +8034,6 @@
       "company": "Costco",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "c329d71bcf2d36b0833f193ed55ff04a257e2326c6d85e000e00f22ff7a19d70",
-      "locations": [
-        "Issaquah, WA"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "CDS Intern - ECM Platform Management",
-      "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11010"
-    },
-    {
-      "company": "Costco",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "5e3c7d1958e08c54d7f3920bd5fb522ecfafe4b016d03612b5b57cfabfc727a4",
       "locations": [
         "Issaquah, WA"
@@ -8064,21 +8049,6 @@
       "company": "Costco",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "f6f79f40be001c2fc49ee8b538b3e69ab2c4103b8c71fea1a892059305a74433",
-      "locations": [
-        "Issaquah, WA"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "CDS Intern - Powerapps Developer - ECM Digital Workflow",
-      "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11001"
-    },
-    {
-      "company": "Costco",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "14736b108e66307fc69cfc4068422cf9a59b4a700bbb807972005f97de662e3e",
       "locations": [
         "Issaquah, WA"
@@ -8086,24 +8056,9 @@
       "posted_at": "2026-11-02",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Costco Digital Services Intern - Infosec AI/ML",
+      "source": "vanshb03",
+      "title": "Digital Services Intern, Infosec AI/ML",
       "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994"
-    },
-    {
-      "company": "Costco",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "6d56019c8585ad4238ec3b9e2f072de2600e4fbb37c080eab987bb80ae5ae70d",
-      "locations": [
-        "Issaquah, WA"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Developer Intern - Software Engineer - Costco Travel",
-      "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11021"
     },
     {
       "company": "Costco",
@@ -8116,8 +8071,8 @@
       "posted_at": "2026-11-02",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - International Depot",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, International Depot",
       "url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10993"
     },
     {
@@ -20074,10 +20029,10 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-10-29",
+      "posted_at": "2026-11-05",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e"
     },
@@ -20472,36 +20427,6 @@
       "source": "lever",
       "title": "Software Engineer, Internship - Sovereign AI Systems",
       "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312"
-    },
-    {
-      "company": "Panasonic Holdings",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "c354402808e06956016f09a2afe08782e044dc107b325e02b0a5f3dd05aaece4",
-      "locations": [
-        "Sparks, NV"
-      ],
-      "posted_at": "2026-10-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Panasonic Transformation Group Intern",
-      "url": "https://careers.na.panasonic.com/jobs/51646?icims=1"
-    },
-    {
-      "company": "Panasonic Holdings",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "19e82952c740f43a9e0aa850a00f27918f3664f5d14ab20246ca4501051cb8e8",
-      "locations": [
-        "Sparks, NV"
-      ],
-      "posted_at": "2026-10-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Panasonic Transformation Group Intern",
-      "url": "https://careers.na.panasonic.com/jobs/51652?icims=1"
     },
     {
       "company": "Panera Bread",
@@ -24020,6 +23945,21 @@
       "source": "vanshb03",
       "title": "Embedded Firmware Intern",
       "url": "https://jobs.ashbyhq.com/shield/621d736b-5ae1-4d62-8f05-088753318d29"
+    },
+    {
+      "company": "Shield AI",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "74d68669ba3427e787d005c2576ea8a6210acee213a75bfeed35ac286889b08d",
+      "locations": [
+        "Washington, DC"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Human Machine Teaming Intern",
+      "url": "https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply"
     },
     {
       "company": "Shield AI",
@@ -30781,7 +30721,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-13T10:17:45.378044+00:00",
+  "last_checked": "2026-11-13T11:17:51.615976+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

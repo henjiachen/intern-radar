@@ -22042,8 +22042,8 @@
     },
     "url:https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/lawrence-ma-usa/embedded-software-co-op_r0273960": {
       "eligible": false,
-      "fingerprint": "f35573b9db70233ae86fdceefd5d69e4f1742a8218879abb177836f4bf7503c4",
-      "revision": 1
+      "fingerprint": "694358587530ee74a3e10e10e01e3cbb5e7796e9bb2b48fb26e08e7c0bea18f9",
+      "revision": 2
     },
     "url:https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/lawrence-ma-usa/software-engineering-co-op_r0271309": {
       "eligible": false,
@@ -47241,6 +47241,27 @@
       "fingerprint": "b49c89a6ee905dc970c6f683e012e899ce628c9ab4872c149c7fdb597e10a410",
       "revision": 0
     },
+    "url:https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "shield ai",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "washington, dc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "human machine teaming intern"
+      },
+      "fingerprint": "f257e2e22d9cf03299516a64e59e1f0c9b3275def755bd20f442118efa2c44f9",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4": {
       "eligible": true,
       "evidence": {
@@ -58967,10 +58988,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "costco digital services intern - infosec ai/ml"
+        "title": "digital services intern, infosec ai/ml"
       },
-      "fingerprint": "6499ed6eea1c08bb077bcd49a2b3475e56fca52852d8e9b602be4eee9725d2a0",
-      "revision": 1
+      "fingerprint": "2b678126e2997539d892553648a84b9f127696264ad1a2b95e378cb2f44e13ba",
+      "revision": 2
     },
     "url:https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewrequisition?org=COSTCO&cws=41&rid=10998": {
       "eligible": true,
@@ -73885,7 +73906,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 305,
+  "scan_sequence": 306,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
