@@ -4750,6 +4750,28 @@
       "fingerprint": "f8ac60e23f5899f9179e60c7c1708e77cef3a1acd8c8e14ba58cf072ee88156f",
       "revision": 1
     },
+    "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/wilton-ct-usa/internship---data-scientist_j-00356462": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "asml",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "wilton, ct"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data scientist intern"
+      },
+      "fingerprint": "2abb489b580efac00a8fe5ff91f7ebe3586fb5e79ece05d97053125d017642e0",
+      "revision": 1
+    },
     "url:https://aspentech.wd5.myworkdayjobs.com/aspentech/job/bedford-massachusetts/data-science-intern---summer-2027---bedford--ma_r9459": {
       "eligible": false,
       "fingerprint": "bb5ba9e35b1d61fc019b729f114d69e0dde3194114f2573ae368bf2812fe4510",
@@ -9821,6 +9843,11 @@
     "url:https://careers-daytonfreight.icims.com/jobs/18278/job": {
       "eligible": false,
       "fingerprint": "70e40bdad5bb269606e614b42960d2dac2b00b6e3b3d78fd3154a43c726c6802",
+      "revision": 1
+    },
+    "url:https://careers-e2.icims.com/jobs/6496/job": {
+      "eligible": false,
+      "fingerprint": "40b1eed77e39b57b3637482f35c275ee890158ccafdf20015c70a54e6f882d2a",
       "revision": 1
     },
     "url:https://careers-empiricalfoods.icims.com/jobs/4161/job": {
@@ -16854,6 +16881,28 @@
       },
       "fingerprint": "e4c623121ccc3d70696e6b63c8233feb7c773b5088d4c51992bfe1499fa69e75",
       "revision": 0
+    },
+    "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/sunnyvale-us/vision---learning-intern_r40196": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "costar group",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "sunnyvale, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "vision & learning intern"
+      },
+      "fingerprint": "d88a907375fad726f04a610cee0519d22cb4c897dbb844551f45584ce81b9c6c",
+      "revision": 1
     },
     "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/us-va-richmond/data-science-intern---richmond--va--summer-2027-_r40140": {
       "eligible": true,
@@ -24126,9 +24175,12 @@
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-fl-melbourne-312--795-w-nasa-blvd--bldg-312/software-engineering-intern--summer-2027-_01885543": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "hardware",
         "company": "rtx",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "melbourne, fl"
         ],
@@ -24136,10 +24188,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "software engineer intern"
       },
-      "fingerprint": "4cf351ff23c458788a02f29a5c707a32aec0bb37038865b4c37a470b34857e3b",
-      "revision": 1
+      "fingerprint": "1baad5d72040477941db0be4ff6b6467395097a85ab13eb400854fce9fa38670",
+      "revision": 2
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-fl-st-petersburg-381bd--7401-22nd-ave-n--bldg-d/software-engineering-intern--summer-2027-_01887806": {
       "eligible": true,
@@ -28068,8 +28120,8 @@
     },
     "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---product-engineering-developer-associate-intern_r0059493": {
       "eligible": false,
-      "fingerprint": "2c2f4869892878796f45edc7d5446bb6d06316a62a507536aff3bb2afda64a96",
-      "revision": 0
+      "fingerprint": "8346b5c9c84b19fb2dc2eeb134dfa829f42ccd48483c952ac05aceaf3ac8d253",
+      "revision": 1
     },
     "url:https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---product-engineering-developer-intern_r0059492": {
       "eligible": false,
@@ -39152,8 +39204,8 @@
     },
     "url:https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa": {
       "eligible": false,
-      "fingerprint": "3614e60fc3cfbf83401ebd16000aa1badbdb1af359ae97f0f8b32aa561d063e6",
-      "revision": 2
+      "fingerprint": "9a6728ec084884c59803b6aaa2551327c6f8909081109cec949bf68de18de21d",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b": {
       "eligible": false,
@@ -47385,6 +47437,11 @@
       "fingerprint": "89f6e7806fe75a5c0eb6ac21573e1c267e1f7a1a885f64760b12f589eddab76a",
       "revision": 0
     },
+    "url:https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db": {
+      "eligible": false,
+      "fingerprint": "c0857fffb2b592e14c4289beeed901e480661175a06219d5ae360b15b4225a87",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/zoox/54be0f19-9a45-466d-89bc-bc72dd3f9d68": {
       "eligible": false,
       "fingerprint": "cd0b1e3c44044b7f28ad1814b39111193e32be25d87f7e0dbe8cdbf7ad50eab8",
@@ -53458,10 +53515,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "fullstack software engineer intern - global e-commerce"
+        "title": "fullstack software engineer intern - global e-commerce - 2027 summer"
       },
-      "fingerprint": "0a9dc0938a7836eda1412d93fc25cfe277249fda5c8c9cb8f8d5afea78f81443",
-      "revision": 0
+      "fingerprint": "cf8146a537718a652be4820f6194bf0a414b0ccbe8d9e65afbfa78a2eb788b12",
+      "revision": 1
     },
     "url:https://lifeattiktok.com/search/7670738362521520437": {
       "eligible": true,
@@ -58208,8 +58265,8 @@
     },
     "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---md-columbia/summer-embedded-developer-intern_r188299": {
       "eligible": false,
-      "fingerprint": "2cbc5ce7adbef4d4dc98b0a3fab5cebe65c5f8b1c3a459210ba9523ce5e5fa71",
-      "revision": 3
+      "fingerprint": "2ab6d39fde3020f4fd25d1250c5b2867fef3fcda1249a8ee7c9fc3eff28f9a33",
+      "revision": 4
     },
     "url:https://parsons.wd5.myworkdayjobs.com/search/job/us---remote-any-location/software-engineer-intern--fall-2026-_r188147": {
       "eligible": false,
@@ -73517,7 +73574,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 298,
+  "scan_sequence": 299,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
