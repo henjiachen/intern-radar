@@ -1677,21 +1677,6 @@
       "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266"
     },
     {
-      "company": "Alstom",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "329195940bd220468d29fe8c72fab00941f738371f2c7b06594556061505cb75",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "posted_at": "2026-10-18",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "ATC Software Intern",
-      "url": "https://jobsearch.alstom.com/job/Pittsburgh-Internship-ATC-Software-PA-15122/1445826833"
-    },
-    {
       "company": "Amazon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -3152,7 +3137,7 @@
       "posted_at": "2026-11-13",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "EUV Data Science and Analytics Intern",
       "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717"
     },
@@ -3666,9 +3651,9 @@
       "posted_at": "2026-10-01",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Embedded Software Engineer Intern, Lidar",
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868"
+      "source": "simplify",
+      "title": "Embedded Software Engineer Intern - Lidar",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868/application?embed=true"
     },
     {
       "company": "Aurora Innovation",
@@ -6688,36 +6673,6 @@
       "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726"
     },
     {
-      "company": "Celestica",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "6d067641572196b9dcad3fa880a6c5735bbd1ac3f2284544f778c0e7595eefeb",
-      "locations": [
-        "Austin, TX"
-      ],
-      "posted_at": "2026-10-18",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software & Hardware Engineer Intern",
-      "url": "https://careers.celestica.com/job/Austin-Student-Intern%2C-Software-&-Hardware-Engineer-TX-73301/1450863433"
-    },
-    {
-      "company": "Celestica",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "308b6b62ca17e82098697dd80e99c750e5f0b16800f96159b7886d59c9dd8f61",
-      "locations": [
-        "Austin, TX"
-      ],
-      "posted_at": "2026-10-18",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Testing Intern",
-      "url": "https://careers.celestica.com/job/Austin-Student-Intern%2C-Software-Testing-TX-73301/1449484733"
-    },
-    {
       "company": "CenturyLink",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -8737,21 +8692,6 @@
       "company": "Dow Jones",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "337d9ea6c23ef68fd1aeb5d8d65845d4ee85f2f45c4fde35fc2c2458b94ce495",
-      "locations": [
-        "Houston, TX"
-      ],
-      "posted_at": "2026-10-07",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Research Analyst Intern",
-      "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55872"
-    },
-    {
-      "company": "Dow Jones",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "b1d6627236b25be987143a56aa5e5de0aff8a30ceda433019b426ec80719dbda",
       "locations": [
         "Houston, TX"
@@ -10288,8 +10228,8 @@
       "posted_at": "2026-09-15",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "IT Software Engineer Intern - Summer",
+      "source": "vanshb03",
+      "title": "IT Software Engineer Intern",
       "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003"
     },
     {
@@ -10506,6 +10446,21 @@
       "source": "simplify",
       "title": "AI Intern",
       "url": "https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477"
+    },
+    {
+      "company": "FieldPulse",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4c2c522f7033d4035da2b696b30ce4c492338828f7e0622c7a60c179d7bcef9a",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Intern",
+      "url": "https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d"
     },
     {
       "company": "Figma",
@@ -11845,6 +11800,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171565?type=students"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -14310,25 +14295,6 @@
       "source": "simplify",
       "title": "Data Management Intern",
       "url": "https://i3-corps.jibeapply.com/jobs/5490?icims=1&lang=en-us"
-    },
-    {
-      "company": "Intel",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "6b9e951e5aa5ddc2576086067ae8054a0b597bca1c0fe14d4ddc4093b1c0a4ef",
-      "locations": [
-        "Austin, TX",
-        "Santa Clara, CA",
-        "Hillsboro, OR",
-        "Folsom, CA",
-        "Phoenix, AZ"
-      ],
-      "posted_at": "2026-09-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834"
     },
     {
       "company": "Interactive Brokers",
@@ -19646,36 +19612,6 @@
       "company": "Paccar",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "30854cc5d61bd85df1f28b474d23c6a33faba57851e40a8475cef8830e0decdb",
-      "locations": [
-        "Chillicothe, OH"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Application Developer Intern",
-      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors"
-    },
-    {
-      "company": "Paccar",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "00ec4feae31962ab15d7d2ff0436303e99cda31102366832f3869f58f7053ed7",
-      "locations": [
-        "Chillicothe, OH"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Data Engineer Intern",
-      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Data-Engineer-Intern-(OH)-WA-98033/1451916833/?ats=successfactors"
-    },
-    {
-      "company": "Paccar",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "55d5c4b03278510271b6174bfbe8312cd781bf88297beb6d31b3da4763fe9d36",
       "locations": [
         "United States"
@@ -19686,21 +19622,6 @@
       "source": "vanshb03",
       "title": "Data Engineer Intern",
       "url": "https://career5.successfactors.eu/career?career_ns=job_listing&company=paccarinc&career_job_req_id=73733"
-    },
-    {
-      "company": "Paccar",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "071ef92f3012b80985c342429af477f1a350a76ce92aa18ea49c064cf7da5f06",
-      "locations": [
-        "Denton, TX"
-      ],
-      "posted_at": "2026-11-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Data Engineer Intern",
-      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors"
     },
     {
       "company": "Paccar",
@@ -19731,51 +19652,6 @@
       "source": "simplify",
       "title": "Materials Systems Intern",
       "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Materials-Systems-TX-76205-7864/1453566333/?ats=successfactors"
-    },
-    {
-      "company": "Paccar",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "3e085f54ab06723e8255175482cc18d2b46c1b0d0d304203fd504e65b3af138d",
-      "locations": [
-        "Denton, TX"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Sales Administration Data Analyst Intern - Greenhouse Gas",
-      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors"
-    },
-    {
-      "company": "Paccar",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "1d26ffefbf5482cd63c0443b9e29b8724cc5b6738c3ec20715197a4f4ff86ebf",
-      "locations": [
-        "Denton, TX"
-      ],
-      "posted_at": "2026-11-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Developer Intern",
-      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors"
-    },
-    {
-      "company": "Paccar",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "38dea938fef15fad15c1d38205257618313ce1e3194bb6626f93b44a47a92677",
-      "locations": [
-        "Denton, TX"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Warranty Business Intern",
-      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Warranty-Business-TX-76205-7864/1453566133/?ats=successfactors"
     },
     {
       "company": "Pacific Fusion",
@@ -20299,6 +20175,21 @@
       "source": "vanshb03",
       "title": "Cyber Security Engineer Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Cybersecurity-Assurance-Intern_REQ_0000081843-1"
+    },
+    {
+      "company": "Pennsylvania State University",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "fc07602d4516bafa181a6190cc06dbcb586a821af083ef43e56b013da92b7bde",
+      "locations": [
+        "University Park, State College, PA"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Energy Savings Program Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Energy-Savings-Program-Intern_REQ_0000084318-1"
     },
     {
       "company": "Pennsylvania State University",
@@ -21431,7 +21322,7 @@
       "url": "https://job-boards.greenhouse.io/relaypro/jobs/8180836"
     },
     {
-      "company": "Reliable Robotics Corporation",
+      "company": "Reliable Robotics",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
       "id": "aff0fa18f56808b360e4613cfbb6ec2aedf852dee33093993b03b4f4fd74e84b",
@@ -21441,9 +21332,9 @@
       "posted_at": "2026-11-13",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Flight Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed"
+      "url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed/application?embed=true"
     },
     {
       "company": "Relling",
@@ -22994,7 +22885,7 @@
       "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1"
     },
     {
-      "company": "Samsung Semiconductor",
+      "company": "Samsung",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
       "id": "8cd8104ea99e53e54e9d4bf5f611d957a7fa8b189defef9b55e0dbe32021305c",
@@ -23004,7 +22895,7 @@
       "posted_at": "2026-11-13",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "SSD Firmware Development Intern",
       "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003"
     },
@@ -23881,21 +23772,6 @@
       "source": "simplify",
       "title": "Mobile Applications Intern - Android",
       "url": "https://careersus-shure.icims.com/jobs/5006/job?mobile=true&needsRedirect=false"
-    },
-    {
-      "company": "Shure",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "eac400b065351a47ea1fd954722a13997b3eeb57742b8f04a61b38f391732db6",
-      "locations": [
-        "Niles, IL"
-      ],
-      "posted_at": "2026-09-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Mobile Applications Intern - iOS",
-      "url": "https://careersus-shure.icims.com/jobs/5007/job?mobile=true&needsRedirect=false"
     },
     {
       "company": "Shure",
@@ -28995,6 +28871,21 @@
       "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178"
     },
     {
+      "company": "Vertex Pharmaceuticals",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "81c61e29cdc384144c811146f5d5096598239542b0696623f139a191ed1d78e7",
+      "locations": [
+        "Boston, MA"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Analytics Intern - OSD Process Data Analytics",
+      "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312"
+    },
+    {
       "company": "Vertiv",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -30247,7 +30138,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-13T22:56:57.622889+00:00",
+  "last_checked": "2026-11-13T23:52:24.888344+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 7,
   "sources_checked": 104,

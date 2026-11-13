@@ -195,6 +195,11 @@
       "fingerprint": "2bae8d1c3edfee8b8c7c96d4d914c1d7e4b93d85a339b0439915fb36ff8ebff4",
       "revision": 1
     },
+    "url:https://aaregional.wd503.myworkdayjobs.com/search/job/charlotte-nc/safety-data-analytics-intern_r1014590": {
+      "eligible": false,
+      "fingerprint": "2bae8d1c3edfee8b8c7c96d4d914c1d7e4b93d85a339b0439915fb36ff8ebff4",
+      "revision": 1
+    },
     "url:https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--banking-policy-and-economic-research_r625": {
       "eligible": true,
       "evidence": {
@@ -2423,6 +2428,11 @@
       "fingerprint": "ba11dd65b82a2b1ba08585a7b693bfea4c418a0c85b09fafa51bc0c8519e4d20",
       "revision": 1
     },
+    "url:https://amgen.wd1.myworkdayjobs.com/careers/job/united-states---remote/grad-intern---knowledge-graph-applications--summer-2027-_r-260625": {
+      "eligible": false,
+      "fingerprint": "08efcadf55f26f4ce6cd1628c753194cbb279449e3835f802dea95475258097a",
+      "revision": 1
+    },
     "url:https://amgen.wd1.myworkdayjobs.com/careers/job/united-states---remote/grad-intern---r-d-tsrs-data-sciences-operations---analytic--summer-2027-_r-260585": {
       "eligible": true,
       "evidence": {
@@ -4646,20 +4656,24 @@
     "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/austin-tx-usa/internship---euv-data-science-and-analytics_j-00357717": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "asml",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "austin, tx"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "euv data science and analytics intern"
       },
-      "fingerprint": "45839bcf5f247940a5435185eca3aba33461009de8a1893746214b613748e508",
-      "revision": 1
+      "fingerprint": "e2e0cc6e8dc85c1c5c076593b6bb5ee7dbbaac3c360a0cac44711537542dc324",
+      "revision": 2
     },
     "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/san-diego-ca-usa/internship----machine-learning-and-image-based-euv-system-setup_j-00356567": {
       "eligible": true,
@@ -5192,6 +5206,27 @@
       "fingerprint": "4d7887cd8990f70c9816bec7effb1b27d4c49785f9dd4cbef05f74dc01ba4188",
       "revision": 1
     },
+    "url:https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "fieldpulse",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "ai intern"
+      },
+      "fingerprint": "4141b46d6de8853e1c92689f329266b9c561c5bf7ef3fc7a9bd480cbc9222bb6",
+      "revision": 1
+    },
     "url:https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5": {
       "eligible": true,
       "evidence": {
@@ -5687,6 +5722,11 @@
       "eligible": false,
       "fingerprint": "0d8e234464c006c21ed519ef7d5d5c54886eb23e6713dee4fe6da17bba0920f2",
       "revision": 0
+    },
+    "url:https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-interpace-pkwy-parsippany-07054/accelerate---it-engineering-intern_r0190464": {
+      "eligible": false,
+      "fingerprint": "3f034844d95f651967f238c23306a5df488d3ce7eb86c393bcc76f19ea3d35f3",
+      "revision": 1
     },
     "url:https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-interpace-pkwy-parsippany-07054/accelerate---transformation-engineer-summer-2027-intern_r0190388": {
       "eligible": true,
@@ -7513,6 +7553,11 @@
       "fingerprint": "b0ffdda6a14ad9908c27c6c38796f54563e509d52b560757dcb8b37fe72cbe82",
       "revision": 0
     },
+    "url:https://boards.greenhouse.io/cloudflare/jobs/7774167": {
+      "eligible": false,
+      "fingerprint": "9191ab28bacf7c889bde6796f8620e3babef8dc8d0b7b07324fe05eea8b284a4",
+      "revision": 1
+    },
     "url:https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167": {
       "eligible": false,
       "fingerprint": "1df29d69e509e041d27ade1deacc23341212ace8af22a0f0fa6f1ef111587d20",
@@ -7873,6 +7918,11 @@
         "title": "ai quant summer analyst intern"
       },
       "fingerprint": "00e69bc5f740257260e906c66b789299cf7afffa8acae35e874135bead901c18",
+      "revision": 1
+    },
+    "url:https://boards.greenhouse.io/embed/job_app?token=8386648": {
+      "eligible": false,
+      "fingerprint": "4c7582ab770adfc7eae70e6e3ebf87e1958cdccb39c099b5201c7189e472d417",
       "revision": 1
     },
     "url:https://boards.greenhouse.io/embed/job_app?token=8847738002": {
@@ -9456,6 +9506,11 @@
       },
       "fingerprint": "e56888ed5b3776e7986e0b4ae888fdf7c1bae47a884dbfc88583575a85e27f5e",
       "revision": 2
+    },
+    "url:https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/mississauga-on/programmer-analyst-intern--12-months----winter-2027_jr167748": {
+      "eligible": false,
+      "fingerprint": "708c81c971785f1f60fd37f64b58cadb1ba96d2c14d813c062f3b7f171bd0e22",
+      "revision": 1
     },
     "url:https://capitalone.wd12.myworkdayjobs.com/capital_one/job/bangalore-in/software-engineering-intern_r1004749": {
       "eligible": false,
@@ -26742,7 +26797,6 @@
         "degrees": [],
         "locations": [
           "chicago, il",
-          "kirkland, wa",
           "vancouver, canada"
         ],
         "requirements": [],
@@ -26751,8 +26805,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "e39f6653713f82ee3d0716add9b0e162a4b17833e6ed593e03b87523c9e5ac8e",
-      "revision": 1
+      "fingerprint": "15d3072c531610b0530502fc22142b36068d15cc06b431a41e9291d360c59f3a",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/gc": {
       "eligible": false,
@@ -27308,6 +27362,11 @@
         "title": "quantitative developer intern"
       },
       "fingerprint": "04d448bdb630dde30139b56db74ddbc9b9552b50aacfb49225aac51511918832",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/qz": {
+      "eligible": false,
+      "fingerprint": "235aeb6d57872ec58a07f7d5db658496e31cd1820898855e22c52ebbf4ef9aed",
       "revision": 1
     },
     "url:https://go.vansh.nyc/r": {
@@ -28133,6 +28192,11 @@
       "fingerprint": "2c6b2265083355175f7df562cd2d23d87609d9b67cbda88cb7e0b59f7d518eb0",
       "revision": 1
     },
+    "url:https://hckz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/9156": {
+      "eligible": false,
+      "fingerprint": "98e07d0c6d059ff4401ef509757598e9ad11687c3ff47b09a253e6febed47bb8",
+      "revision": 1
+    },
     "url:https://hckz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/9160": {
       "eligible": false,
       "fingerprint": "b168e955d7a4e86a162990db7d200badbeb6a2f6b55bec7602bd1cef48dff765",
@@ -28612,6 +28676,11 @@
       "eligible": false,
       "fingerprint": "89773574b91d57693af48c80cf836d12c5506d058dbc6669403b445aaab7405d",
       "revision": 0
+    },
+    "url:https://hiebing.applytojob.com/apply/yihdpewv4f/ai-agent-developer-intern": {
+      "eligible": false,
+      "fingerprint": "c576050264778ddc239baef3ae8e6cd1c22313cce0b207eaa53e92ea76cb13e7",
+      "revision": 1
     },
     "url:https://higher.gs.com/roles/170644?type=students": {
       "eligible": false,
@@ -33103,6 +33172,11 @@
       "fingerprint": "4169abdf1b6b235a8f845812aa69aefe7069418bd8d4c790347f4ac02ea40aee",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/addepar1/jobs/8910306002": {
+      "eligible": false,
+      "fingerprint": "dff6e506c300a5c5c7335bdfeadfad16236dec55f4737907bd566408265a8ccd",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/addepar1/jobs/8910310002": {
       "eligible": false,
       "fingerprint": "669c9910e240d0ba6b5ceb1b3dfb479777810d0d5b467d8bac970aeb2bd928e0",
@@ -37030,23 +37104,37 @@
       "fingerprint": "27af4944d86383a4a39dc84d2dca944758ce720d35719a618f3bacca6bfab890",
       "revision": 1
     },
+    "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003": {
+      "eligible": false,
+      "fingerprint": "8525474543f9d92e7cbee830f30a9b4858774e135cbd0331b4d1ce65ba564952",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003": {
+      "eligible": false,
+      "fingerprint": "685f3ac7c78797e073d886b1fada565a971ce941984e63aa0ea489b0b92492d8",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "samsung semiconductor",
-        "degrees": [],
+        "category": "hardware",
+        "company": "samsung",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "san jose, ca"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "ssd firmware development intern"
       },
-      "fingerprint": "294a1dbe266c5fa9fe471fa8984ecc0f2341ae3badc36751a0c21c23515b91fa",
-      "revision": 1
+      "fingerprint": "39eb5742e5d8d4058feedda8178a9ae0c64f65243bfd0e98263535c3636c0644",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/scaleai/jobs/4730834005": {
       "eligible": false,
@@ -38399,8 +38487,8 @@
     },
     "url:https://job-boards.greenhouse.io/vercel/jobs/6181759004": {
       "eligible": false,
-      "fingerprint": "c6f9a7c4db968b9e2fff6867b5e02d9265367f6bc40b5b1eab76a4754a4eb02e",
-      "revision": 3
+      "fingerprint": "aba143cd4439e7cbb7f9966b3d281e1e122dacfc48f24ceceedb69710fa4bf41",
+      "revision": 4
     },
     "url:https://job-boards.greenhouse.io/veritiongroupllcinternships/jobs/5275320007": {
       "eligible": true,
@@ -39263,20 +39351,24 @@
     "url:https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "hardware",
         "company": "aurora innovation",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "bozeman, mt"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
-        "title": "embedded software engineer intern, lidar"
+        "title": "embedded software engineer intern - lidar"
       },
-      "fingerprint": "a98eadafb643d735d90ad7bf3c621fcbe336798ebadb43809680d1f74da5cc0a",
-      "revision": 1
+      "fingerprint": "f93abed39d8711eb8e43f175feab7028dc616b91dbd5216446b97b2d4ec1b0d6",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd": {
       "eligible": true,
@@ -41636,9 +41728,11 @@
     "url:https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "reliable robotics corporation",
-        "degrees": [],
+        "category": "hardware",
+        "company": "reliable robotics",
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "mountain view, ca"
         ],
@@ -41648,8 +41742,8 @@
         ],
         "title": "flight software engineer intern"
       },
-      "fingerprint": "b9535b80c493afc13cf0e13336d917e19cfce22c41b87116a1a83d5ee171c8df",
-      "revision": 1
+      "fingerprint": "4e40431a304a69f33251e3e3047822c9102b98032d3797ffb598b6019f3261c3",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e": {
       "eligible": true,
@@ -47696,8 +47790,8 @@
     },
     "url:https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac": {
       "eligible": false,
-      "fingerprint": "f83d3e253fa2e68175d5d4786af6458301254a3ceaf83ee2a3a02ada12f95612",
-      "revision": 1
+      "fingerprint": "fb995a9180c3fc898b2cedb058a50c6f1a98d8b890c8b39ed73d11225838b0a1",
+      "revision": 2
     },
     "url:https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424": {
       "eligible": false,
@@ -55498,6 +55592,11 @@
       "fingerprint": "97405401077830ddc85a1fb74dc28b0dd7a5143ad8f483587e6e941e01db0ab6",
       "revision": 0
     },
+    "url:https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/boston-massachusetts/spring-co-op-2027---software-engineering-intern_jr26110405": {
+      "eligible": false,
+      "fingerprint": "337e6e301a3cd7d17cc7b89425b37d5a98cfe6bd4c250c18fab7323d94ec0f2a",
+      "revision": 1
+    },
     "url:https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/toronto-ontario/summer-intern-2027---ai_jr26081688-1": {
       "eligible": false,
       "fingerprint": "5e1eda2ab6096951af13c67881c6db7b5e4e2a7bc19749b7429ae672bf3caeed",
@@ -59602,6 +59701,25 @@
       "eligible": false,
       "fingerprint": "cba0c3a5aa2c1948ec1582e3a3e2e88f29d0ea078985314debe60b4f35bae81c",
       "revision": 0
+    },
+    "url:https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/part-time-energy-savings-program-intern_req_0000084318-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "pennsylvania state university",
+        "degrees": [],
+        "locations": [
+          "university park, state college, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "spring 2027",
+          "summer 2027"
+        ],
+        "title": "energy savings program intern"
+      },
+      "fingerprint": "6c36d0b61480274ef43d7b67fae72db38a77da93bb7d37d98340d6c82cf751d6",
+      "revision": 1
     },
     "url:https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/part-time-teaching-assistant---ba-840_req_0000083427-1": {
       "eligible": false,
@@ -67383,6 +67501,26 @@
       "fingerprint": "0263c7a466fbbba07fc6b1eb605e4a1190da3bb0b7fd00e2604e35e5f8caf172",
       "revision": 0
     },
+    "url:https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/boston-ma/summer-intern-2027--osd-process-data-analytics_req-31312": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "vertex pharmaceuticals",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics intern - osd process data analytics"
+      },
+      "fingerprint": "cd5d52782ce395063965c751c92bb4ea16878d8e4943b2f89ae8bdb58b0d9e16",
+      "revision": 1
+    },
     "url:https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/boston-ma/vertex-spring-co-op-2027--biologics-msat_req-30504-1": {
       "eligible": false,
       "fingerprint": "dbcd00888efff35f3dc48e01263e2144611d6a1882c0e7eb16caff5102ad0905",
@@ -68572,8 +68710,8 @@
     },
     "url:https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873": {
       "eligible": false,
-      "fingerprint": "95ac8e9739de2f521bb8df86b615e6d33415b4bd27e45dd5a224c83914629038",
-      "revision": 1
+      "fingerprint": "d6b620c01d922fb4c528e6a91f2fa3f262bcbec7cb5a2eac9fe77c309dab7f04",
+      "revision": 2
     },
     "url:https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002": {
       "eligible": false,
@@ -68774,10 +68912,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "it software engineer intern - summer"
+        "title": "it software engineer intern"
       },
-      "fingerprint": "e9ece69c3a4728f17b8628430a6db99ead4db6bbf773b65361bdcd61c9c0c0ba",
-      "revision": 1
+      "fingerprint": "c1b1a622ee67d2677faefec65f9d14b3bc97c18d758044df99a8542b70965829",
+      "revision": 2
     },
     "url:https://www.globalrelay.com/careers/jobs?gh_jid=6241593004": {
       "eligible": false,
@@ -72186,6 +72324,7 @@
     "https://go.vansh.nyc/1zd": 317,
     "https://go.vansh.nyc/1zf": 317,
     "https://go.vansh.nyc/1zg": 317,
+    "https://go.vansh.nyc/1zj": 318,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -73630,6 +73769,7 @@
     "https://go.vansh.nyc/1zd": "https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job",
     "https://go.vansh.nyc/1zf": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
     "https://go.vansh.nyc/1zg": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868",
+    "https://go.vansh.nyc/1zj": "https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -74286,7 +74426,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 317,
+  "scan_sequence": 318,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
