@@ -14695,8 +14695,8 @@
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8214350": {
       "eligible": false,
-      "fingerprint": "aed842b9663f6c861f6c698e47b0ae681ef04473050a4b87b1259352e07aa0d8",
-      "revision": 0
+      "fingerprint": "beb2c468b90ccc2b549208d427d1f2b621a78be819cbf5ad42cd69cc917413a9",
+      "revision": 1
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8214519": {
       "eligible": false,
@@ -17809,25 +17809,9 @@
       "revision": 1
     },
     "url:https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/nyc---1211-ave-of-the-americas/summer-2027-internship-program---marketing-data-science-intern_job_req_55876": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "dow jones",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "new york, ny",
-          "nyc"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "marketing data science intern"
-      },
-      "fingerprint": "efd4e51a777ca4db24df7654f6d3232170c00465bba2ceb5ef1aab2ab7488bcc",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "203243b9a1a3a15dc60d68aa823cdcfb72ee023ab4ec1aaebc62d984a212f197",
+      "revision": 2
     },
     "url:https://dowjones.wd1.myworkdayjobs.com/dow_jones_career/job/nyc---1211-ave-of-the-americas/summer-2027-internship-program---software-engineering-intern_job_req_55891": {
       "eligible": false,
@@ -56099,6 +56083,24 @@
       "fingerprint": "d48030692a25b763d5a7c22a7def963f20f0fb6b99f10488cbb845e4fd0fbfb4",
       "revision": 0
     },
+    "url:https://micron.eightfold.ai/careers/job/45166482": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "micron technology",
+        "degrees": [],
+        "locations": [
+          "boise, id"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineer platform intern"
+      },
+      "fingerprint": "a2822e2b7184e985135773ea18b348b98ca0e3c9cc341a57b21fe8767921d228",
+      "revision": 1
+    },
     "url:https://micron.eightfold.ai/careers/job/45227661": {
       "eligible": true,
       "evidence": {
@@ -64393,14 +64395,46 @@
       "revision": 0
     },
     "url:https://thgrp.wd12.myworkdayjobs.com/envita/job/indianapolis-in/data-scientist-intern--applied-ai_r-1728": {
-      "eligible": false,
-      "fingerprint": "5c3e7e8e074e4b085a77a304cae0223f27fc0264ca50236a484423bb04109442",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "envita solutions",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "indianapolis, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "data scientist intern - applied ai"
+      },
+      "fingerprint": "2aa0b66235a1de90cc926429345cd5b2534b05da8bb29e2c783331379a1cff17",
+      "revision": 2
     },
     "url:https://thgrp.wd12.myworkdayjobs.com/envita/job/indianapolis-in/software-engineering-intern--applied-ai_r-1727": {
-      "eligible": false,
-      "fingerprint": "b1fdf00dfb7d5e27960b0a106ebb02dd85a9b5a4491055c63c2c4e1b23f26a94",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "envita solutions",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "indianapolis, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineer intern - applied ai"
+      },
+      "fingerprint": "095663537ce2bf021c854e1f0b05e692da0514c5a7634e66e49b61371e6431d6",
+      "revision": 2
     },
     "url:https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/canada-toronto-ontario/applied-research-intern--nlp-ml-genai-_jreq202812": {
       "eligible": false,
@@ -66256,6 +66290,24 @@
         "title": "cloud software engineering intern"
       },
       "fingerprint": "98c5e958d5854b0c48634e40778a28268404e1debe72858783876c445508aea9",
+      "revision": 1
+    },
+    "url:https://uscareers-idemia.icims.com/jobs/8708/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "idemia north america",
+        "degrees": [],
+        "locations": [
+          "eden prairie, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "full stack software engineering intern"
+      },
+      "fingerprint": "a2cf1949c39fc3a6778b6a2bb309319de4f019046469b0941c45faf5f0907ad2",
       "revision": 1
     },
     "url:https://uscareers-lennox.icims.com/jobs/54691/job": {
@@ -72096,6 +72148,10 @@
     "https://go.vansh.nyc/1yu": 302,
     "https://go.vansh.nyc/1z0": 314,
     "https://go.vansh.nyc/1z1": 314,
+    "https://go.vansh.nyc/1z5": 315,
+    "https://go.vansh.nyc/1z7": 315,
+    "https://go.vansh.nyc/1z8": 315,
+    "https://go.vansh.nyc/1z9": 315,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -73532,6 +73588,10 @@
     "https://go.vansh.nyc/1yu": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
     "https://go.vansh.nyc/1z0": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003",
     "https://go.vansh.nyc/1z1": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed",
+    "https://go.vansh.nyc/1z5": "https://micron.eightfold.ai/careers/job/45166482",
+    "https://go.vansh.nyc/1z7": "https://thgrp.wd12.myworkdayjobs.com/Envita/job/Indianapolis-IN/Software-Engineering-Intern--Applied-AI_R-1727",
+    "https://go.vansh.nyc/1z8": "https://thgrp.wd12.myworkdayjobs.com/Envita/job/Indianapolis-IN/Data-Scientist-Intern--Applied-AI_R-1728",
+    "https://go.vansh.nyc/1z9": "https://uscareers-idemia.icims.com/jobs/8708/full-stack-software-engineering-internship/job",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -74188,7 +74248,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 314,
+  "scan_sequence": 315,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

@@ -8767,21 +8767,6 @@
       "company": "Dow Jones",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "c67148819b81fb0b9a73544f357e18649bd289eb2d5b9f770065c87640769f23",
-      "locations": [
-        "NYC"
-      ],
-      "posted_at": "2026-10-07",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Marketing Data Science Intern",
-      "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Marketing-Data-Science-Intern_Job_Req_55876"
-    },
-    {
-      "company": "Dow Jones",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "337d9ea6c23ef68fd1aeb5d8d65845d4ee85f2f45c4fde35fc2c2458b94ce495",
       "locations": [
         "Houston, TX"
@@ -9885,6 +9870,36 @@
       "source": "simplify",
       "title": "Consumer Energy Analytics Intern",
       "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752"
+    },
+    {
+      "company": "Envita Solutions",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "abf143bc37b43c6bba7fe461d31dc580e268357dbe438ff520e3682ab4f87cf8",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "posted_at": "2026-09-11",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Scientist Intern - Applied AI",
+      "url": "https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Data-Scientist-Intern--Applied-AI_R-1728"
+    },
+    {
+      "company": "Envita Solutions",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "acaea8f6e23abb05b1ae883fd1349b1a3ff73cfcaca765d1668e32416bb8c663",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "posted_at": "2026-09-11",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Applied AI",
+      "url": "https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Software-Engineering-Intern--Applied-AI_R-1727"
     },
     {
       "company": "Epic Games",
@@ -13907,6 +13922,21 @@
       "url": "https://uscareers-idemia.icims.com/jobs/8707/cloud-software-engineering-internship/job"
     },
     {
+      "company": "IDEMIA North America",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "3022d0f043d660d48e7c3f16d7975ef0119df1d69bd86b7466aa6a7f8379fb8d",
+      "locations": [
+        "Eden Prairie, MN"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Full Stack Software Engineering Intern",
+      "url": "https://uscareers-idemia.icims.com/jobs/8708/full-stack-software-engineering-internship/job"
+    },
+    {
       "company": "Illinois Tool Works",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -17488,6 +17518,21 @@
       "source": "simplify",
       "title": "AI Engineer Intern",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094"
+    },
+    {
+      "company": "Micron Technology",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "1574348bff4020ef96d4c6f312b7b2da2677e2c75dc9a6ddf396a24a813c851b",
+      "locations": [
+        "Boise, ID"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Engineer Platform Intern",
+      "url": "https://micron.eightfold.ai/careers/job/45166482"
     },
     {
       "company": "Micron Technology",
@@ -30278,7 +30323,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-13T20:08:17.574171+00:00",
+  "last_checked": "2026-11-13T21:05:12.978139+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
