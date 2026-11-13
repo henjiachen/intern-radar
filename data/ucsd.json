@@ -21614,6 +21614,31 @@
       "fingerprint": "a040a0a8df61f02068e98566880099cf2ea39a87fd0bec546fc9698a1315ed1b",
       "revision": 0
     },
+    "url:https://fhlb.wd1.myworkdayjobs.com/fhlb_careers/job/irving-tx/accounting-tech-solutions-intern_req-444": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "federal home loan bank of dallas",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "irving, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "accounting tech solutions intern"
+      },
+      "fingerprint": "b63da5e2bd6857da0cdffa539047c3f54b1df08a5e662aab9fa91b97c72e2357",
+      "revision": 1
+    },
+    "url:https://fhlb.wd1.myworkdayjobs.com/fhlb_careers/job/irving-tx/xmlname-2027-spring-digital-transformation-intern_req-456": {
+      "eligible": false,
+      "fingerprint": "05aeae3eec85d24533bb2ba71cad31ba81a086e84d840003912f8340b00fb358",
+      "revision": 1
+    },
     "url:https://fhlbc.wd1.myworkdayjobs.com/search/job/chicago/summer-internship---ai-intern_r2600477": {
       "eligible": true,
       "evidence": {
@@ -24690,8 +24715,8 @@
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-va-sterling-291--22640-davis-dr--davis/software-engineering-intern--e2d-in-1-_01888020": {
       "eligible": false,
-      "fingerprint": "530778737f2fc0cb3e05d5d2213f21ffc53f0beea7d671a5f692e9bf1d9b5118",
-      "revision": 1
+      "fingerprint": "a4ec4a799e3db6ab1e632646cf78a00d1e8222700c2ecc42259e7bf5207304ba",
+      "revision": 2
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-va-sterling-291--22640-davis-dr--davis/software-engineering-intern--iset-in-2-_01888017": {
       "eligible": false,
@@ -31978,7 +32003,7 @@
       "eligible": true,
       "evidence": {
         "category": "",
-        "company": "invitation-charter",
+        "company": "spectrum",
         "degrees": [],
         "locations": [
           "greenwood village, co"
@@ -31987,10 +32012,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "data developer intern"
+        "title": "2027 summer intern: data developer"
       },
-      "fingerprint": "9f8198b7686ebd176a83064c4542dc650a8b9a9921b843fc43aea6bb9f9d5750",
-      "revision": 1
+      "fingerprint": "b1ebee8d9ab892a067c0eb7ad71235140a1aa7ee38c18977ffc41dec9ec28aea",
+      "revision": 2
     },
     "url:https://itron.wd5.myworkdayjobs.com/early_careers/job/united-states-of-america-south-carolina-west-union/intern---systems-engineer--spring-2027-_jr102789-1": {
       "eligible": false,
@@ -51068,6 +51093,26 @@
       "fingerprint": "77ea5baa6daea162b82f99beb9b3a3f7af7cab3d70e466d9d2e4a26dd2c50f81",
       "revision": 1
     },
+    "url:https://jsx.wd503.myworkdayjobs.com/jsx_careers/job/dallas-headquarters/commercial-intern_r-100729": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "jsx",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "commercial intern"
+      },
+      "fingerprint": "f7b84510849865116ede41d8bb21270ac7023fb8c6cee6623b5e8e208e4c8868",
+      "revision": 1
+    },
     "url:https://k1im.applytojob.com/apply/mcbpnvuju4/ai-intern": {
       "eligible": true,
       "evidence": {
@@ -60855,8 +60900,8 @@
     },
     "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/raleigh/software-engineer-intern_r-059038": {
       "eligible": false,
-      "fingerprint": "43338d0ca7a574d1e4bf3993ce7be3d790a5594ef3c5b5cab4fc04e82350d513",
-      "revision": 0
+      "fingerprint": "e02ad9169b9a19ad8e05adf7317fa424c21c691f3ce3b569a086b2d44cea278a",
+      "revision": 1
     },
     "url:https://regeneron.wd1.myworkdayjobs.com/careers/job/armonk/xmlname-2027-co-op-precision-medicine-operations_r51082-1": {
       "eligible": true,
@@ -64058,10 +64103,15 @@
       "fingerprint": "b19e4ab15533da5daacd42bd43f7b26fbc29a14c53daa96b46d50fb53d9b9234",
       "revision": 0
     },
+    "url:https://thgrp.wd12.myworkdayjobs.com/envita/job/indianapolis-in/data-scientist-intern--applied-ai_r-1728": {
+      "eligible": false,
+      "fingerprint": "5c3e7e8e074e4b085a77a304cae0223f27fc0264ca50236a484423bb04109442",
+      "revision": 1
+    },
     "url:https://thgrp.wd12.myworkdayjobs.com/envita/job/indianapolis-in/software-engineering-intern--applied-ai_r-1727": {
       "eligible": false,
-      "fingerprint": "7df5f5cfd9ddb2f394c049479b321f686246ff4901d6ca68ab8a3c2aaddb2db5",
-      "revision": 0
+      "fingerprint": "b1fdf00dfb7d5e27960b0a106ebb02dd85a9b5a4491055c63c2c4e1b23f26a94",
+      "revision": 1
     },
     "url:https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/canada-toronto-ontario/applied-research-intern--nlp-ml-genai-_jreq202812": {
       "eligible": false,
@@ -65190,6 +65240,11 @@
       "eligible": false,
       "fingerprint": "b17fa0631b9188bf902b6327789dc5247f05c201ca3b7ee203c0ebc7c46b9936",
       "revision": 0
+    },
+    "url:https://uasys.wd5.myworkdayjobs.com/uasys/job/little-rock/cosmos---graduate-research-assistant--ml-ai-_r0053896": {
+      "eligible": false,
+      "fingerprint": "995e837defb50ef2d19c2aecf4705980d040e5ec6640a4ec0db91546b97a503a",
+      "revision": 1
     },
     "url:https://uasys.wd5.myworkdayjobs.com/uasys/job/little-rock/eac-extra-help-assistant--multiple-open-positions-_r0092584": {
       "eligible": false,
@@ -70251,6 +70306,27 @@
       "fingerprint": "0c04b966e7f68069732cfbe95cf79e8580589757fd70f3cec4252e717ccc2626",
       "revision": 1
     },
+    "url:https://www.tesla.com/careers/search/job/289796": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "tesla",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "palo alto, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "spring 2027",
+          "summer 2027"
+        ],
+        "title": "software engineer intern - energy engineering"
+      },
+      "fingerprint": "88f853e1b375e78d64c26bea3583597c2a8bbbb35e0000df7ff4c4c94797524c",
+      "revision": 1
+    },
     "url:https://www.tower-research.ca/postes-vacants?gh_jid=8212194": {
       "eligible": false,
       "fingerprint": "621dee5058e5d1cc9aaefd86e69519ad003dfcb3750f5d75bc5cb573ac6500f8",
@@ -73765,7 +73841,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 302,
+  "scan_sequence": 303,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
