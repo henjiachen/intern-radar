@@ -23133,25 +23133,9 @@
       "revision": 0
     },
     "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/atlanta/scs-commercial-intern------ai-data-mining-agent_r5055036-1": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "ge vernova",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "atlanta, ga"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "scs commercial intern - : ai data mining agent"
-      },
-      "fingerprint": "467f92e76e360a12e90591e8ca3396a104809e290f9b14da5b55cca50337470f",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "a4fd49a3a9e899c673b035a2e5f4ff8b18b43db8bc519a7581759e792842cf21",
+      "revision": 2
     },
     "url:https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---agi---ai-post-training-and-model-alignment-intern---summer-2027_r5054822-1": {
       "eligible": true,
@@ -39053,6 +39037,24 @@
       "eligible": false,
       "fingerprint": "73cf7c429b21f8495ce3dbf4dea0ee043f3fef9698975c26ad78997b05244073",
       "revision": 0
+    },
+    "url:https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "aurora innovation",
+        "degrees": [],
+        "locations": [
+          "mountain view, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, vehicle platforms"
+      },
+      "fingerprint": "8ede43fa32520b44d5e3fee8939bf33645cf5c0b198d0f4859a06d8aaa8140bc",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd": {
       "eligible": true,
@@ -60848,8 +60850,8 @@
     },
     "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/raleigh/software-engineer-co-op_r-059039": {
       "eligible": false,
-      "fingerprint": "f9bf20ba8be3967a98fb382be7d868aba09f22f4a4c6020bb0cdc07159c31da7",
-      "revision": 0
+      "fingerprint": "3a67c885b0411e3e0ba0ce7efae090ea01d26004ec18ea36be2d2510faee4cc8",
+      "revision": 1
     },
     "url:https://redhat.wd5.myworkdayjobs.com/jobs/job/raleigh/software-engineer-intern_r-059038": {
       "eligible": false,
@@ -65377,26 +65379,9 @@
       "revision": 1
     },
     "url:https://unisys.wd5.myworkdayjobs.com/external/job/eagan-mn-united-states-of-america/software-engineer-intern_req575421": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "unisys",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "eagan, mn"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "2c455b10e375d73dd67fe988cf3436a830e0bcd9af15b4a1470c4f2d5a65d209",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "7594c26adff2af1e8f2d2a64e27bd193b7ee8390f7e771864e0b831c13f517cc",
+      "revision": 3
     },
     "url:https://unitytech.wd1.myworkdayjobs.com/unity/job/mountain-view-ca-usa/xmlname--req-6087--software-developer_jobreq-2615965": {
       "eligible": true,
@@ -71696,6 +71681,7 @@
     "https://go.vansh.nyc/1ym": 298,
     "https://go.vansh.nyc/1ys": 301,
     "https://go.vansh.nyc/1yt": 301,
+    "https://go.vansh.nyc/1yu": 302,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -73122,6 +73108,7 @@
     "https://go.vansh.nyc/1ym": "https://lifeattiktok.com/search/7698822572474583301",
     "https://go.vansh.nyc/1ys": "https://apply.workable.com/j/71AEBBCADE",
     "https://go.vansh.nyc/1yt": "https://apply.workable.com/j/F0E122E877",
+    "https://go.vansh.nyc/1yu": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -73778,7 +73765,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 301,
+  "scan_sequence": 302,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

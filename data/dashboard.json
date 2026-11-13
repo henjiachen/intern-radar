@@ -898,21 +898,6 @@
       "company": "ABB",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "d5175d79f7ddcaee878e2cb6853a65fb731c20211c1137788c0c70087f0d2cc4",
-      "locations": [
-        "Cary, NC"
-      ],
-      "posted_at": "2026-10-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Power BI Intern",
-      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Power-BI-Intern--Summer-2027_JR00047437"
-    },
-    {
-      "company": "ABB",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "816715474f6bf3d32da9cc83d0fcfd4bdcd5f16346086f2979cd072be8b72d34",
       "locations": [
         "Cary, NC"
@@ -3745,6 +3730,21 @@
       "source": "vanshb03",
       "title": "Robotics Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002"
+    },
+    {
+      "company": "Aurora Innovation",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "dff48a884ce4027ce90c9ec0d3b769e76186cabf025037de7ca443d83c0fe27b",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Vehicle Platforms",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef"
     },
     {
       "company": "Auto-Owners Insurance",
@@ -11411,21 +11411,6 @@
       "source": "simplify",
       "title": "Power System Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-2"
-    },
-    {
-      "company": "GE Vernova",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "957968864dbdccc864e004392187107914d067a8620970799758a436d7543ec5",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "posted_at": "2026-10-07",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "SCS Commercial Intern - : AI Data Mining Agent",
-      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/SCS-Commercial-Intern------AI-Data-Mining-Agent_R5055036-1"
     },
     {
       "company": "GE Vernova",
@@ -23180,21 +23165,6 @@
       "company": "RTX",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "3c167da5ec26b13d0caa6c628a0a3263e7a3493ad6193ff28379f6134180a562",
-      "locations": [
-        "St. Petersburg, FL"
-      ],
-      "posted_at": "2026-11-10",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806"
-    },
-    {
-      "company": "RTX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "45e3755abcb2e54a20fad187fc2d22716e34614ea18ef4014d33fc2a5387b1cb",
       "locations": [
         "Cedar Rapids, IA"
@@ -29102,21 +29072,6 @@
       "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537"
     },
     {
-      "company": "Unisys",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "03e2703a1d5b05656bb0c9bfc53f5f470462d3699f9a86a6e78f5f225ba8ee89",
-      "locations": [
-        "Eagan, MN"
-      ],
-      "posted_at": "2026-11-11",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421"
-    },
-    {
       "company": "United Launch Alliance",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -30931,7 +30886,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-13T05:14:59.038874+00:00",
+  "last_checked": "2026-11-13T06:18:03.468828+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
