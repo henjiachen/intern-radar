@@ -3659,6 +3659,21 @@
       "company": "Aurora Innovation",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "6caae56bfe3e40c6eb4116de6583176f0e222d4a34f96081cbc6cba77d9ec66e",
+      "locations": [
+        "Bozeman, MT"
+      ],
+      "posted_at": "2026-10-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, Lidar",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868"
+    },
+    {
+      "company": "Aurora Innovation",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "dff48a884ce4027ce90c9ec0d3b769e76186cabf025037de7ca443d83c0fe27b",
       "locations": [
         "Mountain View, CA"
@@ -8732,36 +8747,6 @@
       "source": "simplify",
       "title": "Research Analyst Intern",
       "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55872"
-    },
-    {
-      "company": "Dow Jones",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "3a6abdbb8033b2ff4b181fa9f3aa9fa0c3d7b24f743f3fa58b59825787452d5b",
-      "locations": [
-        "Houston, TX"
-      ],
-      "posted_at": "2026-10-07",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Research Analyst Intern",
-      "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55873"
-    },
-    {
-      "company": "Dow Jones",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "97dcc9f5ccd6a886d7dac3f0fae39c135fa7cbeabf01df7bd8f6bafd8652fb27",
-      "locations": [
-        "Houston, TX"
-      ],
-      "posted_at": "2026-10-30",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Research Analyst Intern",
-      "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55874"
     },
     {
       "company": "Dow Jones",
@@ -13876,6 +13861,21 @@
       "url": "https://uscareers-idemia.icims.com/jobs/8708/full-stack-software-engineering-internship/job"
     },
     {
+      "company": "IDEMIA North America",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5608986b9d2dffbb53a5bed71fa521f5be5bff6c075bd55f81ce78fb7ab83247",
+      "locations": [
+        "Brentwood, TN"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Enrollment and Credentialing Services",
+      "url": "https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job"
+    },
+    {
       "company": "Illinois Tool Works",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -17091,6 +17091,21 @@
       "source": "simplify",
       "title": "Geographic Information Systems Intern",
       "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Geographic-Information-Systems--Summer-2027-_JR023605"
+    },
+    {
+      "company": "Martin Marietta",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "2a013014148d1dab278d0626f5d0e85f049c4b173c6090e87f92fc3e8d6c4d01",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Data Integration Engineer Intern",
+      "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146"
     },
     {
       "company": "Martin Marietta",
@@ -30232,9 +30247,9 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-13T22:00:00.727153+00:00",
+  "last_checked": "2026-11-13T22:56:57.622889+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
-  "source_failures": 1,
+  "source_failures": 7,
   "sources_checked": 104,
   "version": 1
 }
