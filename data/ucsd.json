@@ -7812,26 +7812,9 @@
       "revision": 1
     },
     "url:https://boards.greenhouse.io/embed/job_app?token=8175462": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "coinbase",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "san francisco, ca",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "data science intern - strategy, execution, & analytics - platform"
-      },
-      "fingerprint": "7cb74ac633260b4c4b65b9cf0a21498e5166dc7c5e4de91cedbb8173bec0a547",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "cb9bed0ef87d5d42592f1d693609332a46b8341a5d8fb91651ab86237f586b1b",
+      "revision": 2
     },
     "url:https://boards.greenhouse.io/embed/job_app?token=8175471": {
       "eligible": false,
@@ -15495,23 +15478,9 @@
       "revision": 2
     },
     "url:https://cbrands.wd5.myworkdayjobs.com/cbi_external_careers/job/rochester-new-york/intern--ai-enablement_r-41526": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "constellation brands",
-        "degrees": [],
-        "locations": [
-          "rochester, ny"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "ai enablement intern"
-      },
-      "fingerprint": "fbb9be66a1f9e70c88e01c873002a0f126c11150521e9ba7468fb5c8122c28f5",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "59bee24362aca422ef59be8408c3fa6e5cc977cb0e3b967987e79c77682442e3",
+      "revision": 2
     },
     "url:https://cbrands.wd5.myworkdayjobs.com/cbi_external_careers/job/rochester-new-york/intern--ai-innovation_r-41656": {
       "eligible": true,
@@ -26035,11 +26004,6 @@
       "fingerprint": "7425583f322bb56ba4cd5f5b456543577960d9d78602fd50157c4959c03a220c",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1yo": {
-      "eligible": false,
-      "fingerprint": "467dc8cab015e359a4edce64e039c6c6b37a1a0008e2fbae4b6d61e4308f2aa6",
-      "revision": 1
-    },
     "url:https://go.vansh.nyc/2k": {
       "eligible": false,
       "fingerprint": "490ea40bbe41f8ff17f87877dd900b6e59e36e9dff437d5d0e4313dc8f93cbcd",
@@ -27508,6 +27472,11 @@
       "fingerprint": "7cf8e587c9d5b8dc30414467de09944a0664b8ff0850ea89106604db7bdbe267",
       "revision": 0
     },
+    "url:https://go.vansh.nyc/sn": {
+      "eligible": false,
+      "fingerprint": "0d64499bc41c326985e4187c06526a5a8f6cf143a1dd16f425fa2880ed880ffc",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/sp": {
       "eligible": false,
       "fingerprint": "1378a48307c271bf7803c6af8517d11f15e84f91e275760ac17deeb6c02084e3",
@@ -27783,25 +27752,9 @@
       "revision": 0
     },
     "url:https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/cedar-rapids-ia/software-engineer-intern_jr1221": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "greatamerica financial services",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "cedar rapids, ia"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027",
-          "winter 2026"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "86b6ef59b6141592c4ae610b91e923781d5ef827add9d5a915a521af69f556b7",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "525bf8849e229a1a418b43ddf897ca6128b07958d4d9c1b36d1d44e60bebfaa3",
+      "revision": 2
     },
     "url:https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/cedar-rapids-ia/software-quality-engineer-intern_jr1235": {
       "eligible": false,
@@ -47370,17 +47323,16 @@
           "master's"
         ],
         "locations": [
-          "san diego, ca",
           "san diego, ca +3"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "summer 2027 - software engineer intern"
       },
-      "fingerprint": "b49c89a6ee905dc970c6f683e012e899ce628c9ab4872c149c7fdb597e10a410",
-      "revision": 0
+      "fingerprint": "bb87121f47c268cdf1b717a93f144cabc346637b80e03c85b0d2dca76443b6d0",
+      "revision": 1
     },
     "url:https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30": {
       "eligible": true,
@@ -47433,20 +47385,16 @@
           "master's"
         ],
         "locations": [
-          "dallas, tx",
-          "dallas, tx +3",
-          "san diego, ca",
-          "seattle, wa",
-          "washington, dc"
+          "dallas, tx +3"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer co-op intern"
+        "title": "june 2027 co-op - software engineer intern"
       },
-      "fingerprint": "36d8c08347363509edbed1b93efbd01e3729e8b45ed36b9472daa00a5954eee0",
-      "revision": 3
+      "fingerprint": "cdfcef692592aa923735f0a4ac4e8770d37e813cbd91525ab31128904683bc14",
+      "revision": 4
     },
     "url:https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15": {
       "eligible": true,
@@ -74111,7 +74059,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 312,
+  "scan_sequence": 313,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
