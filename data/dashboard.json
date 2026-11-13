@@ -25541,21 +25541,6 @@
       "company": "T-Mobile",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "bfa4cbae0dc868846b3479ed86e3e94fa05eff71922eeb5471d9c1113239beec",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI Strategist Intern",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279"
-    },
-    {
-      "company": "T-Mobile",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "9278d46cd3d2a26b10f1d60ed889456685037a29a4bfa82875fef45c9ed5cbb9",
       "locations": [
         "Frisco, TX",
@@ -29073,6 +29058,21 @@
       "url": "https://careers.gov2x.com/jobs/62843?icims=1"
     },
     {
+      "company": "Valeo",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "8d4eaefb4c74e56a2f897d5c5d00120de6708ebc1759b6f7d6929a0b9297eb3a",
+      "locations": [
+        "Troy, MI"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794"
+    },
+    {
       "company": "Valmont",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -30467,21 +30467,6 @@
       "company": "Zillow",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "bf56435b1db59bbd77e9a32d6bdf0ba4b21fc05526b03cdac0fe2b759e409b93",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "posted_at": "2026-10-26",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Science Intern",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1"
-    },
-    {
-      "company": "Zillow",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "cbcf1232a8e0f675d72dc4bbfbd9e558337d372113feb736a3787d5c0d78c007",
       "locations": [
         "Seattle, WA",
@@ -30676,7 +30661,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-13T13:27:46.823065+00:00",
+  "last_checked": "2026-11-13T15:03:45.581532+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

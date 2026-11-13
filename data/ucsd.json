@@ -25937,6 +25937,11 @@
       "fingerprint": "13c6774db1e15423fd2478543dd00761decd1cd232acbeddf8dc85b25c71c7e6",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1yb": {
+      "eligible": false,
+      "fingerprint": "7425583f322bb56ba4cd5f5b456543577960d9d78602fd50157c4959c03a220c",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1yo": {
       "eligible": false,
       "fingerprint": "467dc8cab015e359a4edce64e039c6c6b37a1a0008e2fbae4b6d61e4308f2aa6",
@@ -66137,6 +66142,24 @@
       "fingerprint": "069bba297663af6ce96bf9931c110c98f4132e9777db692d8834b30f354c1f1e",
       "revision": 0
     },
+    "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/troy-mi/software-engineer-intern--year-round-_req2026081794": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "valeo",
+        "degrees": [],
+        "locations": [
+          "troy, mi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "8ea6074fab1bf3fb24509b41e333adfc1ba715cb962d7a1f0cc8917c9a1f119b",
+      "revision": 1
+    },
     "url:https://valeris.wd108.myworkdayjobs.com/valeris/job/remote-kentucky/intern--it_jr971": {
       "eligible": false,
       "fingerprint": "3bd53b6398d66bb37962ab34be2fe82a13dbc98502467382999f3acac17afed9",
@@ -71828,6 +71851,7 @@
     "https://go.vansh.nyc/1xy": 297,
     "https://go.vansh.nyc/1y3": 297,
     "https://go.vansh.nyc/1y6": 297,
+    "https://go.vansh.nyc/1yC": 309,
     "https://go.vansh.nyc/1ye": 298,
     "https://go.vansh.nyc/1yg": 298,
     "https://go.vansh.nyc/1yh": 298,
@@ -73255,6 +73279,7 @@
     "https://go.vansh.nyc/1xy": "https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942",
     "https://go.vansh.nyc/1y3": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Product-Software-Engineer_R0061394",
     "https://go.vansh.nyc/1y6": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007",
+    "https://go.vansh.nyc/1yC": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794",
     "https://go.vansh.nyc/1ye": "https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335",
     "https://go.vansh.nyc/1yg": "https://www.octant.bio/jobs?gh_jid=6260895004",
     "https://go.vansh.nyc/1yh": "https://apply.workable.com/bask-health-1/j/71AEBBCADE",
@@ -73921,7 +73946,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 308,
+  "scan_sequence": 309,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
