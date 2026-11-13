@@ -18130,6 +18130,24 @@
       "fingerprint": "bab0b2da008adfded48455074107b1796448db72d4da7dedcf0113d8f3a90403",
       "revision": 0
     },
+    "url:https://dtna.wd5.myworkdayjobs.com/dtna_external/job/mount-holly-nc-us/it-developer-analyst-intern_dt-20681": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "daimler truck",
+        "degrees": [],
+        "locations": [
+          "mount holly, nc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it developer analyst intern"
+      },
+      "fingerprint": "6696936e0deeb362f29951f1fe5059165ba91bd645efe0cde0b07aa79982a955",
+      "revision": 1
+    },
     "url:https://dtna.wd5.myworkdayjobs.com/dtna_external/job/portland-or-us/software-release-management-intern_dt-20432": {
       "eligible": true,
       "evidence": {
@@ -26384,8 +26402,8 @@
     },
     "url:https://go.vansh.nyc/cd": {
       "eligible": false,
-      "fingerprint": "e15a08f5b36975688feb1280d5fdb56cbcacf29f5d0cb1007e9c25d034d4af39",
-      "revision": 1
+      "fingerprint": "e15bcd0e9524bd6101c6975fba1e61747eff827f477fc3a1057bfb2d0080ceda",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/ci": {
       "eligible": false,
@@ -48680,8 +48698,7 @@
           "master's"
         ],
         "locations": [
-          "farmington hills, mi",
-          "farmington hills, mi, united states"
+          "farmington hills, mi"
         ],
         "requirements": [],
         "terms": [
@@ -48690,8 +48707,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "4545d76709e27126c135d205211fccf6f1bb16608eb48818129afaf5c08d7447",
-      "revision": 0
+      "fingerprint": "d644fbf3f782fe83a280d60e2fc3c6066d0587ca7b608121e213fa6fb3971b51",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/boschgroup/744000146546849-software-engineering-intern-8-months-40hrs-per-week-?oga=true": {
       "eligible": false,
@@ -71996,6 +72013,7 @@
     "https://go.vansh.nyc/1yC": 309,
     "https://go.vansh.nyc/1yE": 310,
     "https://go.vansh.nyc/1yF": 310,
+    "https://go.vansh.nyc/1yM": 312,
     "https://go.vansh.nyc/1ye": 298,
     "https://go.vansh.nyc/1yg": 298,
     "https://go.vansh.nyc/1yh": 298,
@@ -73426,6 +73444,7 @@
     "https://go.vansh.nyc/1yC": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794",
     "https://go.vansh.nyc/1yE": "https://ipconfigure.bamboohr.com/careers/71",
     "https://go.vansh.nyc/1yF": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
+    "https://go.vansh.nyc/1yM": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681",
     "https://go.vansh.nyc/1ye": "https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335",
     "https://go.vansh.nyc/1yg": "https://www.octant.bio/jobs?gh_jid=6260895004",
     "https://go.vansh.nyc/1yh": "https://apply.workable.com/bask-health-1/j/71AEBBCADE",
@@ -74092,7 +74111,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 311,
+  "scan_sequence": 312,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
