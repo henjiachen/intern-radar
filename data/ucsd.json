@@ -15283,9 +15283,7 @@
         "company": "caresource",
         "degrees": [],
         "locations": [
-          "remote",
-          "remote in usa",
-          "united states"
+          "remote in usa"
         ],
         "requirements": [],
         "terms": [
@@ -15293,8 +15291,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "b11e2266deaf964dd6ee5e1df5be6361c8f9665183f7e554e16ad346faa82228",
-      "revision": 2
+      "fingerprint": "f9e6b3eac75fdee41acdb2e1125a132962190fa255e70b645b35790c244dc3cb",
+      "revision": 3
     },
     "url:https://carrier.wd5.myworkdayjobs.com/jobs/job/can01-carrier-syracuse-6304-carrier-parkway-east-syracuse-ny-13057-usa/software-engineering-intern---summer_30220588": {
       "eligible": false,
@@ -17922,6 +17920,11 @@
       "fingerprint": "5035f1ddd60801fa9c7e16624ae470c331f91836e488a912da376109b03b7c12",
       "revision": 0
     },
+    "url:https://draftkings.wd1.myworkdayjobs.com/campus_career_portal/job/london-uk/data-science-intern--summer-2027-_jr15149": {
+      "eligible": false,
+      "fingerprint": "affd3d8f0a2e9c486aa99f17aa1ae125f606ff5d7ab96aedb52dd46952cf3d5e",
+      "revision": 1
+    },
     "url:https://draftkings.wd1.myworkdayjobs.com/campus_career_portal/job/london-uk/software-engineering-intern--summer-2027-_jr15150": {
       "eligible": false,
       "fingerprint": "2566f5f3ebf9a1ae3591ab4c126f28f82ede95b3c19832bff8cb2459a860a723",
@@ -18000,6 +18003,11 @@
       },
       "fingerprint": "7a97af4c04c2e32c2464b495df71c95f59ebe1d9a5db3ce3b08929ff08f527b0",
       "revision": 0
+    },
+    "url:https://draftkings.wd1.myworkdayjobs.com/employee_referral_portal/job/london-uk/data-science-intern--summer-2027-_jr15149-1": {
+      "eligible": false,
+      "fingerprint": "affd3d8f0a2e9c486aa99f17aa1ae125f606ff5d7ab96aedb52dd46952cf3d5e",
+      "revision": 1
     },
     "url:https://draftkings.wd1.myworkdayjobs.com/employee_referral_portal/job/london-uk/software-engineering-intern--summer-2027-_jr15150-1": {
       "eligible": false,
@@ -21360,6 +21368,27 @@
       "eligible": false,
       "fingerprint": "bc95fae91c9770e6e89bf21ba4d6e678f95305850c57f3cbc934ea0186d05f03",
       "revision": 0
+    },
+    "url:https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/5184": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "verisk",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "lehi, ut"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science/ai intern"
+      },
+      "fingerprint": "8e9f8a7fa1b3436d94116f9dcc26747aad2c8e0dd48235d9d4efebdcca51f2ab",
+      "revision": 1
     },
     "url:https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1013/job/227": {
       "eligible": false,
@@ -28478,6 +28507,11 @@
       "fingerprint": "7b638f1831696c67e519d1ead300d2596e79f0fcbccea430fb4af74663a22bf4",
       "revision": 0
     },
+    "url:https://hdow.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1003/job/250537": {
+      "eligible": false,
+      "fingerprint": "0266bd1afa5ae5a4e60d7c114c943af5518755b6806ff26a133c8a6f2432f658",
+      "revision": 1
+    },
     "url:https://healthpeak.applytojob.com/apply/rtf9tfje4h/forward-deployed-software-engineer-internship": {
       "eligible": true,
       "evidence": {
@@ -32038,6 +32072,24 @@
       },
       "fingerprint": "b1ebee8d9ab892a067c0eb7ad71235140a1aa7ee38c18977ffc41dec9ec28aea",
       "revision": 2
+    },
+    "url:https://ipconfigure.bamboohr.com/careers/71": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "ipconfigure",
+        "degrees": [],
+        "locations": [
+          "norfolk, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development intern, video surveillance software"
+      },
+      "fingerprint": "38989f764d0c3422fa3088b2b3bbd73315210cf620fe2702c5cb4507e9e2f454",
+      "revision": 1
     },
     "url:https://itron.wd5.myworkdayjobs.com/early_careers/job/united-states-of-america-south-carolina-west-union/intern---systems-engineer--spring-2027-_jr102789-1": {
       "eligible": false,
@@ -35971,6 +36023,11 @@
         "title": "computer vision intern - multiple teams"
       },
       "fingerprint": "e06df155bccce46c7f6c1775bea421d29afbd644e9a8a7d42f2b53be8a477695",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/minitab/jobs/8200707003": {
+      "eligible": false,
+      "fingerprint": "746ef5a9f6ef219c97469853e30516e2cdbfffe694cf28d100d11cdb5202b4f4",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/momentenergy/jobs/4421775009": {
@@ -66145,20 +66202,23 @@
     "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/troy-mi/software-engineer-intern--year-round-_req2026081794": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "valeo",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "troy, mi"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "8ea6074fab1bf3fb24509b41e333adfc1ba715cb962d7a1f0cc8917c9a1f119b",
-      "revision": 1
+      "fingerprint": "2d598fabfd1928bcd6ba93e2594935bcda93b22c1ec430f4e9b29606ba93267b",
+      "revision": 2
     },
     "url:https://valeris.wd108.myworkdayjobs.com/valeris/job/remote-kentucky/intern--it_jr971": {
       "eligible": false,
@@ -71852,6 +71912,8 @@
     "https://go.vansh.nyc/1y3": 297,
     "https://go.vansh.nyc/1y6": 297,
     "https://go.vansh.nyc/1yC": 309,
+    "https://go.vansh.nyc/1yE": 310,
+    "https://go.vansh.nyc/1yF": 310,
     "https://go.vansh.nyc/1ye": 298,
     "https://go.vansh.nyc/1yg": 298,
     "https://go.vansh.nyc/1yh": 298,
@@ -73280,6 +73342,8 @@
     "https://go.vansh.nyc/1y3": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Product-Software-Engineer_R0061394",
     "https://go.vansh.nyc/1y6": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007",
     "https://go.vansh.nyc/1yC": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794",
+    "https://go.vansh.nyc/1yE": "https://ipconfigure.bamboohr.com/careers/71",
+    "https://go.vansh.nyc/1yF": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
     "https://go.vansh.nyc/1ye": "https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335",
     "https://go.vansh.nyc/1yg": "https://www.octant.bio/jobs?gh_jid=6260895004",
     "https://go.vansh.nyc/1yh": "https://apply.workable.com/bask-health-1/j/71AEBBCADE",
@@ -73946,7 +74010,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 309,
+  "scan_sequence": 310,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

@@ -11459,21 +11459,6 @@
       "company": "General Dynamics Information Technology",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "1043899e5d64662b606bd1415dc98ed4e70f27785d4b1c8679a10c97ef4755d0",
-      "locations": [
-        "Falls Church, VA"
-      ],
-      "posted_at": "2026-11-10",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analytics Associate Intern",
-      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200"
-    },
-    {
-      "company": "General Dynamics Information Technology",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "b2a46caa6a8d6f5f870bd69c0c99d5f46ffd8efcc3f5a380fa83768663f5f87b",
       "locations": [
         "Bossier City, LA"
@@ -12178,36 +12163,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Americas - Engineering",
-      "url": "https://higher.gs.com/roles/171565?type=students"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Engineering",
-      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -15331,6 +15286,21 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://invitation-charter.icims.com/jobs/81912/2027-summer-intern%3a-software-engineer/job"
+    },
+    {
+      "company": "IPConfigure",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "3efd3d9d95e872e4463a91fbe158185bdf4641b026f5381b3dc6491ed1ff6ad6",
+      "locations": [
+        "Norfolk, VA"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Development Intern, Video Surveillance Software",
+      "url": "https://ipconfigure.bamboohr.com/careers/71"
     },
     {
       "company": "Iridium Communications",
@@ -29068,7 +29038,7 @@
       "posted_at": "2026-11-13",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794"
     },
@@ -29328,6 +29298,21 @@
       "source": "simplify",
       "title": "Policy Engineering Intern",
       "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101"
+    },
+    {
+      "company": "Verisk",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "9e7fc4c84e7b3d9b8fda2017fc3cb3b01d893a7743add2b8fcb239adb3a11940",
+      "locations": [
+        "Lehi, UT"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Science/AI Intern",
+      "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184"
     },
     {
       "company": "Verition Group",
@@ -30661,7 +30646,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-13T15:03:45.581532+00:00",
+  "last_checked": "2026-11-13T16:03:40.789548+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
