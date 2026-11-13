@@ -1419,6 +1419,11 @@
       "fingerprint": "a367eef8d0dd10bd9e77c16fbb554396c938d6cfa5279be699c21b62f3a4f613",
       "revision": 1
     },
+    "url:https://altera.wd1.myworkdayjobs.com/altera/job/toronto-ontario-canada/quartus-compiler-software---intern_r03108": {
+      "eligible": false,
+      "fingerprint": "e7195ef02786e2ec57d5b9a9e41ce07b9228a624b506a6142f069b081bec04b3",
+      "revision": 1
+    },
     "url:https://altera.wd1.myworkdayjobs.com/altera/job/toronto-ontario-canada/software-engineer----intern_r03414": {
       "eligible": false,
       "fingerprint": "a28d2c7e02cb107216573abac53de84dea0719b111310ed2a5008677ef8ef0fe",
@@ -13385,6 +13390,27 @@
       "fingerprint": "2b4f3c2fd6890856695cf9ca27b3e6d27750988673e0d2129da3fb11e3ee6267",
       "revision": 0
     },
+    "url:https://careers.merrick.com/jobs/8476?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "merrick",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "greenwood village, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "gis analyst intern"
+      },
+      "fingerprint": "c751b17de5c1aa0b0adc18ede4f6235ace69e8cb509e332b7ddefe2d0863dac4",
+      "revision": 1
+    },
     "url:https://careers.mitre.org/us/en/job/r117315/internships-in-computer-science-or-software-engineering": {
       "eligible": true,
       "evidence": {
@@ -16854,6 +16880,11 @@
       "fingerprint": "0ccdd27bf824901723a059fc6f3fb19fc3fb2fb4820edd2f4009f9b13547d92b",
       "revision": 1
     },
+    "url:https://corteva.wd5.myworkdayjobs.com/corteva/job/indianapolis-indiana-united-states/r---d-intern---computer---data-science_248131w": {
+      "eligible": false,
+      "fingerprint": "63e1f57acf24326c3d23d1552ad3b0225bbedf9793e3e329f17cb666af5176d6",
+      "revision": 1
+    },
     "url:https://costar.wd1.myworkdayjobs.com/costar_campus/job/irvine-us/associate-software-engineer---irvine--ca_r39736": {
       "eligible": false,
       "fingerprint": "0ab9c9228f61a307fc625ed56e7cd60403a20c897984ef4df937a71897c5d893",
@@ -18531,6 +18562,11 @@
       "eligible": false,
       "fingerprint": "5b463667173cf0e862c1737af6db205eed50c11d1a2d960c0f0e04070e305e42",
       "revision": 0
+    },
+    "url:https://eedu.fa.em3.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1003/job/202607277": {
+      "eligible": false,
+      "fingerprint": "e3c7b2ce2257bf284a0aa30982ea15679a74f46431ecf6bef283a861ba68275b",
+      "revision": 1
     },
     "url:https://eeho.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_45001/job/334325": {
       "eligible": false,
@@ -21974,6 +22010,11 @@
       },
       "fingerprint": "211c7289f3451a561083157466860f52e4b4da65774271a5c581efd943a89902",
       "revision": 0
+    },
+    "url:https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/fonds-de-solidarit-ftq--sige-social---montral-canada/stagiaire-en-intelligence-d-affaires-et-solutions-m365_dp5874": {
+      "eligible": false,
+      "fingerprint": "84934cc8b272825eac3853d2b3d767b8f765f4c7d0a2a08ae90e31c5e291c209",
+      "revision": 1
     },
     "url:https://foresters.wd3.myworkdayjobs.com/forestersfinancialcareers/job/toronto-ontario/software-engineer-co-op-student--ai---4-month-contract-_r-2332": {
       "eligible": false,
@@ -25930,6 +25971,11 @@
       "eligible": false,
       "fingerprint": "06b79d2b55cf5c2b87c1ee0535cac74844f26eba728c57fed211095e9c8b0990",
       "revision": 2
+    },
+    "url:https://go.vansh.nyc/1wl": {
+      "eligible": false,
+      "fingerprint": "4c280b7316ec6eb3051d950790ee873eb65f53245edd8e94ed8ea62174cb57a3",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/1wv": {
       "eligible": false,
@@ -59915,6 +59961,42 @@
       "fingerprint": "cdfa1ff4372dc727454dd6eb9811a0ffe91e5373101960ee0edf613fe1c13087",
       "revision": 1
     },
+    "url:https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/detroit-mi/customer-correspondence-analyst---summer-2027_r-085167-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "rocket mortgage",
+        "degrees": [],
+        "locations": [
+          "detroit, mi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "customer correspondence analyst intern"
+      },
+      "fingerprint": "ebabfa54512f92775cd75250a4bb38bbe46aa77e6746d4a0563c44a68ed0fca2",
+      "revision": 1
+    },
+    "url:https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/detroit-mi/data-analyst-intern---summer-2027_r-083832": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "rocket mortgage",
+        "degrees": [],
+        "locations": [
+          "detroit, mi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analyst intern"
+      },
+      "fingerprint": "66597638cbd5270ed80b543693a62c24c6a62eebf8a9b4284891ee6e69cf8df2",
+      "revision": 1
+    },
     "url:https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/beavercreek-oh/xmlname-2027-modeling--analytics----simulation-sciences--mass--engineer-intern_hr102437": {
       "eligible": false,
       "fingerprint": "d028be95c13bfcecb385023e8f96b23b384999130dbce4ccd4a5db07d963cd95",
@@ -74010,7 +74092,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 310,
+  "scan_sequence": 311,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
