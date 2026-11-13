@@ -381,6 +381,11 @@
       "fingerprint": "454549d9c8a8b68dbc2afc003899543e55d316dc51673426f0d2fe95d156454f",
       "revision": 5
     },
+    "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/london/xmlname-2027-intern---research-scientist_r173345": {
+      "eligible": false,
+      "fingerprint": "fec9e0bed58f1344a085b0846be1cf08a1f011d983f9acd532cdcf91dd8b19d7",
+      "revision": 1
+    },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---ai---architecture_r172998": {
       "eligible": true,
       "evidence": {
@@ -3992,6 +3997,11 @@
       },
       "fingerprint": "f74f461d7e7fe9e9aed4d2b82a6e1550c7aaa3cd248604fb9feb17b0849e2abc",
       "revision": 0
+    },
+    "url:https://apply.workable.com/reasonable/j/383ad7e2ba/apply": {
+      "eligible": false,
+      "fingerprint": "06126155af79260c3493771304276fe3dc57e39fbb5edda6629043f17c672c68",
+      "revision": 1
     },
     "url:https://apply.workable.com/red-rabbit-robotics/j/5b8938477d/apply": {
       "eligible": false,
@@ -9421,6 +9431,11 @@
       },
       "fingerprint": "e56888ed5b3776e7986e0b4ae888fdf7c1bae47a884dbfc88583575a85e27f5e",
       "revision": 2
+    },
+    "url:https://capitalone.wd12.myworkdayjobs.com/capital_one/job/bangalore-in/software-engineering-intern_r1004749": {
+      "eligible": false,
+      "fingerprint": "89368d73ae6cb6dc1a416fbdb59c5f5f8d52d8c4d9aeb24e8e929e8507524d6d",
+      "revision": 1
     },
     "url:https://capitalone.wd12.myworkdayjobs.com/capital_one/job/new-york-ny/current-master-s--ai-engineering-internship-program---summer-2027_r249109-1": {
       "eligible": false,
@@ -73906,7 +73921,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 306,
+  "scan_sequence": 307,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
