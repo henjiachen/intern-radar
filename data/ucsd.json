@@ -10092,6 +10092,11 @@
       "fingerprint": "b1607059b7afeb3df7b8d48e4d1ae2be436c69d6958d738d48abdb3d8ae4d0c7",
       "revision": 1
     },
+    "url:https://careers-epeconsulting.icims.com/jobs/2448/job": {
+      "eligible": false,
+      "fingerprint": "0a82dcf25f02be05519d39feed3090ba504d12402e61ddb753a0130a6992c9a4",
+      "revision": 1
+    },
     "url:https://careers-federatedinsurance.icims.com/jobs/5718/job": {
       "eligible": true,
       "evidence": {
@@ -10470,8 +10475,7 @@
         "locations": [
           "chantilly, va",
           "pittsfield, ma",
-          "scottsdale, az",
-          "scottsdale, az +2"
+          "scottsdale, az"
         ],
         "requirements": [],
         "terms": [
@@ -10479,8 +10483,8 @@
         ],
         "title": "full-stack software engineer intern"
       },
-      "fingerprint": "fd62801543e2f524030204b5aa12514895082d64bd267183e405adc65b57d125",
-      "revision": 2
+      "fingerprint": "69a431cfc99cb3c8f745f87c8a82315ae0f838b1f39b11ab7eb96fd085c54bfc",
+      "revision": 3
     },
     "url:https://careers-gdms.icims.com/jobs/75971/job": {
       "eligible": true,
@@ -10493,8 +10497,7 @@
         "locations": [
           "chantilly, va",
           "pittsfield, ma",
-          "scottsdale, az",
-          "scottsdale, az +2"
+          "scottsdale, az"
         ],
         "requirements": [],
         "terms": [
@@ -10502,8 +10505,8 @@
         ],
         "title": "full-stack application development intern"
       },
-      "fingerprint": "65e5de5259d1ef40d897a79652fb4a6675505bee7da60ec182b3b11c664058ad",
-      "revision": 2
+      "fingerprint": "26f61ed702d81626fb1b9d41e7eb3af7830c0d4c09749acf69d19f609d529067",
+      "revision": 3
     },
     "url:https://careers-gdms.icims.com/jobs/76088/job": {
       "eligible": true,
@@ -10571,6 +10574,11 @@
       },
       "fingerprint": "ee3019308eda2bde10d6fecfc123e7e0b12605aab86b8dc78469d0f8f6c6d32b",
       "revision": 2
+    },
+    "url:https://careers-gdms.icims.com/jobs/76780/job": {
+      "eligible": false,
+      "fingerprint": "59dbac36527706052722b96febc8ed9471970c94cc33cdc6eac6a0f7e1f074b0",
+      "revision": 1
     },
     "url:https://careers-gdms.icims.com/jobs/76785/job": {
       "eligible": false,
@@ -16689,13 +16697,13 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12184": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 7
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 8
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12185": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 5
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 6
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---seattle/gen-ai-intern_r12193": {
       "eligible": true,
@@ -40619,7 +40627,8 @@
         "degrees": [],
         "locations": [
           "nyc",
-          "san mateo, ca"
+          "san mateo, ca",
+          "san mateo, ca +1"
         ],
         "requirements": [],
         "terms": [
@@ -40627,8 +40636,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "be28ed434d4d5cddf63656eee5153a12197de3c9beded10263e50da6d181e235",
-      "revision": 0
+      "fingerprint": "00869e535f88faeba333058f6b53a1efbe3a12245e99b81d869bea16f317438c",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4": {
       "eligible": false,
@@ -50019,6 +50028,22 @@
       "fingerprint": "a7c1a5003e264d90c49475fd6e13121b200e88bbc8c2b01d71833417a31f47a7",
       "revision": 1
     },
+    "url:https://jobs.smartrecruiters.com/nbcuniversal3/744000161179529-software-engineering-internships-summer-2027?oga=true": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nbcuniversal",
+        "degrees": [],
+        "locations": [
+          "universal city, ca"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "software engineering internships - summer 2027"
+      },
+      "fingerprint": "b0d55194724370c3093eba5407c7e0f9a6ee55a134c3c803c7015361466f7d7f",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/paconsulting/744000155685700": {
       "eligible": false,
       "fingerprint": "db3d54da19f5d2dbed13f6d9ce377415ec0ba8791f8f46882bc995dc09b0854d",
@@ -51868,8 +51893,8 @@
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/austin-tx/software-engineer--ai-ml--intern_2642125-1": {
       "eligible": false,
-      "fingerprint": "98411827f8fbbcc31d46528e78fd9b3c8132bd51ea68faed48eb909ee8e66c79",
-      "revision": 4
+      "fingerprint": "6b9a94bbb28c5db133bdbf87d558ed42317c1bdaf7e3e38207cedf843cccd564",
+      "revision": 5
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/austin-tx/software-engineering-intern_2642004-1": {
       "eligible": true,
@@ -52055,8 +52080,8 @@
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/austin-tx/software-engineer--ai-ml--intern_2642125": {
       "eligible": false,
-      "fingerprint": "6b9a94bbb28c5db133bdbf87d558ed42317c1bdaf7e3e38207cedf843cccd564",
-      "revision": 3
+      "fingerprint": "98411827f8fbbcc31d46528e78fd9b3c8132bd51ea68faed48eb909ee8e66c79",
+      "revision": 4
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/austin-tx/software-engineering-intern_2642004": {
       "eligible": true,
@@ -56614,8 +56639,8 @@
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---ssd-firmware_jr115210": {
       "eligible": false,
-      "fingerprint": "30a40e8efe449f0b887ee925d03cdeec0fd7f537ed25f67ea385d2c2c459adcf",
-      "revision": 0
+      "fingerprint": "88c742b799ec73662405531e5252d97467d6455f9d0ba238ab474a76984192a2",
+      "revision": 1
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---sig-building/embedded-software-engineering-intern_jr115959": {
       "eligible": false,
@@ -56700,8 +56725,8 @@
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/san-jose-ca/intern---ssd-firmware_jr115209": {
       "eligible": false,
-      "fingerprint": "88c742b799ec73662405531e5252d97467d6455f9d0ba238ab474a76984192a2",
-      "revision": 1
+      "fingerprint": "cb395c14ee97316437c6a828fc641c850c28aa0d40a80e79da5c54239d03809f",
+      "revision": 2
     },
     "url:https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/effingham-il/intern---ai-solutions-engineer_jr1461": {
       "eligible": true,
@@ -65702,7 +65727,8 @@
           "dayton, oh",
           "lake oswego, or",
           "portsmouth, nh",
-          "westminster, co"
+          "westminster, co",
+          "westminster, co +2"
         ],
         "requirements": [],
         "terms": [
@@ -65710,8 +65736,8 @@
         ],
         "title": "hardware/software testing intern"
       },
-      "fingerprint": "9e6af663f466214a0553117b8c6847bba8db99fbd2dca8e62f0cd54bc3be3872",
-      "revision": 4
+      "fingerprint": "80ab45e0590ca405a9872ba7cccb16663566e160d189165a57d9c155b54f66b1",
+      "revision": 5
     },
     "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---co-westminster/software-engineering-intern_r57676": {
       "eligible": true,
@@ -65766,8 +65792,8 @@
     },
     "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---oh-dayton/ai-developer-intern_r58195": {
       "eligible": false,
-      "fingerprint": "d008e51b1de9e44645f5b56425c5dabf03028f8a3c3e3e40aa04237c3842cf35",
-      "revision": 4
+      "fingerprint": "a85c5d4002f076dc1033727522267b8bc726b75bdccf8812befa1c75e102615b",
+      "revision": 5
     },
     "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---or-lake-oswego/software-engineer-intern_r58171": {
       "eligible": true,
@@ -68634,6 +68660,11 @@
       "fingerprint": "1fac1fbdead6740a8dfa2dc0db7d387eccd9a5672ddfb6a4620fb9e0bd6824da",
       "revision": 0
     },
+    "url:https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b156e713-5801-4c36-bb62-a62f3bc9844f&jobId=548468": {
+      "eligible": false,
+      "fingerprint": "f0d9978493b5df7fe4d3f3db8a2618af2370f9469bb452d858832dac0002015d",
+      "revision": 1
+    },
     "url:https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf1a92f4-16eb-4267-86ca-bc956024f426&jobId=565843": {
       "eligible": false,
       "fingerprint": "5f96de08cbf222f45a592e4395912129e765f255ea1490390e0766027b635640",
@@ -69353,8 +69384,7 @@
           "bachelor's"
         ],
         "locations": [
-          "des moines, ia",
-          "remote - des moines, ia"
+          "des moines, ia"
         ],
         "requirements": [],
         "terms": [
@@ -69362,8 +69392,8 @@
         ],
         "title": "it software engineer intern"
       },
-      "fingerprint": "c1b1a622ee67d2677faefec65f9d14b3bc97c18d758044df99a8542b70965829",
-      "revision": 2
+      "fingerprint": "74eaa636e0b644b7c150330e5966f433d797c7fbe986deeacf96c09295555f79",
+      "revision": 3
     },
     "url:https://www.globalrelay.com/careers/jobs?gh_jid=6241593004": {
       "eligible": false,
@@ -74894,7 +74924,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 334,
+  "scan_sequence": 335,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
