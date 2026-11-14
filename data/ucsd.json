@@ -2072,6 +2072,11 @@
       "fingerprint": "a2f9bc09d0ab55435368c0d608218f142dac46027255c3a2367832001fed13dc",
       "revision": 1
     },
+    "url:https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states": {
+      "eligible": false,
+      "fingerprint": "91b3e0898c73e729925c646b11f375e3ae9c9968c1b30a9ca63c21c5dd0d1052",
+      "revision": 1
+    },
     "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/us-headquarters/algorithm-engineer-intern_jr100359": {
       "eligible": false,
       "fingerprint": "67ad6650c02fd6e9cdbf66baa98c182194c515db4ea0c1bcd4ea877876d6c15b",
@@ -3200,6 +3205,16 @@
     "url:https://apply.careers.microsoft.com/careers/job/1970393557070382": {
       "eligible": false,
       "fingerprint": "5f19f1c97259f220cc4ec1099e0aa33e90be16de256a727f5348dd4c92f60d02",
+      "revision": 1
+    },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557073416": {
+      "eligible": false,
+      "fingerprint": "77db9add5656c7b15ea367772e4ba17f7bd9706015fcf2c3a66ab56c148e3805",
+      "revision": 1
+    },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557073455": {
+      "eligible": false,
+      "fingerprint": "34d859ccc88d9d3e8a250da2c5b6bed7fe9174c8691548e842c3f115d94df0d7",
       "revision": 1
     },
     "url:https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0": {
@@ -9512,6 +9527,26 @@
       "fingerprint": "708c81c971785f1f60fd37f64b58cadb1ba96d2c14d813c062f3b7f171bd0e22",
       "revision": 1
     },
+    "url:https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/irvine/campus-global-technology-summer-associate--2027-_jr7798": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "capital group",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "irvine, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "global technology summer associate intern"
+      },
+      "fingerprint": "de2a18bb0327cb6f920cdfa36094b4e259bc285fefb833d489528db0168c778d",
+      "revision": 1
+    },
     "url:https://capitalone.wd12.myworkdayjobs.com/capital_one/job/bangalore-in/software-engineering-intern_r1004749": {
       "eligible": false,
       "fingerprint": "89368d73ae6cb6dc1a416fbdb59c5f5f8d52d8c4d9aeb24e8e929e8507524d6d",
@@ -14899,6 +14934,11 @@
       "eligible": false,
       "fingerprint": "1cd937f77f9de0b7050a2ceb3530630fc90fcb8d1f9d7ea34f3df47b3bd42ee6",
       "revision": 0
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8335511": {
+      "eligible": false,
+      "fingerprint": "a4818d8a641bb21b4e23586ad16db9f8c12e341aea5f3354c9269aeeb11acea4",
+      "revision": 1
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8350832": {
       "eligible": false,
@@ -25874,23 +25914,9 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/1qi": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "decoda health",
-        "degrees": [],
-        "locations": [
-          "pleasanton, ca",
-          "toronto, canada"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern, ww"
-      },
-      "fingerprint": "40cdd45086acb1a3d45fc444af5d77dfc1362e76e157d76cae2b6c6ccc579ae5",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "033901f3121c96d438dbc21513a090024d5f1da7549d1043bab4c62e922996f2",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1rb": {
       "eligible": false,
@@ -26079,6 +26105,16 @@
     "url:https://go.vansh.nyc/1yb": {
       "eligible": false,
       "fingerprint": "7425583f322bb56ba4cd5f5b456543577960d9d78602fd50157c4959c03a220c",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1zt": {
+      "eligible": false,
+      "fingerprint": "cd47c4c12f22eb0abd88f7633729aac47c695cba6a9758deb7e280f5a1cbdae1",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1zu": {
+      "eligible": false,
+      "fingerprint": "41fc368ee9b990ecef051293479ada977bbb5743bd0e3907c011a548850fd51b",
       "revision": 1
     },
     "url:https://go.vansh.nyc/2k": {
@@ -28661,6 +28697,11 @@
       "eligible": false,
       "fingerprint": "32bef32cb3fd04c3e09e59b1dcabe737376343b72411017d89bc77dae6fabde6",
       "revision": 0
+    },
+    "url:https://helcim.careers.hibob.com/jobs/aa77ff61-8d21-4cef-a633-9960bde8ca3a": {
+      "eligible": false,
+      "fingerprint": "6fa3d14d49d594c31fc5d07b74b2a1fbbdb2c3b726233e2ca8bf203f3ba24499",
+      "revision": 1
     },
     "url:https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "eligible": false,
@@ -40709,6 +40750,27 @@
       "fingerprint": "351f75ef155298497c08b887487d5d1ceb30924b1f52da71b2aae3578a02c784",
       "revision": 1
     },
+    "url:https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "horizon3.ai",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "chicago, il",
+          "west lafayette, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "research intern - adversarial intelligence"
+      },
+      "fingerprint": "0e7813e9846e41977f327a14c456d7ace48f298e4e7ba2396f977b9e1c6f8eb6",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280": {
       "eligible": false,
       "fingerprint": "72c0457d408d6643c8eed7ed8c24efd6e9954a0b6d2a4eb0eff3f6f6595596d6",
@@ -41097,6 +41159,27 @@
     "url:https://jobs.ashbyhq.com/nexttoken/f202a966-912e-40b8-b55a-8cca851eef5e": {
       "eligible": false,
       "fingerprint": "a7515c66f0313f608b08ed43288c17e180c251f06e534c9011f370e3d1d766da",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "nexus cognitive technologies",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "atlanta, ga"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "e9d88b661e90de04f98c5f378ca23cb2c3be8f67824c154d5206708178e0f360",
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43": {
@@ -44991,6 +45074,21 @@
       "fingerprint": "07ec8dcfe42ef525dfbb0f62b608dc4effc66e85c57f5d8c0bf9084a63e79880",
       "revision": 0
     },
+    "url:https://jobs.grainger.com/canada/job/thornhill-analyste-des-op%c3%a9rations-de-terrain-1-1-on-l3t-7w8/1450732400?ats=successfactors": {
+      "eligible": false,
+      "fingerprint": "3693d1837fbadd28f2e4de4fc7fdcb8a20a52ad1de3bedf8a5d910ff6682e22c",
+      "revision": 1
+    },
+    "url:https://jobs.grainger.com/canada/job/thornhill-gcan-customer-experience-intern-on-l3t-7w8/1450621700?ats=successfactors": {
+      "eligible": false,
+      "fingerprint": "06ae54d3efc75e962d2f9a71fd8d8a5af854161b597826505a88f65cf77f96d6",
+      "revision": 1
+    },
+    "url:https://jobs.grainger.com/canada/job/thornhill-gcan-field-operations-analyst-intern-on-l3t-7w8/1450732300?ats=successfactors": {
+      "eligible": false,
+      "fingerprint": "b266470f6f9ba82efd615b99c9e971e0d06cb33de4a6f791c0fde09adfe9c254",
+      "revision": 1
+    },
     "url:https://jobs.grainger.com/job/chicago-gtg-intern-business-intelligence-1-il-60661-4555/1419931300?ats=successfactors": {
       "eligible": false,
       "fingerprint": "fb339f7d1027052d09c5d85aa717d3d7dac762bc4f4e8f7b3dcb72400e70390d",
@@ -48168,6 +48266,26 @@
         "title": "resource modeling intern"
       },
       "fingerprint": "b63f12900a36f61daf8f5aeafa6bbdaae5ef44e17e5eb68d0312560a3524f199",
+      "revision": 1
+    },
+    "url:https://jobs.nexteraenergy.com/job/juno-beach-summer-intern-technical-fl-33408/1450749000?ats=successfactors": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "nextera energy",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "st paul, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern - technical"
+      },
+      "fingerprint": "1467636b9c20f11fc983ad8a2c89b40c0ccf88b7bdba10140885f8727d6cf4f1",
       "revision": 1
     },
     "url:https://jobs.nvidia.com/careers/job/893397026185": {
@@ -57185,6 +57303,42 @@
       "fingerprint": "c18d580c4e9899b2da22d502bb265ee78d2f58c1970f79d3b79a0a619676d605",
       "revision": 0
     },
+    "url:https://netapp.eightfold.ai/careers/job/45497201": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "netapp",
+        "degrees": [],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, cloud"
+      },
+      "fingerprint": "ca539e26f6229cce70e439c09c69ac612158aab57309672ca630e2e1c0ecce25",
+      "revision": 1
+    },
+    "url:https://netapp.eightfold.ai/careers/job/45498081": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "netapp",
+        "degrees": [],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, systems"
+      },
+      "fingerprint": "a92c88458286e3114f7494aa983653aa6318034925945a4f22bf492066193841",
+      "revision": 1
+    },
     "url:https://netflix.wd108.myworkdayjobs.com/netflix/job/los-gatos/software-engineer-intern---summer-2027_jr42989": {
       "eligible": true,
       "evidence": {
@@ -64140,6 +64294,26 @@
       "fingerprint": "3bd9926e5e6e5ea43af8daab052114e3050d376c394c4011729cadc47f9deda5",
       "revision": 0
     },
+    "url:https://tcenergy.wd3.myworkdayjobs.com/career_site_tc/job/spokane-washington/intern--intelligent-operations-technology_jr-10919": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "tc energy",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "spokane, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "intelligent operations technology intern"
+      },
+      "fingerprint": "5dc00586a491861649102368fed8d2459c75da45b9c814294e39d0a156455d15",
+      "revision": 1
+    },
     "url:https://td.wd3.myworkdayjobs.com/td_bank_careers/job/belfast-united-kingdom/xmlname-2027-summer-internship---technology_r_1518241": {
       "eligible": false,
       "fingerprint": "ef1592c1e0ca586f99635b433841ce23b991d76e5df6b4f0dbeb1455871796f5",
@@ -67536,6 +67710,26 @@
       "fingerprint": "fa3f4c715b01d42e7910cf8308175571d522e1655c13af0f1d34e19efc0e1686",
       "revision": 0
     },
+    "url:https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/boston-ma/summer-intern-2027--osd-process-data-analytics_req-31312-2": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "vertex pharmaceuticals",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics intern - osd process data analytics"
+      },
+      "fingerprint": "cd5d52782ce395063965c751c92bb4ea16878d8e4943b2f89ae8bdb58b0d9e16",
+      "revision": 1
+    },
     "url:https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/paddington-united-kingdom/international-insights--analytics-and-commercial-operations---summer-intern--10-weeks-_req-30453": {
       "eligible": false,
       "fingerprint": "fa3f4c715b01d42e7910cf8308175571d522e1655c13af0f1d34e19efc0e1686",
@@ -67877,6 +68071,11 @@
     "url:https://wd5.myworkdaysite.com/recruiting/microchiphr/external/job/or---gresham/intern--data-analyst-_r4441-26": {
       "eligible": false,
       "fingerprint": "528cf51a1ad837ca6f2eaae7d72a2b1e49fb1ae8228573b4df5bac2e601877ae",
+      "revision": 1
+    },
+    "url:https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/sysco-corporate/software-dev-engineer-intern_r263660": {
+      "eligible": false,
+      "fingerprint": "2aa7ae3c3b814b4d651b12a11053e564056c57f719dac801acfb03bb3ce6f67a",
       "revision": 1
     },
     "url:https://wd5.myworkdaysite.com/recruiting/vbgov/city_of_virginia_beach_careers/job/municipal-center-bldg-21/virginia-beach-fire-department-gis-intern_jr-01061": {
@@ -72325,6 +72524,9 @@
     "https://go.vansh.nyc/1zf": 317,
     "https://go.vansh.nyc/1zg": 317,
     "https://go.vansh.nyc/1zj": 318,
+    "https://go.vansh.nyc/1zq": 319,
+    "https://go.vansh.nyc/1zr": 319,
+    "https://go.vansh.nyc/1zs": 319,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -73770,6 +73972,9 @@
     "https://go.vansh.nyc/1zf": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
     "https://go.vansh.nyc/1zg": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868",
     "https://go.vansh.nyc/1zj": "https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d",
+    "https://go.vansh.nyc/1zq": "https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors",
+    "https://go.vansh.nyc/1zr": "https://netapp.eightfold.ai/careers/job/45497201",
+    "https://go.vansh.nyc/1zs": "https://netapp.eightfold.ai/careers/job/45498081",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -74426,7 +74631,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 318,
+  "scan_sequence": 319,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
