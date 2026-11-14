@@ -12102,23 +12102,6 @@
       "url": "https://recruiting.ultipro.com/gas1003/jobboard/6eb19b1f-4963-9bbd-eff5-d321e7265519/opportunitydetail?opportunityid=52b782dd-a1b7-4a41-8bde-a39d265fc776"
     },
     {
-      "company": "Guardian Life",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "aafa0b794000364aadca783f9dd195bd5dc5e655d0f652016a4bb9ac7e31532a",
-      "locations": [
-        "Holmdel, NJ",
-        "NYC",
-        "Bethlehem, PA"
-      ],
-      "posted_at": "2026-09-14",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Engineering Intern - Digital & Technology",
-      "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202"
-    },
-    {
       "company": "GuideStone",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -22736,21 +22719,6 @@
       "company": "Ryan",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "11e1b4b67784e8607d94f5ccbc74eb9931724f5822017d814e7a1bb28d41ad21",
-      "locations": [
-        "Plano, TX"
-      ],
-      "posted_at": "2026-10-16",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Intern",
-      "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822"
-    },
-    {
-      "company": "Ryan",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "892a4af4a25a008738edfa48452471a268e2ede8f267f9014294c81b7d353d3d",
       "locations": [
         "Plano, TX"
@@ -22761,6 +22729,21 @@
       "source": "simplify",
       "title": "Software Development Intern",
       "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
+    },
+    {
+      "company": "Ryan",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "11e1b4b67784e8607d94f5ccbc74eb9931724f5822017d814e7a1bb28d41ad21",
+      "locations": [
+        "Plano, TX"
+      ],
+      "posted_at": "2026-10-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822"
     },
     {
       "company": "Ryan",
@@ -30169,7 +30152,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-14T21:52:10.022470+00:00",
+  "last_checked": "2026-11-14T22:51:42.703550+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 1,
   "sources_checked": 104,
