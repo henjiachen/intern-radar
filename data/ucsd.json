@@ -9731,6 +9731,24 @@
       "fingerprint": "3bc0311e9fa9d8f679b4f22e7e6881b51a772e7391f5ed3e9f4c199187fe896e",
       "revision": 1
     },
+    "url:https://career4.successfactors.com/career?career_ns=job_listing&company=cintasP2&career_job_req_id=240097": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cintas",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ot software engineer intern, it"
+      },
+      "fingerprint": "d88ac4f18d8010f141f0122145b2d648aebc74fb973807eb4ac735dfa343acb2",
+      "revision": 1
+    },
     "url:https://career41.sapsf.com/career?career_ns=job_listing&company=mativholdi&career_job_req_id=2179": {
       "eligible": true,
       "evidence": {
@@ -26253,6 +26271,11 @@
       "fingerprint": "7425583f322bb56ba4cd5f5b456543577960d9d78602fd50157c4959c03a220c",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1zj": {
+      "eligible": false,
+      "fingerprint": "cc8f8ee29de626a3916a3a6555a6102ae5c6b0d81565aabc60004ea6ce2dfeb0",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1zt": {
       "eligible": false,
       "fingerprint": "cd47c4c12f22eb0abd88f7633729aac47c695cba6a9758deb7e280f5a1cbdae1",
@@ -32615,8 +32638,8 @@
     },
     "url:https://jci.wd5.myworkdayjobs.com/jci/job/burlington-massachusetts-united-states-of-america/software-engineering-co-op_eb00075408": {
       "eligible": false,
-      "fingerprint": "3407fd8864de636ba8fd4430de6a14034569e6efe0402d0a9b4179f7e9e9f954",
-      "revision": 1
+      "fingerprint": "026c338ad38be6eae4e88e5d183e7fc9f88a833e9c46b6c39cefe993a90d52e7",
+      "revision": 2
     },
     "url:https://jj.wd5.myworkdayjobs.com/jj/job/cambridge-massachusetts-united-states-of-america/post-doc---ai-ml-and-optimization_r-106767-2": {
       "eligible": false,
@@ -59022,6 +59045,24 @@
       "fingerprint": "8db8be6fced3c27731d4ca8c920c6f62aae20f95d9dfe43e0343616d3ee2f6ff",
       "revision": 1
     },
+    "url:https://owlcyberdefense.catsone.com/careers/89333/jobs/16868874-software-engineering-intern": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "owl cyber defense",
+        "degrees": [],
+        "locations": [
+          "columbia, md"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "13fe16df4247b719c35475dbc6125c82606db90ca19698fd0a48e38e04a32e59",
+      "revision": 1
+    },
     "url:https://pacificlife.wd1.myworkdayjobs.com/pacificlifecareers/job/newport-beach-ca-700/summer-2027-data-engineering-internship_r17828": {
       "eligible": true,
       "evidence": {
@@ -72802,6 +72843,8 @@
     "https://go.vansh.nyc/1zC": 334,
     "https://go.vansh.nyc/1zE": 334,
     "https://go.vansh.nyc/1zF": 334,
+    "https://go.vansh.nyc/1zH": 338,
+    "https://go.vansh.nyc/1zK": 338,
     "https://go.vansh.nyc/1zb": 316,
     "https://go.vansh.nyc/1zd": 317,
     "https://go.vansh.nyc/1zf": 317,
@@ -74257,6 +74300,8 @@
     "https://go.vansh.nyc/1zC": "https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job",
     "https://go.vansh.nyc/1zE": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
     "https://go.vansh.nyc/1zF": "https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Chicago-IL/AI-Security-Intern_26_09083",
+    "https://go.vansh.nyc/1zH": "https://career4.successfactors.com/career?career_ns=job_listing&company=cintasP2&career_job_req_id=240097",
+    "https://go.vansh.nyc/1zK": "https://owlcyberdefense.catsone.com/careers/89333/jobs/16868874-Software-Engineering-Intern",
     "https://go.vansh.nyc/1zb": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404",
     "https://go.vansh.nyc/1zd": "https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job",
     "https://go.vansh.nyc/1zf": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
@@ -74924,7 +74969,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 337,
+  "scan_sequence": 338,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
