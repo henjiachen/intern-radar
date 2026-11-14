@@ -16212,6 +16212,26 @@
       "fingerprint": "654782dfb38f1d5e7ba032a5089ad4d045bb7b6cf8d600a383b3abdd625c318f",
       "revision": 0
     },
+    "url:https://cigna.wd5.myworkdayjobs.com/cignacareers/job/morris-plains-nj/healthcare-analytics-summer-intern---start-date--may-24--2027_26009857": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "cigna group",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "morris plains, nj"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "healthcare analytics intern"
+      },
+      "fingerprint": "654782dfb38f1d5e7ba032a5089ad4d045bb7b6cf8d600a383b3abdd625c318f",
+      "revision": 1
+    },
     "url:https://cigna.wd5.myworkdayjobs.com/cignacareers/job/morris-plains-nj/product-analytics-summer-intern---start-date--may-24--2027_26010180": {
       "eligible": true,
       "evidence": {
@@ -66729,6 +66749,29 @@
       "fingerprint": "c687d53ed5b5facf6c098b218f33b7afcdfc3a8ab2413b4c49eb4314cfa8ff7b",
       "revision": 0
     },
+    "url:https://usaa.wd1.myworkdayjobs.com/usaajobswd/job/san-antonio-home-office-i/technology-intern_r0120133": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "usaa",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "phoenix, az",
+          "plano, tx",
+          "san antonio, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "technology intern"
+      },
+      "fingerprint": "69a2b602e55364cf476fac67e8304f8bc82d7a40fb65401b4168a9738f8464d6",
+      "revision": 1
+    },
     "url:https://uscampus-pepsico.icims.com/jobs/466510/job": {
       "eligible": true,
       "evidence": {
@@ -74969,7 +75012,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 339,
+  "scan_sequence": 340,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

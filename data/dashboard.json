@@ -6992,6 +6992,21 @@
       "company": "Cigna Group",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "6e5b764057caecbea9b337f37e6be0a0e817e4ae530262ece9c5fe65d0ab3c29",
+      "locations": [
+        "Morris Plains, NJ"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Healthcare Analytics Intern",
+      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857"
+    },
+    {
+      "company": "Cigna Group",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "b4a3e4bec21c624152bc03e91b66dc421dc47a5db34d93467ea173269a6a840e",
       "locations": [
         "Morris Plains, NJ",
@@ -11860,6 +11875,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171565?type=students"
+    },
+    {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "posted_at": "2026-08-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
       "company": "Gordon Food Service",
@@ -28489,6 +28534,23 @@
       "url": "https://jobs.dover.com/uplimit/c7aec592-abea-4db6-92d2-bb61521d2f71"
     },
     {
+      "company": "USAA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "3f1780f1dbb50d101c4d1786935949231ca0395247f22db04aa9d998772d31e5",
+      "locations": [
+        "Plano, TX",
+        "San Antonio, TX",
+        "Phoenix, AZ"
+      ],
+      "posted_at": "2026-09-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Technology Intern",
+      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Technology-Intern_R0120133"
+    },
+    {
       "company": "USAFacts",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -30152,7 +30214,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-14T22:51:42.703550+00:00",
+  "last_checked": "2026-11-14T23:49:26.068955+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 1,
   "sources_checked": 104,
