@@ -16664,10 +16664,58 @@
       "fingerprint": "3ac7457f0a5883ccba777fe6504bad12b7f6bf12a55423f87a0f384aae9c93bc",
       "revision": 1
     },
+    "url:https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/advanced-computing-lab-intern---summer-2027-_2025336-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "carnegie mellon university",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "pittsburgh, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "advanced computing lab intern"
+      },
+      "fingerprint": "733f77f104a8f63ac5cc1907e5ccb9c8a2b764608b5ef2313a3eb58b05a1402a",
+      "revision": 1
+    },
+    "url:https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/agentic-development-intern_2025292-1": {
+      "eligible": false,
+      "fingerprint": "a4c2e7b747ced73c6350cbf35acb1192eb475489b40a822928060543de061ddd",
+      "revision": 1
+    },
+    "url:https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/cyber-ai-engineering-intern--spring-2027-_2025346-2": {
+      "eligible": false,
+      "fingerprint": "13fae89666ffd3746a431a5816be55721aea43bacdd5c94b912eb717aaeef4b2",
+      "revision": 1
+    },
+    "url:https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/enabling-mission-capability-at-scale-intern---summer-2027_2025300-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "carnegie mellon university",
+        "degrees": [],
+        "locations": [
+          "pittsburgh, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "enabling mission capability at scale intern"
+      },
+      "fingerprint": "b9ef325245f911e38785cdca589969011309825ac014ec007444fabcf177f3f5",
+      "revision": 1
+    },
     "url:https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/full-stack-software-development-intern_2025287-2": {
       "eligible": false,
-      "fingerprint": "3ac7457f0a5883ccba777fe6504bad12b7f6bf12a55423f87a0f384aae9c93bc",
-      "revision": 1
+      "fingerprint": "f0e7ba3bc54ea511fa76ccf9ee5d569494ea6acafc2525bca16f673f1cc7a01c",
+      "revision": 2
     },
     "url:https://cna.wd1.myworkdayjobs.com/cna_careers/job/chicago-il-usa/technology-internship-program--agile-product-design-_r-8125": {
       "eligible": false,
@@ -46014,13 +46062,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "2694d862ac1976a0bb889da7e913c756fb1016e6c5bf1e57af79c81c57b20f0e",
-      "revision": 1
+      "fingerprint": "c251374d389d4e3b7afe242cbc80b9be07e0318b4de571a6f70ddbe8d74a65f9",
+      "revision": 2
     },
     "url:https://jobs.l3harris.com/job/columbia-software-engineer-intern-md-21046/1425456300?ats=successfactors": {
       "eligible": false,
@@ -74710,7 +74757,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 324,
+  "scan_sequence": 325,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
