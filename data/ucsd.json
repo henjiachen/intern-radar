@@ -37099,17 +37099,16 @@
         "company": "sage",
         "degrees": [],
         "locations": [
-          "new york city, ny",
-          "nyc"
+          "new york city, ny"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - full stack"
+        "title": "software engineering intern - full stack - summer 2027"
       },
-      "fingerprint": "22dbe970abb9033b30e0ddc78cb1037057cb2e9f70248661ed0c0048733a0067",
-      "revision": 0
+      "fingerprint": "f0c9c5bfd8af06b5eb91ed6487c678391a1360dc399bf749df0b38001dcf1c0d",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/sage49/jobs/6131191004": {
       "eligible": true,
@@ -46024,12 +46023,13 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "7bc8732095a5a50254bf79daf5ed6641d02c229e6eebdfe8276148e361d1369a",
-      "revision": 2
+      "fingerprint": "7ca9b86ee988c7b0a231c2160b341fa0cdcb3846b399c0ab6a21cce02dfbe49f",
+      "revision": 3
     },
     "url:https://jobs.l3harris.com/job/carlsbad-software-engineering-intern-ca-92009/1428454700?ats=successfactors": {
       "eligible": false,
@@ -46062,12 +46062,13 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "c251374d389d4e3b7afe242cbc80b9be07e0318b4de571a6f70ddbe8d74a65f9",
-      "revision": 2
+      "fingerprint": "2694d862ac1976a0bb889da7e913c756fb1016e6c5bf1e57af79c81c57b20f0e",
+      "revision": 3
     },
     "url:https://jobs.l3harris.com/job/columbia-software-engineer-intern-md-21046/1425456300?ats=successfactors": {
       "eligible": false,
@@ -46124,12 +46125,13 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "dcccba3fd26c27d0eaa40126091207fffdb9190987a7ecbcc61c61b7f50f1318",
-      "revision": 2
+      "fingerprint": "866b4fbfca8f40695ee4e072ba4e2b52da58cbc011e21ebfa31c44c199daf762",
+      "revision": 3
     },
     "url:https://jobs.l3harris.com/job/nashville-intern,-systems-engineering-tn-37203/1447657800?ats=successfactors": {
       "eligible": false,
@@ -46231,12 +46233,13 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "ca3289b37ed3240f0538af4e3c6a85b3d16fcb41f8f62f56d4e2264c8c63c1e2",
-      "revision": 2
+      "fingerprint": "89f1657b42054c6b44d4ad78d4a70551a8669847bf78e90b26f0d7ff30734ac8",
+      "revision": 3
     },
     "url:https://jobs.l3harris.com/job/salt-lake-city-intern,-software-engineer-(salt-lake-city,-ut)-ut-84116/1428480900?ats=successfactors": {
       "eligible": false,
@@ -66682,17 +66685,16 @@
           "master's"
         ],
         "locations": [
-          "brentwood, tn",
-          "reston, va"
+          "brentwood, tn"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "engineering intern"
+        "title": "software engineering intern, enrollment and credentialing services"
       },
-      "fingerprint": "bc3153556a3e120f10695ae728e996205f28445aa2ed7f16dc6a61d7e1a861d6",
-      "revision": 2
+      "fingerprint": "756875c839eb8b431bd193e0d333e1c06d04ad36eb3fdc86b3058fcdc4df913f",
+      "revision": 3
     },
     "url:https://uscareers-idemia.icims.com/jobs/8650/job": {
       "eligible": true,
@@ -74757,7 +74759,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 326,
+  "scan_sequence": 327,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
