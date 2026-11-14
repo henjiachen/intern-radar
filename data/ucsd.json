@@ -12080,12 +12080,13 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "it ot software engineer intern"
       },
-      "fingerprint": "acf5ba8e3f2b9218a63e6576a714431110e97ba8d423b93ddae0ecbad4f59208",
-      "revision": 2
+      "fingerprint": "45e72aab170b47ba11105d0d46fa95d0407b9996f5bbc260324f84349bb88806",
+      "revision": 3
     },
     "url:https://careers.cisco.com/global/en/job/ciscisglobal2024641externalenglobal/software-engineer-embedded-systems-i-intern-united-states": {
       "eligible": true,
@@ -14386,12 +14387,13 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "105f34208477c111a0d0e7005c09411590516c0c1bf6f592bc8914911d1ab512",
-      "revision": 2
+      "fingerprint": "95f6dfe79b1e4ed095d38c941c87e5db63bcb5508b684ddb72c331af055a347a",
+      "revision": 3
     },
     "url:https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us": {
       "eligible": true,
@@ -32091,6 +32093,7 @@
         "degrees": [],
         "locations": [
           "remote",
+          "remote in usa",
           "united states"
         ],
         "requirements": [],
@@ -32099,8 +32102,8 @@
         ],
         "title": "ai & automation builders intern"
       },
-      "fingerprint": "3cafc5b22c9663ad1c909246c999e35dd68b5b94ccab07616d8ad48c1dc9a0af",
-      "revision": 2
+      "fingerprint": "14197d8610c5e3dd6addf17916d5d9825a844118007e70c5dd8d2e628c22dc14",
+      "revision": 3
     },
     "url:https://internaljobs.centurylink.com/job/remote-ai-product-&-business-innovation-summer-2027-internship-pathway/1440948000?ats=successfactors": {
       "eligible": true,
@@ -48332,10 +48335,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern, technical"
+        "title": "software engineering intern - technical"
       },
-      "fingerprint": "4b22dfb24f35e65c4c5761e69102c40ba8fc9e0e4397664b7cd1cbc043ad6adf",
-      "revision": 2
+      "fingerprint": "1467636b9c20f11fc983ad8a2c89b40c0ccf88b7bdba10140885f8727d6cf4f1",
+      "revision": 3
     },
     "url:https://jobs.nvidia.com/careers/job/893397026185": {
       "eligible": true,
@@ -59759,6 +59762,11 @@
       "fingerprint": "4b58ed6df09ec5ed8632255932a0d94cba437f7b744d06d37abe306f116f4942",
       "revision": 0
     },
+    "url:https://postman.wd108.myworkdayjobs.com/careers/job/san-francisco-ca-us/ai-engineer--intern_jr1000055": {
+      "eligible": false,
+      "fingerprint": "d57a2a843040d8d31f2186f694d25005334be2286482c29c7dd7ffd43815c9e5",
+      "revision": 1
+    },
     "url:https://priceline.wd1.myworkdayjobs.com/priceline-collegehiring/job/new-york/software-engineering---full-stack--northeastern-co-op-_r5822": {
       "eligible": false,
       "fingerprint": "8b809f2899851d52a361f89ed513c53bfa1fc54dd26432f4a1fae0286035a0a7",
@@ -66685,16 +66693,17 @@
           "master's"
         ],
         "locations": [
-          "brentwood, tn"
+          "brentwood, tn",
+          "reston, va"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern, enrollment and credentialing services"
+        "title": "engineering intern"
       },
-      "fingerprint": "756875c839eb8b431bd193e0d333e1c06d04ad36eb3fdc86b3058fcdc4df913f",
-      "revision": 3
+      "fingerprint": "bc3153556a3e120f10695ae728e996205f28445aa2ed7f16dc6a61d7e1a861d6",
+      "revision": 4
     },
     "url:https://uscareers-idemia.icims.com/jobs/8650/job": {
       "eligible": true,
@@ -74759,7 +74768,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 327,
+  "scan_sequence": 328,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
