@@ -9875,6 +9875,21 @@
       "company": "Ericsson",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "f40ad072f9a36f1276e2ec3e0d420342949f8168017bb209cf863621bf7d27a5",
+      "locations": [
+        "Plano, TX"
+      ],
+      "posted_at": "2026-11-14",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Software Engineer Intern",
+      "url": "https://jobs.ericsson.com/careers/job/563121776668074"
+    },
+    {
+      "company": "Ericsson",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "9469409abbd6bbe7912f8e424931592937eb6063aee53281ce79f83cec555546",
       "locations": [
         "Plano, TX"
@@ -30264,9 +30279,9 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-14T13:09:25.854755+00:00",
+  "last_checked": "2026-11-14T14:02:24.179562+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
-  "source_failures": 9,
+  "source_failures": 8,
   "sources_checked": 104,
   "version": 1
 }

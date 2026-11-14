@@ -4591,6 +4591,7 @@
           "master's"
         ],
         "locations": [
+          "boston",
           "boston, ma"
         ],
         "requirements": [],
@@ -4599,8 +4600,8 @@
         ],
         "title": "quantitative developer intern"
       },
-      "fingerprint": "4a461a67a42322d86a0205da4efd76377722a95dd7a1a050128cf94b2ed46c81",
-      "revision": 5
+      "fingerprint": "9e0ccc2dd27465744b12c763db00ae456d5e24ebf3462ddd0ff6a90f163fbaa1",
+      "revision": 6
     },
     "url:https://arrowstreetcapital.wd5.myworkdayjobs.com/campus_careers/job/boston/software-engineer-intern--summer-2027_r1561": {
       "eligible": true,
@@ -4611,6 +4612,7 @@
           "bachelor's"
         ],
         "locations": [
+          "boston",
           "boston, ma"
         ],
         "requirements": [],
@@ -4619,8 +4621,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "537bf968139523d33edbdc4b577a2f36bd6a47cbcf2ac3e67ccb785ba0fb7627",
-      "revision": 6
+      "fingerprint": "b7ccaaa7202416c3b7b4a5c6a04960c979e259b669b8e0521dd85396ebf7bbf5",
+      "revision": 7
     },
     "url:https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003": {
       "eligible": true,
@@ -45016,6 +45018,24 @@
       "fingerprint": "4dbf36fa25f81f016033f99bf6f3d889443d73c37aaed5e90a045781b09966ec",
       "revision": 0
     },
+    "url:https://jobs.ericsson.com/careers/job/563121776668074": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "ericsson",
+        "degrees": [],
+        "locations": [
+          "plano, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai software engineer intern"
+      },
+      "fingerprint": "76419d6a53fed918ad2c2c23146dcf1fe58e7d0868423467d943c6360d10233a",
+      "revision": 1
+    },
     "url:https://jobs.ericsson.com/careers/job/563121777071319": {
       "eligible": true,
       "evidence": {
@@ -72650,6 +72670,7 @@
     "https://go.vansh.nyc/1z7": 315,
     "https://go.vansh.nyc/1z8": 315,
     "https://go.vansh.nyc/1z9": 315,
+    "https://go.vansh.nyc/1zB": 330,
     "https://go.vansh.nyc/1zb": 316,
     "https://go.vansh.nyc/1zd": 317,
     "https://go.vansh.nyc/1zf": 317,
@@ -74101,6 +74122,7 @@
     "https://go.vansh.nyc/1z7": "https://thgrp.wd12.myworkdayjobs.com/Envita/job/Indianapolis-IN/Software-Engineering-Intern--Applied-AI_R-1727",
     "https://go.vansh.nyc/1z8": "https://thgrp.wd12.myworkdayjobs.com/Envita/job/Indianapolis-IN/Data-Scientist-Intern--Applied-AI_R-1728",
     "https://go.vansh.nyc/1z9": "https://uscareers-idemia.icims.com/jobs/8708/full-stack-software-engineering-internship/job",
+    "https://go.vansh.nyc/1zB": "https://jobs.ericsson.com/careers/job/563121776668074",
     "https://go.vansh.nyc/1zb": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404",
     "https://go.vansh.nyc/1zd": "https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job",
     "https://go.vansh.nyc/1zf": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
@@ -74768,7 +74790,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 329,
+  "scan_sequence": 330,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
