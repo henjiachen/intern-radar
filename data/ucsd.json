@@ -12080,13 +12080,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "it ot software engineer intern"
       },
-      "fingerprint": "45e72aab170b47ba11105d0d46fa95d0407b9996f5bbc260324f84349bb88806",
-      "revision": 1
+      "fingerprint": "acf5ba8e3f2b9218a63e6576a714431110e97ba8d423b93ddae0ecbad4f59208",
+      "revision": 2
     },
     "url:https://careers.cisco.com/global/en/job/ciscisglobal2024641externalenglobal/software-engineer-embedded-systems-i-intern-united-states": {
       "eligible": true,
@@ -14387,13 +14386,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "95f6dfe79b1e4ed095d38c941c87e5db63bcb5508b684ddb72c331af055a347a",
-      "revision": 1
+      "fingerprint": "105f34208477c111a0d0e7005c09411590516c0c1bf6f592bc8914911d1ab512",
+      "revision": 2
     },
     "url:https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us": {
       "eligible": true,
@@ -32045,7 +32043,6 @@
         "degrees": [],
         "locations": [
           "remote",
-          "remote in usa",
           "united states"
         ],
         "requirements": [],
@@ -32054,8 +32051,8 @@
         ],
         "title": "ai & automation builders intern"
       },
-      "fingerprint": "14197d8610c5e3dd6addf17916d5d9825a844118007e70c5dd8d2e628c22dc14",
-      "revision": 1
+      "fingerprint": "3cafc5b22c9663ad1c909246c999e35dd68b5b94ccab07616d8ad48c1dc9a0af",
+      "revision": 2
     },
     "url:https://internaljobs.centurylink.com/job/remote-ai-product-&-business-innovation-summer-2027-internship-pathway/1440948000?ats=successfactors": {
       "eligible": true,
@@ -45979,13 +45976,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "7ca9b86ee988c7b0a231c2160b341fa0cdcb3846b399c0ab6a21cce02dfbe49f",
-      "revision": 1
+      "fingerprint": "7bc8732095a5a50254bf79daf5ed6641d02c229e6eebdfe8276148e361d1369a",
+      "revision": 2
     },
     "url:https://jobs.l3harris.com/job/carlsbad-software-engineering-intern-ca-92009/1428454700?ats=successfactors": {
       "eligible": false,
@@ -46081,13 +46077,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "866b4fbfca8f40695ee4e072ba4e2b52da58cbc011e21ebfa31c44c199daf762",
-      "revision": 1
+      "fingerprint": "dcccba3fd26c27d0eaa40126091207fffdb9190987a7ecbcc61c61b7f50f1318",
+      "revision": 2
     },
     "url:https://jobs.l3harris.com/job/nashville-intern,-systems-engineering-tn-37203/1447657800?ats=successfactors": {
       "eligible": false,
@@ -46189,13 +46184,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "89f1657b42054c6b44d4ad78d4a70551a8669847bf78e90b26f0d7ff30734ac8",
-      "revision": 1
+      "fingerprint": "ca3289b37ed3240f0538af4e3c6a85b3d16fcb41f8f62f56d4e2264c8c63c1e2",
+      "revision": 2
     },
     "url:https://jobs.l3harris.com/job/salt-lake-city-intern,-software-engineer-(salt-lake-city,-ut)-ut-84116/1428480900?ats=successfactors": {
       "eligible": false,
@@ -48288,10 +48282,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern - technical"
+        "title": "software engineering intern, technical"
       },
-      "fingerprint": "1467636b9c20f11fc983ad8a2c89b40c0ccf88b7bdba10140885f8727d6cf4f1",
-      "revision": 1
+      "fingerprint": "4b22dfb24f35e65c4c5761e69102c40ba8fc9e0e4397664b7cd1cbc043ad6adf",
+      "revision": 2
     },
     "url:https://jobs.nvidia.com/careers/job/893397026185": {
       "eligible": true,
@@ -74716,7 +74710,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 323,
+  "scan_sequence": 324,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
