@@ -374,6 +374,7 @@
         "company": "adobe",
         "degrees": [],
         "locations": [
+          "lehi",
           "lehi, ut"
         ],
         "requirements": [],
@@ -382,13 +383,13 @@
         ],
         "title": "security engineer intern"
       },
-      "fingerprint": "87f71048c28ba98f2e49ac2a56362fa5f8131d4bbe90457c82b80cd61e261a00",
-      "revision": 6
+      "fingerprint": "454549d9c8a8b68dbc2afc003899543e55d316dc51673426f0d2fe95d156454f",
+      "revision": 7
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/london/xmlname-2027-intern---research-scientist_r173345": {
       "eligible": false,
-      "fingerprint": "36685df90c68e8aee85266e44bdda6f3d73124c35b690e458264c6c1faaeb7b6",
-      "revision": 2
+      "fingerprint": "fec9e0bed58f1344a085b0846be1cf08a1f011d983f9acd532cdcf91dd8b19d7",
+      "revision": 3
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---ai---architecture_r172998": {
       "eligible": true,
@@ -400,6 +401,7 @@
           "master's"
         ],
         "locations": [
+          "san jose",
           "san jose, ca"
         ],
         "requirements": [],
@@ -408,13 +410,13 @@
         ],
         "title": "ai & architecture intern"
       },
-      "fingerprint": "8112a6ea0aabb66162778fc2ae1ae4257c4699c9f6126186d186998f186ded02",
-      "revision": 5
+      "fingerprint": "ef323e4844f45c85172eb90b71de9a8272d386028be815945be131ebab766334",
+      "revision": 6
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---applied-and-research-scientist-engineer_r172064": {
       "eligible": false,
-      "fingerprint": "07b7d040c170041c40270e1c46fdc9bc144d912346daba586949f31cdc41553a",
-      "revision": 5
+      "fingerprint": "9aa3f64ed902d92457b2f80320931b7216f90b86124f42f5083c174c4e714efc",
+      "revision": 6
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---data--ai---innovation_r172997": {
       "eligible": true,
@@ -423,6 +425,7 @@
         "company": "adobe",
         "degrees": [],
         "locations": [
+          "san jose",
           "san jose, ca"
         ],
         "requirements": [],
@@ -431,8 +434,8 @@
         ],
         "title": "data, ai & innovation intern"
       },
-      "fingerprint": "320e42be5599a004ae869a6251f8cda42f9f02c119b57104c36f043089a4e79f",
-      "revision": 6
+      "fingerprint": "a8e515ef232a1e47d546532ae770751362caafe7be87f1dd0661d66e6b61322d",
+      "revision": 7
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---machine-learning-engineer_r171519": {
       "eligible": true,
@@ -445,6 +448,7 @@
           "phd"
         ],
         "locations": [
+          "7 locations",
           "austin, tx",
           "lehi, ut",
           "new york, ny",
@@ -461,8 +465,8 @@
         ],
         "title": "machine learning engineer intern"
       },
-      "fingerprint": "31e7e797e17d3830f10aa7e6d05bbab5be7388ce91366c06a26ae322c9b330d5",
-      "revision": 6
+      "fingerprint": "8069f0697d5a37f08bfe16c229de2eb4a77945ad6cd64cd0d9a6f5eb83c1b0db",
+      "revision": 7
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---security-engineer_r173001": {
       "eligible": true,
@@ -471,6 +475,7 @@
         "company": "adobe",
         "degrees": [],
         "locations": [
+          "san jose",
           "san jose, ca"
         ],
         "requirements": [],
@@ -479,8 +484,8 @@
         ],
         "title": "security engineer intern"
       },
-      "fingerprint": "3fbf2b5e96536bde52de03f005a44d35fea802aab6e68e13ae740a13adb4bdb1",
-      "revision": 6
+      "fingerprint": "ce7b73ae452f7737e5af82fea60718edb7e0e5f1f7432126492b6a7a86314780",
+      "revision": 7
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---software-engineer_r171666": {
       "eligible": true,
@@ -492,6 +497,7 @@
           "master's"
         ],
         "locations": [
+          "7 locations",
           "austin, tx",
           "lehi, ut",
           "nyc",
@@ -507,8 +513,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "0715d913abbe0500e361086d6740b74664ba32996c4068c34f524e62573567f9",
-      "revision": 5
+      "fingerprint": "ecb094e03660b4c2294c552f36b131a5cdb1e910735e5e391f5da3b5716d5f43",
+      "revision": 6
     },
     "url:https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-university-graduate---technical-support-consultant_r172785": {
       "eligible": false,
@@ -15972,8 +15978,8 @@
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----intern--winter-2027-_r031926": {
       "eligible": false,
-      "fingerprint": "2300b4177d90d797e15f4abcc2ec8425e20efa7f8571d6f19c225b683393eceb",
-      "revision": 5
+      "fingerprint": "9e0c0c8f6074a48689e8c503b5210a37b372428b675821329a50518242ebba2b",
+      "revision": 6
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/wavelogic-software-intern--summer-2027-_r031695": {
       "eligible": true,
@@ -15984,6 +15990,7 @@
           "bachelor's"
         ],
         "locations": [
+          "atlanta",
           "atlanta, ga"
         ],
         "requirements": [],
@@ -15992,18 +15999,18 @@
         ],
         "title": "software intern"
       },
-      "fingerprint": "9f5ebafc52d79cb5fcab953748aa33fae83aa53b6425a9b5c0a13fbf21f70f35",
-      "revision": 5
+      "fingerprint": "cfc9177c64634c08d666b8baf9896286dc9be0de455f3223d61430610e8d4e0f",
+      "revision": 6
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/wavelogic-software-intern-spring-2027_r031692": {
       "eligible": false,
-      "fingerprint": "00e18f4aa08bd1160c56f5dc380f2a83204222380d0d6e3f11a7c61f66deb1f8",
-      "revision": 6
+      "fingerprint": "d641bbcbf2180346152396dc780d4462474aefc4c1218bfaa0380c6bd1dc8479",
+      "revision": 7
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/montreal/services-business-intelligence---analytics-intern_r031851": {
       "eligible": false,
-      "fingerprint": "307a7903fdffbd41bd4bcb366576d9783cbf7e4780ff80c3441d7eae3e12d697",
-      "revision": 5
+      "fingerprint": "0a6a025ab13725373077d266003c71f9bd6567a3c87feafffe2feba60cb18ee2",
+      "revision": 6
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/ai---automation-intern---gcn-services-business-operations_r031664": {
       "eligible": false,
@@ -16012,23 +16019,28 @@
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/ai-ml-layout-engineering-intern--winter-2027-_r032102": {
       "eligible": false,
-      "fingerprint": "0243d2fdb8e41c1e92aa7f9ca5c782ad1b4efa3604777323abf1766ca03113d5",
-      "revision": 3
+      "fingerprint": "aaf09f4bc55f771c3e83144fc141a192cf1b3bb8ff68f5be82d62d618fe33246",
+      "revision": 4
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/embedded-software-engineer---co-op-winter-2027_r032005": {
       "eligible": false,
-      "fingerprint": "fc0450396e617d8d25fefd1babf129cec3bd74699317a705981e3fc828131b02",
-      "revision": 6
+      "fingerprint": "c9433d140f7c9725be50b3152ba11d097a2ca9cd14b803e6a9f4051f008809d8",
+      "revision": 7
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/hardware-characterization-automation-co-op--winter-2027-_r032014": {
       "eligible": false,
-      "fingerprint": "745bb783f5958444558a2ad29a03ab5b239c41efcdba87ac720de426bd96efe4",
-      "revision": 6
+      "fingerprint": "69112b59b7a6124567de68e16bd704ad92af86c94a02cc8da78b7a242d2ac4e9",
+      "revision": 7
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/software-developer-intern---winter-2027_r031953-1": {
       "eligible": false,
-      "fingerprint": "0e6e64db9c69c84c09723ac5bc141b52842ce51b00cc29af950e9340681e6a6e",
-      "revision": 5
+      "fingerprint": "eea62e5488c0853efe123a1dad7a9174106031ce3cc8ab751f9020eb1edeb4bf",
+      "revision": 6
+    },
+    "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/technical-solution-engineer--intern---se-i_r032114": {
+      "eligible": false,
+      "fingerprint": "3697e7d04997c1748ff630322dd736b0d956592838b5351c2f43959cc10cad32",
+      "revision": 1
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/wavelogic-embedded-software-developer-intern--winter-2027-_r031890": {
       "eligible": false,
@@ -16042,8 +16054,8 @@
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/quebec/stagiaire-en-dveloppement-logiciel---software-developer-intern-co-op_r032046": {
       "eligible": false,
-      "fingerprint": "cef066a237bb836c3e9b74523ff7f02768c856a8e3792af863c5e9c95ef5ade3",
-      "revision": 5
+      "fingerprint": "c5c31a7f1f7958b6a8aa8412e58fbb057bdd8558de1c3f013132ae740ae65cf4",
+      "revision": 6
     },
     "url:https://cigna.wd5.myworkdayjobs.com/cignacareers/job/bloomfield-ct/business-analytics-intern_26012472": {
       "eligible": true,
@@ -64316,6 +64328,7 @@
         "company": "synchrony financial",
         "degrees": [],
         "locations": [
+          "stamford hub",
           "stamford, ct"
         ],
         "requirements": [],
@@ -64324,8 +64337,8 @@
         ],
         "title": "digital technology center intern"
       },
-      "fingerprint": "e143bd7af4cbdd72a65e28d25048daea4ee900df1e286e5a591118b8e2679626",
-      "revision": 5
+      "fingerprint": "85f14041819ca0046206273cf3c854da7a31be5df3a8f5726ab52139b0c923a2",
+      "revision": 6
     },
     "url:https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/greenville-sc/summer-2027-internship-program---technical--applied-innovation-track----information-technology---supply-chain---systems-and-cloud---artificial-intelligence_r56571": {
       "eligible": true,
@@ -74790,7 +74803,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 331,
+  "scan_sequence": 332,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
