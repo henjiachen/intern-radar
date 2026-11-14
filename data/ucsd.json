@@ -65660,6 +65660,80 @@
       "fingerprint": "0a90d4dd946bd4d9aaa5f411efcad66b8ca116168b67f2de469df87daa9b2ef6",
       "revision": 2
     },
+    "url:https://trinzic.wd115.myworkdayjobs.com/trinzic_careers/job/chantilly-virginia/defense---intel--d-i----computer-science-internship_r3001231-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "kbr wyle services",
+        "degrees": [],
+        "locations": [
+          "ann arbor, mi",
+          "beavercreek, oh",
+          "chantilly, va",
+          "colorado springs, co",
+          "el segundo, ca",
+          "huntsville, al",
+          "kihei, hi",
+          "king of prussia, pa",
+          "lexington park, md",
+          "lexington, ma",
+          "orlando, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "computer science intern, defense & intel (d&i)"
+      },
+      "fingerprint": "c0d118812fd48edbe6f6e7ac34827f806c94d709aa98ace6bc0ed210effb15d2",
+      "revision": 1
+    },
+    "url:https://trinzic.wd115.myworkdayjobs.com/trinzic_careers/job/chantilly-virginia/defense---intel--d-i----software-engineering-internship_r3001235": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "kbr wyle services",
+        "degrees": [],
+        "locations": [
+          "ann arbor, mi",
+          "beavercreek, oh",
+          "chantilly, va",
+          "colorado springs, co",
+          "el segundo, ca",
+          "huntsville, al",
+          "kihei, hi",
+          "king of prussia, pa",
+          "lexington park, md",
+          "lexington, ma",
+          "orlando, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, defense & intel (d&i)"
+      },
+      "fingerprint": "1d8d5407b00c0ed23bbd509168fb478533164af13cc0e942131775027064b251",
+      "revision": 1
+    },
+    "url:https://trinzic.wd115.myworkdayjobs.com/trinzic_careers/job/sioux-falls-south-dakota/image-processing-software-engineer-intern_r2130067": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "kbr wyle services",
+        "degrees": [],
+        "locations": [
+          "sioux falls, sd"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "image processing software engineer intern"
+      },
+      "fingerprint": "c0630956958a1701d598eb5a203ecba77e9c9a82947c06532686df8f4a36366a",
+      "revision": 1
+    },
     "url:https://trustage.wd1.myworkdayjobs.com/trustage/job/madison-wi/it---innovation---ai-technology-internship--hybrid-_r-012293": {
       "eligible": true,
       "evidence": {
@@ -72527,6 +72601,9 @@
     "https://go.vansh.nyc/1zq": 319,
     "https://go.vansh.nyc/1zr": 319,
     "https://go.vansh.nyc/1zs": 319,
+    "https://go.vansh.nyc/1zx": 321,
+    "https://go.vansh.nyc/1zy": 321,
+    "https://go.vansh.nyc/1zz": 321,
     "https://go.vansh.nyc/38": 7,
     "https://go.vansh.nyc/3A": 2,
     "https://go.vansh.nyc/3F": 5,
@@ -73975,6 +74052,9 @@
     "https://go.vansh.nyc/1zq": "https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors",
     "https://go.vansh.nyc/1zr": "https://netapp.eightfold.ai/careers/job/45497201",
     "https://go.vansh.nyc/1zs": "https://netapp.eightfold.ai/careers/job/45498081",
+    "https://go.vansh.nyc/1zx": "https://trinzic.wd115.myworkdayjobs.com/trinzic_careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067",
+    "https://go.vansh.nyc/1zy": "https://trinzic.wd115.myworkdayjobs.com/trinzic_careers/job/Chantilly-Virginia/Defense---Intel--D-I----Computer-Science-Internship_R3001231-1",
+    "https://go.vansh.nyc/1zz": "https://trinzic.wd115.myworkdayjobs.com/trinzic_careers/job/Chantilly-Virginia/Defense---Intel--D-I----Software-Engineering-Internship_R3001235",
     "https://go.vansh.nyc/38": "https://tower-research.com/open-positions/?gh_jid=8044334",
     "https://go.vansh.nyc/3A": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
     "https://go.vansh.nyc/3F": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
@@ -74631,7 +74711,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 320,
+  "scan_sequence": 321,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
