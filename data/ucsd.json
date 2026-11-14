@@ -9408,6 +9408,24 @@
       "fingerprint": "cc33ae5b054105dd3e0bfea298f0eb555ffd2f309640053f3a46776475e49efb",
       "revision": 0
     },
+    "url:https://campingworld.wd5.myworkdayjobs.com/jobs/job/chicago-il/ai-security-intern_26_09083": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "camping world",
+        "degrees": [],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai security intern"
+      },
+      "fingerprint": "fd9cc916ca9225b229d769864ea9860c61b3fba8e1688d414551793cd7312da1",
+      "revision": 1
+    },
     "url:https://campingworld.wd5.myworkdayjobs.com/jobs/job/chicago-il/data-analyst-intern_26_09300": {
       "eligible": false,
       "fingerprint": "5a31cbe074f7a1a8646ccba35551ee28e209e5b680d3166ef3bd5087b31261ce",
@@ -11161,10 +11179,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software developer intern - go/golang experience"
+        "title": "software developer intern, go/golang"
       },
-      "fingerprint": "3866e7775d43e39251bf296264df164f3270764cafb111fb830ab2874aee16b8",
-      "revision": 1
+      "fingerprint": "4c2f9b5a95c3eae4e3a0980ce12c5e06405a175d2bced2386e4c475d483cc544",
+      "revision": 2
     },
     "url:https://careers-sdsurf.icims.com/jobs/21086/job": {
       "eligible": true,
@@ -25522,6 +25540,11 @@
       "fingerprint": "e24d501d76f7d05018f2befe412ead79debec3d0b3c2ecfdf3aaa945140a9264",
       "revision": 3
     },
+    "url:https://go.vansh.nyc/1cz": {
+      "eligible": false,
+      "fingerprint": "61d5e9719c7689b57e8a4635df52ed07e1edd2d1cfac54a46704ed7abcf49e1c",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1da": {
       "eligible": false,
       "fingerprint": "1b5cd4de2fba6866cc569d5ee41d42f4a743cbf3a75e99627e68f6675dcda702",
@@ -28073,17 +28096,16 @@
         "locations": [
           "bethlehem, pa",
           "holmdel, nj",
-          "new york, ny",
           "nyc"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "ai & machine learning intern, digital & technology"
+        "title": "summer intern - digital & technology - ai & machine learning"
       },
-      "fingerprint": "71b59ee00c3af253689af36e4572b9ce1d06346917cfb319c330f156438ae1f1",
-      "revision": 1
+      "fingerprint": "a413abd7b183551c5a69af8a53a989ea12efc7db57d85f06a1547d5802fad4a0",
+      "revision": 2
     },
     "url:https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/new-york/xmlname-2027-guardian-summer-intern--digital---technology---application-development_r000110209": {
       "eligible": true,
@@ -58357,8 +58379,8 @@
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/applied-deep-learning-phd-research-intern--reinforcement-learning-for-llms---fall-2026_jr2012398": {
       "eligible": false,
-      "fingerprint": "29f7a70b41aeab12fc1f33d176deb6eef279f2277a2010b27a8cba5f0b9a76d1",
-      "revision": 7
+      "fingerprint": "e8f71b3715d12a87e473a5aae16563a1e6b648d43e97df8d9f235b1bd5c64dad",
+      "revision": 8
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/applied-research-intern--integrated-sensing-and-communications--isac--nvidia-aerial---summer-2027_jr2028027": {
       "eligible": false,
@@ -58448,7 +58470,8 @@
           "phd"
         ],
         "locations": [
-          "santa clara, ca"
+          "santa clara, ca",
+          "us, ca, santa clara"
         ],
         "requirements": [],
         "terms": [
@@ -58456,13 +58479,13 @@
         ],
         "title": "deep learning computer architecture intern"
       },
-      "fingerprint": "8400d639ec1580c35c008e40f374818983a0d235147e4bc99f1cb9ebd4bb7d21",
-      "revision": 6
+      "fingerprint": "19ddc534ba6c591699e61c28e4ac0f36d56f30d8ba7c066679a703898edd0e23",
+      "revision": 7
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning_jr2023497-1": {
       "eligible": false,
-      "fingerprint": "9399de29e1069a4982e2865aecb980bfa8fe1de46195e24a13fa38cdfe4cf167",
-      "revision": 4
+      "fingerprint": "2e130a5f2868de76bac5cc0b2014e17423cca8877d592cd66ad19bbf812cddb2",
+      "revision": 5
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--software-engineering_jr2023495": {
       "eligible": true,
@@ -58476,7 +58499,8 @@
         ],
         "locations": [
           "canada",
-          "santa clara, ca"
+          "santa clara, ca",
+          "us, ca, santa clara"
         ],
         "requirements": [],
         "terms": [
@@ -58484,18 +58508,18 @@
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "08b7f10b1959656b88bfc09ddd927266fc46735ec94e85f59870e0b66d9fe933",
-      "revision": 7
+      "fingerprint": "11559cba0989c3fdad9fec0d533976dd1eb3774cded59f4a53023fc637303123",
+      "revision": 8
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--systems-software-engineering_jr2023492": {
       "eligible": false,
-      "fingerprint": "841e11a31695de396332da0d8756a2d660b0a6387a30ee0feaee132d86923242",
-      "revision": 7
+      "fingerprint": "3bf512e1a45b0e32930183181eeb6f72a2b5c2eb6c003867fa1dde5c13798744",
+      "revision": 8
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-spring-2027-internships--developer-and-performance-technology_jr2023499": {
       "eligible": false,
-      "fingerprint": "3adf5cde254efff996fa6334d8c7b186f37b1638a27226a7a1d7407695b76852",
-      "revision": 8
+      "fingerprint": "9febf0c3fb3d65cb99be9ec23ca8c6071c89eaa2873c8e09ae647c6c89091b92",
+      "revision": 9
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--ai-accelerator-design-and-vlsi---2027_jr2026584-1": {
       "eligible": false,
@@ -58539,8 +58563,8 @@
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--generative-ai---2026_jr2016035": {
       "eligible": false,
-      "fingerprint": "59b7a470a8f5d3ea85e51304f1edda5ad03bd15d38a704cae666e118ef67aafa",
-      "revision": 7
+      "fingerprint": "29bd436b1c572fd8c84d0a6bc0bc6091eaf61e24247872d86cbf91801993da65",
+      "revision": 8
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--generative-ai-for-physical-ai---2027_jr2025025": {
       "eligible": false,
@@ -72745,6 +72769,9 @@
     "https://go.vansh.nyc/1z8": 315,
     "https://go.vansh.nyc/1z9": 315,
     "https://go.vansh.nyc/1zB": 330,
+    "https://go.vansh.nyc/1zC": 334,
+    "https://go.vansh.nyc/1zE": 334,
+    "https://go.vansh.nyc/1zF": 334,
     "https://go.vansh.nyc/1zb": 316,
     "https://go.vansh.nyc/1zd": 317,
     "https://go.vansh.nyc/1zf": 317,
@@ -74197,6 +74224,9 @@
     "https://go.vansh.nyc/1z8": "https://thgrp.wd12.myworkdayjobs.com/Envita/job/Indianapolis-IN/Data-Scientist-Intern--Applied-AI_R-1728",
     "https://go.vansh.nyc/1z9": "https://uscareers-idemia.icims.com/jobs/8708/full-stack-software-engineering-internship/job",
     "https://go.vansh.nyc/1zB": "https://jobs.ericsson.com/careers/job/563121776668074",
+    "https://go.vansh.nyc/1zC": "https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job",
+    "https://go.vansh.nyc/1zE": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
+    "https://go.vansh.nyc/1zF": "https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Chicago-IL/AI-Security-Intern_26_09083",
     "https://go.vansh.nyc/1zb": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404",
     "https://go.vansh.nyc/1zd": "https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job",
     "https://go.vansh.nyc/1zf": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
@@ -74864,7 +74894,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 333,
+  "scan_sequence": 334,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
