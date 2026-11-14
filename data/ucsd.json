@@ -9408,6 +9408,36 @@
       "fingerprint": "cc33ae5b054105dd3e0bfea298f0eb555ffd2f309640053f3a46776475e49efb",
       "revision": 0
     },
+    "url:https://campingworld.wd5.myworkdayjobs.com/jobs/job/chicago-il/data-analyst-intern_26_09300": {
+      "eligible": false,
+      "fingerprint": "5a31cbe074f7a1a8646ccba35551ee28e209e5b680d3166ef3bd5087b31261ce",
+      "revision": 1
+    },
+    "url:https://campingworld.wd5.myworkdayjobs.com/jobs/job/chicago-il/data-engineering-intern_26_09297": {
+      "eligible": false,
+      "fingerprint": "5e1eaef8445ed0f4a25f8bf13d602aace7a98180bc2975dd2faa615bdd3d58dc",
+      "revision": 1
+    },
+    "url:https://campingworld.wd5.myworkdayjobs.com/jobs/job/lincolnshire-il/software-engineering-intern_26_09080": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "camping world",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "4edd5e0dfdb8aae17646b95e3c40b0e617706a7d73a404ab6be8b2c00242ef1d",
+      "revision": 1
+    },
     "url:https://campus-americas.icims.com/jobs/26246/job": {
       "eligible": false,
       "fingerprint": "9fddf87e4cbc585c1bfa6fd2c354903b51cfbd34a3b482312eca2ba0357d5a1f",
@@ -11116,6 +11146,24 @@
     "url:https://careers-sas.icims.com/jobs/42786/job": {
       "eligible": false,
       "fingerprint": "f87c1b6b3e32abb6294f7e8d198efa0cea245a4a20b7668841e728378b97ea71",
+      "revision": 1
+    },
+    "url:https://careers-sas.icims.com/jobs/42797/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "sas",
+        "degrees": [],
+        "locations": [
+          "cary, nc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern - go/golang experience"
+      },
+      "fingerprint": "3866e7775d43e39251bf296264df164f3270764cafb111fb830ab2874aee16b8",
       "revision": 1
     },
     "url:https://careers-sdsurf.icims.com/jobs/21086/job": {
@@ -18259,6 +18307,11 @@
       },
       "fingerprint": "bab0b2da008adfded48455074107b1796448db72d4da7dedcf0113d8f3a90403",
       "revision": 0
+    },
+    "url:https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/mount-holly-nc-us/it-developer-analyst-intern_dt-20681-1": {
+      "eligible": false,
+      "fingerprint": "ff0643341a80f5e97b2632dae26b0c6f389064a14df5d215f3decd2e3e63ecfc",
+      "revision": 1
     },
     "url:https://dtna.wd5.myworkdayjobs.com/dtna_external/job/mount-holly-nc-us/it-developer-analyst-intern_dt-20681": {
       "eligible": true,
@@ -55929,6 +55982,11 @@
       "fingerprint": "e23abf56a8d29d32744172317cd9f83686612ca93762dbced2d9b5d978a3f6fc",
       "revision": 1
     },
+    "url:https://martinmarietta.wd5.myworkdayjobs.com/martin_marietta_careers/job/raleigh-nc/intern--data-scientist_jr024144-1": {
+      "eligible": false,
+      "fingerprint": "8bfe529412e33d7da1b1c644a4d8fb99a26b3a9f7f730d4517c39081ddcef27f",
+      "revision": 1
+    },
     "url:https://martinmarietta.wd5.myworkdayjobs.com/martin_marietta_careers/job/raleigh-nc/intern--geographic-information-systems--summer-2027-_jr023605": {
       "eligible": true,
       "evidence": {
@@ -55953,20 +56011,23 @@
     "url:https://martinmarietta.wd5.myworkdayjobs.com/martin_marietta_careers/job/raleigh-nc/intern--software-data-integration-engineer_jr024146": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "martin marietta",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "raleigh, nc"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "software data integration engineer intern"
       },
-      "fingerprint": "59c6424edde894718f38645b1dddaa00ad094b8d17d1a15fdaf93b0774ce3881",
-      "revision": 1
+      "fingerprint": "d0e3e0c3854e03e494e80068f5e3af13cce13fdf5eb82988faad4e349107958c",
+      "revision": 2
     },
     "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/burlington-vt/sram-software-engineer-intern--bs---summer-2027_2603760-1": {
       "eligible": true,
@@ -74803,7 +74864,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 332,
+  "scan_sequence": 333,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
