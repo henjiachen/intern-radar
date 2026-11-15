@@ -37211,7 +37211,7 @@
       "eligible": true,
       "evidence": {
         "category": "hardware",
-        "company": "rocket lab usa",
+        "company": "rocket lab",
         "degrees": [
           "bachelor's",
           "master's",
@@ -37224,10 +37224,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "flight software intern"
+        "title": "flight software intern spring 2027"
       },
-      "fingerprint": "c17a170acb888707a06b7c544505198c01a5c8b2495c6267a22cee488ee84edf",
-      "revision": 0
+      "fingerprint": "17d68195720eff5588e0682c65d6a2f1ef681fb9004391fd6e6f97f885670bfb",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002": {
       "eligible": false,
@@ -75101,7 +75101,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 357,
+  "scan_sequence": 358,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
