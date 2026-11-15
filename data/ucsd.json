@@ -23464,6 +23464,11 @@
       "fingerprint": "d20129046c9331fd48916bf6455dc0d7ef8f42b7f6489eeb35ad6a7a7851748d",
       "revision": 1
     },
+    "url:https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/toronto-flexible/web-software-developer-intern--wfm-_jr112214-3": {
+      "eligible": false,
+      "fingerprint": "1d9548e12d3571318c026ebe85f89b5296108ce0b0b32832a69cf8757a952d95",
+      "revision": 1
+    },
     "url:https://genpt.wd1.myworkdayjobs.com/careers/job/birmingham-al-usa/cloud-developer-intern_r26_0000029133": {
       "eligible": false,
       "fingerprint": "cf12ae03a0bef8527d8e24ffb1c748b2af83a1938a80130315c006c62c651e97",
@@ -33118,8 +33123,8 @@
     },
     "url:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/software-analyst-intern_jr105187": {
       "eligible": false,
-      "fingerprint": "49490395bf0f3c920c7366911f324ae69d98bac3e05b4e218ae5f6c5d3d0b5d8",
-      "revision": 3
+      "fingerprint": "c54800b4373e0d55e57096c9b552b7354fd97edfc0af26eb897e741ea6e96662",
+      "revision": 4
     },
     "url:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/software-engineer-intern_jr105158": {
       "eligible": true,
@@ -58920,6 +58925,11 @@
       "fingerprint": "736d7d8286557eac9b01f4a9d656fcf4c102bf16b0651bd7790513c6ba4d1cd4",
       "revision": 0
     },
+    "url:https://oregonstate.wd501.myworkdayjobs.com/osu_careers_site/job/corvallis-main-campus/student-developer---cass-software-development-group_jr0001296": {
+      "eligible": false,
+      "fingerprint": "a53ab4cb472cf50bb483d53cfd7ef45d62f06e19029d5201feb26c5435828b89",
+      "revision": 1
+    },
     "url:https://osc.wd3.myworkdayjobs.com/osccareers/job/ca-on-toronto/economic--market---analysis-co-op-student_jr100976": {
       "eligible": false,
       "fingerprint": "f71b4b470bf934c5bd34aa6887facbd6a1f31a3ee2594cbb0fa4b440c67339bf",
@@ -71734,6 +71744,27 @@
       "fingerprint": "fd2657412e5622bc444ff3a34007427b1cce79fded2a352c0986c9c7b9373c72",
       "revision": 0
     },
+    "url:https://xboxgaming.wd1.myworkdayjobs.com/blizzard_external_careers/job/irvine---blizzard---blizzard-way/blizzard-2027-summer-internships---animation---cinematic-tools-engineering_r028350": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "blizzard entertainment",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "irvine, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "animation & cinematic tools engineering intern - animation & cinematic tools engineering"
+      },
+      "fingerprint": "35ab0b9e76dd31747967db8dce2aaec4f1bf73b1d7f990791e6424ae6211c11e",
+      "revision": 1
+    },
     "url:https://xboxgaming.wd1.myworkdayjobs.com/external/job/sherman-oaks/activision-2027-summer-internships---software-engineering_r028039": {
       "eligible": true,
       "evidence": {
@@ -75035,7 +75066,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 346,
+  "scan_sequence": 347,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

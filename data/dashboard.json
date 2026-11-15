@@ -17,6 +17,21 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823"
     },
     {
+      "company": "Blizzard Entertainment",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f7dfee2256bdf78a6a74b9707f0096b887b71fddfb448d4aee62c7d16d87c39e",
+      "locations": [
+        "Irvine, CA"
+      ],
+      "posted_at": "2026-11-13",
+      "priority": 2,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering",
+      "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350"
+    },
+    {
       "company": "US Internships Public Careers Site",
       "graduation_detail": "\ud83d\udcc5 Grad year stated: graduation between May 2026 and December 2029 from an accredited university",
       "graduation_status": "stated",
@@ -11911,36 +11926,6 @@
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831"
     },
     {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "33769426d741dc9add5609b2e49ef0b097280ca3c6f8d0fb814c0b158558c9ee",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Americas - Engineering",
-      "url": "https://higher.gs.com/roles/171565?type=students"
-    },
-    {
-      "company": "Goldman Sachs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4e4fa419dc307bcd7d8ceb9d653ab92d7cb47aec8f94029e1e1cf2dc04400a10",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-08-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Summer Analyst Intern - Engineering",
-      "url": "https://higher.gs.com/roles/171553?type=students"
-    },
-    {
       "company": "Gordon Food Service",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -15218,36 +15203,6 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://www.janestreet.com/join-jane-street/position/8599644002/"
-    },
-    {
-      "company": "JM Family",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "a2d2a3cf4b3c46de0506ff5ccd1e46f5ba720be517a36e3a7e29db4fc009aff7",
-      "locations": [
-        "Deerfield Beach, FL"
-      ],
-      "posted_at": "2026-11-05",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Analytics Intern",
-      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200"
-    },
-    {
-      "company": "JM Family",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4aa3930cfd9ff0c867fc6993cdbeaaf2a19b5f69217a4766e5fc125fa9266d72",
-      "locations": [
-        "Deerfield Beach, FL"
-      ],
-      "posted_at": "2026-11-05",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Engineer Intern",
-      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086"
     },
     {
       "company": "JM Family",
@@ -30218,7 +30173,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-15T07:23:08.494369+00:00",
+  "last_checked": "2026-11-15T09:02:22.332998+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
