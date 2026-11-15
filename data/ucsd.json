@@ -62353,6 +62353,24 @@
       "fingerprint": "529063fe7274d6a339bf11e86f4068d768eb9d1a3b1931221c8dd8d0d239d6e4",
       "revision": 1
     },
+    "url:https://rodriguezservicesllc.applytojob.com/apply/egcmxtmt7k/2027-software-engineer-intern-placement-year": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "rodriguez services",
+        "degrees": [],
+        "locations": [
+          "san francisco, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "da98d730e981c3e58fdc66e1eccc6566048bde7a2306bef474446ee4b267de21",
+      "revision": 1
+    },
     "url:https://rollsroyce.wd3.myworkdayjobs.com/intern_graduate/job/indianapolis/integrated-control-systems-engineer-intern--software-_jr6161452": {
       "eligible": false,
       "fingerprint": "cda181e03cbee3f12e6974431aff281607ae402f174f2f0199960a0a4c1e9606",
@@ -62803,6 +62821,7 @@
         "degrees": [],
         "locations": [
           "arlington county, arlington, va",
+          "arlington, va",
           "newark, de"
         ],
         "requirements": [],
@@ -62811,8 +62830,8 @@
         ],
         "title": "data science and engineering intern"
       },
-      "fingerprint": "2b73d113c8792dfff6c7641d729a39c6b58487c5f39a789f84004d467e995236",
-      "revision": 0
+      "fingerprint": "25431a56ff1bafebd24da9868a6a08fe9fc3087a3784a7420e4d50876fcd6bf5",
+      "revision": 1
     },
     "url:https://sanofi.wd3.myworkdayjobs.com/sanoficareers/job/cambridge-ma/xmlname-2027-summer-intern-us-advanced-analytics-cambridge-ma_r2865218": {
       "eligible": true,
@@ -72953,6 +72972,8 @@
     "https://go.vansh.nyc/1zH": 338,
     "https://go.vansh.nyc/1zK": 338,
     "https://go.vansh.nyc/1zP": 345,
+    "https://go.vansh.nyc/1zR": 356,
+    "https://go.vansh.nyc/1zS": 356,
     "https://go.vansh.nyc/1zb": 316,
     "https://go.vansh.nyc/1zd": 317,
     "https://go.vansh.nyc/1zf": 317,
@@ -74411,6 +74432,8 @@
     "https://go.vansh.nyc/1zH": "https://career4.successfactors.com/career?career_ns=job_listing&company=cintasP2&career_job_req_id=240097",
     "https://go.vansh.nyc/1zK": "https://owlcyberdefense.catsone.com/careers/89333/jobs/16868874-Software-Engineering-Intern",
     "https://go.vansh.nyc/1zP": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
+    "https://go.vansh.nyc/1zR": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659",
+    "https://go.vansh.nyc/1zS": "https://rodriguezservicesllc.applytojob.com/apply/EGcmxtMt7K/2027-Software-Engineer-Intern-Placement-Year",
     "https://go.vansh.nyc/1zb": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404",
     "https://go.vansh.nyc/1zd": "https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job",
     "https://go.vansh.nyc/1zf": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
@@ -75078,7 +75101,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 355,
+  "scan_sequence": 356,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
