@@ -9448,6 +9448,25 @@
       "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors"
     },
     {
+      "company": "Eight Sleep",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "7735da1b3856a31fc6cc52d39d6e17cd6fd46c4d9afd3bf846191029195e0d2c",
+      "locations": [
+        "Washington, DC",
+        "SF",
+        "Austin, TX",
+        "LA",
+        "NYC"
+      ],
+      "posted_at": "2026-11-14",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Firmware Intern",
+      "url": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b/application?embed=true"
+    },
+    {
       "company": "Elas",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -15234,21 +15253,6 @@
       "company": "JM Family",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "9c94818c26b6696d0156263b8e6e6939280e383392aa4d1544d45d649f3615bd",
-      "locations": [
-        "Deerfield Beach, FL"
-      ],
-      "posted_at": "2026-11-05",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Analyst Intern",
-      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187"
-    },
-    {
-      "company": "JM Family",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "954654ee6a9591cf32c4b2e10c485ce7181c5cc109294c40aec99ed42b8ba212",
       "locations": [
         "Deerfield Beach, FL"
@@ -17741,21 +17745,6 @@
       "source": "vanshb03",
       "title": "Data Science and Engineering Intern",
       "url": "https://careers.mitre.org/us/en/job/R117661/Data-Science-and-Engineering-Intern"
-    },
-    {
-      "company": "MITRE",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "5a3cf60e224b5527b17783ab82d14e030e615ee03fbe59c00801c76f110243ce",
-      "locations": [
-        "McLean, VA"
-      ],
-      "posted_at": "2026-11-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Data Science Intern",
-      "url": "https://careers.mitre.org/us/en/job/R117632/Data-Science-Intern"
     },
     {
       "company": "MITRE",
@@ -30229,7 +30218,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-15T05:09:03.308200+00:00",
+  "last_checked": "2026-11-15T06:04:42.973799+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

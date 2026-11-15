@@ -1466,8 +1466,8 @@
     },
     "url:https://amat.wd1.myworkdayjobs.com/external/job/billericama/xmlname-2027-spring-software-engineer-co-op--billerica--ma-_r2631540": {
       "eligible": false,
-      "fingerprint": "8a429ef36a9e116849c5613b1aeb02d228593ec3f617b60371bfc35cbe0000cc",
-      "revision": 1
+      "fingerprint": "afead6a6ab8f454c851d6c43492859f7027597edffbf17fed8030a2b335a6fc0",
+      "revision": 2
     },
     "url:https://amat.wd1.myworkdayjobs.com/external/job/gloucesterma/xmlname-2027-spring-data-scientist-co-op---gloucester--ma_r2632146": {
       "eligible": false,
@@ -25889,6 +25889,11 @@
       "fingerprint": "8f1b4ef727d9d488cf622f494697fd4ab2fca3d0cc0249b5a374b511b2c9b3f3",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1kn": {
+      "eligible": false,
+      "fingerprint": "820ba2a1eb053e48cb65427de130ab41fc9333aa734fd177395f1a44153d0ad4",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1kr": {
       "eligible": false,
       "fingerprint": "44d0da647fe3bff377c948b25dc1a5c16ff260b131f5e5c548953d282c3eb7ca",
@@ -33112,25 +33117,9 @@
       "revision": 0
     },
     "url:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/software-analyst-intern_jr105187": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "jm family",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "deerfield beach, fl"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software analyst intern"
-      },
-      "fingerprint": "5d305cbab5643b874d0b5d31dbf248a6a4ba2ca7aa3167c2b50164cea116ed70",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "49490395bf0f3c920c7366911f324ae69d98bac3e05b4e218ae5f6c5d3d0b5d8",
+      "revision": 3
     },
     "url:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/software-engineer-intern_jr105158": {
       "eligible": true,
@@ -40217,9 +40206,32 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b": {
-      "eligible": false,
-      "fingerprint": "a24f0d9604065b30540b51439f4400f5a0a513ce2f0c6a3c2d7984ecee67767a",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "eight sleep",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "austin, tx",
+          "la",
+          "new york, ny",
+          "nyc",
+          "san francisco, ca",
+          "sf",
+          "washington, dc"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "firmware intern"
+      },
+      "fingerprint": "de280fabd9ebc1ef15f5204a014bd9431af73859b69cf59edf9cd9ef3b79d1cb",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2": {
       "eligible": false,
@@ -72897,6 +72909,7 @@
     "https://go.vansh.nyc/1zF": 334,
     "https://go.vansh.nyc/1zH": 338,
     "https://go.vansh.nyc/1zK": 338,
+    "https://go.vansh.nyc/1zP": 345,
     "https://go.vansh.nyc/1zb": 316,
     "https://go.vansh.nyc/1zd": 317,
     "https://go.vansh.nyc/1zf": 317,
@@ -74354,6 +74367,7 @@
     "https://go.vansh.nyc/1zF": "https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Chicago-IL/AI-Security-Intern_26_09083",
     "https://go.vansh.nyc/1zH": "https://career4.successfactors.com/career?career_ns=job_listing&company=cintasP2&career_job_req_id=240097",
     "https://go.vansh.nyc/1zK": "https://owlcyberdefense.catsone.com/careers/89333/jobs/16868874-Software-Engineering-Intern",
+    "https://go.vansh.nyc/1zP": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
     "https://go.vansh.nyc/1zb": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404",
     "https://go.vansh.nyc/1zd": "https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job",
     "https://go.vansh.nyc/1zf": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
@@ -75021,7 +75035,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 344,
+  "scan_sequence": 345,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
