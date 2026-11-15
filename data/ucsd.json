@@ -9785,6 +9785,24 @@
       "fingerprint": "042721ac706328a78f7e1c45c237af48285ee42baafc57ff3ec900915fba51a7",
       "revision": 1
     },
+    "url:https://career5.successfactors.eu/career?career_ns=job_listing&company=paccarinc&career_job_req_id=73885": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "paccar",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern"
+      },
+      "fingerprint": "4c0de94bacf35649fa23acbf663d5f59cf7fe002a807e13e57db027cca86550c",
+      "revision": 1
+    },
     "url:https://career55.sapsf.eu/career?career_ns=job_listing&company=SephoraUS&career_job_req_id=297534": {
       "eligible": true,
       "evidence": {
@@ -26326,14 +26344,23 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/1zt": {
-      "eligible": false,
-      "fingerprint": "cd47c4c12f22eb0abd88f7633729aac47c695cba6a9758deb7e280f5a1cbdae1",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1zu": {
-      "eligible": false,
-      "fingerprint": "41fc368ee9b990ecef051293479ada977bbb5743bd0e3907c011a548850fd51b",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "pason & iws career",
+        "degrees": [],
+        "locations": [
+          "calgary, canada",
+          "shakopee, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern, datahub"
+      },
+      "fingerprint": "72908e557867c67b6e781f791555f4728d409dfc77b5c548c0f5341920f71d7f",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/2k": {
       "eligible": false,
@@ -72974,6 +73001,7 @@
     "https://go.vansh.nyc/1zP": 345,
     "https://go.vansh.nyc/1zR": 356,
     "https://go.vansh.nyc/1zS": 356,
+    "https://go.vansh.nyc/1zV": 360,
     "https://go.vansh.nyc/1zb": 316,
     "https://go.vansh.nyc/1zd": 317,
     "https://go.vansh.nyc/1zf": 317,
@@ -74434,6 +74462,7 @@
     "https://go.vansh.nyc/1zP": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
     "https://go.vansh.nyc/1zR": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659",
     "https://go.vansh.nyc/1zS": "https://rodriguezservicesllc.applytojob.com/apply/EGcmxtMt7K/2027-Software-Engineer-Intern-Placement-Year",
+    "https://go.vansh.nyc/1zV": "https://career5.successfactors.eu/career?career_ns=job_listing&company=paccarinc&career_job_req_id=73885",
     "https://go.vansh.nyc/1zb": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404",
     "https://go.vansh.nyc/1zd": "https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job",
     "https://go.vansh.nyc/1zf": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
@@ -75101,7 +75130,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 359,
+  "scan_sequence": 360,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

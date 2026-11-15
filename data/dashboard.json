@@ -14114,21 +14114,6 @@
       "company": "Ingredion",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "03e917eaa9b9360740d8a260c3fa616df7033457608303faa5f3f32e40735e65",
-      "locations": [
-        "Bridgewater, NJ"
-      ],
-      "posted_at": "2026-09-01",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Digital Innovation Intern",
-      "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Digital-Innovation-Intern_Req-40180-1"
-    },
-    {
-      "company": "Ingredion",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "b45e81499a5d6ea3d7a74127d5952547832a2f6234b8f84e8093acbe78bc2dac",
       "locations": [
         "Westchester, IL"
@@ -19762,6 +19747,21 @@
       "company": "Paccar",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "928a9960028308c10ab384f0262bf950329bffd1566cb6028b9081b83df3c4ce",
+      "locations": [
+        "United States"
+      ],
+      "posted_at": "2026-11-14",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://career5.successfactors.eu/career?career_ns=job_listing&company=paccarinc&career_job_req_id=73885"
+    },
+    {
+      "company": "Paccar",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "38dea938fef15fad15c1d38205257618313ce1e3194bb6626f93b44a47a92677",
       "locations": [
         "Denton, TX"
@@ -23137,6 +23137,21 @@
       "source": "simplify",
       "title": "Computer Science Intern",
       "url": "https://careers-sdsurf.icims.com/jobs/21086/job?mobile=true&needsRedirect=false"
+    },
+    {
+      "company": "Seagate Technology",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "b313612def7cf6b885d1ca8c180d12650bdf8f8c4a7309d6d48ae1c4455cbddc",
+      "locations": [
+        "Shakopee, MN"
+      ],
+      "posted_at": "2026-11-14",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Embedded Firmware Intern, Research Group",
+      "url": "https://go.vansh.nyc/1zt"
     },
     {
       "company": "Seagate Technology",
@@ -30186,7 +30201,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-15T20:53:51.333333+00:00",
+  "last_checked": "2026-11-15T21:53:16.091240+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
