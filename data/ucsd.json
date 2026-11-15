@@ -16772,7 +16772,7 @@
     "url:https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/advanced-computing-lab-intern---summer-2027-_2025336": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "hardware",
         "company": "carnegie mellon university",
         "degrees": [],
         "locations": [
@@ -16784,13 +16784,28 @@
         ],
         "title": "advanced computing lab intern"
       },
-      "fingerprint": "a13f1fd917bae92a15cba7832cf4d320d06e1a9c16530e8a53ee7d3bcef1ef34",
+      "fingerprint": "6c52bc37e2f19d321741fa1945b12da321ef5c56d765544fdb90daf652819008",
+      "revision": 2
+    },
+    "url:https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/agentic-development-intern_2025292": {
+      "eligible": false,
+      "fingerprint": "a4c2e7b747ced73c6350cbf35acb1192eb475489b40a822928060543de061ddd",
+      "revision": 1
+    },
+    "url:https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/cyber-ai-engineering-intern--spring-2027-_2025346-1": {
+      "eligible": false,
+      "fingerprint": "7203fd797fd8c85af1d635fe1ad3947a690915dbfb30185954297f0f6aac95d0",
+      "revision": 1
+    },
+    "url:https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/enabling-mission-capability-at-scale-intern---summer-2027_2025300": {
+      "eligible": false,
+      "fingerprint": "3a63844a4bf911059fcc9be603f2a30433e4d3221b65cd0d343615cba8953358",
       "revision": 1
     },
     "url:https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/full-stack-software-development-intern_2025287-1": {
       "eligible": false,
-      "fingerprint": "3ac7457f0a5883ccba777fe6504bad12b7f6bf12a55423f87a0f384aae9c93bc",
-      "revision": 1
+      "fingerprint": "c0d591d8522b9a6cce9bd8c2555398f8cc31ef29ab340726ee26a7f69fe6234d",
+      "revision": 2
     },
     "url:https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/advanced-computing-lab-intern---summer-2027-_2025336-1": {
       "eligible": true,
@@ -35137,6 +35152,11 @@
       "eligible": false,
       "fingerprint": "3d6ba5a8361d43754b695170879eb83e368e56178b8653cb23b165a76cefae08",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009": {
+      "eligible": false,
+      "fingerprint": "21639e52df5b08287cc0d0b4112361668c0a79f3d49ad614b633f6f0c0e4ac86",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/faradayfuture/jobs/7828531003": {
       "eligible": false,
@@ -75058,7 +75078,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 354,
+  "scan_sequence": 355,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
