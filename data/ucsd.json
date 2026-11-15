@@ -40211,32 +40211,9 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "eight sleep",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "austin, tx",
-          "la",
-          "new york, ny",
-          "nyc",
-          "san francisco, ca",
-          "sf",
-          "washington, dc"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "firmware intern"
-      },
-      "fingerprint": "de280fabd9ebc1ef15f5204a014bd9431af73859b69cf59edf9cd9ef3b79d1cb",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "a24f0d9604065b30540b51439f4400f5a0a513ce2f0c6a3c2d7984ecee67767a",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2": {
       "eligible": false,
@@ -75066,7 +75043,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 347,
+  "scan_sequence": 348,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
