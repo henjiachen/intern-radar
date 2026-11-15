@@ -1556,10 +1556,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "summer 2027 software engineer intern- bachelor's/master's - santa clara - ca"
+        "title": "software engineer intern"
       },
-      "fingerprint": "d808d0e4f28ee8ee5bd2dfbe230b1efb0f2582c987f7a95acc09c6f8e8ca3a50",
-      "revision": 2
+      "fingerprint": "28e98639ca3ab9bd1858f5a892aeac39b3c6077d3226adad08fb18f9771c9d6e",
+      "revision": 3
     },
     "url:https://amat.wd1.myworkdayjobs.com/external/job/santa-claraca/xmlname-2026-summer-intern---physics---ai-modeling-engineering_r2616095": {
       "eligible": false,
@@ -25020,20 +25020,24 @@
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-tx-richardson-c17--1717-cityline-dr--cityline-c17/software-engineering-co-op--summer-fall-_01884404": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "rtx",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "richardson, tx"
         ],
         "requirements": [],
         "terms": [
+          "fall 2027",
           "summer 2027"
         ],
         "title": "software engineering co-op"
       },
-      "fingerprint": "0a4964c9e9b5996d1bf14e81ddc9d8b30d17869579efa73d5b84cad9098dd2e6",
-      "revision": 1
+      "fingerprint": "8e814912d24b0c109697f94015c7d9ffe8b87f9c001258ff8eae71a8d0e5b8c3",
+      "revision": 2
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-tx-richardson-c17--1717-cityline-dr--cityline-c17/software-engineering-intern--summer-2027-_01888049": {
       "eligible": true,
@@ -40211,6 +40215,11 @@
       "eligible": false,
       "fingerprint": "f8c914ca1e4cff67bb8b1d619cc70ec0557004dcb3bdf46573223ab3ae9e54b8",
       "revision": 0
+    },
+    "url:https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b": {
+      "eligible": false,
+      "fingerprint": "a24f0d9604065b30540b51439f4400f5a0a513ce2f0c6a3c2d7984ecee67767a",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2": {
       "eligible": false,
@@ -75012,7 +75021,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 340,
+  "scan_sequence": 341,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
