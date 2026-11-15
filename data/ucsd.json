@@ -57466,6 +57466,11 @@
       "fingerprint": "2135350b482ca2b8a96e65748cd201b7d9a60b757941bb7466d6aeaedea102ca",
       "revision": 1
     },
+    "url:https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/dundee-gbr/software-engineering-internship_r1154942": {
+      "eligible": false,
+      "fingerprint": "6124e7d6e64cf21346574ea652122334f4d53c0e894fcdd3cbfb9d3961100d62",
+      "revision": 1
+    },
     "url:https://nebius.com/early-talent-program/swe-ml?gh_jid=5024729101": {
       "eligible": false,
       "fingerprint": "89fac483b0e31f376090682966cd1e33f32cde7c738ff39a2fec382f85939efe",
@@ -75043,7 +75048,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 349,
+  "scan_sequence": 350,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
