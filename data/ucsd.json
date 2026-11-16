@@ -12329,9 +12329,7 @@
           "bachelor's"
         ],
         "locations": [
-          "boston, ma",
-          "boston, ma +1",
-          "nyc"
+          "boston, ma +1"
         ],
         "requirements": [
           "this job is available in various departments within our company; to conform to us export control regulations, some of these roles may require candidates to be eligible for any required authorizations from the us government."
@@ -12339,10 +12337,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - summer"
+        "title": "software engineering intern - summer"
       },
-      "fingerprint": "8d11fe1fe2c3ee6479ceb9a2fcd11118d602b492bc0aa866d15f5880b574f7ab",
-      "revision": 2
+      "fingerprint": "d557500c56a616c35b49939d4efa65abaaca64070af0bd08d72b86c73a40046d",
+      "revision": 3
     },
     "url:https://careers.datadoghq.com/detail/8114161?gh_jid=8114161": {
       "eligible": false,
@@ -19671,6 +19669,42 @@
       "fingerprint": "c1f5b18d52e622ff02a282dc6ff6523bfd346719d2bbba23ef90b47252f2b936",
       "revision": 1
     },
+    "url:https://eicl.fa.em5.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/14311": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "carnival corporation",
+        "degrees": [],
+        "locations": [
+          "miami, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data & ai solutions intern"
+      },
+      "fingerprint": "21e3a82cd5f8548ebe820a7b9c85673b7d75987af3b3385d1266086d2f07b918",
+      "revision": 1
+    },
+    "url:https://eicl.fa.em5.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/14465": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "carnival corporation",
+        "degrees": [],
+        "locations": [
+          "miami, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "revenue data science intern"
+      },
+      "fingerprint": "ebbc6caf889cbcd2235fd306454c130cef699be2a21f9423ddb1d6805f596d25",
+      "revision": 1
+    },
     "url:https://ejhp.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_2/job/2627417": {
       "eligible": true,
       "evidence": {
@@ -25577,11 +25611,6 @@
     "url:https://go.vansh.nyc/1al": {
       "eligible": false,
       "fingerprint": "23c691c1aec629de00a6ba6fa3279af6d9478464060b20f4a8212c4eb017b598",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1am": {
-      "eligible": false,
-      "fingerprint": "b5b9d3e5aa2db3202ab3d92839fc8d27ea3a1c7132fc01d31c5cadb335af8612",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1ap": {
@@ -38198,17 +38227,16 @@
         "company": "the new york times",
         "degrees": [],
         "locations": [
-          "new york city, ny",
-          "nyc"
+          "new york city, ny"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "full-stack engineer intern"
+        "title": "full-stack engineering intern"
       },
-      "fingerprint": "01354b5b820a4efd455175c7c8ee6a625178626d8c679b7655371519bff44df6",
-      "revision": 2
+      "fingerprint": "86e711ba0988ad123bee5534e61ac7ed53487167439d962ea0009e14cbf57313",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005": {
       "eligible": true,
@@ -38217,17 +38245,16 @@
         "company": "the new york times",
         "degrees": [],
         "locations": [
-          "new york city, ny",
-          "nyc"
+          "new york city, ny"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "frontend engineer intern"
+        "title": "frontend engineering intern"
       },
-      "fingerprint": "dfbbb676295520db06197f71b31438e49904b566d253f8eba458761eb0970e8d",
-      "revision": 2
+      "fingerprint": "97f5563bacd8d3b5a46a9a564fa9a9ad50f4bfbbbfe7dd6c2d82577983a61805",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005": {
       "eligible": true,
@@ -47847,6 +47874,24 @@
       "fingerprint": "7d2a9bb00d9a59cce9526cb449150a19a49997a4d9864c334b03f61c3a711707",
       "revision": 0
     },
+    "url:https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "quest analytics",
+        "degrees": [],
+        "locations": [
+          "overland park, ks"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, c#, asp.net"
+      },
+      "fingerprint": "781dde3485852e36c2df0ce33be94f1d2c82b7fb1d0257216ce06f763c16cb0c",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/researchinnovations.com/a89efcb2-9e6c-44fe-8441-cf12dc3a1181": {
       "eligible": false,
       "fingerprint": "b4bf8de6e6a9991bf3bab08faecad38d9871975c4ec0787f6537eef14ca456ed",
@@ -48204,6 +48249,11 @@
       "fingerprint": "b5238a5be6d1d1dca28581448ad43c7480ee3b5876a190e9290ed8ac2e1099c3",
       "revision": 1
     },
+    "url:https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476": {
+      "eligible": false,
+      "fingerprint": "c8de66f51cfdfd468b1f80c74f0d42508f2e4ad918bb762b472c25c4a1430df5",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871": {
       "eligible": true,
       "evidence": {
@@ -48232,8 +48282,8 @@
     },
     "url:https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4": {
       "eligible": false,
-      "fingerprint": "8536c2b73bf6f8f689abbeb896153c0028f892ab2b8e8d8580ce68670006b868",
-      "revision": 5
+      "fingerprint": "1d37cc73665f192f893182189ff3067b1cfc4de2d9da16fe553692cdb48f6aa4",
+      "revision": 6
     },
     "url:https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f": {
       "eligible": false,
@@ -48302,8 +48352,8 @@
     },
     "url:https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b": {
       "eligible": false,
-      "fingerprint": "8536c2b73bf6f8f689abbeb896153c0028f892ab2b8e8d8580ce68670006b868",
-      "revision": 5
+      "fingerprint": "1d37cc73665f192f893182189ff3067b1cfc4de2d9da16fe553692cdb48f6aa4",
+      "revision": 6
     },
     "url:https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43": {
       "eligible": false,
@@ -52202,13 +52252,12 @@
         ],
         "requirements": [],
         "terms": [
-          "summer 2026",
           "summer 2027"
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "4cf91cafa146ab9b795733f50be8e46bbb5e211197f4e893b2d2400293e1e68c",
-      "revision": 1
+      "fingerprint": "f35ed19396dfb35e84eb01b570ad259b05040337f5169c0360a0ca9a7a0a1d36",
+      "revision": 2
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/software-intern_2642700-1": {
       "eligible": true,
@@ -68741,10 +68790,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "manufacturing software test intern"
+        "title": "manufacturing software test intern - summer 2027"
       },
-      "fingerprint": "f2d6ebe66f1896bd5bdaeaf5dd3f16cb5ac11860eccfdab8ac30b02e86c71eb9",
-      "revision": 1
+      "fingerprint": "7fa86a35e818a99f004525b4eb3ce43fb235ad9bfcf0cdd73640753b42dbe0d8",
+      "revision": 2
     },
     "url:https://wing.com/careers/8872471002?gh_jid=8872471002": {
       "eligible": true,
@@ -72579,6 +72628,9 @@
     "https://go.vansh.nyc/1A6": 368,
     "https://go.vansh.nyc/1A8": 369,
     "https://go.vansh.nyc/1Aa": 370,
+    "https://go.vansh.nyc/1Ag": 371,
+    "https://go.vansh.nyc/1Ah": 371,
+    "https://go.vansh.nyc/1Al": 371,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -74044,6 +74096,9 @@
     "https://go.vansh.nyc/1A6": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
     "https://go.vansh.nyc/1A8": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
     "https://go.vansh.nyc/1Aa": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
+    "https://go.vansh.nyc/1Ag": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14311",
+    "https://go.vansh.nyc/1Ah": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14465",
+    "https://go.vansh.nyc/1Al": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -75290,7 +75345,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 370,
+  "scan_sequence": 371,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

@@ -6780,6 +6780,36 @@
       "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1"
     },
     {
+      "company": "Carnival Corporation",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "209e7478ad1d3bfed0402e58fa4034fb730470b4a311fd8d0dcf796f4db75f26",
+      "locations": [
+        "Miami, FL"
+      ],
+      "posted_at": "2026-11-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data & AI Solutions Intern",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14311"
+    },
+    {
+      "company": "Carnival Corporation",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5e1213a69cdd5699907db578dd351b1bc4707c3fd1b4ca2686e5481c16d9acb4",
+      "locations": [
+        "Miami, FL"
+      ],
+      "posted_at": "2026-11-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Revenue Data Science Intern",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14465"
+    },
+    {
       "company": "Cboe",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -8405,14 +8435,13 @@
       "graduation_status": "not_found",
       "id": "c7634d38fc2cd910596d1d6b8ce4ad136ee91cdd09fbf524ee5ef4352264d196",
       "locations": [
-        "Boston, MA",
-        "NYC"
+        "Boston, MA +1"
       ],
-      "posted_at": "2026-09-08",
+      "posted_at": "2026-09-09",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Summer",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Summer",
       "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"
     },
     {
@@ -11833,21 +11862,6 @@
       "source": "simplify",
       "title": "Operations Analyst Intern",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261259"
-    },
-    {
-      "company": "GM financial",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "9d9b1da880be67dfe64943b424e27c978afb249c9d50f3fc14de8c32a892f267",
-      "locations": [
-        "Arlington, TX"
-      ],
-      "posted_at": "2026-09-17",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Engineer Intern",
-      "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795"
     },
     {
       "company": "GM financial",
@@ -15837,21 +15851,6 @@
       "company": "KLA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "8a7400bf6001af217e5a7ff9dd651001d153b9f9f08b84884166f36767c4c818",
-      "locations": [
-        "Milpitas, CA"
-      ],
-      "posted_at": "2026-10-23",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1"
-    },
-    {
-      "company": "KLA",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "8f978399bc0aaca958f8930b7aaed325812efd59b43c361180c8460cc769e18c",
       "locations": [
         "Milpitas, CA"
@@ -15877,6 +15876,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern - AI/ML for Diagnostics & Calibration",
       "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1"
+    },
+    {
+      "company": "KLA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "8a7400bf6001af217e5a7ff9dd651001d153b9f9f08b84884166f36767c4c818",
+      "locations": [
+        "Milpitas, CA"
+      ],
+      "posted_at": "2026-10-23",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1"
     },
     {
       "company": "KLA",
@@ -20756,21 +20770,6 @@
       "url": "https://job-boards.greenhouse.io/protagonist/jobs/6236620004"
     },
     {
-      "company": "Protective Life",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "2120cc43517935abeb2d2ba05a02fef72cf7a131626c02d145d47df82a1d8fee",
-      "locations": [
-        "Birmingham, AL"
-      ],
-      "posted_at": "2026-09-08",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Business Analytics Intern",
-      "url": "https://jobs.lever.co/protective/40354575-2b06-42cd-93fb-f9ea82bdec7c/apply"
-    },
-    {
       "company": "PTC",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -21112,6 +21111,21 @@
       "source": "vanshb03",
       "title": "Security Engineer Intern",
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002"
+    },
+    {
+      "company": "Quest Analytics",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "7a8dd162adc1431a4e4afc9842fdb14c61cc9815b5f2736f1b1166e3944eb7d6",
+      "locations": [
+        "Overland Park, KS"
+      ],
+      "posted_at": "2026-10-15",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, C#, ASP.NET",
+      "url": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f"
     },
     {
       "company": "Qumulo",
@@ -22185,36 +22199,6 @@
       "source": "simplify",
       "title": "Flight Software Intern",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003"
-    },
-    {
-      "company": "Rocket Mortgage",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "346fe3cb0c54782cfbc6111eacb04519b8c829291cca12a015f7a67c26f3cfd0",
-      "locations": [
-        "Detroit, MI"
-      ],
-      "posted_at": "2026-11-13",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Customer Correspondence Analyst Intern",
-      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Customer-Correspondence-Analyst---Summer-2027_R-085167-1"
-    },
-    {
-      "company": "Rocket Mortgage",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "32ef27e2a98bab2b050a9171b7477d3ddcbfe4e39b730f9e9f60e421871c7416",
-      "locations": [
-        "Detroit, MI"
-      ],
-      "posted_at": "2026-11-13",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analyst Intern",
-      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832"
     },
     {
       "company": "Rockwell Automation",
@@ -25800,13 +25784,13 @@
       "graduation_status": "unknown",
       "id": "692a2f99c2c8419330c9a6dc903e3170e1460655dc3e7982d9c727193eb9ab23",
       "locations": [
-        "NYC"
+        "New York City, NY"
       ],
-      "posted_at": "2026-11-06",
+      "posted_at": "2026-11-08",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Frontend Engineer Intern",
+      "source": "speedyapply",
+      "title": "Frontend Engineering Intern",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005"
     },
     {
@@ -25815,13 +25799,13 @@
       "graduation_status": "unknown",
       "id": "da75a16cfc4e953b626eccf21ebda29b5ade2777788f7300243a873bab0f6f4b",
       "locations": [
-        "NYC"
+        "New York City, NY"
       ],
-      "posted_at": "2026-11-06",
+      "posted_at": "2026-11-08",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Full-Stack Engineer Intern",
+      "source": "speedyapply",
+      "title": "Full-Stack Engineering Intern",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005"
     },
     {
@@ -29725,11 +29709,11 @@
       "locations": [
         "Palo Alto, CA"
       ],
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-15",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Manufacturing Software Test Intern",
+      "source": "speedyapply",
+      "title": "Manufacturing Software Test Intern - Summer 2027",
       "url": "https://wing.com/careers/8872468002?gh_jid=8872468002"
     },
     {
@@ -30097,7 +30081,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-16T17:28:48.949571+00:00",
+  "last_checked": "2026-11-16T19:14:27.043883+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
