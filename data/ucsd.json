@@ -34059,26 +34059,9 @@
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731584005": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "astera labs",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "san jose, ca"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "firmware engineer intern"
-      },
-      "fingerprint": "b6343bf26bfe9b5c51d1f2e00f744ec81b718214684bbb087dbfd791c996578c",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "654ec0edb0e66555a18464cad431b949e37d36d9e54145568a3c9bf3c3dfaa6a",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731585005": {
       "eligible": true,
@@ -56814,6 +56797,24 @@
       "fingerprint": "5b6121e1a384c4cdbe922eef925862ccd19987c4f4f82036c73efdad8124e722",
       "revision": 1
     },
+    "url:https://micron.eightfold.ai/careers/job/45530213": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "micron technology",
+        "degrees": [],
+        "locations": [
+          "boise, id"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern, smai"
+      },
+      "fingerprint": "75ad73dd65122a947224a5ddaeb1e9d91547852972286ef35bd2681e405df0de",
+      "revision": 1
+    },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---it-software-engineer_jr111582": {
       "eligible": false,
       "fingerprint": "d890f8bc6b5d0f9961288deae24f2f2af6df0401a5c27cfd1e473f5e8f265517",
@@ -72631,6 +72632,7 @@
     "https://go.vansh.nyc/1Ag": 371,
     "https://go.vansh.nyc/1Ah": 371,
     "https://go.vansh.nyc/1Al": 371,
+    "https://go.vansh.nyc/1Ap": 373,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -74099,6 +74101,7 @@
     "https://go.vansh.nyc/1Ag": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14311",
     "https://go.vansh.nyc/1Ah": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14465",
     "https://go.vansh.nyc/1Al": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f",
+    "https://go.vansh.nyc/1Ap": "https://micron.eightfold.ai/careers/job/45530213",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -75345,7 +75348,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 372,
+  "scan_sequence": 373,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

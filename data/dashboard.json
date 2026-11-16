@@ -3372,21 +3372,6 @@
       "company": "Astera Labs",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "9fe91d463f07fae81bd58646ae094a8861f57a4049426f84b636ff8f0e3c1d3d",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "posted_at": "2026-10-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Firmware Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731584005"
-    },
-    {
-      "company": "Astera Labs",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "cbc0d7c529b4cb839254c43dc543d5db0123d24447d79eaedc9900d3f938d85f",
       "locations": [
         "San Jose, CA"
@@ -17370,6 +17355,21 @@
       "company": "Micron Technology",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "81dd136ef74c456ed890acfef6c503e0fc0d6a181d986d19b1dc45244b63463c",
+      "locations": [
+        "Boise, ID"
+      ],
+      "posted_at": "2026-11-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data Science Intern, SMAI",
+      "url": "https://micron.eightfold.ai/careers/job/45530213"
+    },
+    {
+      "company": "Micron Technology",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "caecfcf9afa79d70a5380c03afcc7bb745b4a516810355c9a8ffcc12bb2d6361",
       "locations": [
         "Boise, ID"
@@ -30066,7 +30066,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-16T20:11:18.064025+00:00",
+  "last_checked": "2026-11-16T21:02:35.450211+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
