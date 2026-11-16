@@ -36889,6 +36889,27 @@
       "fingerprint": "53aa2931fcd0940169bae74cfe0ae6d6991acf6973cdc3e4833d6139e7f662ed",
       "revision": 1
     },
+    "url:https://job-boards.greenhouse.io/octaura/jobs/4662934007": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "octaura",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "new york, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "5c44e69b596366e6c061dfe5e5c1eb0818878ea0d771279817e71e7691f979d9",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/oneethos/jobs/4459193009": {
       "eligible": true,
       "evidence": {
@@ -41154,6 +41175,11 @@
       "eligible": false,
       "fingerprint": "a360765263b017113bf77caf9f288e92374c56573e0c79f991e88e044a51d16b",
       "revision": 0
+    },
+    "url:https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563": {
+      "eligible": false,
+      "fingerprint": "96935acd33fb62aae4b67f890eff920336f4eb081dfee201f77a718bcb220fd0",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3": {
       "eligible": true,
@@ -72462,6 +72488,7 @@
     "https://go.vansh.nyc/19x": 89,
     "https://go.vansh.nyc/19z": 89,
     "https://go.vansh.nyc/1A3": 366,
+    "https://go.vansh.nyc/1A6": 368,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -73924,6 +73951,7 @@
     "https://go.vansh.nyc/19x": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Engineering-Software-and-Analysis-Intern_R10258772",
     "https://go.vansh.nyc/19z": "https://apply.careers.microsoft.com/careers/job/1970393557044764",
     "https://go.vansh.nyc/1A3": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225",
+    "https://go.vansh.nyc/1A6": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -75170,7 +75198,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 367,
+  "scan_sequence": 368,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

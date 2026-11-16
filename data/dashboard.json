@@ -19368,6 +19368,21 @@
       "url": "https://www.octant.bio/jobs?gh_jid=6260895004"
     },
     {
+      "company": "Octaura",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "066c512a2427e0169ba000cd06795ecc1665f0f56f2049945fe084e7eaa6bbae",
+      "locations": [
+        "NYC"
+      ],
+      "posted_at": "2026-11-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007"
+    },
+    {
       "company": "Old Mission",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -30124,7 +30139,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-16T09:53:37.976398+00:00",
+  "last_checked": "2026-11-16T11:36:17.243371+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
