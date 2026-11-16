@@ -14861,8 +14861,8 @@
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8197554": {
       "eligible": false,
-      "fingerprint": "2db106d5a5b00f40069b7903ba643f2846498a65e4a0798f774c070fb1ff701e",
-      "revision": 1
+      "fingerprint": "fd5e4a47bac00ecc225bd1f471be5277692dcaccd69badc782aa7c25677d5d9d",
+      "revision": 2
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8198218": {
       "eligible": true,
@@ -16782,18 +16782,18 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12183": {
       "eligible": false,
-      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
-      "revision": 8
+      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
+      "revision": 9
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12184": {
       "eligible": false,
-      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
-      "revision": 8
+      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
+      "revision": 9
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12185": {
       "eligible": false,
-      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
-      "revision": 6
+      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
+      "revision": 7
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---seattle/gen-ai-intern_r12193": {
       "eligible": true,
@@ -24810,7 +24810,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "rtx",
+        "company": "raytheon",
         "degrees": [
           "bachelor's",
           "master's"
@@ -24822,10 +24822,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern - summer 2027"
       },
-      "fingerprint": "5428d6f809b3c1a2371a636c22f9a01ef2309984fe23ecd678f53bdbd72cd586",
-      "revision": 1
+      "fingerprint": "91d09712a789469d144ab653db74ede13f773a6075fa30dd46cf5f1a6ebdb3e7",
+      "revision": 2
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-143--855-35th-st-ne--bldg-143/systems-engineering-intern--summer-2027---saoc--cedar-rapids--ia--onsite-_01886221": {
       "eligible": true,
@@ -24993,7 +24993,8 @@
           "master's"
         ],
         "locations": [
-          "fort wayne, in"
+          "fort wayne, in",
+          "ft wayne, in"
         ],
         "requirements": [],
         "terms": [
@@ -25001,8 +25002,8 @@
         ],
         "title": "electrical engineer intern - firmware"
       },
-      "fingerprint": "70c4bc60e15cc88733573b184b8ad73676e069be28a523195562191540183b15",
-      "revision": 3
+      "fingerprint": "e9cc83f02bce154fafbe90bf37ca1817c9b54c9a6c8130c75498e7c5dfd253b7",
+      "revision": 4
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-marlborough-ma2--1001-boston-post-rd--bldg-2/receiver--exciter----processing-architecture-software-engineer-intern--summer-2027----onsite_01885187": {
       "eligible": true,
@@ -25214,8 +25215,8 @@
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-va-sterling-291--22640-davis-dr--davis/software-engineering-intern--iset-in-2-_01888017": {
       "eligible": false,
-      "fingerprint": "530778737f2fc0cb3e05d5d2213f21ffc53f0beea7d671a5f692e9bf1d9b5118",
-      "revision": 1
+      "fingerprint": "a7668d780aaccfd2eac4d3034dba5a0efcf2dc869927ab46b80bc2f7e2b5fabc",
+      "revision": 2
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-va-sterling-291--22640-davis-dr--davis/software-engineering-intern--summer-2027-_01885169": {
       "eligible": true,
@@ -48308,6 +48309,11 @@
       "fingerprint": "fe28a71668722be82afdad63c3002b20399bb591572052e28b7d2da507b8fecf",
       "revision": 2
     },
+    "url:https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3": {
+      "eligible": false,
+      "fingerprint": "d4852b40c014c1d9bcf12274b54820651ea38bbe2794d10cd5717886723a4631",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e": {
       "eligible": false,
       "fingerprint": "c1afa900e6bce13c478935e8e564ee155796b9196bc12d4e43053822633c9998",
@@ -52132,8 +52138,8 @@
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/austin-tx/software-engineer--ai-ml--intern_2642125-1": {
       "eligible": false,
-      "fingerprint": "6b9a94bbb28c5db133bdbf87d558ed42317c1bdaf7e3e38207cedf843cccd564",
-      "revision": 5
+      "fingerprint": "98411827f8fbbcc31d46528e78fd9b3c8132bd51ea68faed48eb909ee8e66c79",
+      "revision": 6
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/austin-tx/software-engineering-intern_2642004-1": {
       "eligible": true,
@@ -56895,8 +56901,8 @@
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---ssd-firmware_jr115210": {
       "eligible": false,
-      "fingerprint": "88c742b799ec73662405531e5252d97467d6455f9d0ba238ab474a76984192a2",
-      "revision": 1
+      "fingerprint": "30a40e8efe449f0b887ee925d03cdeec0fd7f537ed25f67ea385d2c2c459adcf",
+      "revision": 2
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---sig-building/embedded-software-engineering-intern_jr115959": {
       "eligible": false,
@@ -63643,6 +63649,11 @@
       "fingerprint": "16aac1430c044994dd895d354d3fd446c8ea37c62c117dd0e2e022620b51e52f",
       "revision": 0
     },
+    "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/lone-tree-co/software-engineer-i--for-2026-interns-only-_r0031346": {
+      "eligible": false,
+      "fingerprint": "0bd2620d454ea9d7e7f8dbb8f94c04eb7a8cbebacbc9eb85939e666adf65bf9b",
+      "revision": 1
+    },
     "url:https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/southern-pines-nc/software-engineer-intern--summer-2027-_r0031229": {
       "eligible": true,
       "evidence": {
@@ -66078,8 +66089,7 @@
           "portsmouth, nh",
           "princeton, nj",
           "sunnyvale, ca",
-          "westminster, co",
-          "westminster, co +6"
+          "westminster, co"
         ],
         "requirements": [],
         "terms": [
@@ -66087,8 +66097,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "85211ae0df5c7295970704058196d6130ccc62a0f8d1a9df119616f69bc757f0",
-      "revision": 3
+      "fingerprint": "4cae19700d352c2806d9462824bb3fd6ef39aefc62439a4af8481ef3e9ca09c5",
+      "revision": 4
     },
     "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---oh-dayton/ai-automation-intern_r58148": {
       "eligible": true,
@@ -66115,8 +66125,8 @@
     },
     "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---oh-dayton/ai-developer-intern_r58195": {
       "eligible": false,
-      "fingerprint": "a85c5d4002f076dc1033727522267b8bc726b75bdccf8812befa1c75e102615b",
-      "revision": 5
+      "fingerprint": "d008e51b1de9e44645f5b56425c5dabf03028f8a3c3e3e40aa04237c3842cf35",
+      "revision": 6
     },
     "url:https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/us---or-lake-oswego/software-engineer-intern_r58171": {
       "eligible": true,
@@ -75348,7 +75358,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 373,
+  "scan_sequence": 374,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
