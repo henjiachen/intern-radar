@@ -25440,13 +25440,8 @@
     },
     "url:https://go.vansh.nyc/1a1": {
       "eligible": false,
-      "fingerprint": "e1a9d8b578291443d171502c515f48b3beca7fae1bba17db8edd1e8d3f1e3bec",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1a2": {
-      "eligible": false,
-      "fingerprint": "4f30f2b512e09e4de4af25ad582881a9a9ed3171642f6f700db1b7499809e120",
-      "revision": 1
+      "fingerprint": "6ee45a86bbcf8256bf275f43d3a216d40fe7a03699c9a6c8f89ebce4101ac967",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1a3": {
       "eligible": false,
@@ -32092,6 +32087,26 @@
       "eligible": false,
       "fingerprint": "609f4738958a159074d3657e0e88b7ce77dcbb3dd5e77d599c5d74dad7d0b172",
       "revision": 0
+    },
+    "url:https://inspirebrands.wd5.myworkdayjobs.com/inspirecareers/job/atlanta-support-center/digital-experience-performance-intern---summer-2027_jr42022": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "inspire brands",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "atlanta, ga"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "digital experience performance intern"
+      },
+      "fingerprint": "3f5220c8b55d1d26d9041d6e00f7868150682d4ec23437e869eabdcdadfd7f96",
+      "revision": 1
     },
     "url:https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/acton-massachusetts/co-op--embedded-software-engineering--january-june-2027--onsite-_req-2026-17966": {
       "eligible": false,
@@ -75130,7 +75145,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 362,
+  "scan_sequence": 363,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
