@@ -14939,8 +14939,8 @@
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8214519": {
       "eligible": false,
-      "fingerprint": "7ce0a64590c4ce04c3fe56b0f7c875c74723c7e4ef9526e17d7c8beb570497f8",
-      "revision": 0
+      "fingerprint": "07e3794d1df044b897d7376b71e0e985933af7c3b4ab31553056536c9de02ae0",
+      "revision": 1
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8214729": {
       "eligible": false,
@@ -58667,10 +58667,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "ai operations intern - ai clouds"
+        "title": "ai operations intern, ai clouds"
       },
-      "fingerprint": "ccd48531d06f209fb3fe0f06cf9c73a409672c0e86e05f65501f2862f9a6b60a",
-      "revision": 2
+      "fingerprint": "344d08f667f8bc2cb6af10589d6f0868c66856dd50e49ab3c59d2d2eb17fab00",
+      "revision": 3
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/applied-deep-learning-phd-research-intern--reinforcement-learning-for-llms---fall-2026_jr2012398": {
       "eligible": false,
@@ -75345,7 +75345,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 371,
+  "scan_sequence": 372,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
