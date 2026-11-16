@@ -5337,6 +5337,21 @@
       "company": "Boston Scientific",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "e583cd238853c3953a40e73a61e709be67aad379d60b1993218a1454a76a2c86",
+      "locations": [
+        "Marlborough, MA"
+      ],
+      "posted_at": "2026-11-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Engineering Intern, Generative and Agentic AI",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837"
+    },
+    {
+      "company": "Boston Scientific",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "4db5e0a620b79a6299fd7fd7a56b49830b6b9bd001c893f059a3d85e7a3d0d25",
       "locations": [
         "Arden Hills, MN"
@@ -24261,12 +24276,12 @@
       "locations": [
         "Pittsburgh, PA"
       ],
-      "posted_at": "2026-09-17",
+      "posted_at": "2026-11-05",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Robotics Software Engineer Intern",
-      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
+      "source": "speedyapply",
+      "title": "Intern Robotics Software Engineering",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/external/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
     },
     {
       "company": "Solarity",
@@ -25865,21 +25880,6 @@
       "source": "simplify",
       "title": "iOS Engineer Intern",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005"
-    },
-    {
-      "company": "The New York Times",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "7a4f7c2f3e94a2f166b27fa17b3b77fee9744398da7a1c04c2c7b086d848c32f",
-      "locations": [
-        "NYC"
-      ],
-      "posted_at": "2026-11-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Machine Learning Scientist Intern",
-      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005"
     },
     {
       "company": "The Nuclear Company",
@@ -30139,7 +30139,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-16T11:36:17.243371+00:00",
+  "last_checked": "2026-11-16T15:23:14.270986+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

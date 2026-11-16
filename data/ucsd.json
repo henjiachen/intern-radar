@@ -8772,6 +8772,24 @@
       "fingerprint": "8c7b3b26ea3c91faad0359eb5a09c9a249f748152bcef126b092e1c4bbe27d59",
       "revision": 0
     },
+    "url:https://bostonscientific.eightfold.ai/careers/job/563602813827837": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "boston scientific",
+        "degrees": [],
+        "locations": [
+          "marlborough, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineering intern, generative and agentic ai"
+      },
+      "fingerprint": "682d443b389d4cbf17ed5ceb43bf52f1878654b682d0aa609d9983767fcdb4a5",
+      "revision": 1
+    },
     "url:https://bostonscientific.eightfold.ai/careers/job/563602813862687": {
       "eligible": true,
       "evidence": {
@@ -25472,17 +25490,12 @@
     },
     "url:https://go.vansh.nyc/1a7": {
       "eligible": false,
-      "fingerprint": "88f907fe2f17dce34237112dd84af9bbb7765b4a3e0864f30191f8d96f203d15",
-      "revision": 1
+      "fingerprint": "2c5bf0418bdf97b1b188926311b602968a9a0317354f8dc66a864b6279c6fce6",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1a8": {
       "eligible": false,
       "fingerprint": "24c0347b486316be2a5b5f290a1431819a540ae337fcff2ab9f3ff2f392d6506",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1a9": {
-      "eligible": false,
-      "fingerprint": "63c20bc11a40c71266551d3b928aa05f47afa7d20f1332a051bb32d7df42be04",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1aa": {
@@ -38238,23 +38251,9 @@
       "revision": 2
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "the new york times",
-        "degrees": [],
-        "locations": [
-          "new york, ny",
-          "nyc"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "ml scientist intern"
-      },
-      "fingerprint": "687615984fc40554ddd8bdddf4171fde4c71f1c640c4c5824b7f65ae702419b8",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "32766ad4c3a85ed369bfafc91579bf2fd0919624d70690dc84e8e4ebcf76d93a",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005": {
       "eligible": false,
@@ -63451,10 +63450,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "robotics software engineer intern"
+        "title": "intern robotics software engineering"
       },
-      "fingerprint": "6e4ee165a57721fdcac998c23aaba79e68acea37fb3709f10f203d794ff497bb",
-      "revision": 2
+      "fingerprint": "69208abcd0390609580184e27c8c757abc5380dd9c1dea5fb4993220fdffad17",
+      "revision": 3
     },
     "url:https://smucker.wd5.myworkdayjobs.com/us_external_careers/job/orrville-oh/finance-technology-intern--spring-2027_116016": {
       "eligible": false,
@@ -67069,7 +67068,6 @@
           "master's"
         ],
         "locations": [
-          "brentwood, tn",
           "reston, va"
         ],
         "requirements": [],
@@ -67078,8 +67076,8 @@
         ],
         "title": "engineering intern"
       },
-      "fingerprint": "bc3153556a3e120f10695ae728e996205f28445aa2ed7f16dc6a61d7e1a861d6",
-      "revision": 4
+      "fingerprint": "68a435fed7bacf9c032a614faa43a3a9b0b148656550a90ab1b95b6ad758d2fe",
+      "revision": 5
     },
     "url:https://uscareers-idemia.icims.com/jobs/8650/job": {
       "eligible": true,
@@ -72489,6 +72487,7 @@
     "https://go.vansh.nyc/19z": 89,
     "https://go.vansh.nyc/1A3": 366,
     "https://go.vansh.nyc/1A6": 368,
+    "https://go.vansh.nyc/1A8": 369,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -73952,6 +73951,7 @@
     "https://go.vansh.nyc/19z": "https://apply.careers.microsoft.com/careers/job/1970393557044764",
     "https://go.vansh.nyc/1A3": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225",
     "https://go.vansh.nyc/1A6": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
+    "https://go.vansh.nyc/1A8": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -75198,7 +75198,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 368,
+  "scan_sequence": 369,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
