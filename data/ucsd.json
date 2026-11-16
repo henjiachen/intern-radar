@@ -15034,8 +15034,8 @@
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8250220": {
       "eligible": false,
-      "fingerprint": "d0c4b02a1fcb430031d3510de0ba2df83cab6a45923a0d3735616aad104d5d2c",
-      "revision": 0
+      "fingerprint": "744b1c5ba93dfe5420acbc9873392be73af94d7f043b1e8cf81fa3308cf2022f",
+      "revision": 1
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8257159": {
       "eligible": false,
@@ -25538,8 +25538,8 @@
     },
     "url:https://go.vansh.nyc/1a7": {
       "eligible": false,
-      "fingerprint": "2c5bf0418bdf97b1b188926311b602968a9a0317354f8dc66a864b6279c6fce6",
-      "revision": 2
+      "fingerprint": "88f907fe2f17dce34237112dd84af9bbb7765b4a3e0864f30191f8d96f203d15",
+      "revision": 3
     },
     "url:https://go.vansh.nyc/1a8": {
       "eligible": false,
@@ -37003,19 +37003,16 @@
           "bachelor's"
         ],
         "locations": [
-          "fremont, ca",
-          "los lunas, nm",
-          "los lunas, nm +1",
-          "san leandro, ca"
+          "los lunas, nm +1"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "summer 2027 internship- software engineering"
       },
-      "fingerprint": "52631178055cb80b773abfad746c3114ca5a6c62a037a4b8df829d79c9ee79dd",
-      "revision": 0
+      "fingerprint": "08e951bf860445efca0f0fbc068d7cbc9d4ae9554d49113b3c4b2b0f2f857989",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006": {
       "eligible": true,
@@ -48310,9 +48307,22 @@
       "revision": 2
     },
     "url:https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3": {
-      "eligible": false,
-      "fingerprint": "d4852b40c014c1d9bcf12274b54820651ea38bbe2794d10cd5717886723a4631",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tri",
+        "degrees": [],
+        "locations": [
+          "cambridge, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "robotics intern, world models, multimodal sensing"
+      },
+      "fingerprint": "e201a17ecc3730d04ef251aa9f2aff7b7d0030c83222881b2311913dc4b25908",
+      "revision": 2
     },
     "url:https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e": {
       "eligible": false,
@@ -72643,6 +72653,7 @@
     "https://go.vansh.nyc/1Ah": 371,
     "https://go.vansh.nyc/1Al": 371,
     "https://go.vansh.nyc/1Ap": 373,
+    "https://go.vansh.nyc/1Au": 375,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -74112,6 +74123,7 @@
     "https://go.vansh.nyc/1Ah": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14465",
     "https://go.vansh.nyc/1Al": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f",
     "https://go.vansh.nyc/1Ap": "https://micron.eightfold.ai/careers/job/45530213",
+    "https://go.vansh.nyc/1Au": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -75358,7 +75370,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 374,
+  "scan_sequence": 375,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

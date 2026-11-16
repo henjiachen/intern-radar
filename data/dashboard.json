@@ -6874,21 +6874,6 @@
       "company": "Charter Manufacturing",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "a5d951641916170751bf1b04cc5ea034a4a1fe508102c577ce5cb5f901ec15d0",
-      "locations": [
-        "Milwaukee, WI"
-      ],
-      "posted_at": "2026-09-16",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Automation & Analytics Intern",
-      "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Automation---Analytics-Intern--Year-Round-_R08112"
-    },
-    {
-      "company": "Charter Manufacturing",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "0ec819cf54eb9f9ed873b35d6ad0d1832f0404b072f5669bddc12afee04fdd62",
       "locations": [
         "Mequon, WI"
@@ -19630,15 +19615,13 @@
       "graduation_status": "unknown",
       "id": "adf8a375194f03cdf0af0b41ce8fa7a3c3bb102359cc9b80ef9b7fc3421cf32e",
       "locations": [
-        "Fremont, CA",
-        "Los Lunas, NM",
-        "San Leandro, CA"
+        "Los Lunas, NM +1"
       ],
       "posted_at": "2026-09-09",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
+      "source": "speedyapply",
+      "title": "Summer 2027 Internship- Software Engineering",
       "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009"
     },
     {
@@ -27593,6 +27576,21 @@
       "url": "https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871"
     },
     {
+      "company": "tri",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "2cc202fd09ae3fcd1dc70d9ebcf8289696eb147d38ca1cf5521dfe736353413c",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "posted_at": "2026-11-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Robotics Intern, World Models, Multimodal Sensing",
+      "url": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3"
+    },
+    {
       "company": "Tria Federal",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -28248,23 +28246,6 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://jobs.dover.com/uplimit/c7aec592-abea-4db6-92d2-bb61521d2f71"
-    },
-    {
-      "company": "USAA",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "3f1780f1dbb50d101c4d1786935949231ca0395247f22db04aa9d998772d31e5",
-      "locations": [
-        "Plano, TX",
-        "San Antonio, TX",
-        "Phoenix, AZ"
-      ],
-      "posted_at": "2026-09-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Technology Intern",
-      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Technology-Intern_R0120133"
     },
     {
       "company": "USAFacts",
@@ -29930,7 +29911,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-16T22:02:38.056385+00:00",
+  "last_checked": "2026-11-16T23:00:17.280114+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
