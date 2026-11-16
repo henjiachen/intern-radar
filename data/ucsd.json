@@ -24371,6 +24371,24 @@
       "fingerprint": "192a021a360ba0bfebf07097e0fabdb4126098ea487af4b8f841ee9339d9cba7",
       "revision": 0
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-el-segundo-e04--2006-e-el-segundo-blvd--bldg-e04/xmlname-2027-summer-intern---software-engineering---onsite_01885225": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "rtx",
+        "degrees": [],
+        "locations": [
+          "el segundo, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "181db70d38c2f325a0c2572743fa6f0383cd633db2b3bfd47b2529ce966dc629",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-goleta-h01--6380-hollister-ave--bldg-h01/embedded-software-engineering-intern--summer-2027-_01884782": {
       "eligible": true,
       "evidence": {
@@ -24910,8 +24928,7 @@
           "master's"
         ],
         "locations": [
-          "fort wayne, in",
-          "ft wayne, in"
+          "fort wayne, in"
         ],
         "requirements": [],
         "terms": [
@@ -24919,8 +24936,8 @@
         ],
         "title": "electrical engineer intern - firmware"
       },
-      "fingerprint": "e9cc83f02bce154fafbe90bf37ca1817c9b54c9a6c8130c75498e7c5dfd253b7",
-      "revision": 2
+      "fingerprint": "70c4bc60e15cc88733573b184b8ad73676e069be28a523195562191540183b15",
+      "revision": 3
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-marlborough-ma2--1001-boston-post-rd--bldg-2/receiver--exciter----processing-architecture-software-engineer-intern--summer-2027----onsite_01885187": {
       "eligible": true,
@@ -25892,6 +25909,11 @@
       "fingerprint": "24e17bdb1e39ed414604e3c13b4aaebc4e2d566a6879da0f4445a75257e1330d",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1jf": {
+      "eligible": false,
+      "fingerprint": "938ec07c42886179bcf65b64a20d864d7bc3a60b5441dabe93ac4ab92aafa609",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1jl": {
       "eligible": false,
       "fingerprint": "20c8feead737732cc9d61bb871985e6c89450cddeec48e832e5b2e3732781182",
@@ -25955,6 +25977,11 @@
     "url:https://go.vansh.nyc/1lj": {
       "eligible": false,
       "fingerprint": "2ae6db4930ed5247c558794cfa81eb42af44594335a46263d0827e951882e70a",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1lk": {
+      "eligible": false,
+      "fingerprint": "a91fa2a612df6175ee5352bab7f144ca533d4b5da8084e9e97323ee2ba39e177",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1ll": {
@@ -27580,8 +27607,8 @@
     },
     "url:https://go.vansh.nyc/qa": {
       "eligible": false,
-      "fingerprint": "0f9ce17bc615b2955f080672440c29f9551785397ad1d4b6a0d84bdbe1235f8d",
-      "revision": 0
+      "fingerprint": "cb58c8c837a0029049f7b0dfe3efc0bab40316a7826bde75dd9f5de7158a9e5c",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/qb": {
       "eligible": false,
@@ -27589,23 +27616,9 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/qd": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "royal bank of canada",
-        "degrees": [],
-        "locations": [
-          "montreal, canada",
-          "vienna, va"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "developer intern"
-      },
-      "fingerprint": "8484d7e668999f92d4306718a30b1ccb7d99ff50f39cf27c562ca4926039f255",
-      "revision": 0
+      "eligible": false,
+      "fingerprint": "7a2793f7660f7ac5c38c8853ff9549509c9086425e4769f2ddba6a2989f278f4",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/ql": {
       "eligible": false,
@@ -72453,6 +72466,7 @@
     "https://go.vansh.nyc/19w": 89,
     "https://go.vansh.nyc/19x": 89,
     "https://go.vansh.nyc/19z": 89,
+    "https://go.vansh.nyc/1A3": 366,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -73914,6 +73928,7 @@
     "https://go.vansh.nyc/19w": "https://jobs.smartrecruiters.com/Intuitive/744000159210829",
     "https://go.vansh.nyc/19x": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Engineering-Software-and-Analysis-Intern_R10258772",
     "https://go.vansh.nyc/19z": "https://apply.careers.microsoft.com/careers/job/1970393557044764",
+    "https://go.vansh.nyc/1A3": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -75160,7 +75175,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 365,
+  "scan_sequence": 366,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

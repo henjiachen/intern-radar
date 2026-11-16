@@ -910,21 +910,6 @@
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714"
     },
     {
-      "company": "ABB",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "816715474f6bf3d32da9cc83d0fcfd4bdcd5f16346086f2979cd072be8b72d34",
-      "locations": [
-        "Cary, NC"
-      ],
-      "posted_at": "2026-10-22",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Sales Excellence Data Analytics Intern",
-      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987"
-    },
-    {
       "company": "ACI Worldwide",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -6776,21 +6761,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern - C++",
       "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726"
-    },
-    {
-      "company": "CenturyLink",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "2f8d433f725304777301c8c683b29ed040b8a7fd73fd6352de9c62a8e77b0e18",
-      "locations": [
-        "Remote in USA"
-      ],
-      "posted_at": "2026-10-16",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AI & Automation Builders Internship",
-      "url": "https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors"
     },
     {
       "company": "CenturyLink",
@@ -22476,21 +22446,6 @@
       "url": "https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8/apply"
     },
     {
-      "company": "Royal Bank of Canada",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "17b04e5993a4dfa5fe9eb5a5dcfa4e47c508568d60bd2f269b7717ffe7472f59",
-      "locations": [
-        "Montreal, Canada"
-      ],
-      "posted_at": "2026-10-26",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Developer Intern",
-      "url": "https://go.vansh.nyc/Qd"
-    },
-    {
       "company": "Royal Caribbean Group",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -22609,6 +22564,21 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01888146"
+    },
+    {
+      "company": "RTX",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "1db085eb5a95636cbb89c515071c9871615b3c39e3e245aaf6e94f5a3494accb",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "posted_at": "2026-11-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225"
     },
     {
       "company": "RTX",
@@ -24297,21 +24267,6 @@
       "source": "simplify",
       "title": "Wireless Hardware Engineer Intern",
       "url": "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true"
-    },
-    {
-      "company": "Smith+Nephew",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "58e449a78541b76ef7ffdc38472a0eb894d5087c903cd588b8931ed19bddad05",
-      "locations": [
-        "Andover, MA"
-      ],
-      "posted_at": "2026-11-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "AI Engineer Intern, R&D",
-      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-AI-Engineer-R-D_R92966"
     },
     {
       "company": "Smith+Nephew",
@@ -30229,7 +30184,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-16T04:52:50.693730+00:00",
+  "last_checked": "2026-11-16T06:42:08.721021+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
