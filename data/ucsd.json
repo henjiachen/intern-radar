@@ -5235,25 +5235,9 @@
       "revision": 1
     },
     "url:https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "fieldpulse",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "dallas, tx"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "ai intern"
-      },
-      "fingerprint": "4141b46d6de8853e1c92689f329266b9c561c5bf7ef3fc7a9bd480cbc9222bb6",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "adcb33ea770fdcb63b106ebfafbeb8e667c53a997bc5d243ab2a82c80d54c5f4",
+      "revision": 2
     },
     "url:https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5": {
       "eligible": true,
@@ -8775,9 +8759,35 @@
     "url:https://bostonscientific.eightfold.ai/careers/job/563602813827837": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "boston scientific",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "arden hills, mn",
+          "maple grove, mn",
+          "marlborough, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineer intern - generative & agentic ai"
+      },
+      "fingerprint": "edce9d8461ac76f17baeb96caa54c4a5db8952d5104f1f789b728747d8f6dc24",
+      "revision": 2
+    },
+    "url:https://bostonscientific.eightfold.ai/careers/job/563602813862390": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "boston scientific",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "marlborough, ma"
         ],
@@ -8785,9 +8795,9 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "ai engineering intern, generative and agentic ai"
+        "title": "ai acceleration intern"
       },
-      "fingerprint": "682d443b389d4cbf17ed5ceb43bf52f1878654b682d0aa609d9983767fcdb4a5",
+      "fingerprint": "f850ddb42abb249174ee1a599accb7accbc3f30a4903c8da4e753cc048d235e3",
       "revision": 1
     },
     "url:https://bostonscientific.eightfold.ai/careers/job/563602813862687": {
@@ -8827,6 +8837,11 @@
         "title": "software & systems testing engineering intern"
       },
       "fingerprint": "2d39ff34f144739e75a97c42cbe9816095912bcfc1218c3b4614a80a19484d4a",
+      "revision": 1
+    },
+    "url:https://bostonscientific.eightfold.ai/careers/job/563602813864319": {
+      "eligible": false,
+      "fingerprint": "eafc6fafda058f83c06927f48e478602f811ea9abbf0f339548d0a777fe90453",
       "revision": 1
     },
     "url:https://bostonscientific.eightfold.ai/careers/job/563602813900562": {
@@ -12316,8 +12331,6 @@
         "locations": [
           "boston, ma",
           "boston, ma +1",
-          "boston, massachusetts, usa; new york, new york, usa",
-          "new york, ny",
           "nyc"
         ],
         "requirements": [
@@ -12326,10 +12339,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern (summer)"
+        "title": "software engineer intern - summer"
       },
-      "fingerprint": "5b4f08fd5eeaf8e28a32fb5cfc259713671258618b2f67a0b4873578d697dc19",
-      "revision": 1
+      "fingerprint": "8d11fe1fe2c3ee6479ceb9a2fcd11118d602b492bc0aa866d15f5880b574f7ab",
+      "revision": 2
     },
     "url:https://careers.datadoghq.com/detail/8114161?gh_jid=8114161": {
       "eligible": false,
@@ -25509,24 +25522,47 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/1ac": {
-      "eligible": false,
-      "fingerprint": "774aa955a2c29370f0d54ae3cf95a05cac749c8e0d5391587371fbc44adf9703",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1ad": {
-      "eligible": false,
-      "fingerprint": "e0fdb3d1922321e1231b6f239ef7408bf0a278d44d22ca0aa60a21f0f1ba93d5",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "shopify",
+        "degrees": [],
+        "locations": [
+          "fremont, ca",
+          "montreal, canada",
+          "ottawa, canada",
+          "toronto, canada"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "7e8cc16fa96c69c91b1c58f62f29ab364d1ff7286c8179bf9bf4220d079e6a26",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1ae": {
-      "eligible": false,
-      "fingerprint": "2b4ed8a6971c4224bc850c969030851e6c9b20330250f6b0fcbfbf7dd7e0dea7",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1af": {
-      "eligible": false,
-      "fingerprint": "341ff858d283fa95bb4ef4811418b98b0013f1bd2a861eb2ec3cf83fa887f430",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "shopify",
+        "degrees": [],
+        "locations": [
+          "fremont, ca",
+          "montreal, canada",
+          "ottawa, canada",
+          "palo alto, ca",
+          "toronto, canada"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "applied machine learning engineer intern"
+      },
+      "fingerprint": "f2125d80983c6c3f62193b587383b55ee9869d4a305bc08c920d8079d1090348",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1ag": {
       "eligible": false,
@@ -33273,7 +33309,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "jmp statistical discovery",
+        "company": "sas",
         "degrees": [
           "bachelor's"
         ],
@@ -33284,10 +33320,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "c++ software development intern"
+        "title": "jmp 2027 summer internship; c++ software development"
       },
-      "fingerprint": "a1c3c1ffec554693c794a1c658ed4d6735856683fc1b4dd480b7c14d4ba5b433",
-      "revision": 1
+      "fingerprint": "3a1f30f265b66461bebc5fb01f4b18578e3cf2bbb6dd4b398a7bdcc3998a2af0",
+      "revision": 2
     },
     "url:https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101": {
       "eligible": false,
@@ -35235,7 +35271,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "farmers mutual hail",
+        "company": "farmers mutual hail insurance company",
         "degrees": [
           "bachelor's"
         ],
@@ -35248,8 +35284,8 @@
         ],
         "title": "software developer intern"
       },
-      "fingerprint": "3c1fd77de9552c666df45019a4c3fbabac2d4ec4afb4c6cbf76caf8ea0306ed4",
-      "revision": 1
+      "fingerprint": "3559e768a5c9b7f0f32648ce1a32d596c18177243a80b063cbc3eed348f8113a",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404387009": {
       "eligible": true,
@@ -38238,17 +38274,16 @@
         "company": "the new york times",
         "degrees": [],
         "locations": [
-          "new york city, ny",
-          "nyc"
+          "new york city, ny"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "backend engineer intern"
+        "title": "backend engineering intern"
       },
-      "fingerprint": "6a2a2ef86e7fa6222e3845efa10ed22f119a343aa9c5b19e0721c77932222635",
-      "revision": 2
+      "fingerprint": "0987d95122a1361d4fc92a80485f976520357a29681cfcf3d2593dea2800a4a9",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005": {
       "eligible": false,
@@ -48164,6 +48199,11 @@
       "fingerprint": "8e4cb2e5f43a87e5dd4b40482c8e03e9d8a4df922cab8d33661b78f19bfd74f8",
       "revision": 2
     },
+    "url:https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e": {
+      "eligible": false,
+      "fingerprint": "b5238a5be6d1d1dca28581448ad43c7480ee3b5876a190e9290ed8ac2e1099c3",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871": {
       "eligible": true,
       "evidence": {
@@ -49416,6 +49456,21 @@
       "eligible": false,
       "fingerprint": "888046868e2591401a1d87e86054db5907ea650b69b83f32ba98c0e8e99e10c6",
       "revision": 2
+    },
+    "url:https://jobs.smartrecruiters.com/boschgroup/744000161793229": {
+      "eligible": false,
+      "fingerprint": "5fd426962331907d8f74e2087bef42ce7325527e5327aff426e15dc34e40094a",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/boschgroup/744000161841434": {
+      "eligible": false,
+      "fingerprint": "b17b1570fb8caea8c2fd0493b4defcaa6fa1e0e75a2d77acb6ff316e00a80584",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/boschgroup/744000161844052": {
+      "eligible": false,
+      "fingerprint": "387e44c4991867a4361b43246d1fec6962bed8626b551953ff4c64dae5d0c922",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/captechconsulting/744000155019115": {
       "eligible": true,
@@ -51837,6 +51892,11 @@
     "url:https://jpmc.fa.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/210806793": {
       "eligible": false,
       "fingerprint": "77ea5baa6daea162b82f99beb9b3a3f7af7cab3d70e466d9d2e4a26dd2c50f81",
+      "revision": 1
+    },
+    "url:https://jpmc.fa.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/210807923": {
+      "eligible": false,
+      "fingerprint": "acd4663484e79040dfb1e61a3468e3f4682898d6433f6ffe3ac90a18f9c98207",
       "revision": 1
     },
     "url:https://jsx.wd503.myworkdayjobs.com/jsx_careers/job/dallas-headquarters/commercial-intern_r-100729": {
@@ -60697,6 +60757,11 @@
     "url:https://qualcomm.eightfold.ai/careers/job/446722038614": {
       "eligible": false,
       "fingerprint": "053738ede1b807a6d70e1760b0019a0f8d524dff5d39c6ce2858af273d199a3d",
+      "revision": 1
+    },
+    "url:https://qualcomm.eightfold.ai/careers/job/446722152489": {
+      "eligible": false,
+      "fingerprint": "d179963ac63a692115e4a6b2cf65b8b524ca01b51ff1b316f77e8eb784ea23da",
       "revision": 1
     },
     "url:https://quantumsignalai.applytojob.com/apply/mwrhqd8hn9/software-engineering-intern-tools-and-prototypes": {
@@ -70726,6 +70791,11 @@
       "fingerprint": "12a1d832c7ca08ac8a9bc518fe825c5d145cb9c594c8cf2022987d16728b0885",
       "revision": 1
     },
+    "url:https://www.optimumcareers.com/job/bethpage-intern-data-analyst,-modernization-program-bssoss-migration-ny-11714/1450883000?ats=successfactors": {
+      "eligible": false,
+      "fingerprint": "cdb02adb8c52df24acafc7d8bda7307a10b1ac16bcec6dd33a9016e79ffb5351",
+      "revision": 1
+    },
     "url:https://www.optimumcareers.com/job/bethpage-intern-developer,-financial-&-people-systems-ny-11714/1449511200?ats=successfactors": {
       "eligible": false,
       "fingerprint": "3dab887cd08f07e56bb39a26e9b27cdefdee7ecc44ea054eb9eba9becfb56ec4",
@@ -70739,6 +70809,11 @@
     "url:https://www.optimumcareers.com/job/bethpage-intern-product-analytics-ny-11714/1449510900?ats=successfactors": {
       "eligible": false,
       "fingerprint": "ed0041a723ce37f4a92fa127e6f09ce8289b6d1940979bd65eae0c4e798a7d78",
+      "revision": 1
+    },
+    "url:https://www.optimumcareers.com/job/bethpage-intern-software-developer-ny-11714/1450884000?ats=successfactors": {
+      "eligible": false,
+      "fingerprint": "2568de2c6f787f29c9cee6e21d8c0200e5b0f533faca3e3a8759fb185cfc3c0f",
       "revision": 1
     },
     "url:https://www.optimumcareers.com/job/bethpage-intern-software-development-ny-11714/1449514200?ats=successfactors": {
@@ -71046,6 +71121,21 @@
       "eligible": false,
       "fingerprint": "d3aed002dec403aba68e8e55064d8297dabbd4bc8af900c459d35755e9efc264",
       "revision": 0
+    },
+    "url:https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536": {
+      "eligible": false,
+      "fingerprint": "cc3d4c0efc4e6a0cbdd3a4bc0abe867a5283b8d9b6d2a0081df5fcc41b6d1e4a",
+      "revision": 1
+    },
+    "url:https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a": {
+      "eligible": false,
+      "fingerprint": "54dbcdd7c66b59962715f2184a6f71fd5c4144fba73c5c82c3de1e2bbb5001d3",
+      "revision": 1
+    },
+    "url:https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95": {
+      "eligible": false,
+      "fingerprint": "aed85d7829b105855a1af3f84bf2d5b112ca5a3135c02a7b4a270fb54c33ff43",
+      "revision": 1
     },
     "url:https://www.tesla.com/careers/search/job/253454": {
       "eligible": false,
@@ -72488,6 +72578,7 @@
     "https://go.vansh.nyc/1A3": 366,
     "https://go.vansh.nyc/1A6": 368,
     "https://go.vansh.nyc/1A8": 369,
+    "https://go.vansh.nyc/1Aa": 370,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -73952,6 +74043,7 @@
     "https://go.vansh.nyc/1A3": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225",
     "https://go.vansh.nyc/1A6": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
     "https://go.vansh.nyc/1A8": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
+    "https://go.vansh.nyc/1Aa": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -75198,7 +75290,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 369,
+  "scan_sequence": 370,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
