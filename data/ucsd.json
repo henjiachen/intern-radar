@@ -791,6 +791,11 @@
       "fingerprint": "c9e007dbedd0cff2ad41c2e06188f9db48c26956208210e1a0ab26e8241f3966",
       "revision": 0
     },
+    "url:https://aliaxis.wd3.myworkdayjobs.com/ipex/job/ca---oakville-3---office/manufacturing-excellence-co-op-student--winter-2027---etudiant-coop-excellence-manufacturire--hiver-2027_r-58664-1": {
+      "eligible": false,
+      "fingerprint": "d81f0843929cf8b3f05a45c08c1457bc6617cb4c8953260efffc7d30510f5a49",
+      "revision": 1
+    },
     "url:https://allegion.wd5.myworkdayjobs.com/careers/job/carmel-in/summer-intern---software-operations-engineer_jr37722-1": {
       "eligible": true,
       "evidence": {
@@ -59638,6 +59643,11 @@
       "fingerprint": "4fe09b44d3f3146d7bc323a2de390e75f24a33e55469ff8eb1538463fa3fcd7e",
       "revision": 1
     },
+    "url:https://pfizer.wd1.myworkdayjobs.com/pfizercareers/job/united-kingdom---walton-oaks/integrated-insights---strategy-undergraduate_4967524": {
+      "eligible": false,
+      "fingerprint": "fc55f2c9e2f294a34057cb5d25650636ad5b3c701998ec4c0ee0d55627a3fdfe",
+      "revision": 1
+    },
     "url:https://pg.wd5.myworkdayjobs.com/1000/job/boston-go--tech-center/r-d-phd-summer-intern--grooming-m-s_r000159786": {
       "eligible": false,
       "fingerprint": "98261a37e53279c6499b9e4ed37dc3f8a01bf5870fe48a38c04ea846c26ecd6e",
@@ -67517,6 +67527,11 @@
       "fingerprint": "8e9f5551093d3d944d56383037bf253b09e350b498d760a7b1c951a631b5d919",
       "revision": 0
     },
+    "url:https://viavisolutions.wd1.myworkdayjobs.com/careers/job/germantown-md-usa/software-engineering-co-op_260005308-1": {
+      "eligible": false,
+      "fingerprint": "5b92f63537541f1b1ae5b77a4495f45a889bca44c8f19a00e3a467e2492348f9",
+      "revision": 1
+    },
     "url:https://visa.wd5.myworkdayjobs.com/visa/job/gb---cambridge-united-kingdom/software-engineer-intern_ref090467w-1": {
       "eligible": false,
       "fingerprint": "bc6d5fcfd8963ea8257cd4f47c32bd43f015baaa0e73ba9a20e4ca1e6690a117",
@@ -75145,7 +75160,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 363,
+  "scan_sequence": 364,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
