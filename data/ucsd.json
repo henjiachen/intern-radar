@@ -69185,6 +69185,11 @@
       "fingerprint": "6be11011ad2bed302724125c96f75b1d8b4f4c1a6cef644cf5920558b13d67c6",
       "revision": 0
     },
+    "url:https://wd3.myworkdaysite.com/recruiting/havas/groupexternalcareersite/job/london/data---analytics-platformer_jr0101641": {
+      "eligible": false,
+      "fingerprint": "c84a4e711bda5d86c517a1f4077f1b69792b1d41307ba18a6345ecaffc80dedd",
+      "revision": 1
+    },
     "url:https://wd3.myworkdaysite.com/recruiting/magna/magna/job/auburn-hills-michigan-us/intern---engineering_r00235438": {
       "eligible": false,
       "fingerprint": "07756ffbdb3185c89f1f9c7cc852ed4751cf49d533d8a3ee88aacb9e0c51b9c0",
@@ -75938,7 +75943,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 385,
+  "scan_sequence": 386,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
