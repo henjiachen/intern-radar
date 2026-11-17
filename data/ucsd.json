@@ -25721,11 +25721,6 @@
       "fingerprint": "ebfa037830446d02bf4029c8eef7140dbf114e6027a2d45534735bc50cd9dcbc",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1ar": {
-      "eligible": false,
-      "fingerprint": "2983d4a472ece5def73f26c7f8223a896278fa7a8d1633efb77bcb9b63eb48ab",
-      "revision": 1
-    },
     "url:https://go.vansh.nyc/1au": {
       "eligible": false,
       "fingerprint": "7b8d18a79f605486ce26f9cdc6f6d53f90eb32f42644977339af4ffb47736b73",
@@ -35361,6 +35356,11 @@
       "fingerprint": "3d6ba5a8361d43754b695170879eb83e368e56178b8653cb23b165a76cefae08",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/familyoffice/jobs/8202862003": {
+      "eligible": false,
+      "fingerprint": "3cb2d413ceda0ece37e11944d8837b68db35433403c384112bceb522ffc27048",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009": {
       "eligible": false,
       "fingerprint": "21639e52df5b08287cc0d0b4112361668c0a79f3d49ad614b633f6f0c0e4ac86",
@@ -35861,9 +35861,25 @@
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/hexarmor/jobs/8206200003": {
-      "eligible": false,
-      "fingerprint": "7692945eb28fb4c40183b3ed6d7d14da0345e65689a9437b20807c4c183b958c",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "hexarmor",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "atlanta, ga"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "b16aa71aa5770db086abb8da0e81c2a15284d8ca754f097422bced7c24cad15a",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/heygen/jobs/4540716007": {
       "eligible": false,
@@ -60851,6 +60867,11 @@
       "fingerprint": "549103c4f0fbba7c731494aaea75448bec54843584a4f43fd1ae88433d4c6fa9",
       "revision": 1
     },
+    "url:https://punchcut.bamboohr.com/careers/65": {
+      "eligible": false,
+      "fingerprint": "551dd22514b9f658884de4e3cfc99727c3c25367614b3df2f0aa059cbcb13a3c",
+      "revision": 1
+    },
     "url:https://punchthrough.homerun.co/cloud-software-engineer-intern-hybrid": {
       "eligible": true,
       "evidence": {
@@ -72965,6 +72986,7 @@
     "https://go.vansh.nyc/1AJ": 377,
     "https://go.vansh.nyc/1AN": 378,
     "https://go.vansh.nyc/1AP": 378,
+    "https://go.vansh.nyc/1AQ": 379,
     "https://go.vansh.nyc/1Aa": 370,
     "https://go.vansh.nyc/1Ag": 371,
     "https://go.vansh.nyc/1Ah": 371,
@@ -74441,6 +74463,7 @@
     "https://go.vansh.nyc/1AJ": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Firmware-Intern_2642154-1",
     "https://go.vansh.nyc/1AN": "https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d",
     "https://go.vansh.nyc/1AP": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
+    "https://go.vansh.nyc/1AQ": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003",
     "https://go.vansh.nyc/1Aa": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
     "https://go.vansh.nyc/1Ag": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14311",
     "https://go.vansh.nyc/1Ah": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14465",
@@ -75695,7 +75718,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 378,
+  "scan_sequence": 379,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

@@ -6462,21 +6462,6 @@
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999"
     },
     {
-      "company": "Cadence Solutions",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "8b1736e90b7ab85f2ea4cd3659a5016cdc68248b2e21c1b41205e916d9f404c9",
-      "locations": [
-        "Remote in USA"
-      ],
-      "posted_at": "2026-10-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006"
-    },
-    {
       "company": "CAI",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -10643,21 +10628,6 @@
       "url": "https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true"
     },
     {
-      "company": "Fortrea",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "cc97ba763a55f8a0167879ece67cdaae3d3712cae970281b87e4bfb73fdf457d",
-      "locations": [
-        "Remote in USA"
-      ],
-      "posted_at": "2026-11-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "AIML Rapid Development Studio Intern",
-      "url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/AIML-Rapid-Development-Studio-Internship_266655"
-    },
-    {
       "company": "Found Energy",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -12484,6 +12454,21 @@
       "source": "simplify",
       "title": "AI Engineer Intern",
       "url": "https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6/application?embed=true"
+    },
+    {
+      "company": "HexArmor",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "3e6fe16a21df584eb120e8c9e11f4e29a3e2ad62a67380ce194c49a584bb255a",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "posted_at": "2026-11-17",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003"
     },
     {
       "company": "HF Sinclair",
@@ -28043,23 +28028,6 @@
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
     },
     {
-      "company": "Tyler Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "16dc7eb93500aa9ee329c737c74f4d38d27446e7f659c60289b0fca943b5f5ad",
-      "locations": [
-        "Yarmouth, ME",
-        "Orono, ME",
-        "Falmouth, ME"
-      ],
-      "posted_at": "2026-09-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Intern - Summer 2027",
-      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
-    },
-    {
       "company": "Uber",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29976,7 +29944,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-17T03:02:28.498995+00:00",
+  "last_checked": "2026-11-17T04:10:29.096594+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
