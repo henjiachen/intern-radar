@@ -10783,6 +10783,11 @@
       "fingerprint": "5b4c40221d4542454c655545e125928a4e0ea9d1a4ed0525617fc32b16047542",
       "revision": 1
     },
+    "url:https://careers-gdms.icims.com/jobs/80617/job": {
+      "eligible": false,
+      "fingerprint": "d7e184732b46d76659af044b3f56c7d88a9e0c582399820f569375e00b24196f",
+      "revision": 1
+    },
     "url:https://careers-hrblock.icims.com/jobs/76987/job": {
       "eligible": false,
       "fingerprint": "7a99ff41675da71ab0c3ec801fe2032c055891344b2507993372774641612296",
@@ -11345,6 +11350,11 @@
     "url:https://careers-sas.icims.com/jobs/42754/job": {
       "eligible": false,
       "fingerprint": "a5316374ebee51c2536ec1797d73bf05ac9ee547882a72930940d20dbe6c947e",
+      "revision": 1
+    },
+    "url:https://careers-sas.icims.com/jobs/42755/job": {
+      "eligible": false,
+      "fingerprint": "78a2e3a45c58be5e922cd92c761b82389110d53edb6c0f1f5c81127373981fc9",
       "revision": 1
     },
     "url:https://careers-sas.icims.com/jobs/42765/job": {
@@ -25871,9 +25881,9 @@
       "fingerprint": "c1c70dfaaabdebf41d4772f67a235b851ad3d80461576aec4a7970100109a05c",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1bh": {
+    "url:https://go.vansh.nyc/1bg": {
       "eligible": false,
-      "fingerprint": "054139aa9685b5d4199e527bbce6c314952f037273f08467a1dcd1b2c0b9d44b",
+      "fingerprint": "843e6f297a6fcb76919ec92eda6e9fc073a9ec6c50baf31e0189e6d64ddf184b",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1bk": {
@@ -28345,6 +28355,11 @@
       "fingerprint": "43adb3a92da05f3c3b036f2c9c47cdcee53d794a9e17368c4dc0c2c5860149dd",
       "revision": 1
     },
+    "url:https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/usa-new-york-victor/data-bi-analyst-co-op_req-2026-2266": {
+      "eligible": false,
+      "fingerprint": "60d845fabbcf52263731ead7e8b9c1c1ada716095a51bbea4cf5483cce3f7b69",
+      "revision": 1
+    },
     "url:https://graco.wd501.myworkdayjobs.com/graco_careers/job/dayton-minnesota-usa-french-lake/ai-intern_r0023511-1": {
       "eligible": true,
       "evidence": {
@@ -29113,6 +29128,11 @@
       "eligible": false,
       "fingerprint": "0bcf791f02f389faf2805bb7027898b5128cdc59eb960a0f7ad195e79da3b34b",
       "revision": 0
+    },
+    "url:https://hdjq.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26013632": {
+      "eligible": false,
+      "fingerprint": "58378684551f0479156af0e91eb867ddc021bd687556b5018bde09afe534ba48",
+      "revision": 1
     },
     "url:https://hdks.fa.ca2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/9345": {
       "eligible": false,
@@ -36370,8 +36390,8 @@
     },
     "url:https://job-boards.greenhouse.io/internrecruiting/jobs/8204511": {
       "eligible": false,
-      "fingerprint": "a622fc80eac115f36028141cdf0744b851c13d0c873cd03dc3b27f9417d6f9f7",
-      "revision": 1
+      "fingerprint": "1633dffc91621c6c3f3b7ff7f3dcfb5c503be96878ccc9da0c3a17718ef72a5b",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008": {
       "eligible": false,
@@ -49859,9 +49879,27 @@
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/boschgroup/744000162076254": {
-      "eligible": false,
-      "fingerprint": "773c9247c891a0740e0abafff46596fd2a4d338d72cf22ec10b91dbca0ace345",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "robert bosch venture capital",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "farmington hills, mi",
+          "farmington hills, mi, united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027",
+          "winter 2027"
+        ],
+        "title": "ai application intern"
+      },
+      "fingerprint": "791ec375b052601c7aa8f2c7bdd24d4699c5224e4a3e3b09c6b525ec9fd720fd",
+      "revision": 2
     },
     "url:https://jobs.smartrecruiters.com/captechconsulting/744000155019115": {
       "eligible": true,
@@ -52787,6 +52825,11 @@
       "fingerprint": "89a7d87329745e20eee68c4cc7c349cc08e58130bb5b7345238f2a7eeb859e4c",
       "revision": 0
     },
+    "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/firmware-intern_2642154": {
+      "eligible": false,
+      "fingerprint": "b3cfec5d7a8ab1b807d15a0404e6705882e95d3b8c9941eaa58d902fac667767",
+      "revision": 1
+    },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/image-processing-intern_2642159-2": {
       "eligible": false,
       "fingerprint": "782c64ab7aa1f89644328d6e996f3b19861babe4ab40b74ec963a1374fec0681",
@@ -52857,6 +52900,11 @@
         "title": "software engineering intern - c++ - unix"
       },
       "fingerprint": "bdc7463deb2c1a435a3d0e491d6c3f6e98f298a4898ce1c74826a081d0e02431",
+      "revision": 1
+    },
+    "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineering-intern_2641572": {
+      "eligible": false,
+      "fingerprint": "48d5c704efc58ada8a4e07db4bd73126e2f8c394692d3f7d12f4be1df26cb7ea",
       "revision": 1
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineering-intern_2641581": {
@@ -58785,10 +58833,10 @@
           "summer 2027",
           "winter 2026"
         ],
-        "title": "software engineer intern"
+        "title": "software intern"
       },
-      "fingerprint": "748d4a7dce529b9fcf7b6fb1ab1c05db78614ea479073cc772904970ca09e19e",
-      "revision": 2
+      "fingerprint": "94ca797ba1848b557f10b7314f78a819e18f5e4cc9ec0551f0694e7d42a00067",
+      "revision": 3
     },
     "url:https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/usa---rhode-island---east-providence/intern--software-engineering-_req53006": {
       "eligible": false,
@@ -60718,6 +60766,11 @@
       "eligible": false,
       "fingerprint": "703a1e281f8a23247fc0cbc0eb0e1c837153bbd8b20b160bbeb99e3d1887a51f",
       "revision": 0
+    },
+    "url:https://prometheusgroup.bamboohr.com/careers/97": {
+      "eligible": false,
+      "fingerprint": "7506a1545da390ef942c2115470782dd18e18b479437c4fa861d14926f35dc44",
+      "revision": 1
     },
     "url:https://prospectequities.applytojob.com/apply/xtbzsacntg/backend-frontend-developer-intern": {
       "eligible": true,
@@ -75965,7 +76018,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 387,
+  "scan_sequence": 388,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

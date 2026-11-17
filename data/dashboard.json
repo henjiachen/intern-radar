@@ -2020,21 +2020,6 @@
       "company": "Amazon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "3ad3592639de0b159ddff796e14606b1984fea6a9d251471d038bdafb961fc5c",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "posted_at": "2026-11-17",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Development Engineer Intern, Artificial General Intelligence",
-      "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027"
-    },
-    {
-      "company": "Amazon",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "9a42d7cc94746daa11a885e0f13aeb48781481e222b7d46bb748ab6fdafacaf1",
       "locations": [
         "Seattle, WA"
@@ -4896,21 +4881,6 @@
       "source": "simplify",
       "title": "Software Developer Intern",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335"
-    },
-    {
-      "company": "Booz Allen",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "9b07609831116bb7b376b8d2db8a08bc981d11487dc3d5481a62f55da178e4a6",
-      "locations": [
-        "El Segundo, CA"
-      ],
-      "posted_at": "2026-08-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Developer Intern - Summer Games",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046"
     },
     {
       "company": "Booz Allen",
@@ -18863,12 +18833,12 @@
       "locations": [
         "Minneapolis, MN"
       ],
-      "posted_at": "2026-10-01",
+      "posted_at": "2026-11-06",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Software-Intern_REQ52945"
+      "source": "speedyapply",
+      "title": "Software Intern",
+      "url": "https://nordsonhcm.wd501.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Software-Intern_REQ52945"
     },
     {
       "company": "North Atlantic Industries",
@@ -20070,6 +20040,24 @@
       "source": "simplify",
       "title": "R&D Engineer Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000082444-1"
+    },
+    {
+      "company": "Peraton",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c5f054270c619e690491105ca012d308992e5e443232f458c1299e4c95994eee",
+      "locations": [
+        "West Lafayette, IN",
+        "Basking Ridge, Bernards, NJ",
+        "Silver Spring, MD",
+        "Bedford, NH"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Cyber Research Intern",
+      "url": "https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false"
     },
     {
       "company": "Peraton",
@@ -21867,6 +21855,21 @@
       "source": "ashby",
       "title": "Software Engineering Intern - Vehicle Controls (Summer 2027)",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c"
+    },
+    {
+      "company": "Robert Bosch Venture Capital",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ef76e2916d7fe6ffec7f3868ba0ebf7572611d6bd94a0e1a0afe506578789d89",
+      "locations": [
+        "Farmington Hills, MI"
+      ],
+      "posted_at": "2026-11-17",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Application Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254"
     },
     {
       "company": "Robert Bosch Venture Capital",
@@ -27922,23 +27925,6 @@
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
     },
     {
-      "company": "Tyler Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "16dc7eb93500aa9ee329c737c74f4d38d27446e7f659c60289b0fca943b5f5ad",
-      "locations": [
-        "Yarmouth, ME",
-        "Orono, ME",
-        "Falmouth, ME"
-      ],
-      "posted_at": "2026-09-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Intern - Summer 2027",
-      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
-    },
-    {
       "company": "Uber",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29855,7 +29841,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-17T15:07:46.091192+00:00",
+  "last_checked": "2026-11-17T16:12:23.529566+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
