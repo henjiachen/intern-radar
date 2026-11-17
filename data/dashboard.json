@@ -15653,6 +15653,21 @@
       "company": "KLA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "b1cf92033386d770d80104c6483e9dc8fa30f306dad3ea93f8e0baca79314ac9",
+      "locations": [
+        "Milpitas, CA"
+      ],
+      "posted_at": "2026-10-14",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Computer Vision/Machine Learning Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1"
+    },
+    {
+      "company": "KLA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "fdf71171fb1a55d8a6f72bd10209c6ba877260dd57fbc8241cdca0a1d6b284de",
       "locations": [
         "Milpitas, CA"
@@ -19021,22 +19036,6 @@
       "url": "https://jobs.dover.com/northwaysports/8cf0ac7e-7fb0-4807-a0c7-348a8f28413a"
     },
     {
-      "company": "Northwood Space",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "f4a232560bd1aac4254bdfb9b4a29a3bb01dcecda67b7551d7d6b2e2e530039b",
-      "locations": [
-        "LA",
-        "Torrance, CA"
-      ],
-      "posted_at": "2026-08-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Supply Chain Data & Analytics Intern",
-      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true"
-    },
-    {
       "company": "NOV",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -19612,9 +19611,9 @@
       "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826"
     },
     {
-      "company": "Palantir",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "52e99d5337450bed81dbb538e280d3aac8e55e27de43c47365915c147778a135",
       "locations": [
         "Chicago, IL"
@@ -19622,74 +19621,44 @@
       "posted_at": "2026-06-30",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Forward Deployed Software Engineer Intern - Commercial",
-      "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply"
+      "source": "lever",
+      "title": "Forward Deployed Software Engineer, Internship - Commercial",
+      "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2"
     },
     {
-      "company": "Palantir",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "0a9ce9cd4aeb981563ba341fd0d094de40edf46d9d47a42426d21faf3f7c4234",
       "locations": [
-        "NYC"
+        "New York, NY"
       ],
       "posted_at": "2026-10-22",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Forward Deployed Software Engineer Intern - Warp Speed",
-      "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb/apply"
+      "source": "lever",
+      "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+      "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb"
     },
     {
-      "company": "Palantir",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "49a218e59254295e209f10701e5e906550f00a0435d7439278cdb0ca4d18f08c",
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "6ce9177f6cfe8ee52ee731300a1a85fa48ee651424682c9df77d562f687c40ac",
       "locations": [
-        "NYC"
+        "New York, NY"
       ],
-      "posted_at": "2026-06-29",
+      "posted_at": "2016-10-06",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply"
+      "source": "lever",
+      "title": "Privacy and Civil Liberties Software Engineer, Internship",
+      "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b"
     },
     {
-      "company": "Palantir",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "f5e0dea070500dda5398de1b09e08eb6da32e11d7687c71e3835a1dae507e9f9",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "posted_at": "2026-06-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply"
-    },
-    {
-      "company": "Palantir",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4f814fb7eca85cb87cdf05914edbd503aea3bdb9153ebd5b264764cf4d0ea6cb",
-      "locations": [
-        "Washington, DC"
-      ],
-      "posted_at": "2026-06-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply"
-    },
-    {
-      "company": "Palantir",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "c887983fc44dc709e23454bd65de76383735ab3266b41b23a2638d4b5057e7ee",
       "locations": [
         "Denver, CO"
@@ -19697,99 +19666,144 @@
       "posted_at": "2026-11-10",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Connectivity Platform - Product",
-      "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply"
+      "source": "lever",
+      "title": "Software Engineer, Intern - Connectivity Platform and Product",
+      "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e"
     },
     {
-      "company": "Palantir",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "39cefb656fcdee34d54a8230fe15965e3bde6a4da4643d6fb8e481f5bdd5157e",
       "locations": [
-        "NYC"
+        "New York, NY"
       ],
-      "posted_at": "2026-11-10",
+      "posted_at": "2026-11-04",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Connectivity Platform and Product",
-      "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743/apply"
+      "source": "lever",
+      "title": "Software Engineer, Intern - Connectivity Platform and Product",
+      "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743"
     },
     {
-      "company": "Palantir",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "49a218e59254295e209f10701e5e906550f00a0435d7439278cdb0ca4d18f08c",
+      "locations": [
+        "New York, NY"
+      ],
+      "posted_at": "2022-06-30",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Software Engineer, Internship",
+      "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d"
+    },
+    {
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "f5e0dea070500dda5398de1b09e08eb6da32e11d7687c71e3835a1dae507e9f9",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "posted_at": "2021-07-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Software Engineer, Internship",
+      "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c"
+    },
+    {
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "4f814fb7eca85cb87cdf05914edbd503aea3bdb9153ebd5b264764cf4d0ea6cb",
+      "locations": [
+        "Washington, D.C."
+      ],
+      "posted_at": "2021-07-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Software Engineer, Internship",
+      "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0"
+    },
+    {
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "894303a4805a265249cd7796fba7eda78ac47e4c1450e661205a0be8cd4eaf48",
       "locations": [
-        "NYC"
+        "New York, NY"
       ],
-      "posted_at": "2026-11-10",
+      "posted_at": "2026-11-04",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Data Connectors",
-      "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a/apply"
+      "source": "lever",
+      "title": "Software Engineer, Internship - Data Connectors",
+      "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a"
     },
     {
-      "company": "Palantir",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "938e1360cf9e769c67860fa4ca128a0c6bca683a24480d223abd31f689818fd2",
-      "locations": [
-        "NYC"
-      ],
-      "posted_at": "2026-10-20",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Query Engines",
-      "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13/apply"
-    },
-    {
-      "company": "Palantir",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "1da4dcd87407c7db4cf04344ce2bfacf15519aa308825536becda55ebba38ed0",
-      "locations": [
-        "NYC"
-      ],
-      "posted_at": "2026-11-05",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - Sovereign AI Systems",
-      "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312/apply"
-    },
-    {
-      "company": "Palantir Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "4df2a89cce320776c75e09ee8bdbc7ba08f21b135849dd4b4b9cdfc9b7aad968",
       "locations": [
         "New York, NY"
       ],
-      "posted_at": "2026-07-24",
+      "posted_at": "2025-06-26",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, Infrastructure",
+      "source": "lever",
+      "title": "Software Engineer, Internship - Infrastructure",
       "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
     },
     {
-      "company": "Palantir Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "337538d04cdc1fe719b96a74b99f1551532b644a08f746d3fbd0ade9873be17e",
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-07-24",
+      "posted_at": "2025-06-26",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, Production Infrastructure",
+      "source": "lever",
+      "title": "Software Engineer, Internship - Production Infrastructure",
       "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1"
+    },
+    {
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "938e1360cf9e769c67860fa4ca128a0c6bca683a24480d223abd31f689818fd2",
+      "locations": [
+        "New York, NY"
+      ],
+      "posted_at": "2026-10-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Software Engineer, Internship - Query Engines",
+      "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13"
+    },
+    {
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "1da4dcd87407c7db4cf04344ce2bfacf15519aa308825536becda55ebba38ed0",
+      "locations": [
+        "New York, NY"
+      ],
+      "posted_at": "2026-11-05",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Software Engineer, Internship - Sovereign AI Systems",
+      "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312"
     },
     {
       "company": "Panera Bread",
@@ -22943,6 +22957,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://securitymetrics.bamboohr.com/careers/215/"
+    },
+    {
+      "company": "Sedaro",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "493aa4e5b74fe6fb5df9ae4ed307ea80e77dcad3df6d9ba07fd6e5ddd78faec9",
+      "locations": [
+        "Arlington County, Arlington, VA"
+      ],
+      "posted_at": "2026-11-17",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://sedarotech.bamboohr.com/careers/97/"
     },
     {
       "company": "Selective Insurance",
@@ -27463,36 +27492,6 @@
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334"
     },
     {
-      "company": "Toyota Research Institute",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "6db3897ea886d63c5dceab1b1b82c4840de72e1bf748c5eff0a1861175c5bf5c",
-      "locations": [
-        "Cambridge, MA"
-      ],
-      "posted_at": "2026-11-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Robotics Intern - Teleoperation and Spatial Computing",
-      "url": "https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871/apply"
-    },
-    {
-      "company": "Toyota Research Institute",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "2cc202fd09ae3fcd1dc70d9ebcf8289696eb147d38ca1cf5521dfe736353413c",
-      "locations": [
-        "Cambridge, MA"
-      ],
-      "posted_at": "2026-11-16",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Robotics Intern - World Models - Multimodal Sensing",
-      "url": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3/apply"
-    },
-    {
       "company": "Trace Labs",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -27607,6 +27606,36 @@
       "source": "simplify",
       "title": "Safety Intern",
       "url": "https://careers.trccompanies.com/jobs/27074?icims=1"
+    },
+    {
+      "company": "tri",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "6db3897ea886d63c5dceab1b1b82c4840de72e1bf748c5eff0a1861175c5bf5c",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "posted_at": "2026-11-09",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Robotics Intern, Teleoperation and Spatial Computing",
+      "url": "https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871"
+    },
+    {
+      "company": "tri",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "2cc202fd09ae3fcd1dc70d9ebcf8289696eb147d38ca1cf5521dfe736353413c",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "posted_at": "2026-11-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Robotics Intern, World Models, Multimodal Sensing",
+      "url": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3"
     },
     {
       "company": "Tria Federal",
@@ -29093,21 +29122,21 @@
       "url": "https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false"
     },
     {
-      "company": "Waabi",
+      "company": "waabi",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
       "id": "2dcd621cbe312e756acc2c438732218df5f1856ab911525693af1e09a6a4fac6",
       "locations": [
-        "Toronto, ON, Canada",
-        "SF",
-        "Pittsburgh, PA"
+        "Toronto, ON",
+        "Pittsburgh, PA",
+        "San Francisco, CA"
       ],
-      "posted_at": "2026-10-16",
+      "posted_at": "2026-09-10",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Safety Methodologies Intern Co-op",
-      "url": "https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply"
+      "source": "lever",
+      "title": "Safety Methodologies Internship/Co-op 2027",
+      "url": "https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f"
     },
     {
       "company": "Waggoner Financial",
@@ -29901,9 +29930,9 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-17T11:18:12.891016+00:00",
+  "last_checked": "2026-11-17T12:07:15.303180+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
-  "source_failures": 3,
+  "source_failures": 0,
   "sources_checked": 104,
   "version": 1
 }
