@@ -1416,21 +1416,6 @@
       "company": "Affirm",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
-      "id": "7c0b9802bcaecef5d9bb6b2931e8adf4f1d64af973742c70a3ba210a43dc5e98",
-      "locations": [
-        "San Francisco, California, United States"
-      ],
-      "posted_at": "2026-10-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "greenhouse",
-      "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003"
-    },
-    {
-      "company": "Affirm",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
       "id": "a41897669781d9cecd04adac34f76969d4f412a6c91af1be5a39b0c32abc8c77",
       "locations": [
         "San Francisco, California, United States"
@@ -10703,6 +10688,21 @@
       "url": "https://careers.garmin.com/jobs/20129?icims=1"
     },
     {
+      "company": "Garmin",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "825e9b581d3689c3e72e8053a47cea94e04a4ebe7fec4e518b4c9789923c362c",
+      "locations": [
+        "Chanhassen, MN"
+      ],
+      "posted_at": "2026-11-17",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Real Time Aviation Data",
+      "url": "https://careers.garmin.com/jobs/20081"
+    },
+    {
       "company": "GCM Grosvenor",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -11196,21 +11196,6 @@
       "company": "General Matter",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "b6e5ba50bde313c9868724195e29423bbb008e7a81bab7e990644b251284170a",
-      "locations": [
-        "LA"
-      ],
-      "posted_at": "2026-09-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377131008"
-    },
-    {
-      "company": "General Matter",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "e88f87049da6dc59aa37ae81c351f847621958a16f51b8cd318bf8aba14d6b32",
       "locations": [
         "Los Angeles, CA"
@@ -11236,6 +11221,21 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008"
+    },
+    {
+      "company": "General Matter",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "b6e5ba50bde313c9868724195e29423bbb008e7a81bab7e990644b251284170a",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "posted_at": "2026-09-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Summer 2027 Internship - Embedded Software Engineering",
+      "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377131008"
     },
     {
       "company": "General Motors",
@@ -12543,71 +12543,6 @@
       "source": "simplify",
       "title": "Evaluation Analytics Graduate Intern",
       "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Evaluation-Analytics-Graduate-Intern_J288013"
-    },
-    {
-      "company": "Highmark Health",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "c86f07e3421c9dbfbfaba8051241682c0f60edea8d9b5a7ffb35cf845bfd45cb",
-      "locations": [
-        "New Mexico",
-        "Washington",
-        "Kansas",
-        "Pennsylvania",
-        "North Dakota",
-        "Oregon",
-        "Delaware",
-        "Iowa",
-        "California",
-        "Washington, DC",
-        "Vermont",
-        "Wyoming",
-        "Connecticut",
-        "Texas",
-        "Montana",
-        "Florida",
-        "New Hampshire",
-        "Nevada",
-        "South Carolina",
-        "South Dakota",
-        "Georgia",
-        "Arizona",
-        "Mississippi",
-        "Tennessee",
-        "Virginia",
-        "Arkansas",
-        "Minnesota",
-        "Colorado",
-        "Nebraska",
-        "Rhode Island",
-        "Utah",
-        "Kentucky",
-        "West Virginia",
-        "NYC",
-        "Maryland",
-        "Hawaii",
-        "Wisconsin",
-        "Maine",
-        "Massachusetts",
-        "North Carolina",
-        "Oklahoma",
-        "Missouri",
-        "Ohio",
-        "New Jersey",
-        "Indiana",
-        "Louisiana",
-        "Alaska",
-        "Michigan",
-        "Illinois",
-        "Alabama",
-        "Idaho"
-      ],
-      "posted_at": "2026-10-19",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Reimbursement Analyst Intern",
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Reimbursement-Analyst-Undergraduate-Intern_J287154"
     },
     {
       "company": "Highmark Health",
@@ -14020,21 +13955,6 @@
       "source": "simplify",
       "title": "Software Development Intern - Software Development - React",
       "url": "https://jobs.smartrecruiters.com/Interco/744000158581114"
-    },
-    {
-      "company": "Intercontinental Exchange",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "38708302800dad482041dc9636881c3f0cb536b1af33a7d98165857252e489cb",
-      "locations": [
-        "Jacksonville, FL"
-      ],
-      "posted_at": "2026-10-23",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Agentic AI Data Science Intern",
-      "url": "https://ice.jibeapply.com/jobs/14070?icims=1"
     },
     {
       "company": "Intercontinental Exchange",
@@ -15784,21 +15704,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.l3harris.com/job/Carlsbad-Software-Engineering-Intern-(Carlsbad,-CA)-CA-92009/1444689600/?ats=successfactors"
-    },
-    {
-      "company": "L3Harris Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "85a9d2ca2e013d7a9cfa562ff208375d3f93a8fd6c7fcd002b23484889dc647c",
-      "locations": [
-        "Nashville, TN"
-      ],
-      "posted_at": "2026-11-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.l3harris.com/job/Nashville-Intern,-Software-Engineer-TN-37203/1447640200/?ats=successfactors"
     },
     {
       "company": "L3Harris Technologies",
@@ -24943,21 +24848,6 @@
       "company": "Tesla",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "4b623be1238b428477edfd5b65d0b3f0447cd2635f16ed171ac9869504ebf7f2",
-      "locations": [
-        "Fremont, CA"
-      ],
-      "posted_at": "2026-10-18",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
-      "url": "https://www.tesla.com/careers/search/job/286986"
-    },
-    {
-      "company": "Tesla",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "fcd304b976a0a128b8382c5ef582423cb7a826e8737f5aacf80cb5089b30f935",
       "locations": [
         "Palo Alto, CA"
@@ -29570,7 +29460,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-17T21:06:36.021390+00:00",
+  "last_checked": "2026-11-17T22:08:27.230222+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

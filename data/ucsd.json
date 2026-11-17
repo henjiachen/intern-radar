@@ -12845,6 +12845,24 @@
       "fingerprint": "9476141845a4a2badae6004dd05e6a1a09b94de0b956a59a7692dbdde0fde289",
       "revision": 0
     },
+    "url:https://careers.garmin.com/jobs/20081": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "garmin",
+        "degrees": [],
+        "locations": [
+          "chanhassen, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, real time aviation data"
+      },
+      "fingerprint": "96ce9a84baf1ed21cfa818d6753d74b8fae8f3034ebac9d37b62aa3745a0dcc0",
+      "revision": 1
+    },
     "url:https://careers.garmin.com/jobs/20119?icims=1": {
       "eligible": false,
       "fingerprint": "310e2055e39e1752be3679bb16c5cd18dce1b79f7c61d75dd563340154984e91",
@@ -25977,6 +25995,16 @@
       "fingerprint": "bd68aa2f56c1377a83576769c7b2913beba9c520ffc82d4b7ef4a69a4ffc0b29",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1br": {
+      "eligible": false,
+      "fingerprint": "42b9972c8e214baddf4a6250e69be50f005abbe69d3793d68210c401ad1d6beb",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1bt": {
+      "eligible": false,
+      "fingerprint": "578aa7cdfa0502ede8f133044a0788058e859560ee8a8db2eff593f5f949a457",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1c": {
       "eligible": false,
       "fingerprint": "297251101f78dace9ddfd5a5e18794578550b66e19c42f1403167a6b671d99b6",
@@ -35920,17 +35948,16 @@
           "bachelor's"
         ],
         "locations": [
-          "la",
           "los angeles, ca"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "embedded software engineer intern"
+        "title": "summer 2027 internship - embedded software engineering"
       },
-      "fingerprint": "80caa176e6ecd5165ac4b1f56ad6499a4706866eebd735d92771211cacc299ca",
-      "revision": 0
+      "fingerprint": "b97c7654e3978da3497bd709ec42e416754be12edd5a3d3c104983945ead71e3",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/generalmatter/jobs/5448019008": {
       "eligible": true,
@@ -69794,6 +69821,11 @@
       "fingerprint": "5f96de08cbf222f45a592e4395912129e765f255ea1490390e0766027b635640",
       "revision": 0
     },
+    "url:https://www.akunacapital.com/careers/job/8018853?gh_jid=8018853": {
+      "eligible": false,
+      "fingerprint": "15273386380ce9894036b0e86fd6ed73c8e4c51120fe1bf7ddd64c1d8636a390",
+      "revision": 1
+    },
     "url:https://www.akunacapital.com/careers/job/8018856?gh_jid=8018856": {
       "eligible": false,
       "fingerprint": "297a06f209ad0c6a3f74801dd3b28637fca2734e1f3b7f8e9c289345c8fb6a17",
@@ -73508,6 +73540,7 @@
     "https://go.vansh.nyc/1Bm": 391,
     "https://go.vansh.nyc/1Bo": 391,
     "https://go.vansh.nyc/1Bp": 391,
+    "https://go.vansh.nyc/1Bs": 392,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -74994,6 +75027,7 @@
     "https://go.vansh.nyc/1Bm": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Hardware---Firmware-Intern--Health-Solutions-_R269166",
     "https://go.vansh.nyc/1Bo": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
     "https://go.vansh.nyc/1Bp": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721",
+    "https://go.vansh.nyc/1Bs": "https://careers.garmin.com/jobs/20081",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -76240,7 +76274,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 391,
+  "scan_sequence": 392,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
