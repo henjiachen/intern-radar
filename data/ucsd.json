@@ -24881,10 +24881,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern"
       },
-      "fingerprint": "1baad5d72040477941db0be4ff6b6467395097a85ab13eb400854fce9fa38670",
-      "revision": 2
+      "fingerprint": "e276673de0fc670716c904e0ef82e4f0419a0502fae8f1badf5d0141d52eee50",
+      "revision": 3
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-fl-st-petersburg-381bd--7401-22nd-ave-n--bldg-d/software-engineering-intern--summer-2027-_01887806": {
       "eligible": true,
@@ -49858,6 +49858,11 @@
       "fingerprint": "387e44c4991867a4361b43246d1fec6962bed8626b551953ff4c64dae5d0c922",
       "revision": 1
     },
+    "url:https://jobs.smartrecruiters.com/boschgroup/744000162076254": {
+      "eligible": false,
+      "fingerprint": "773c9247c891a0740e0abafff46596fd2a4d338d72cf22ec10b91dbca0ace345",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/captechconsulting/744000155019115": {
       "eligible": true,
       "evidence": {
@@ -57399,13 +57404,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "machine learning engineering intern"
       },
-      "fingerprint": "58d58f15960330d8e9ba438815f236e27a6425b550e92aabf0c0094b68c3beb5",
-      "revision": 1
+      "fingerprint": "1eb89906916ffcf615a62a54760c5364bb8bbb8cf3f1ba3a81e7303874eec240",
+      "revision": 2
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/san-jose-ca/intern---ai---product-management--mobile-memory--lpdram-_jr115839": {
       "eligible": false,
@@ -66666,13 +66670,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern"
       },
-      "fingerprint": "b549f2a10322907fd9303434f5e7911c1c66a92eb89769e40450a87c024c29c8",
-      "revision": 2
+      "fingerprint": "d067e7301a076f45653eaf4f1b4ed01353b8cbd99ea2dce109d2b10d258be716",
+      "revision": 3
     },
     "url:https://trinitylifesciences.wd108.myworkdayjobs.com/trinity/job/waltham-ma---headquarters/data-science-intern_jr100881": {
       "eligible": true,
@@ -69660,6 +69663,24 @@
       "fingerprint": "06115c29f81a04e4c8cb5c54707eecc55a3004144d006193e78c6bc8ad921ff5",
       "revision": 1
     },
+    "url:https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "amazon",
+        "degrees": [],
+        "locations": [
+          "sunnyvale, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development engineer intern, artificial general intelligence"
+      },
+      "fingerprint": "40b5f20e048bbeac1c522bfe45344245a6ab7df4458f7acd64eb38783164d04d",
+      "revision": 1
+    },
     "url:https://www.amazon.jobs/jobs/10517567/apply": {
       "eligible": true,
       "evidence": {
@@ -70433,13 +70454,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "applications software developer intern"
       },
-      "fingerprint": "3f28bebcd8eefd292fbeeaf2323786b0fae2c56f3c07fb06e417429219381452",
-      "revision": 1
+      "fingerprint": "39b3bcde78ce4251efbe5cedfa7b05612045acbd2acdbd1d87cb6ea0b038fa64",
+      "revision": 2
     },
     "url:https://www.ixl.com/company/jobs?gh_jid=8862214002": {
       "eligible": true,
@@ -73216,6 +73236,7 @@
     "https://go.vansh.nyc/1B7": 383,
     "https://go.vansh.nyc/1B8": 383,
     "https://go.vansh.nyc/1Bb": 385,
+    "https://go.vansh.nyc/1Bf": 387,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -74697,6 +74718,7 @@
     "https://go.vansh.nyc/1B7": "https://birdseyeaccount.bamboohr.com/careers/288",
     "https://go.vansh.nyc/1B8": "https://birdseyeaccount.bamboohr.com/careers/290",
     "https://go.vansh.nyc/1Bb": "https://sedarotech.bamboohr.com/careers/97",
+    "https://go.vansh.nyc/1Bf": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -75943,7 +75965,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 386,
+  "scan_sequence": 387,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
