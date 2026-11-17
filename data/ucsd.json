@@ -2505,6 +2505,24 @@
       "fingerprint": "12c67ec16f7138f38b656e34cad3bf6e7f30da18ad5a331d398a0721ac8531ce",
       "revision": 0
     },
+    "url:https://analogdevices.wd1.myworkdayjobs.com/external/job/us-ma-wilmington/software-engineering-intern--medical-device---healthcare-integration-_r269165": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "analog devices",
+        "degrees": [],
+        "locations": [
+          "wilmington, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, medical device & healthcare integration"
+      },
+      "fingerprint": "973c1e65f9d72d182c51156c24980ad5fcf930ba74ae3a9a988cb0f09564c0cc",
+      "revision": 1
+    },
     "url:https://ancestry.wd501.myworkdayjobs.com/careers/job/draper-utah/software-engineer---observability--co-op_r003434": {
       "eligible": false,
       "fingerprint": "7f637649a5b0f8dbd91ca9f2c71874d7856552fc2624c3a3318b2764a2a98789",
@@ -72987,6 +73005,7 @@
     "https://go.vansh.nyc/1AN": 378,
     "https://go.vansh.nyc/1AP": 378,
     "https://go.vansh.nyc/1AQ": 379,
+    "https://go.vansh.nyc/1AV": 381,
     "https://go.vansh.nyc/1Aa": 370,
     "https://go.vansh.nyc/1Ag": 371,
     "https://go.vansh.nyc/1Ah": 371,
@@ -74464,6 +74483,7 @@
     "https://go.vansh.nyc/1AN": "https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d",
     "https://go.vansh.nyc/1AP": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
     "https://go.vansh.nyc/1AQ": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003",
+    "https://go.vansh.nyc/1AV": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Software-Engineering-Intern--Medical-Device---Healthcare-Integration-_R269165",
     "https://go.vansh.nyc/1Aa": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
     "https://go.vansh.nyc/1Ag": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14311",
     "https://go.vansh.nyc/1Ah": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14465",
@@ -75718,7 +75738,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 380,
+  "scan_sequence": 381,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
