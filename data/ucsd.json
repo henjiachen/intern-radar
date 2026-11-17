@@ -7185,8 +7185,8 @@
     },
     "url:https://birdseyeaccount.bamboohr.com/careers/288": {
       "eligible": false,
-      "fingerprint": "1d43ddf2da8dc17180db3c818a170f96c1cd6247c4fce8625502986290fbb0dc",
-      "revision": 1
+      "fingerprint": "6c33c9eb952ae8b35e2675c990f50c12ef36dc98ae1abfabc9f4da2dab8fd7ec",
+      "revision": 2
     },
     "url:https://birdseyeaccount.bamboohr.com/careers/289": {
       "eligible": false,
@@ -7195,8 +7195,8 @@
     },
     "url:https://birdseyeaccount.bamboohr.com/careers/290": {
       "eligible": false,
-      "fingerprint": "6ebc5a5858c00d2cac43e1cb2e2d218b2d8a6a6e60d3f03a599ee7a823326297",
-      "revision": 1
+      "fingerprint": "cac119d8e96c50cfc5422bb2bc5ad292698a5fe72c6bfdccf9d98a8f9ee6f78f",
+      "revision": 2
     },
     "url:https://bitmovin.com/careers/8660599002?gh_jid=8660599002": {
       "eligible": false,
@@ -16020,6 +16020,11 @@
       "fingerprint": "5a39e9288b4deb0a36ee8cfe18857b9c1864fcda3345180ae24e3f1643b0a930",
       "revision": 0
     },
+    "url:https://cetci.bamboohr.com/careers/92": {
+      "eligible": false,
+      "fingerprint": "86448c489106fb3a93e819b1e5dbe01f431316b90013d8ed60f0054e3ec61879",
+      "revision": 1
+    },
     "url:https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/crawley-united-kingdom/software-engineering-intern_jr101336-1": {
       "eligible": false,
       "fingerprint": "8b46446b12d90175a2af3340908ee6fd00ca6257a6f0adb84d873eadbf073729",
@@ -22604,6 +22609,11 @@
       "fingerprint": "c572948c84cdfe17330bcccbbebc175d4cc148407a2d853bb20abec455ddb98a",
       "revision": 1
     },
+    "url:https://fpwa.bamboohr.com/careers/61": {
+      "eligible": false,
+      "fingerprint": "1d0e08bdd4401d0b0371808f70f169192af81ec59386f7a2681ec576e39b56c8",
+      "revision": 1
+    },
     "url:https://franklin-electric.pinpointhq.com/en/postings/6599b7d3-a9c3-4156-9251-07249e42d998": {
       "eligible": true,
       "evidence": {
@@ -23261,10 +23271,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "engineering development program intern - software"
+        "title": "edison engineering development program intern - software"
       },
-      "fingerprint": "2737968b55dc77563642b31b29550a6002f6231c8c736ea7dabcda8daa4498df",
-      "revision": 0
+      "fingerprint": "78a029aa916f39c5669318078ea1faa1074a38b98a6aa61e7c38105481a25098",
+      "revision": 1
     },
     "url:https://generac.wd5.myworkdayjobs.com/external/job/waukesha-wi---usa/intern-ai-engineering_jr17736": {
       "eligible": false,
@@ -25784,19 +25794,52 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/1ax": {
-      "eligible": false,
-      "fingerprint": "4d2f7304adbb672e5ffcc86db3f87d8432ce64c322e0bc745f5a085d517b5939",
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "birdseye security solutions",
+        "degrees": [],
+        "locations": [
+          "mississauga, canada",
+          "palo alto, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai systems intern"
+      },
+      "fingerprint": "6fce61c1daa60a7d993a11c4a6468143699e6b791f507e62102dd76f9715b17e",
+      "revision": 2
+    },
+    "url:https://go.vansh.nyc/1az": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "birdseye security solutions",
+        "degrees": [],
+        "locations": [
+          "mississauga, canada",
+          "palo alto, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern"
+      },
+      "fingerprint": "f45e787a8485699fb528ba22b5f6fac79fda0506f1ab66c4800d88c136fb543f",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1b0": {
       "eligible": false,
-      "fingerprint": "f6b326ee5715db33462d8a02c6d6ab1303322b29a288439b9d32fe63391a8c86",
-      "revision": 1
+      "fingerprint": "181a2bb4731f38c1c1114057fe28c5c96f69eb7b1120b7305cb1044d1ddec569",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1b1": {
       "eligible": false,
-      "fingerprint": "20619202d95db8de9d29c23a81bf3480778060186638aa3415fbb5bb5a15e2c9",
-      "revision": 1
+      "fingerprint": "13852733b342ed30b6d43fb25b080d20e431db7fdcb24696aa0295e79df93b8d",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1b3": {
       "eligible": false,
@@ -25811,11 +25854,6 @@
     "url:https://go.vansh.nyc/1b5": {
       "eligible": false,
       "fingerprint": "d67d37f9513958916a44a8e171f7a2c809f6e39455bab887314a364bd80917b4",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1b6": {
-      "eligible": false,
-      "fingerprint": "611f391769c454b022aa8c8c46b133430892445e4e1cf7bee507071f6d571ed2",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1b7": {
@@ -26586,6 +26624,11 @@
     "url:https://go.vansh.nyc/1yb": {
       "eligible": false,
       "fingerprint": "7425583f322bb56ba4cd5f5b456543577960d9d78602fd50157c4959c03a220c",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1yo": {
+      "eligible": false,
+      "fingerprint": "467dc8cab015e359a4edce64e039c6c6b37a1a0008e2fbae4b6d61e4308f2aa6",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1zj": {
@@ -55779,6 +55822,11 @@
       "fingerprint": "092bd43771779b019276d5e510a468f188868aa23cf79bc7832be7f9a497cc9c",
       "revision": 1
     },
+    "url:https://lifeattiktok.com/search/7703923326767483141": {
+      "eligible": false,
+      "fingerprint": "f1ad1266118a55b36f7fc34b66934d4ee9339e85f349cbf710afc2d4db5b7f41",
+      "revision": 1
+    },
     "url:https://lifeattiktok.com/search/7703925583541979445": {
       "eligible": false,
       "fingerprint": "69d999b7cfcad72421755f7c99cc0c389c324dc8c09f25c04ea658972dad480a",
@@ -58708,6 +58756,11 @@
       "eligible": false,
       "fingerprint": "c57859f3963948e44cebd67304a7f93cb4ff6672fd635ea19d781a6a2bf3a8b0",
       "revision": 3
+    },
+    "url:https://northstarearthandspace.bamboohr.com/careers/117": {
+      "eligible": false,
+      "fingerprint": "07340d30069df2f1aec77e768290848f2acf980a789b43c925b90b24c9ea87e4",
+      "revision": 1
     },
     "url:https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/milwaukee-wi-corporate/enterprise-sustainability---impact-intern---modeling---analytics--summer-2027_jr-46171": {
       "eligible": false,
@@ -66182,10 +66235,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern - t-ads"
+        "title": "software engineer intern, t-ads"
       },
-      "fingerprint": "a7555881acb0848cbf075f98a0633d37668b95f789bd02cfaa43c9345c62c05b",
-      "revision": 1
+      "fingerprint": "c6b6ac060236d5d1c4d70f006f803a076b7038c610e775c434083f66be8dae39",
+      "revision": 2
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/philadelphia-pennsylvania/summer-2027-t-ads-software-engineering-internship_req381225": {
       "eligible": true,
@@ -73063,6 +73116,8 @@
     "https://go.vansh.nyc/1Au": 375,
     "https://go.vansh.nyc/1Ax": 376,
     "https://go.vansh.nyc/1Az": 376,
+    "https://go.vansh.nyc/1B7": 383,
+    "https://go.vansh.nyc/1B8": 383,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -74541,6 +74596,8 @@
     "https://go.vansh.nyc/1Au": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3",
     "https://go.vansh.nyc/1Ax": "https://job-boards.greenhouse.io/minitab/jobs/8200708003",
     "https://go.vansh.nyc/1Az": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364",
+    "https://go.vansh.nyc/1B7": "https://birdseyeaccount.bamboohr.com/careers/288",
+    "https://go.vansh.nyc/1B8": "https://birdseyeaccount.bamboohr.com/careers/290",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -75787,7 +75844,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 382,
+  "scan_sequence": 383,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

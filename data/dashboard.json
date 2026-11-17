@@ -10868,19 +10868,19 @@
       "url": "https://go.vansh.nyc/IX"
     },
     {
-      "company": "GE Healthcare",
+      "company": "GE HealthCare",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
       "id": "7a8b178529ebbaeec86eb1ae55e8baaecbc48c61c6e38c0a9377b76e71f2bbcd",
       "locations": [
         "Waukesha, WI"
       ],
-      "posted_at": "2026-07-20",
+      "posted_at": "2026-09-02",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Engineering Development Program Intern - Software",
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2"
+      "source": "speedyapply",
+      "title": "Edison Engineering Development Program Intern - Software",
+      "url": "https://gehc.wd5.myworkdayjobs.com/en-US/gehc_externalsite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2"
     },
     {
       "company": "GE Vernova",
@@ -24879,8 +24879,8 @@
       "posted_at": "2026-11-10",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern - T-Ads",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, T-Ads",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219"
     },
     {
@@ -25256,6 +25256,21 @@
       "company": "Tesla",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "5aa8493b1eb512dcd51e39a42c931be231041d2c525ee2b812bf2a2da520b9c8",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data Engineer Intern, Fleet Analytics",
+      "url": "https://go.vansh.nyc/1az"
+    },
+    {
+      "company": "Tesla",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "153d225002048f3896142f81910f63f2166d5a992d762e7d6feafd3e211a9198",
       "locations": [
         "Palo Alto, CA"
@@ -25326,6 +25341,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Vehicle Software - Summer 2027",
       "url": "https://www.tesla.com/careers/search/job/281097"
+    },
+    {
+      "company": "Tesla",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "5ff7cc632b62b7d2ef1465ce5cf0c83b950fb1519826ff5bc27489210f8ff44a",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "posted_at": "2026-11-02",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Maps & Navigation, Robotaxi",
+      "url": "https://go.vansh.nyc/1ax"
     },
     {
       "company": "Tesla",
@@ -27983,6 +28013,23 @@
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
     },
     {
+      "company": "Tyler Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "16dc7eb93500aa9ee329c737c74f4d38d27446e7f659c60289b0fca943b5f5ad",
+      "locations": [
+        "Yarmouth, ME",
+        "Orono, ME",
+        "Falmouth, ME"
+      ],
+      "posted_at": "2026-09-21",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Development Intern - Summer 2027",
+      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
+    },
+    {
       "company": "Uber",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29899,7 +29946,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-17T07:43:47.815098+00:00",
+  "last_checked": "2026-11-17T09:19:23.644010+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
