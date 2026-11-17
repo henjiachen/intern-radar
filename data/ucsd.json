@@ -2876,8 +2876,8 @@
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393556922930": {
       "eligible": false,
-      "fingerprint": "6970c1f8490717a8b6a659fcf54b65975664e49667aadebe6c28be4b13d8a5d6",
-      "revision": 1
+      "fingerprint": "5467a0b308ca37bec521c69631ee4412556e7813da88a1d50e9bd2938e057c8d",
+      "revision": 2
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393556925823": {
       "eligible": true,
@@ -22680,6 +22680,11 @@
       "fingerprint": "d48abc6cec538c47a609d43e60d3a132bbb91043f00fd28def1086882e1884b9",
       "revision": 1
     },
+    "url:https://fsp.bamboohr.com/careers/323": {
+      "eligible": false,
+      "fingerprint": "8f13d0635ce783e11adac8635654efdbd5ef0247580d61fb9d91f01828fa4b82",
+      "revision": 1
+    },
     "url:https://fticonsulting.wd108.myworkdayjobs.com/fticonsultingcareers/job/london-united-kingdom/xmlname-2027-summer-internship--data---analytics_jr260771": {
       "eligible": false,
       "fingerprint": "b47f549f1e76b1b8acc1eb8396c34859f3448f453fa09103a328b66d22389656",
@@ -35743,6 +35748,11 @@
       "fingerprint": "821d9cf79b82decb6235ae3a9132bdb8fc5b60f782e9c2e3d4d07bc208ec4452",
       "revision": 1
     },
+    "url:https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004": {
+      "eligible": false,
+      "fingerprint": "5926b2790280dfd04848e13f98983ceea31b6819acae172a22431798b6e2977d",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003": {
       "eligible": true,
       "evidence": {
@@ -42467,6 +42477,16 @@
       "fingerprint": "45614ef91ae55a5b52388033d8a1b065b654eb138f41a66231abeba83208a2a5",
       "revision": 1
     },
+    "url:https://jobs.ashbyhq.com/remanence/07fc4962-bf28-4255-a7d4-3f5d52a4c525": {
+      "eligible": false,
+      "fingerprint": "9da691688a7775b18e040adc6e3f81f80c44c7707fe466532eda1ae6cc3be35d",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/remanence/97c87e6c-66d7-4d84-a873-30d286c26ea4": {
+      "eligible": false,
+      "fingerprint": "eb6c8b08d663897c1c440752da06b665fae5e693b1924ce75e94b76ab3b3a528",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea": {
       "eligible": false,
       "fingerprint": "089a65447ae91410d0055a97770b92977c23f014d8a8ca7b000f3880fd828d56",
@@ -43495,7 +43515,7 @@
     "url:https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "terranova",
         "degrees": [],
         "locations": [
@@ -43503,12 +43523,13 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "ai intern"
       },
-      "fingerprint": "3aa0a3327e4252f413fee85da0cb525bf5f20bc9867b38d8b5362b01bba256ed",
-      "revision": 1
+      "fingerprint": "6bfe2da998cde4dff6c3ff043d6c109e85ced9cc06387867b8e819ca5571348d",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7": {
       "eligible": true,
@@ -47647,26 +47668,9 @@
       "revision": 0
     },
     "url:https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "palantir",
-        "degrees": [],
-        "locations": [
-          "new york, ny",
-          "nyc"
-        ],
-        "requirements": [],
-        "terms": [
-          "fall 2027",
-          "spring 2027",
-          "summer 2027",
-          "winter 2027"
-        ],
-        "title": "privacy and civil liberties software engineer, internship"
-      },
-      "fingerprint": "645a9a561f974594b9ca7fa348d8c84ac81115f7e8f81458d3ccabbdecfd6866",
-      "revision": 0
+      "eligible": false,
+      "fingerprint": "5bc8881b5e887bbc831dc51fb1ee082438660b1b4ad07a311c25f29da7e19a26",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743": {
       "eligible": true,
@@ -47688,10 +47692,10 @@
           "n/a",
           "summer 2027"
         ],
-        "title": "software engineer, intern - connectivity platform and product"
+        "title": "software engineer intern - connectivity platform and product"
       },
-      "fingerprint": "97ac5f6aef05a6b50267f5b4fda67ca1189429e2aaa7f91a7bfe64411a1f04d4",
-      "revision": 4
+      "fingerprint": "4197290bcc45b012e5e2ca91b884c1c1b2e981b686ca541d924ae8491f8d4193",
+      "revision": 5
     },
     "url:https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a": {
       "eligible": false,
@@ -47700,8 +47704,8 @@
     },
     "url:https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf": {
       "eligible": false,
-      "fingerprint": "a91cb9ab81a6dafa14650da4413e739da06bab9b01e7501c8e9193be4d7974ab",
-      "revision": 0
+      "fingerprint": "ae58493deaffdf899f415af640dda8095ce2c73becd8416cfb4f903839cc4c84",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd": {
       "eligible": false,
@@ -47722,7 +47726,7 @@
       "eligible": true,
       "evidence": {
         "category": "",
-        "company": "palantir",
+        "company": "palantir technologies",
         "degrees": [],
         "locations": [
           "seattle, wa"
@@ -47731,15 +47735,15 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer, internship - production infrastructure"
+        "title": "software engineer intern, production infrastructure"
       },
-      "fingerprint": "64ebfb9781694a119acafd2775409b8358915b83d3f3ab8ce906d959a356400c",
-      "revision": 1
+      "fingerprint": "0aa557a1cb86a979fd6c1c01db05de0bfbf6f2c4c77f1af389454394b94f3c9b",
+      "revision": 2
     },
     "url:https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249": {
       "eligible": false,
-      "fingerprint": "3b0114713526ae568d60c114f750ba1f6a2158e4b1698fc7c8d392ba1d0eef11",
-      "revision": 0
+      "fingerprint": "540bcabac6892ab5c8fba0b3986d69c4f95681df8031d31a76adc6edc838ebbf",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116": {
       "eligible": false,
@@ -47758,13 +47762,13 @@
     },
     "url:https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963": {
       "eligible": false,
-      "fingerprint": "9a3edbf4940e00fa521b788d6b8a258ca58dc5a6d699e3c6b247ff73d2fdfdcf",
-      "revision": 0
+      "fingerprint": "fcc190027c75bd5f8d6a899848be610b29663e479db3e6ceb4fb7eb937729b63",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e": {
       "eligible": false,
-      "fingerprint": "e8ecdd6c8cd9a09f3647c3afeeb1f365340ba3e5f789ab33ab0a38d756b5aea6",
-      "revision": 2
+      "fingerprint": "fdd0d3eb5542bab8e46d70a5fbb8887f97367b0e3721d062ec1efa3ade188137",
+      "revision": 3
     },
     "url:https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a": {
       "eligible": true,
@@ -47786,40 +47790,40 @@
           "n/a",
           "summer 2027"
         ],
-        "title": "software engineer, internship - data connectors"
+        "title": "software engineer intern - data connectors"
       },
-      "fingerprint": "972b9530bbc420f5cf47cce56f2ec566476aaf4c247c91e0b2bd097878864d4a",
-      "revision": 4
+      "fingerprint": "80266b60ac9749826dc669d10d860208feeeed5fd7c2a716ace8e94353b4c392",
+      "revision": 5
     },
     "url:https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6": {
       "eligible": false,
-      "fingerprint": "80d8c4bf048637f822637e68a8aa27ab14add2091a4f691ff4485b190ae78fbd",
-      "revision": 0
+      "fingerprint": "50ed2b60f733141e86ca5138ff4ec9ae720b8f431660cfdfa6891c2821dc71e2",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019": {
       "eligible": false,
-      "fingerprint": "2b08679be6910101fc68cf21a366ae434806dba02d9283cb947f768d7df70a42",
-      "revision": 0
+      "fingerprint": "d3a82e44a3e50b8462ee3f7147594886545c1026be45c9defabf80c83a71badd",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333": {
       "eligible": false,
-      "fingerprint": "6a573fdcca7fe29802836159bf31dd0a3b5579787c490041fd6964e1e2ea1ef1",
-      "revision": 0
+      "fingerprint": "5b3d726f0cffde077aa87bba72b5f3c6a35807bfce5cff688a219a1945957d26",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329": {
       "eligible": false,
-      "fingerprint": "e2d925bd847f960267c1e7e525e30130da7ca4158cdeca04ea2e14968bffe890",
-      "revision": 0
+      "fingerprint": "c02e5f6b4645e08ae1bafbadffb82e98e322342c806402ba232b7f4b41bcf538",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3": {
       "eligible": false,
-      "fingerprint": "39c735954d4e4a379278708fce99eab46aa2a86947bf4f495d13a80a36524d7b",
-      "revision": 0
+      "fingerprint": "17d8d14a89fa052287d28e156175b4671aaa382839f5794e784a038e4cd72698",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602": {
       "eligible": false,
-      "fingerprint": "dbe456bf817d7b620ebbda5884ceee3318f21f1d0c3232782ff897dc06325357",
-      "revision": 0
+      "fingerprint": "2c7bb25c82473802f3109aff3d52e4a4fa081af0f611309d9e6c0598a836af0f",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d": {
       "eligible": true,
@@ -47840,20 +47844,20 @@
           "summer 2028",
           "winter 2028"
         ],
-        "title": "software engineer, internship"
+        "title": "software engineer intern"
       },
-      "fingerprint": "6a0891a60affe9243f9e7a1ce6608204d71baea8b44af22b7f0771327d811be9",
-      "revision": 1
+      "fingerprint": "d35d8f71f18d4f6afb4eb9d3aa27130bcac22b01c2c1f831d78d67f4722e1708",
+      "revision": 2
     },
     "url:https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e": {
       "eligible": false,
-      "fingerprint": "10ef5ac002e08f213d193a02639c7414cae0f8598dcb6e931bd6dc787b6dbd8d",
-      "revision": 0
+      "fingerprint": "f22064332d520ecc033f29a0b7de914256a822b30d831bd74c9148f332e890da",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d": {
       "eligible": false,
-      "fingerprint": "d25978b442974108a055b718bffc8b40e76e3b922678bc244546fd409adf5533",
-      "revision": 0
+      "fingerprint": "7404d709632c67c70019e9c85e6663b4ce317cc5909ba6914821bbe73be5282e",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f": {
       "eligible": false,
@@ -47864,7 +47868,7 @@
       "eligible": true,
       "evidence": {
         "category": "",
-        "company": "palantir",
+        "company": "palantir technologies",
         "degrees": [],
         "locations": [
           "new york, ny"
@@ -47873,10 +47877,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer, internship - infrastructure"
+        "title": "software engineer intern, infrastructure"
       },
-      "fingerprint": "e88944f9e3520677cba85339acb3a9f304a1fa31b4a5a7c7063021b39fa262eb",
-      "revision": 1
+      "fingerprint": "64970bedc309a95a8a0aeaf945087833ec836ec423a968feb02bf95d2fba22c8",
+      "revision": 2
     },
     "url:https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb": {
       "eligible": true,
@@ -47894,16 +47898,16 @@
           "n/a",
           "summer 2027"
         ],
-        "title": "forward deployed software engineer, internship - warp speed"
+        "title": "forward deployed software engineer intern, warp speed"
       },
-      "fingerprint": "3bb6d4a7ddace09f73dda70da2914bce8f1db243349805a48f4c23742af28c8e",
-      "revision": 1
+      "fingerprint": "4c7981a128d1300bdf24d09287f8e3713b7472a762e3444f6cca1dd5560b421b",
+      "revision": 2
     },
     "url:https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0": {
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "palantir",
+        "company": "palantir technologies",
         "degrees": [],
         "locations": [
           "washington, d.c.",
@@ -47916,10 +47920,10 @@
           "summer 2028",
           "winter 2028"
         ],
-        "title": "software engineer, internship"
+        "title": "software engineer intern"
       },
-      "fingerprint": "229aa826e0e89c3cca652e7aa72d8b62a29d2ccc2c1d4f5e67e8cd3c979939b5",
-      "revision": 1
+      "fingerprint": "954f091454758ecde85fcd4749275ceb79250b06cf4d211c5c9a9849555b3ed6",
+      "revision": 2
     },
     "url:https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312": {
       "eligible": true,
@@ -47940,10 +47944,10 @@
           "n/a",
           "summer 2027"
         ],
-        "title": "software engineer, internship - sovereign ai systems"
+        "title": "software engineer intern - sovereign ai systems"
       },
-      "fingerprint": "7da08e60277bb75e74b25a2e28764cb2f47262f9083bc1ba8333994d954b803d",
-      "revision": 3
+      "fingerprint": "b08add45658a92287f803e0f6b650e6280b8137c0cc6c2cee092a9948cf88d87",
+      "revision": 4
     },
     "url:https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2": {
       "eligible": true,
@@ -47965,10 +47969,10 @@
           "winter 2027",
           "winter 2028"
         ],
-        "title": "forward deployed software engineer, internship - commercial"
+        "title": "forward deployed software engineer intern - commercial"
       },
-      "fingerprint": "fa4b0f87b5cd7fe5292b7f836a246a6a65d23282ce72980b2ccbf4494b9a7543",
-      "revision": 0
+      "fingerprint": "aff1f59001ae03df3e46a136aadc4680679b0dd55f7e8486273ec7fc85470a46",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13": {
       "eligible": true,
@@ -47989,21 +47993,21 @@
           "n/a",
           "summer 2027"
         ],
-        "title": "software engineer, internship - query engines"
+        "title": "software engineer intern - query engines"
       },
-      "fingerprint": "e6ac85155b2f8007c4856df4a449ed424b702e5752407dfc9310c8b588851817",
-      "revision": 2
+      "fingerprint": "cd13340ac71433d18d908d5ee202ad3906275cf184f164f07fe510e0e0858814",
+      "revision": 3
     },
     "url:https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f": {
       "eligible": false,
-      "fingerprint": "ba2b236b021c60b2a2dce3802cf5f16409fe1bcc380a8958cbbae4c08564daad",
-      "revision": 0
+      "fingerprint": "d2c82463b0f2e411bc492c2febb1adcf75a69a7087ab3eeeee945a49b0da8c94",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c": {
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "palantir",
+        "company": "palantir technologies",
         "degrees": [],
         "locations": [
           "palo alto, ca"
@@ -48015,20 +48019,20 @@
           "summer 2028",
           "winter 2028"
         ],
-        "title": "software engineer, internship"
+        "title": "software engineer intern"
       },
-      "fingerprint": "a96f3f2aa0fe98d461ac46292ab63da6a27e26448d7ed9fb39efccfaee0d397c",
-      "revision": 1
+      "fingerprint": "ccd7168b1a28028f40667b9b506e09b3c25f746430e083350fac43887fcb923a",
+      "revision": 2
     },
     "url:https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d": {
       "eligible": false,
-      "fingerprint": "8f7c59cf3058eaeb123f5f5e0d406e5881bca95af925653adbaee216fb985d87",
-      "revision": 0
+      "fingerprint": "8d8ebd597a279bda55ca4f0c933fa9d7911df8e4b44b0435f66b055932c8d3b4",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2": {
       "eligible": false,
-      "fingerprint": "66f2a4e307f7411923ec56d21a1b0fe9c27a947d60a8b333491dce850ff1020b",
-      "revision": 0
+      "fingerprint": "d4def1b084337df6dafac2a4187c13c4165edeb66ff9b5bef1b909f6d8e53f83",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e": {
       "eligible": true,
@@ -48048,10 +48052,10 @@
           "n/a",
           "summer 2027"
         ],
-        "title": "software engineer, intern - connectivity platform and product"
+        "title": "software engineer intern - connectivity platform - product"
       },
-      "fingerprint": "41d6455bdd260c0c3c94050b2df1495eb701e34f17843a69a3d084b061e18095",
-      "revision": 3
+      "fingerprint": "48b5285dda62270bd1d728391bce1d55bf6143f2e1bcd969cb8cbb0cee7c6030",
+      "revision": 4
     },
     "url:https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb": {
       "eligible": false,
@@ -48060,8 +48064,8 @@
     },
     "url:https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7": {
       "eligible": false,
-      "fingerprint": "7f3fa1960be6161843b82e794ee568e4d78a8c9463a6ca6e9f5cbced0b9f07b8",
-      "revision": 0
+      "fingerprint": "d73b0a88aae47687ce315386bf00db51cc7ac5f1b3e35ef5210c1c508519713f",
+      "revision": 1
     },
     "url:https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4": {
       "eligible": false,
@@ -48522,39 +48526,49 @@
     },
     "url:https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478": {
       "eligible": false,
-      "fingerprint": "5fe8c91e5c3e5b82432a20ed6487313ffb3a7f917c2b60c7bd2549cc913dd16d",
-      "revision": 0
+      "fingerprint": "6c45aa376cc70e59189991484074cff3b24dbdad00ad782612a6610929241130",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642": {
       "eligible": false,
-      "fingerprint": "78d4a5391f025708517285014215a8f6ba9edb7029053b0b9db2d81dcd309f8d",
-      "revision": 2
+      "fingerprint": "102a11df6b25ab6095cd2cbc83147381a15297570a657cb72e852a75de678fc8",
+      "revision": 3
     },
     "url:https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047": {
       "eligible": false,
-      "fingerprint": "31dac2e96b3c04c63fe77c7155c300f7f1a00c6b5cbe8cb04c20c0785b92e449",
-      "revision": 2
+      "fingerprint": "e945495e9e4d5630c2c625dca27a902ee8858c7be7d51a3ed2b5a592f919e8a3",
+      "revision": 3
     },
     "url:https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd": {
       "eligible": false,
-      "fingerprint": "8e4cb2e5f43a87e5dd4b40482c8e03e9d8a4df922cab8d33661b78f19bfd74f8",
-      "revision": 2
+      "fingerprint": "7f87128f6057a99dc6a35e49da202693628b99a7e06c61e3850d016c6f2637ac",
+      "revision": 3
     },
     "url:https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e": {
       "eligible": false,
-      "fingerprint": "b5238a5be6d1d1dca28581448ad43c7480ee3b5876a190e9290ed8ac2e1099c3",
+      "fingerprint": "ac2a8601596b1cd8d33eb7b43efb76b662fbc5c53dbb5d03968bdf5028f10406",
+      "revision": 2
+    },
+    "url:https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8": {
+      "eligible": false,
+      "fingerprint": "827c1e3d8d11c1bca60828c68e47a2feb7f7a84b1ecdb009c112411fbe166c95",
       "revision": 1
     },
     "url:https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476": {
       "eligible": false,
-      "fingerprint": "6370d1d40bc761cc7ab3450e1de15bf5ced7ad497be92001d040eaea4c289e8a",
-      "revision": 2
+      "fingerprint": "a97fc8e6116e94524ed2072d544b55e8f11519f5da561c205a801a635264b75d",
+      "revision": 3
+    },
+    "url:https://jobs.lever.co/tri/3e69a8d4-6286-4d00-8677-7597e98fdb56": {
+      "eligible": false,
+      "fingerprint": "7ac34afc86130629784b49d2fa608812de1a480bae159dd0d0b2602e6e426e06",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871": {
       "eligible": true,
       "evidence": {
         "category": "ai/ml/data",
-        "company": "tri",
+        "company": "toyota research institute",
         "degrees": [
           "bachelor's"
         ],
@@ -48566,39 +48580,54 @@
           "n/a",
           "summer 2027"
         ],
-        "title": "robotics intern, teleoperation and spatial computing"
+        "title": "robotics intern - teleoperation and spatial computing"
       },
-      "fingerprint": "a199b1bf659c61ad9c8821575854f9f775cde823ee4223603ee43b5ca5047275",
-      "revision": 2
+      "fingerprint": "1ebce841e0e6f6f9578ce5ee58a6a62f8409b31f68832688805e15aefd12f888",
+      "revision": 3
     },
     "url:https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628": {
       "eligible": false,
-      "fingerprint": "3dd91134810ffccc4873ec1ec48326a917c965bc5c3f01b64f76bc6485a5a6ff",
-      "revision": 2
+      "fingerprint": "800c02dff979b481d46aee9a844c8549986c140c67eaaedd73618d4881222ce1",
+      "revision": 3
     },
     "url:https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4": {
       "eligible": false,
-      "fingerprint": "1d37cc73665f192f893182189ff3067b1cfc4de2d9da16fe553692cdb48f6aa4",
-      "revision": 6
+      "fingerprint": "7306f7776475b6c4ab8d0cc98ff39783fdc040fda1c2efbcdab6284b3f4adfc9",
+      "revision": 7
+    },
+    "url:https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149": {
+      "eligible": false,
+      "fingerprint": "a468f201220d22e33a122b4275bccf65d6935bff73d1dc11753ae7379656d0ed",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f": {
       "eligible": false,
-      "fingerprint": "9d9a481698761da07b8696f18d71fe071c8534e31a5c426693947611d51c566d",
-      "revision": 1
+      "fingerprint": "a75b9b127c8103345daa88c0cf7059012152313e52ceafe90542f77bbcdfd462",
+      "revision": 2
     },
     "url:https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac": {
       "eligible": false,
-      "fingerprint": "fb995a9180c3fc898b2cedb058a50c6f1a98d8b890c8b39ed73d11225838b0a1",
-      "revision": 2
+      "fingerprint": "ff4b4c0e13edd4c9219661c7cd9297619ba725c53d39881b1cc6712b7e96abec",
+      "revision": 3
     },
     "url:https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424": {
       "eligible": false,
-      "fingerprint": "9b0d6bdc685e29c57b1643a29d8686350a9b165192e1840b850cc04485b3562f",
-      "revision": 0
+      "fingerprint": "d58d5197e47ae60c07c7487544c43ef76e8c82b7f1f09e385a32f67fd7b94e4b",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/71e99c38-aa29-4414-956d-cc526644b9b7": {
       "eligible": false,
-      "fingerprint": "3a8bb86375f6ba4e1230ddc972a235c763f5d1afd21c0a6fdab4e3e1a041ca9e",
+      "fingerprint": "612cd2f757589fa81cf42eb8793c2f1afec3dd959c4d573e5c76ff7e82e00f63",
+      "revision": 2
+    },
+    "url:https://jobs.lever.co/tri/828d98d0-f914-404f-b537-5d05236128bb": {
+      "eligible": false,
+      "fingerprint": "444d75f7acf5e71ff9103b857cdcbd979056ad3cd21566025222777e66cce775",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/tri/86e6a285-bb0a-4e84-8bf9-bd498d45c33d": {
+      "eligible": false,
+      "fingerprint": "501c18067cc745f2432f3b28f6cc9b4443a66dc20fad5bd387dfed15276fefcf",
       "revision": 1
     },
     "url:https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9": {
@@ -48608,24 +48637,29 @@
     },
     "url:https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415": {
       "eligible": false,
-      "fingerprint": "cfb2f8f0570c4572f3a741d4016245b1704a5ce362f91663433b2bd60e326f49",
-      "revision": 2
+      "fingerprint": "a97fc8e6116e94524ed2072d544b55e8f11519f5da561c205a801a635264b75d",
+      "revision": 3
+    },
+    "url:https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7": {
+      "eligible": false,
+      "fingerprint": "cf01868ee495b979dbac41aaf0a1fd1c54688ac29debeede03b18e47e99ca2a3",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2": {
       "eligible": false,
-      "fingerprint": "2711d842e641169b62ea8e4221dee91758d4f73b5e0046d33aa606a8d5e3746c",
-      "revision": 2
+      "fingerprint": "d1fcabca6478597ef2531bf019d74a2fad7a77faf3240f40ecf419e747fa9354",
+      "revision": 3
     },
     "url:https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37": {
       "eligible": false,
-      "fingerprint": "fe28a71668722be82afdad63c3002b20399bb591572052e28b7d2da507b8fecf",
-      "revision": 2
+      "fingerprint": "2886c79bf5f77f596cc7c248ff3d324e4d9b703720db4a977f5491ca68071d62",
+      "revision": 3
     },
     "url:https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3": {
       "eligible": true,
       "evidence": {
         "category": "ai/ml/data",
-        "company": "tri",
+        "company": "toyota research institute",
         "degrees": [],
         "locations": [
           "cambridge, ma"
@@ -48637,23 +48671,23 @@
         ],
         "title": "robotics intern, world models, multimodal sensing"
       },
-      "fingerprint": "4b894efc20a5882260fafd2c91324e9a65365edc8f73578ca6e6c90360f62c1f",
-      "revision": 3
+      "fingerprint": "a52f3cefa4c28b0b984a921c18f230878e38ca4110f8e39dc9ebb2a1d88052d4",
+      "revision": 4
     },
     "url:https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e": {
       "eligible": false,
-      "fingerprint": "c1afa900e6bce13c478935e8e564ee155796b9196bc12d4e43053822633c9998",
-      "revision": 2
+      "fingerprint": "f67d21283c4606f634e91bcb8182d39152c114594b4e1a5362ff9ef48fb894fc",
+      "revision": 3
     },
     "url:https://jobs.lever.co/tri/da4b4832-36e7-4703-9841-c319efd6d495": {
       "eligible": false,
-      "fingerprint": "cfb2f8f0570c4572f3a741d4016245b1704a5ce362f91663433b2bd60e326f49",
-      "revision": 2
+      "fingerprint": "a97fc8e6116e94524ed2072d544b55e8f11519f5da561c205a801a635264b75d",
+      "revision": 3
     },
     "url:https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8": {
       "eligible": false,
-      "fingerprint": "23fede1d47e5deae6dcca681cc620bc1de6de2ae53052b1b31d951e90ac7b3cb",
-      "revision": 1
+      "fingerprint": "e945495e9e4d5630c2c625dca27a902ee8858c7be7d51a3ed2b5a592f919e8a3",
+      "revision": 2
     },
     "url:https://jobs.lever.co/tri/e01def2d-0ee0-4f24-bf38-0b52a8047ea7": {
       "eligible": false,
@@ -48662,23 +48696,28 @@
     },
     "url:https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d": {
       "eligible": false,
-      "fingerprint": "d92be8028a6479f96530fcea9a79eb55e907a4672a78caae441c14d830abe0bf",
-      "revision": 2
+      "fingerprint": "b318384f3d8dcea4f16c93a4c4118bd534c09a57fce87b7c364ddccb1d7bf81a",
+      "revision": 3
+    },
+    "url:https://jobs.lever.co/tri/e67d9f3e-f731-4f66-ab87-bdc45fe45d88": {
+      "eligible": false,
+      "fingerprint": "e9fc22569138610381d721e61ef13843ef341e75b7ba2a7ab68af2a1c391c8cb",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b": {
       "eligible": false,
-      "fingerprint": "1d37cc73665f192f893182189ff3067b1cfc4de2d9da16fe553692cdb48f6aa4",
-      "revision": 6
+      "fingerprint": "7306f7776475b6c4ab8d0cc98ff39783fdc040fda1c2efbcdab6284b3f4adfc9",
+      "revision": 7
     },
     "url:https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43": {
       "eligible": false,
-      "fingerprint": "ee549d7aae7f5e27d7babb6aeeae77ab6fd8cb9ac99e0e441ebc20af786de6a4",
-      "revision": 0
+      "fingerprint": "85ad2b12ea4b2be405349e47c54ce6c8b114f8ec341a48f0290cfe18be0c2a5d",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495": {
       "eligible": false,
-      "fingerprint": "4920e3c9ff07c5f72ae12d15654576c5cc0cbd3a34767c191686f0838a00babb",
-      "revision": 3
+      "fingerprint": "ae5cb18d59f2ac8659c7a61a7a6f97e5476b1d394060bd24071604d585b77b50",
+      "revision": 4
     },
     "url:https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2": {
       "eligible": true,
@@ -48710,9 +48749,7 @@
         ],
         "locations": [
           "pittsburgh, pa",
-          "san francisco, ca",
           "sf",
-          "toronto, on",
           "toronto, on, canada"
         ],
         "requirements": [
@@ -48721,10 +48758,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "safety methodologies internship/co-op 2027"
+        "title": "safety methodologies intern co-op"
       },
-      "fingerprint": "00bfad64b1bd655e1abc7737d088e1e9a05b964965a6600fb0350c2d892c40ab",
-      "revision": 0
+      "fingerprint": "fb3f6f9833f256e222a17e36261e5df72e69381dd2a484237819d7481e561b78",
+      "revision": 1
     },
     "url:https://jobs.lever.co/wepclinical/8d3a77c2-5606-4d32-8532-7dbb1abde1d2": {
       "eligible": false,
@@ -57226,8 +57263,8 @@
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---it-software-engineer_jr111582": {
       "eligible": false,
-      "fingerprint": "d890f8bc6b5d0f9961288deae24f2f2af6df0401a5c27cfd1e473f5e8f265517",
-      "revision": 1
+      "fingerprint": "094aeef29bc8f89bf6672ac8e082d4b20a7c91f3205e9898ec17a738c1cbeaae",
+      "revision": 2
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---it-software-engineer_jr113941": {
       "eligible": true,
@@ -61838,6 +61875,11 @@
       "fingerprint": "8faa062a618276bde7e5bba2c6672a7bc5ff6aa224feacb9ee1d2df58ca3a893",
       "revision": 0
     },
+    "url:https://rcoc.bamboohr.com/careers/314": {
+      "eligible": false,
+      "fingerprint": "4abec1a937a269acd2bebb95ae5bd5708bffd53c6d26d190cb72adb20217f5c0",
+      "revision": 1
+    },
     "url:https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/san-diego-california/technology-intern---multiple-opportunities_r-100339": {
       "eligible": true,
       "evidence": {
@@ -63690,6 +63732,16 @@
       "fingerprint": "41c2f2d545ccac00ba6302e2bcfede4ed955cd087558b7488c94361e9078af20",
       "revision": 2
     },
+    "url:https://sedarotech.bamboohr.com/careers/95": {
+      "eligible": false,
+      "fingerprint": "57ee39b75d02f19323a9aebfce2168cfad4ad3f487dc6fd1be7e46ad2e4d6a91",
+      "revision": 1
+    },
+    "url:https://sedarotech.bamboohr.com/careers/97": {
+      "eligible": false,
+      "fingerprint": "aa7849323ce65fa0e0921930446c351e097c89daaf48233342180715992c6ef0",
+      "revision": 1
+    },
     "url:https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/telecommuter-ma/data-analyst-intern_r79691": {
       "eligible": false,
       "fingerprint": "d7bf8d2fa5de478e2c1b84aba571f79d66c8624d39a7de3580bacc7be438ba27",
@@ -65048,6 +65100,26 @@
         "title": "business operations software engineer 2027 co-op"
       },
       "fingerprint": "4aca4667f66fc3b5247cf1a84ad81b45c34f3642ee76b8b5746ce637b7ce9006",
+      "revision": 1
+    },
+    "url:https://surepoint.bamboohr.com/careers/109": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "surepoint ag systems",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "manhattan, ks"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "drone imaging agronomy intern"
+      },
+      "fingerprint": "74e7408a229beb1dc5b1fb7319a3db97886da3f8335d2c344bd00b70f17cfd58",
       "revision": 1
     },
     "url:https://swbc.wd1.myworkdayjobs.com/collegeinternships/job/san-antonio-tx/software-engineering-intern_r0015482-1": {
@@ -72419,6 +72491,11 @@
       "fingerprint": "d5abe5a952dc8600b8b7945c0109c3803bd86934060e8a3cf3f0589881941567",
       "revision": 0
     },
+    "url:https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003": {
+      "eligible": false,
+      "fingerprint": "d28f263d3b9e1b3c5c5c693b4fe798ac23b1b2ccdd9b3eb630ad6c1dde2dbd04",
+      "revision": 1
+    },
     "url:https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003": {
       "eligible": false,
       "fingerprint": "e0a9e248aaa95bb48218c0d82d37ac126efb584f7a44fd699213802033397d0c",
@@ -75844,7 +75921,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 383,
+  "scan_sequence": 384,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
