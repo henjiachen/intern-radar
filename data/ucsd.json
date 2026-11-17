@@ -2548,6 +2548,11 @@
       "fingerprint": "1fabac89d2b307a7e0dfd583d6b3f550df223007774d3d2c4543a926f74639dc",
       "revision": 1
     },
+    "url:https://angelhost.bamboohr.com/careers/123": {
+      "eligible": false,
+      "fingerprint": "46d685618ededd5b5d461839300de328df64b4fa41c6765aadaeddd85f449b0f",
+      "revision": 1
+    },
     "url:https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/business-intelligence-developer-internship---summer-2027_r_14772": {
       "eligible": true,
       "evidence": {
@@ -7168,6 +7173,31 @@
       "fingerprint": "057200d39bbee0a417a1fb201585eb8faed5f54faed2d26bb166990c426cddc4",
       "revision": 0
     },
+    "url:https://birdseyeaccount.bamboohr.com/careers/286": {
+      "eligible": false,
+      "fingerprint": "eabd7717ab0524edb53a433fed36a1fcaa24ffea1529c7def0d87e4812c9c32d",
+      "revision": 1
+    },
+    "url:https://birdseyeaccount.bamboohr.com/careers/287": {
+      "eligible": false,
+      "fingerprint": "f04fcf2000303a272b9043335fcc9cee7a55d213ed0b952b8e44d6a2ef502260",
+      "revision": 1
+    },
+    "url:https://birdseyeaccount.bamboohr.com/careers/288": {
+      "eligible": false,
+      "fingerprint": "1d43ddf2da8dc17180db3c818a170f96c1cd6247c4fce8625502986290fbb0dc",
+      "revision": 1
+    },
+    "url:https://birdseyeaccount.bamboohr.com/careers/289": {
+      "eligible": false,
+      "fingerprint": "bd627c64fffde6a0f12f09d7d8b6ca9a067d441a2df0dc5ddfbff127f8923a8d",
+      "revision": 1
+    },
+    "url:https://birdseyeaccount.bamboohr.com/careers/290": {
+      "eligible": false,
+      "fingerprint": "6ebc5a5858c00d2cac43e1cb2e2d218b2d8a6a6e60d3f03a599ee7a823326297",
+      "revision": 1
+    },
     "url:https://bitmovin.com/careers/8660599002?gh_jid=8660599002": {
       "eligible": false,
       "fingerprint": "1d901633a0d6ae9797dac80e9d6dd0e8fe2b5199c58319cd5c8e7c2b4e7347f1",
@@ -10953,6 +10983,11 @@
       },
       "fingerprint": "94695e68ed183961be9e2510d18650b979ed6c28b2f9ef204e23a3f922c27dc8",
       "revision": 2
+    },
+    "url:https://careers-iqt.icims.com/jobs/1457/job": {
+      "eligible": false,
+      "fingerprint": "9db5a2e174c0047e94a471d0c83b6d0ff7971c9e00195be3e36820dc6008968f",
+      "revision": 1
     },
     "url:https://careers-iridium.icims.com/jobs/5136/job": {
       "eligible": true,
@@ -18862,20 +18897,24 @@
     "url:https://ecmtek.bamboohr.com/careers/51": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "ecmtek",
-        "degrees": [],
+        "category": "software",
+        "company": "ecm tek",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "nashville, tn"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
-        "title": "developer intern, python development"
+        "title": "developer intern - python development"
       },
-      "fingerprint": "472b54db47fa3523659f61249376f17967cdcc86f3d65d3950de63c3db544ca4",
-      "revision": 1
+      "fingerprint": "b906aa71b0c80cbee739dcf2b5581dc6e25394a1185f4691d6993c979740f337",
+      "revision": 2
     },
     "url:https://ecnf.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/301721": {
       "eligible": false,
@@ -32649,7 +32688,7 @@
       "eligible": true,
       "evidence": {
         "category": "",
-        "company": "invitation-charter",
+        "company": "spectrum",
         "degrees": [],
         "locations": [
           "greenwood village, co"
@@ -32658,10 +32697,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "2027 summer intern: software engineer"
       },
-      "fingerprint": "353d020989281d0bce2a88853bae6708acdc34277af957832d00c4fe5ac7734c",
-      "revision": 1
+      "fingerprint": "57ef9fde68f5842ce10ea4fa45a84fef76cd8a9d03a0ba4c06dc5d0d3f0252e7",
+      "revision": 2
     },
     "url:https://invitation-charter.icims.com/jobs/82077/job": {
       "eligible": true,
@@ -32684,20 +32723,23 @@
     "url:https://ipconfigure.bamboohr.com/careers/71": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "ipconfigure",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "norfolk, va"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
-        "title": "software development intern, video surveillance software"
+        "title": "software development for video surveillance software intern"
       },
-      "fingerprint": "38989f764d0c3422fa3088b2b3bbd73315210cf620fe2702c5cb4507e9e2f454",
-      "revision": 1
+      "fingerprint": "43ed7c7236290a72e31fbcb3dc241f3fb49a51fa8eb5c626bc0aca603e729a28",
+      "revision": 2
     },
     "url:https://itron.wd5.myworkdayjobs.com/early_careers/job/united-states-of-america-south-carolina-west-union/intern---systems-engineer--spring-2027-_jr102789-1": {
       "eligible": false,
@@ -63577,20 +63619,23 @@
     "url:https://securitymetrics.bamboohr.com/careers/215": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "securitymetrics",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "orem, ut"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "64671657a30c2c74770d4212073465d2bb28738be810a1ee6eade359a2684a95",
-      "revision": 1
+      "fingerprint": "41c2f2d545ccac00ba6302e2bcfede4ed955cd087558b7488c94361e9078af20",
+      "revision": 2
     },
     "url:https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/telecommuter-ma/data-analyst-intern_r79691": {
       "eligible": false,
@@ -66500,7 +66545,6 @@
         ],
         "locations": [
           "new york, ny",
-          "nyc",
           "waltham, ma"
         ],
         "requirements": [],
@@ -66509,8 +66553,8 @@
         ],
         "title": "data science intern"
       },
-      "fingerprint": "0a90d4dd946bd4d9aaa5f411efcad66b8ca116168b67f2de469df87daa9b2ef6",
-      "revision": 2
+      "fingerprint": "30b869fa5d422f0c2642577c3ee3e5e895b98bda7f659f87d409d67b8b1a7779",
+      "revision": 3
     },
     "url:https://trinzic.wd115.myworkdayjobs.com/trinzic_careers/job/chantilly-virginia/defense---intel--d-i----computer-science-internship_r3001231-1": {
       "eligible": true,
@@ -72437,6 +72481,11 @@
       "fingerprint": "c6c7f0a1470af40d70a4e01ac7826f792947d417417abb9d26eb9a7b8f872f85",
       "revision": 0
     },
+    "url:https://xradar.bamboohr.com/careers/203": {
+      "eligible": false,
+      "fingerprint": "674c0277718b9703fbb826b5394c8d271188eb19d9f94baaf5e8b10fd8d059dc",
+      "revision": 1
+    },
     "url:https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/germantown-maryland/xmlname-2027-summer-internship--us----systems-engineer_jr103659": {
       "eligible": true,
       "evidence": {
@@ -75738,7 +75787,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 381,
+  "scan_sequence": 382,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
