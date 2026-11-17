@@ -11325,7 +11325,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "riverside research",
+        "company": "riverside research institute",
         "degrees": [
           "bachelor's",
           "master's"
@@ -11339,8 +11339,8 @@
         ],
         "title": "software applications intern"
       },
-      "fingerprint": "edd98d4c16f8eee2683dc9be618d7816c7cb8409669ea8323c5278c3cad2f620",
-      "revision": 5
+      "fingerprint": "4b5d8b2e1ead9bdfe53cdb9ec8e60e1330cd577dbd55db6a170d015ebabc6e93",
+      "revision": 6
     },
     "url:https://careers-sas.icims.com/jobs/42753/job": {
       "eligible": false,
@@ -47440,27 +47440,9 @@
       "revision": 0
     },
     "url:https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "humble robotics",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "san francisco, ca",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "embedded software engineer intern"
-      },
-      "fingerprint": "2e23bd8b22620205bedc4d922a191abb69d88cd97ea227aa44e8b7680eeeacd6",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "4bf081497cfc67a5da55cdb2dc82379bc413059b5b047613e1a53d2ad79f74b1",
+      "revision": 2
     },
     "url:https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678": {
       "eligible": false,
@@ -69608,6 +69590,28 @@
       "fingerprint": "297a06f209ad0c6a3f74801dd3b28637fca2734e1f3b7f8e9c289345c8fb6a17",
       "revision": 0
     },
+    "url:https://www.akunacapital.com/careers/job/8021481?gh_jid=8021481": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "akuna capital university",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "quantitative development & strategy intern"
+      },
+      "fingerprint": "8076e234c649ab43d0d7d36ab8d55f0aaeab43ab135748629eb98fce957214e6",
+      "revision": 1
+    },
     "url:https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027": {
       "eligible": true,
       "evidence": {
@@ -76018,7 +76022,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 388,
+  "scan_sequence": 389,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
