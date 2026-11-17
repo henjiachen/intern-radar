@@ -1346,9 +1346,27 @@
       "revision": 0
     },
     "url:https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/columbus-oh/intern---software-engineering_r1013421": {
-      "eligible": false,
-      "fingerprint": "bed2a088156b10bea478a2ecc827150e10838b3c41a125cf8d54aeb11933180c",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "bread financial",
+        "degrees": [],
+        "locations": [
+          "chadds ford, pa",
+          "columbus, oh",
+          "columbus, oh +4",
+          "draper, ut",
+          "frisco, tx",
+          "wilmington, de"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "bcd8ae16779ec6ca157f85545dfe56eec517cdafbf40002e1abcaf7c04417c03",
+      "revision": 2
     },
     "url:https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/usa---il-remote/arity---data-analytics-engineer-intern_r36286": {
       "eligible": true,
@@ -26005,6 +26023,11 @@
       "fingerprint": "578aa7cdfa0502ede8f133044a0788058e859560ee8a8db2eff593f5f949a457",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1by": {
+      "eligible": false,
+      "fingerprint": "8d29777b3463ac181da76987bed05d547a094d4db7f11bfcffa388dcfa92f304",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1c": {
       "eligible": false,
       "fingerprint": "297251101f78dace9ddfd5a5e18794578550b66e19c42f1403167a6b671d99b6",
@@ -26679,6 +26702,11 @@
       "eligible": false,
       "fingerprint": "d695be8d72c8fa4223ba1efbc478c5dfeba45109e7513aa69b59469c8164ab23",
       "revision": 3
+    },
+    "url:https://go.vansh.nyc/1vb": {
+      "eligible": false,
+      "fingerprint": "8dc511c8ff02b0148b28b3e1ad3410f3ce66c716d5c57e02221bed45ea26be09",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/1vt": {
       "eligible": false,
@@ -35927,17 +35955,16 @@
           "bachelor's"
         ],
         "locations": [
-          "la",
           "los angeles, ca"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "summer 2027 internship - software engineering"
       },
-      "fingerprint": "3806d7a59d918a1fa186c3f25d6b5bf7307bb8424849b228b7922b5570e7246b",
-      "revision": 0
+      "fingerprint": "1a43df900a59075504442b92f64d553c1a16fbaa175d912a4d19219ee42179c8",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/generalmatter/jobs/5377131008": {
       "eligible": true,
@@ -56633,6 +56660,24 @@
       "fingerprint": "32b62e794f64a5b5ba667a82273f9d7422cf7aa8bf8a2b9ef5d4120e3e7a233c",
       "revision": 1
     },
+    "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/usa---ca---san-jose-ridder/internship---sw-developer-support---program-management-office_20261729": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lumentum",
+        "degrees": [],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "sw developer support intern, program management office"
+      },
+      "fingerprint": "d48c677ed905e9f694fb9f669de09169c1005eb7034d7d37c8d1c53dd1876350",
+      "revision": 1
+    },
     "url:https://lumerate.breezy.hr/p/baf2283496ad/apply": {
       "eligible": false,
       "fingerprint": "386fc5905425847f3755602426736fb8b160f294f8eb2447883efca9732720fa",
@@ -66078,11 +66123,13 @@
           "atlanta, ga"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 software engineering ai intern"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering ai intern"
       },
-      "fingerprint": "5971a0836e47c493b9a46df94cae60370f1218764159bbe06781be7346d98a8a",
-      "revision": 1
+      "fingerprint": "1e967a5e9cf2fc227f57c45ec93d0fde1aafe62e3a1164e03a4ffc9ef4b2d7c8",
+      "revision": 2
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/atlanta-georgia/summer-2027-software-engineering-internship_req380650": {
       "eligible": true,
@@ -73534,6 +73581,7 @@
     "https://go.vansh.nyc/1Az": 376,
     "https://go.vansh.nyc/1B7": 383,
     "https://go.vansh.nyc/1B8": 383,
+    "https://go.vansh.nyc/1BA": 393,
     "https://go.vansh.nyc/1Bb": 385,
     "https://go.vansh.nyc/1Bf": 387,
     "https://go.vansh.nyc/1Bk": 390,
@@ -73541,6 +73589,8 @@
     "https://go.vansh.nyc/1Bo": 391,
     "https://go.vansh.nyc/1Bp": 391,
     "https://go.vansh.nyc/1Bs": 392,
+    "https://go.vansh.nyc/1Bx": 393,
+    "https://go.vansh.nyc/1Bz": 393,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -75021,6 +75071,7 @@
     "https://go.vansh.nyc/1Az": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364",
     "https://go.vansh.nyc/1B7": "https://birdseyeaccount.bamboohr.com/careers/288",
     "https://go.vansh.nyc/1B8": "https://birdseyeaccount.bamboohr.com/careers/290",
+    "https://go.vansh.nyc/1BA": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729",
     "https://go.vansh.nyc/1Bb": "https://sedarotech.bamboohr.com/careers/97",
     "https://go.vansh.nyc/1Bf": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
     "https://go.vansh.nyc/1Bk": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49",
@@ -75028,6 +75079,8 @@
     "https://go.vansh.nyc/1Bo": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
     "https://go.vansh.nyc/1Bp": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721",
     "https://go.vansh.nyc/1Bs": "https://careers.garmin.com/jobs/20081",
+    "https://go.vansh.nyc/1Bx": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Intern_REQ381273",
+    "https://go.vansh.nyc/1Bz": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Software-Engineering_R1013421",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -76274,7 +76327,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 392,
+  "scan_sequence": 393,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
