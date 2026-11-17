@@ -47440,9 +47440,20 @@
       "revision": 0
     },
     "url:https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3": {
-      "eligible": false,
-      "fingerprint": "4bf081497cfc67a5da55cdb2dc82379bc413059b5b047613e1a53d2ad79f74b1",
-      "revision": 2
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "humble robotics",
+        "degrees": [],
+        "locations": [
+          "san francisco, ca"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "embedded software engineer - 2027 internship"
+      },
+      "fingerprint": "14575213ab3f5ec46c5fe6f03f4e3901688905bbcdd6d789d21f017a3626d17d",
+      "revision": 3
     },
     "url:https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678": {
       "eligible": false,
@@ -48623,6 +48634,24 @@
       "eligible": false,
       "fingerprint": "3a8bb86375f6ba4e1230ddc972a235c763f5d1afd21c0a6fdab4e3e1a041ca9e",
       "revision": 3
+    },
+    "url:https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tri",
+        "degrees": [],
+        "locations": [
+          "cambridge, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "robotics intern, agentic robotics"
+      },
+      "fingerprint": "db57c1f43ffc724c130748292823774ecbbd69694adf899373e4ab8a30bc1397",
+      "revision": 1
     },
     "url:https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9": {
       "eligible": false,
@@ -73294,6 +73323,7 @@
     "https://go.vansh.nyc/1B8": 383,
     "https://go.vansh.nyc/1Bb": 385,
     "https://go.vansh.nyc/1Bf": 387,
+    "https://go.vansh.nyc/1Bk": 390,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -74776,6 +74806,7 @@
     "https://go.vansh.nyc/1B8": "https://birdseyeaccount.bamboohr.com/careers/290",
     "https://go.vansh.nyc/1Bb": "https://sedarotech.bamboohr.com/careers/97",
     "https://go.vansh.nyc/1Bf": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+    "https://go.vansh.nyc/1Bk": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -76022,7 +76053,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 389,
+  "scan_sequence": 390,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

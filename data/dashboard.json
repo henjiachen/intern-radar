@@ -1504,21 +1504,6 @@
       "url": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009"
     },
     {
-      "company": "Akuna Capital University",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "9c11995915653ea96c10a28271414249b55d8f7767f3e7ae458098a966289267",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "posted_at": "2026-07-13",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Quantitative Development & Strategy Intern",
-      "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481"
-    },
-    {
       "company": "Alcon",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -11786,21 +11771,6 @@
       "url": "https://go.vansh.nyc/Jy"
     },
     {
-      "company": "Greystone",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "165dd2c0d23d190abcde3689b1f4ae066573b91f1446060e98883ecc61d1b328",
-      "locations": [
-        "Warrenton, VA"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Full Stack Engineer Intern",
-      "url": "https://greyco.wd108.myworkdayjobs.com/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145"
-    },
-    {
       "company": "GTI Energy",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -13298,6 +13268,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern - C++ or Python",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
+    },
+    {
+      "company": "Humble Robotics",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f1cb747f6edc909013b5f1c2b611677126765f650ee8570e9d91cfa02fdedb07",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted_at": "2026-10-21",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Embedded Software Engineer - 2027 Internship",
+      "url": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3"
     },
     {
       "company": "Hunt Oil Company",
@@ -27478,6 +27463,21 @@
       "company": "tri",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
+      "id": "5a31b43ae3e6fedc5baa8ad851f231cdb0fab4a986e7b19da1edebbad1e048c9",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "posted_at": "2026-11-17",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Robotics Intern, Agentic Robotics",
+      "url": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49"
+    },
+    {
+      "company": "tri",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "6db3897ea886d63c5dceab1b1b82c4840de72e1bf748c5eff0a1861175c5bf5c",
       "locations": [
         "Cambridge, MA"
@@ -28175,21 +28175,6 @@
       "source": "simplify",
       "title": "AI Engineering Intern",
       "url": "https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us"
-    },
-    {
-      "company": "V2X",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "e8b44546232c8e7de1746dfb9745e62972f5730e67ddc5c678b125de8cdf96ec",
-      "locations": [
-        "Indianapolis, IN"
-      ],
-      "posted_at": "2026-09-16",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Artificial Intelligence Intern",
-      "url": "https://careers.gov2x.com/jobs/62843?icims=1"
     },
     {
       "company": "Valeo",
@@ -29780,7 +29765,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-17T17:19:36.302543+00:00",
+  "last_checked": "2026-11-17T19:18:20.680824+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
