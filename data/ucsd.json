@@ -35637,8 +35637,8 @@
     },
     "url:https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004": {
       "eligible": false,
-      "fingerprint": "7d877ae5fbaf49ee57f5b7977546857a5e3bd297d3a0842e92b8f7d88f6fa01b",
-      "revision": 0
+      "fingerprint": "821d9cf79b82decb6235ae3a9132bdb8fc5b60f782e9c2e3d4d07bc208ec4452",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003": {
       "eligible": true,
@@ -35858,6 +35858,11 @@
     "url:https://job-boards.greenhouse.io/hearst/jobs/4473043009": {
       "eligible": false,
       "fingerprint": "7846f5e6401e6382c3883b7134e212f29ead70b55a624da73db9ba87c84e2d8c",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/hexarmor/jobs/8206200003": {
+      "eligible": false,
+      "fingerprint": "7692945eb28fb4c40183b3ed6d7d14da0345e65689a9437b20807c4c183b958c",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/heygen/jobs/4540716007": {
@@ -40192,6 +40197,24 @@
       "eligible": false,
       "fingerprint": "9a6728ec084884c59803b6aaa2551327c6f8909081109cec949bf68de18de21d",
       "revision": 3
+    },
+    "url:https://jobs.ashbyhq.com/clera/42992916-9ca1-48ca-9378-f4a13ea3733d": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "clera",
+        "degrees": [],
+        "locations": [
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "full-stack software engineering intern"
+      },
+      "fingerprint": "c5df87d32b4a6fd9a36d8a80b51944a426dbbcf7df484d129abfcb342b2b172d",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b": {
       "eligible": false,
@@ -56249,6 +56272,24 @@
       "eligible": false,
       "fingerprint": "31499c4b13205891c9e1fec317a9b143d43166760442eafd7ecba445974423ea",
       "revision": 0
+    },
+    "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/usa---ca---san-jose-ridder/internship---data-science---analytics_20261771": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lumentum",
+        "degrees": [],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science & analytics intern"
+      },
+      "fingerprint": "32b62e794f64a5b5ba667a82273f9d7422cf7aa8bf8a2b9ef5d4120e3e7a233c",
+      "revision": 1
     },
     "url:https://lumerate.breezy.hr/p/baf2283496ad/apply": {
       "eligible": false,
@@ -72922,6 +72963,8 @@
     "https://go.vansh.nyc/1A8": 369,
     "https://go.vansh.nyc/1AA": 377,
     "https://go.vansh.nyc/1AJ": 377,
+    "https://go.vansh.nyc/1AN": 378,
+    "https://go.vansh.nyc/1AP": 378,
     "https://go.vansh.nyc/1Aa": 370,
     "https://go.vansh.nyc/1Ag": 371,
     "https://go.vansh.nyc/1Ah": 371,
@@ -74396,6 +74439,8 @@
     "https://go.vansh.nyc/1A8": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
     "https://go.vansh.nyc/1AA": "https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9",
     "https://go.vansh.nyc/1AJ": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Firmware-Intern_2642154-1",
+    "https://go.vansh.nyc/1AN": "https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d",
+    "https://go.vansh.nyc/1AP": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
     "https://go.vansh.nyc/1Aa": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
     "https://go.vansh.nyc/1Ag": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14311",
     "https://go.vansh.nyc/1Ah": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14465",
@@ -75650,7 +75695,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 377,
+  "scan_sequence": 378,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
