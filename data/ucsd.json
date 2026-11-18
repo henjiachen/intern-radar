@@ -24574,6 +24574,11 @@
       "fingerprint": "646e7f88b075d2b19e13866315288e6841f818937ba06c85372344538a162ba8",
       "revision": 3
     },
+    "url:https://giro.wd10.myworkdayjobs.com/giro/job/montreal-rosemont/hiver-2027---stagiaire-en-dveloppement-logiciel-et-intelligence-artificielle_r-100000321": {
+      "eligible": false,
+      "fingerprint": "dbe35c8be8b56e6b5108d1f972be69a86ff63547baf1b0a530c1c18a1881f673",
+      "revision": 1
+    },
     "url:https://globalcareers-sas.icims.com/jobs/42645/job": {
       "eligible": true,
       "evidence": {
@@ -28869,10 +28874,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software developer intern - software development"
+        "title": "software developer intern, software development"
       },
-      "fingerprint": "0435d3e9a0d892bf1a817cad48ae665ec96937f6b9fb37567549d2036c9809b0",
-      "revision": 0
+      "fingerprint": "6b47ffdf895265f98caa9c6f0e0d5ecb179c633ae7b9583108d8c2661552f797",
+      "revision": 1
     },
     "url:https://haier.wd3.myworkdayjobs.com/ge_appliances/job/usa-louisville-ky/software-engineering-co-op-fall-2027_req-26592": {
       "eligible": false,
@@ -47930,6 +47935,11 @@
       },
       "fingerprint": "095ca78d17ad33b7f7d9111c6a6d959394beca3e9575a36e7a916319a0fe6ea6",
       "revision": 0
+    },
+    "url:https://jobs.lever.co/intropic/c31c65cc-178d-4a50-bc6a-4f4b057f4381": {
+      "eligible": false,
+      "fingerprint": "a519847e35543038bfe82df12363d32841794a145098d7716871ed235f31a943",
+      "revision": 1
     },
     "url:https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c": {
       "eligible": false,
@@ -73144,8 +73154,8 @@
     },
     "url:https://www.tower-research.com/open-positions?gh_jid=7077280": {
       "eligible": false,
-      "fingerprint": "d0ef2b9f8d782fd91489f19a72cbb57dd8c34d38d9be750af0a3352428aafbc1",
-      "revision": 0
+      "fingerprint": "c5fcc04a393ff0bb6e3ee2f4e8983a1a836a13d47071c4c6338c72f11b3fa767",
+      "revision": 1
     },
     "url:https://www.tower-research.com/open-positions?gh_jid=8044334": {
       "eligible": true,
@@ -76820,7 +76830,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 403,
+  "scan_sequence": 404,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
