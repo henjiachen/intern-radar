@@ -26421,6 +26421,11 @@
       "fingerprint": "e24d501d76f7d05018f2befe412ead79debec3d0b3c2ecfdf3aaa945140a9264",
       "revision": 3
     },
+    "url:https://go.vansh.nyc/1cq": {
+      "eligible": false,
+      "fingerprint": "61ca4eae39cd62b772dc3f59435b4fe21bc00002d728fff50655ea117fc4c722",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1cz": {
       "eligible": false,
       "fingerprint": "61d5e9719c7689b57e8a4635df52ed07e1edd2d1cfac54a46704ed7abcf49e1c",
@@ -53962,13 +53967,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "data engineer intern"
       },
-      "fingerprint": "485059159814c4d7f4b1dde33b65e17f03c014d57e127e0eefcdd2aa121f3fd6",
-      "revision": 1
+      "fingerprint": "e6a893a65ec74c8502e142d8391fbc1d82854a6934294e68b78d12b2c7a5aaee",
+      "revision": 2
     },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/tucson-az/junior-software-engineer---data-scientist-intern_r-00196510": {
       "eligible": true,
@@ -57596,6 +57600,24 @@
       "eligible": false,
       "fingerprint": "9c379bc3c093ea8d4f319ba1dcb5c532bb768b00c4ef89de9d89ad5cce95feed",
       "revision": 0
+    },
+    "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/santa-clara-ca/ai-infrastructure-engineer-intern--ms---summer-2027_2604829-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "marvell",
+        "degrees": [],
+        "locations": [
+          "santa clara, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ms ai infrastructure engineer intern"
+      },
+      "fingerprint": "332c838fbe3b515a49778df63b5df90b5dd9f88d9d94f8044e6ad75f036a4b11",
+      "revision": 1
     },
     "url:https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/santa-clara-ca/ai-native-development-platform-engineer-intern--ms---summer-2027_2603848-1": {
       "eligible": true,
@@ -74514,6 +74536,7 @@
     "https://go.vansh.nyc/1Ci": 407,
     "https://go.vansh.nyc/1Ck": 408,
     "https://go.vansh.nyc/1Co": 409,
+    "https://go.vansh.nyc/1Cp": 410,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -76018,6 +76041,7 @@
     "https://go.vansh.nyc/1Ci": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
     "https://go.vansh.nyc/1Ck": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665",
     "https://go.vansh.nyc/1Co": "https://jobs.smartrecruiters.com/syngentagroup/744000162383708",
+    "https://go.vansh.nyc/1Cp": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829-1",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -77264,7 +77288,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 409,
+  "scan_sequence": 410,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

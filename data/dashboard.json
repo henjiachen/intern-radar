@@ -2930,21 +2930,6 @@
       "url": "https://go.vansh.nyc/8u"
     },
     {
-      "company": "AQR Capital Management",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "e2d13205e79d1a3ff3c84e77a8537cf2b6c6f6099f34b8af5a80554f21aaa747",
-      "locations": [
-        "Greenwich, CT"
-      ],
-      "posted_at": "2026-05-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Engineering Summer Analyst Intern",
-      "url": "https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647"
-    },
-    {
       "company": "Aquatic Capital Management",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -15858,9 +15843,9 @@
       "posted_at": "2026-10-28",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "vanshb03",
       "title": "Data Engineer Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576"
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576"
     },
     {
       "company": "Leidos",
@@ -16714,6 +16699,21 @@
       "source": "simplify",
       "title": "Firmware Engineer Intern",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1"
+    },
+    {
+      "company": "Marvell",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "8681f1dfe99e916ab7033b133fb06725deec9f1703d5f7bfdd23680e25232916",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "posted_at": "2026-11-17",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "MS AI Infrastructure Engineer Intern",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829-1"
     },
     {
       "company": "Mativ",
@@ -29586,7 +29586,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-18T21:09:12.314869+00:00",
+  "last_checked": "2026-11-18T22:04:28.564768+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
