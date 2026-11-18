@@ -11986,6 +11986,11 @@
       "fingerprint": "0556eec11c125dc16cbb2f87e572989ccd48c956756536f7d57979d2ebb94f8f",
       "revision": 0
     },
+    "url:https://careers.airbnb.com/positions/8360478?gh_jid=8360478": {
+      "eligible": false,
+      "fingerprint": "43041ba364981d2df9dca7283b6fd74ee949ce78d0b4f01725a0d1e7b227076a",
+      "revision": 1
+    },
     "url:https://careers.airbnb.com/positions/8380007?gh_jid=8380007": {
       "eligible": false,
       "fingerprint": "5295a14451c34362910e28a67e803c610d42aa884c45d10bd8f73fed4f643539",
@@ -74053,6 +74058,7 @@
     "https://go.vansh.nyc/1Bs": 392,
     "https://go.vansh.nyc/1Bx": 393,
     "https://go.vansh.nyc/1Bz": 393,
+    "https://go.vansh.nyc/1C4": 398,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -75551,6 +75557,7 @@
     "https://go.vansh.nyc/1Bs": "https://careers.garmin.com/jobs/20081",
     "https://go.vansh.nyc/1Bx": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Intern_REQ381273",
     "https://go.vansh.nyc/1Bz": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Software-Engineering_R1013421",
+    "https://go.vansh.nyc/1C4": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -76797,7 +76804,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 397,
+  "scan_sequence": 398,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
