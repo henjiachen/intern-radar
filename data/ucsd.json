@@ -7284,9 +7284,22 @@
       "revision": 1
     },
     "url:https://birdseyeaccount.bamboohr.com/careers/290": {
-      "eligible": false,
-      "fingerprint": "cac119d8e96c50cfc5422bb2bc5ad292698a5fe72c6bfdccf9d98a8f9ee6f78f",
-      "revision": 2
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "birdseye security solutions",
+        "degrees": [],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "computer vision intern"
+      },
+      "fingerprint": "3d4a9158728527b1adb52107273a3841634bdc6edbf7f70af62873de745b7e03",
+      "revision": 3
     },
     "url:https://bitmovin.com/careers/8660599002?gh_jid=8660599002": {
       "eligible": false,
@@ -13992,6 +14005,11 @@
       "fingerprint": "2b4f3c2fd6890856695cf9ca27b3e6d27750988673e0d2129da3fb11e3ee6267",
       "revision": 0
     },
+    "url:https://careers.medpace.com/jobs/13079?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "69fd043d916a6d865211d3400c4272e802b30bb6e2c13163b3ce7ad478f29c8d",
+      "revision": 1
+    },
     "url:https://careers.merrick.com/jobs/8476?icims=1&lang=en-us": {
       "eligible": true,
       "evidence": {
@@ -16238,6 +16256,11 @@
       "eligible": false,
       "fingerprint": "a022b31cc5098fd22adcd5cd6f6ebd8a69e62d8db34d8913afce766dd77ffd5f",
       "revision": 0
+    },
+    "url:https://cerence.wd5.myworkdayjobs.com/cerence/job/remote---great-britain/student-worker_r0006047": {
+      "eligible": false,
+      "fingerprint": "fff3dab19b2daec7232266506c11774b4b3d9f54011a966c81d8c9312ccebc0a",
+      "revision": 1
     },
     "url:https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/louisville-ky/xmlname-2027-summer-risk-management-strategy-analyst-internship_r918-1": {
       "eligible": true,
@@ -23492,6 +23515,29 @@
       "fingerprint": "091777e03aaa16cb25b9ce32dbc53aa42d1136904f5c37cdcab535db4ce88a03",
       "revision": 0
     },
+    "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-va-falls-church/summer-2027-engineering--general--internship_rq232323": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "general dynamics information technology",
+        "degrees": [
+          "associate's",
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "falls church, va",
+          "gaithersburg, md"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "engineering intern"
+      },
+      "fingerprint": "4675803edce473ca82b0575ae21c53107a73b11afaaca6c58272282ecb1ab7a1",
+      "revision": 1
+    },
     "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-va-falls-church/summer-2027-technical-intern_rq232200": {
       "eligible": true,
       "evidence": {
@@ -26404,23 +26450,9 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/1gq": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "plusgrade",
-        "degrees": [],
-        "locations": [
-          "gresham, or",
-          "toronto, canada"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "applied ai engineer intern"
-      },
-      "fingerprint": "6e94f2d178d8932dcf1cda9a78576fa7bb18009747b9668f72ba280777ce6ded",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "9dc661c249fe0488ffebd5cc8e9b5198f2e70882487473257c1715722b55dcda",
+      "revision": 3
     },
     "url:https://go.vansh.nyc/1gr": {
       "eligible": false,
@@ -40948,6 +40980,25 @@
       "fingerprint": "0fdbffe1029818a33cf069bdd54d356b8922b011b19f28ea98b784e290164c47",
       "revision": 0
     },
+    "url:https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "drivewealth",
+        "degrees": [],
+        "locations": [
+          "chicago, il",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai consulting associate program people analytics intern"
+      },
+      "fingerprint": "81e1c1a522b5ab88d002db21da915b9a6c3218446bd04608d94ed681267d1460",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a": {
       "eligible": true,
       "evidence": {
@@ -44018,6 +44069,11 @@
         "title": "robotics engineer intern - hardware & software"
       },
       "fingerprint": "145cd30c57d61034e9446a25f74dc779eee7ba9c42fd45dad0626d324cab34fa",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd": {
+      "eligible": false,
+      "fingerprint": "298ebea06355e4827e74efd5952d0c7dbce9ac9300c056c034fdb7bd9bd187b8",
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/trajectory/a3fd075c-2480-4567-9bec-e587f2208ac8": {
@@ -49116,8 +49172,8 @@
     },
     "url:https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8": {
       "eligible": false,
-      "fingerprint": "afa14fe3008cef92adb7f3fdbb0286bb163661bbae0387239f55a322257184ce",
-      "revision": 1
+      "fingerprint": "1fc0189ebd900849ac154982d18084e91dd9a008497e6758eedff554c3861aa7",
+      "revision": 2
     },
     "url:https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37": {
       "eligible": false,
@@ -64143,6 +64199,26 @@
       "fingerprint": "c77e8656bd7d69dbe1cb02acbf5a3f3ea880e703d3ae91bd4ec4de4815eee5e7",
       "revision": 1
     },
+    "url:https://sallie-mae.wd5.myworkdayjobs.com/careers/job/indianapolis-in/software-engineering-intern_r26_000625": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "sallie mae",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "indianapolis, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "c77e8656bd7d69dbe1cb02acbf5a3f3ea880e703d3ae91bd4ec4de4815eee5e7",
+      "revision": 1
+    },
     "url:https://sallie-mae.wd5.myworkdayjobs.com/careers/job/newark-de/data-science---engineering-intern_r26_000659": {
       "eligible": true,
       "evidence": {
@@ -76830,7 +76906,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 404,
+  "scan_sequence": 405,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
