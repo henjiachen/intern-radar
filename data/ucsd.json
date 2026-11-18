@@ -24620,6 +24620,11 @@
       "fingerprint": "646e7f88b075d2b19e13866315288e6841f818937ba06c85372344538a162ba8",
       "revision": 3
     },
+    "url:https://giro.wd10.myworkdayjobs.com/giro/job/montreal-rosemont/hiver-2027---stagiaire-en-dveloppement-logiciel--algorithmes-et-recherche-oprationnelle-_r-100000314": {
+      "eligible": false,
+      "fingerprint": "f1db03f3f9d8fa50b8e6cb4fd9d4d85013c1fcc7ccbe1b417670575fbb2bf8e6",
+      "revision": 1
+    },
     "url:https://giro.wd10.myworkdayjobs.com/giro/job/montreal-rosemont/hiver-2027---stagiaire-en-dveloppement-logiciel-et-intelligence-artificielle_r-100000321": {
       "eligible": false,
       "fingerprint": "dbe35c8be8b56e6b5108d1f972be69a86ff63547baf1b0a530c1c18a1881f673",
@@ -26272,11 +26277,6 @@
     "url:https://go.vansh.nyc/1c0": {
       "eligible": false,
       "fingerprint": "a7999aaa737ace8b3127402fa250f19e624d1aee518eaf37573abaa542a830fe",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1cd": {
-      "eligible": false,
-      "fingerprint": "aa6a3d4d114fcf5a1ad50a45a3959d3d97d80099783b64ea6ee549220a0f55d7",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1ce": {
@@ -38904,17 +38904,16 @@
         "company": "the new york times",
         "degrees": [],
         "locations": [
-          "new york city, ny",
-          "nyc"
+          "new york city, ny"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "android engineer intern"
+        "title": "android engineering intern"
       },
-      "fingerprint": "1f2696d16bc7f3b98c4c89cc6c79b4dffdbac4c6fdc95e5b9ccdb324b0bdaa17",
-      "revision": 2
+      "fingerprint": "3f7b6340dcc1b74ca22b5fa62c4feb37b2b2cfd0196472d7a725855f915a6946",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005": {
       "eligible": true,
@@ -38923,17 +38922,16 @@
         "company": "the new york times",
         "degrees": [],
         "locations": [
-          "new york city, ny",
-          "nyc"
+          "new york city, ny"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "ios engineer intern"
+        "title": "ios engineering intern"
       },
-      "fingerprint": "30b497a08aa92f6037883d0ebec364314bc51e28cd8717c6c29de6c0255ca5fe",
-      "revision": 2
+      "fingerprint": "46d9a17ad9299277fd4633e6b9592b3a7c57fb317edefd4b7b358f2bac7f9f7f",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005": {
       "eligible": true,
@@ -48223,10 +48221,10 @@
           "n/a",
           "summer 2027"
         ],
-        "title": "software engineer, intern - connectivity platform and product"
+        "title": "software engineer, internship - connectivity platform and product"
       },
-      "fingerprint": "97ac5f6aef05a6b50267f5b4fda67ca1189429e2aaa7f91a7bfe64411a1f04d4",
-      "revision": 6
+      "fingerprint": "3192a31d632c650b675a3d3da109c7a588eb056a546f2322d20a3d72d286de44",
+      "revision": 7
     },
     "url:https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a": {
       "eligible": false,
@@ -48583,10 +48581,10 @@
           "n/a",
           "summer 2027"
         ],
-        "title": "software engineer, intern - connectivity platform and product"
+        "title": "software engineer, internship - connectivity platform and product"
       },
-      "fingerprint": "41d6455bdd260c0c3c94050b2df1495eb701e34f17843a69a3d084b061e18095",
-      "revision": 5
+      "fingerprint": "9ad697e9cb3717c82977979ffe894c0665771705750028a00ba95e753425a441",
+      "revision": 6
     },
     "url:https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb": {
       "eligible": false,
@@ -51896,6 +51894,11 @@
         "title": "summer 2027 intern - software engineering"
       },
       "fingerprint": "d1af853643e068c2f46c8b6a0673035cb4cfc2817f8135018d8f93735fcabb17",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/westerndigital/744000162353069": {
+      "eligible": false,
+      "fingerprint": "dfa10d5d35940d36a875c539db14d3ce2e5f1a0f346f0fc37977b5a48f5fc67a",
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/winsupply1/3743990015014717": {
@@ -76906,7 +76909,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 405,
+  "scan_sequence": 406,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

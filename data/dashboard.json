@@ -16805,21 +16805,6 @@
       "url": "https://uscareers-medpace.icims.com/jobs/13059/job"
     },
     {
-      "company": "Medpace",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4b65c06fbcf7f0915ecb9a9a56cba4d4e93b3814670d4f4b97810d4a468a6b2d",
-      "locations": [
-        "Cincinnati, OH"
-      ],
-      "posted_at": "2026-08-24",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Python Intern - Summer 2027",
-      "url": "https://careers.medpace.com/jobs/12962?icims=1"
-    },
-    {
       "company": "Merck",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -17091,7 +17076,7 @@
       "posted_at": "2026-10-05",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "vanshb03",
       "title": "AI Solutions Engineer Intern",
       "url": "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461"
     },
@@ -19374,36 +19359,6 @@
       "company": "palantir",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
-      "id": "c887983fc44dc709e23454bd65de76383735ab3266b41b23a2638d4b5057e7ee",
-      "locations": [
-        "Denver, CO"
-      ],
-      "posted_at": "2026-11-10",
-      "priority": 11,
-      "priority_program": false,
-      "source": "lever",
-      "title": "Software Engineer, Intern - Connectivity Platform and Product",
-      "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e"
-    },
-    {
-      "company": "palantir",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
-      "id": "39cefb656fcdee34d54a8230fe15965e3bde6a4da4643d6fb8e481f5bdd5157e",
-      "locations": [
-        "New York, NY"
-      ],
-      "posted_at": "2026-11-04",
-      "priority": 11,
-      "priority_program": false,
-      "source": "lever",
-      "title": "Software Engineer, Intern - Connectivity Platform and Product",
-      "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743"
-    },
-    {
-      "company": "palantir",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
       "id": "49a218e59254295e209f10701e5e906550f00a0435d7439278cdb0ca4d18f08c",
       "locations": [
         "New York, NY"
@@ -19444,6 +19399,36 @@
       "source": "lever",
       "title": "Software Engineer, Internship",
       "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0"
+    },
+    {
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "c887983fc44dc709e23454bd65de76383735ab3266b41b23a2638d4b5057e7ee",
+      "locations": [
+        "Denver, CO"
+      ],
+      "posted_at": "2026-11-10",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Software Engineer, Internship - Connectivity Platform and Product",
+      "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e"
+    },
+    {
+      "company": "palantir",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "39cefb656fcdee34d54a8230fe15965e3bde6a4da4643d6fb8e481f5bdd5157e",
+      "locations": [
+        "New York, NY"
+      ],
+      "posted_at": "2026-11-04",
+      "priority": 11,
+      "priority_program": false,
+      "source": "lever",
+      "title": "Software Engineer, Internship - Connectivity Platform and Product",
+      "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743"
     },
     {
       "company": "palantir",
@@ -23953,21 +23938,6 @@
       "url": "https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false"
     },
     {
-      "company": "SRC, Inc",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "e89407a01119c36057d3487c125a7284bf50297964da65b9df2a074b8c055d6e",
-      "locations": [
-        "United States"
-      ],
-      "posted_at": "2026-11-10",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://jobs.jobvite.com/src-inc/job/o8lHAfwu"
-    },
-    {
       "company": "Stand Together",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -25351,13 +25321,13 @@
       "graduation_status": "unknown",
       "id": "5089faa96d036535beeb9f122fb79dcb91556c51ac45cf5aa56f2e69f8d08c1a",
       "locations": [
-        "NYC"
+        "New York City, NY"
       ],
-      "posted_at": "2026-11-06",
+      "posted_at": "2026-11-07",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Android Engineer Intern",
+      "source": "speedyapply",
+      "title": "Android Engineering Intern",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005"
     },
     {
@@ -25366,13 +25336,13 @@
       "graduation_status": "unknown",
       "id": "d7ba621d93de09d4878847778bd2c14dec3a97be82794e98bec5ff5ac1314107",
       "locations": [
-        "NYC"
+        "New York City, NY"
       ],
-      "posted_at": "2026-11-06",
+      "posted_at": "2026-11-07",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "iOS Engineer Intern",
+      "source": "speedyapply",
+      "title": "iOS Engineering Intern",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005"
     },
     {
@@ -29557,7 +29527,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-18T16:17:38.384909+00:00",
+  "last_checked": "2026-11-18T17:24:10.730840+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
