@@ -3869,6 +3869,16 @@
       "fingerprint": "1b71d0c5f23d63bd43c157aaeaf2336b93f8de7707515ede595089f8bf0c6de7",
       "revision": 0
     },
+    "url:https://apply.workable.com/falcomm/j/41f139e6f7/apply": {
+      "eligible": false,
+      "fingerprint": "f5e2652692c958865a576c7105c38880b0fc5c11b0e24ce47ea20ccbf08ac9c6",
+      "revision": 1
+    },
+    "url:https://apply.workable.com/falcomm/j/64d0e86efe/apply": {
+      "eligible": false,
+      "fingerprint": "74c9b2ee517d07de9b4816c24f3f99af34a967bf9f8e740c48e691c21f8862db",
+      "revision": 1
+    },
     "url:https://apply.workable.com/focusrite/j/4296fad493/apply": {
       "eligible": false,
       "fingerprint": "04e8ed6ec689e43b11d62824f4456e2761cef7f8adaedcf23c8c9ad1136f74b1",
@@ -5426,6 +5436,26 @@
         "title": "software engineering intern"
       },
       "fingerprint": "2604b385e19caf8fd059409993b2aa969fef816da45aa07a72a62b241f39c9e2",
+      "revision": 1
+    },
+    "url:https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "raptor maps",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "somerville, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "540ad43848447cc55709413ecb4da35a273902e7bc1aca848ee435cb3453b742",
       "revision": 1
     },
     "url:https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781": {
@@ -7688,6 +7718,27 @@
       "eligible": false,
       "fingerprint": "90952b561bec2b9d79884d83c98cd40152d7f709776ab25e89a2da5bc4b08cde",
       "revision": 0
+    },
+    "url:https://boards.greenhouse.io/andurilindustries/jobs/5274037007": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "anduril",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "santa ana, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "machine learning engineer intern"
+      },
+      "fingerprint": "c0525a6a510104e57bb13d5603ba373f6a333dae0081c445837ddab4b7605e06",
+      "revision": 1
     },
     "url:https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007": {
       "eligible": true,
@@ -11411,6 +11462,11 @@
       "fingerprint": "4b5d8b2e1ead9bdfe53cdb9ec8e60e1330cd577dbd55db6a170d015ebabc6e93",
       "revision": 6
     },
+    "url:https://careers-sas.icims.com/jobs/42750/job": {
+      "eligible": false,
+      "fingerprint": "015cda6544afc2d282c7e1066d1225b352eea46b31d53c623830d0e334c2e72f",
+      "revision": 1
+    },
     "url:https://careers-sas.icims.com/jobs/42753/job": {
       "eligible": false,
       "fingerprint": "0865515c2bf10c4156fc6d078fc02aab393e8ae7259eb79e72b25c4c606a5c11",
@@ -12301,6 +12357,11 @@
       "eligible": false,
       "fingerprint": "941231481d6369b6c35264aa999ee83be9cbfb584850f768f9f04b57303d5344",
       "revision": 0
+    },
+    "url:https://careers.bge.com/jobs/34737?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "4784beb64ff1a54d9a59fcdfb12c9f770a87362b972dfa4c74c8d3807c4d572c",
+      "revision": 1
     },
     "url:https://careers.celestica.com/job/austin-student-intern%2c-software-&-hardware-engineer-tx-73301/1450863433": {
       "eligible": true,
@@ -14474,6 +14535,16 @@
       "eligible": false,
       "fingerprint": "edb8e23fb9e9fd7d5657b53cb6eb91472b0f8e6cda6e3f8875b9d6c8ff41837a",
       "revision": 0
+    },
+    "url:https://careers.publicisgroupe.com/jobs/182898?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "8ed68730e40aac3f31813898605565bad27c3f198c629e98025223bed7c82ee8",
+      "revision": 1
+    },
+    "url:https://careers.publicisgroupe.com/jobs/182963?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "4ebf7d1470b236471104d312a71527c06c76e80f12ef9acf6f887e3f65cefe06",
+      "revision": 1
     },
     "url:https://careers.qorvo.com/job/apopka-database-intern-fl-32703/1425883100?ats=successfactors": {
       "eligible": false,
@@ -17754,6 +17825,24 @@
       "fingerprint": "e87265d1297de88a9d681415ba14d7e804a257b8c1207e3d2c4e2bc793e874af",
       "revision": 1
     },
+    "url:https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---sunnyvale-ca/ai-research-launch-intern_r30599": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "crowdstrike",
+        "degrees": [],
+        "locations": [
+          "sunnyvale, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai research launch intern"
+      },
+      "fingerprint": "f2dd4cf761fedbb9d7c1698630ee8761d9bfbd304372d4c3a4607ac266064982",
+      "revision": 1
+    },
     "url:https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---sunnyvale-ca/sales-data-analytics-intern_r30801": {
       "eligible": true,
       "evidence": {
@@ -18626,6 +18715,24 @@
     "url:https://draftkings.wd1.myworkdayjobs.com/employee_referral_portal/job/london-uk/software-engineering-intern--summer-2027-_jr15150-1": {
       "eligible": false,
       "fingerprint": "2566f5f3ebf9a1ae3591ab4c126f28f82ede95b3c19832bff8cb2459a860a723",
+      "revision": 1
+    },
+    "url:https://draper.wd5.myworkdayjobs.com/draper_careers/job/cambridge-ma/software-engineering---devops-intern_jr003155": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "draper",
+        "degrees": [],
+        "locations": [
+          "cambridge, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering & devops intern"
+      },
+      "fingerprint": "5c21ec40bdb1284797e97e7081f85ded99058f76e81bb7bec786855a0f05bb8d",
       "revision": 1
     },
     "url:https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-w-rio-salado-pkwy-tempe-az-85281/analyst-intern--summer-2027-_r16502": {
@@ -34720,6 +34827,26 @@
       "fingerprint": "3d63a724929ee9a0ba36accfa5c7eff6ba7248373c4ac47b0f73a22bad4e304f",
       "revision": 1
     },
+    "url:https://job-boards.greenhouse.io/attainpartners/jobs/5485427008": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "attain partners",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "mclean, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics intern"
+      },
+      "fingerprint": "13ea7295a8225b45b0adfea68ff1c67d267bd0849a79e197588c7bb6027449a6",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003": {
       "eligible": true,
       "evidence": {
@@ -40219,6 +40346,25 @@
       "fingerprint": "a58b9157d5fdaff95ef07ca0b95c09eaea4bc4db532c73706880e749d9ae6351",
       "revision": 0
     },
+    "url:https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "basis research institute",
+        "degrees": [],
+        "locations": [
+          "cambridge, ma",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "research intern"
+      },
+      "fingerprint": "6184f3ce9a21f0302380c46b491a407aeefae769cb6402d293e2fd341e849da2",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8": {
       "eligible": true,
       "evidence": {
@@ -41767,7 +41913,12 @@
     },
     "url:https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c": {
       "eligible": false,
-      "fingerprint": "0f37b0986d19a6325ce73be9675082b650268ef8a862da0b7413bb21cd28b771",
+      "fingerprint": "a641e3db1633c8442769b42d2a47d5c796847db03f8bfe448bcfff250455ec0d",
+      "revision": 2
+    },
+    "url:https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862": {
+      "eligible": false,
+      "fingerprint": "42c948a563a340e3ce41aff206f27c9f9bac8ceed767f4fadeaead44bd824e3c",
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/lendable/e001dc0b-6e0f-46a7-95ba-38a3733db2f4": {
@@ -42682,27 +42833,9 @@
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "revel",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "la",
-          "los angeles, ca",
-          "san francisco, ca",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "full stack software engineer intern"
-      },
-      "fingerprint": "66a6072ee47df4d4946671c0f649fedfb4dc07a0caae65e4b2af0c726327a2b2",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "472cf0d4125d376cf190b04b99a87798588bb75f809e8bcfb3e58155156f04aa",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc": {
       "eligible": true,
@@ -46161,6 +46294,11 @@
       "fingerprint": "a7657128583542f8985771f706b2a4d62f57c595f67205e67693d5d8bcb9c802",
       "revision": 0
     },
+    "url:https://jobs.jobvite.com/compunetix/job/omdpafwi?nl=1&fr=false": {
+      "eligible": false,
+      "fingerprint": "b29e2b839e3dce8b2db14494b7e418a150aaec123d853d13d3a1a8dc348f0e0e",
+      "revision": 1
+    },
     "url:https://jobs.jobvite.com/elire/job/om5lafww?nl=1&fr=false": {
       "eligible": true,
       "evidence": {
@@ -46244,6 +46382,16 @@
       "fingerprint": "50dc3ae9365fc218e129c9caf8ccf0560f66fd6b2074928163d653674dbff8e4",
       "revision": 1
     },
+    "url:https://jobs.jobvite.com/nychdc/job/o8d0afw5?nl=1&fr=false": {
+      "eligible": false,
+      "fingerprint": "e52713229a63834581f9119d5af13f4c2e6c161beea901a3a1e4fa00f2b333bf",
+      "revision": 1
+    },
+    "url:https://jobs.jobvite.com/ross-video-careers/job/o51qafwg?nl=1&fr=false": {
+      "eligible": false,
+      "fingerprint": "202d33e24196abac62e6ddd1991668fbb8c6533949631c41c79f555155c42bed",
+      "revision": 1
+    },
     "url:https://jobs.jobvite.com/sikichcareers/job/ogopafwd?nl=1&fr=false": {
       "eligible": false,
       "fingerprint": "ce8c616a223f79e136bcb6931e74310cd4761082d26b58c4c692e57b4f5f6c75",
@@ -46271,6 +46419,16 @@
       "eligible": false,
       "fingerprint": "7338ccdbe76fdda67001369c8856ce3411f1d2012e08a77fc7b6fd157f79a6c9",
       "revision": 0
+    },
+    "url:https://jobs.jobvite.com/starwoodcapitalgroup/job/okzwafw9?nl=1&fr=false": {
+      "eligible": false,
+      "fingerprint": "a1a9a7a281d6021450a70f7676e2f3bc1563acc1dca2a2f03bcb4230aefb1d92",
+      "revision": 1
+    },
+    "url:https://jobs.jobvite.com/starwoodcapitalgroup/job/oleyafwh?nl=1&fr=false": {
+      "eligible": false,
+      "fingerprint": "f016ca1c31578448619e7f2f8650bb784f0850a84ba5907e7e3f9ac529565a39",
+      "revision": 1
     },
     "url:https://jobs.jobvite.com/tylertech/job/oavoafwd?nl=1&fr=false": {
       "eligible": true,
@@ -47416,6 +47574,11 @@
       "eligible": false,
       "fingerprint": "cd35589072afb54fe8b391e7b93c3bfbbde3221514d867886816e5a590452052",
       "revision": 0
+    },
+    "url:https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c": {
+      "eligible": false,
+      "fingerprint": "146ee0cd3bb50dd6e8ebd28051ebaf67a27b9e257bf5da2e6e6d3e6e723c556f",
+      "revision": 1
     },
     "url:https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba": {
       "eligible": false,
@@ -50098,6 +50261,11 @@
     "url:https://jobs.smartrecruiters.com/carlisle/3743990016774046": {
       "eligible": false,
       "fingerprint": "acb8836131db01d6d22eb4aa84ac1bbee646c10db947c5d6337ebdec2a510451",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/cityofcampbellriver/744000162139733": {
+      "eligible": false,
+      "fingerprint": "1f93f02bc4718dad3ff1d4ef61acba2247ecc67a6bf3945eb31a7c0ecf43f39c",
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/clinicalink/89163444": {
@@ -59016,8 +59184,8 @@
     },
     "url:https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/usa---rhode-island---east-providence/intern--software-engineering-_req53006": {
       "eligible": false,
-      "fingerprint": "c57859f3963948e44cebd67304a7f93cb4ff6672fd635ea19d781a6a2bf3a8b0",
-      "revision": 3
+      "fingerprint": "504444d52eb0f3e778c53c26f4f00f547e5e554512f066d4929ab5789b31b580",
+      "revision": 4
     },
     "url:https://northstarearthandspace.bamboohr.com/careers/117": {
       "eligible": false,
@@ -60201,6 +60369,24 @@
       "eligible": false,
       "fingerprint": "09ad32dee67365bb1049e4aff434cff3ef187f368c452396d1a8e981ec79cf00",
       "revision": 0
+    },
+    "url:https://pathlabs.applytojob.com/apply/qw73dwa0is/software-and-ai-engineering-intern": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "pathlabs",
+        "degrees": [],
+        "locations": [
+          "missoula, mt"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software and ai engineering intern"
+      },
+      "fingerprint": "46a93820410940d754eae233a2e5296d7f74da20bd5d2bd132411c298d3c2d00",
+      "revision": 1
     },
     "url:https://paycomonline.net/v4/ats/web.php/portal/43d75e2df3dfb76bcb85a922b26de5fa/jobs/507042": {
       "eligible": true,
@@ -69870,8 +70056,8 @@
     },
     "url:https://www.akunacapital.com/careers/job/8018853?gh_jid=8018853": {
       "eligible": false,
-      "fingerprint": "15273386380ce9894036b0e86fd6ed73c8e4c51120fe1bf7ddd64c1d8636a390",
-      "revision": 1
+      "fingerprint": "d49913928fd5bc10971f06c8c7d60d6345a7c8bd25bbb1defd6337e1b06de4ed",
+      "revision": 2
     },
     "url:https://www.akunacapital.com/careers/job/8018856?gh_jid=8018856": {
       "eligible": false,
@@ -71112,6 +71298,11 @@
     "url:https://www.metacareers.com/jobs/1105933535765181": {
       "eligible": false,
       "fingerprint": "a68c23c275b31dfb25304c8fcf9eb23563843148616149b51f34eeff62b57820",
+      "revision": 1
+    },
+    "url:https://www.metacareers.com/jobs/1110284504699535": {
+      "eligible": false,
+      "fingerprint": "699e0c04c457cb129915187a4c3e604ff75896c0dbe6124e919d9ceade17feef",
       "revision": 1
     },
     "url:https://www.metacareers.com/jobs/1125383989877928": {
@@ -73582,6 +73773,9 @@
     "https://go.vansh.nyc/1B7": 383,
     "https://go.vansh.nyc/1B8": 383,
     "https://go.vansh.nyc/1BA": 393,
+    "https://go.vansh.nyc/1BB": 394,
+    "https://go.vansh.nyc/1BC": 394,
+    "https://go.vansh.nyc/1BD": 394,
     "https://go.vansh.nyc/1Bb": 385,
     "https://go.vansh.nyc/1Bf": 387,
     "https://go.vansh.nyc/1Bk": 390,
@@ -75072,6 +75266,9 @@
     "https://go.vansh.nyc/1B7": "https://birdseyeaccount.bamboohr.com/careers/288",
     "https://go.vansh.nyc/1B8": "https://birdseyeaccount.bamboohr.com/careers/290",
     "https://go.vansh.nyc/1BA": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729",
+    "https://go.vansh.nyc/1BB": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599",
+    "https://go.vansh.nyc/1BC": "https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern",
+    "https://go.vansh.nyc/1BD": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Engineering---DevOps-Intern_JR003155",
     "https://go.vansh.nyc/1Bb": "https://sedarotech.bamboohr.com/careers/97",
     "https://go.vansh.nyc/1Bf": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
     "https://go.vansh.nyc/1Bk": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49",
@@ -76327,7 +76524,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 393,
+  "scan_sequence": 394,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
