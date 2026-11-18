@@ -22344,6 +22344,36 @@
       "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659"
     },
     {
+      "company": "Sallie Mae",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "1c6f16c9271715afb587bdaef947da6298d2252f1065b183b0e9d470549daa95",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "posted_at": "2026-11-17",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633"
+    },
+    {
+      "company": "Sallie Mae",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "b47445e1832d1025e6d207607b45e8c54be47a190347d9ba50f237f8cae0985b",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "posted_at": "2026-11-17",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623"
+    },
+    {
       "company": "Samsung",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -27682,23 +27712,6 @@
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
     },
     {
-      "company": "Tyler Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "16dc7eb93500aa9ee329c737c74f4d38d27446e7f659c60289b0fca943b5f5ad",
-      "locations": [
-        "Yarmouth, ME",
-        "Orono, ME",
-        "Falmouth, ME"
-      ],
-      "posted_at": "2026-09-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Intern - Summer 2027",
-      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
-    },
-    {
       "company": "Uber",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -28915,6 +28928,21 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8210170"
     },
     {
+      "company": "Waymo",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "1393b0b664735e0b07fd4983db8adb6c6e53c25e30e2c877a7e50d0d8676d530",
+      "locations": [
+        "Mountain View, California, United States; San Francisco, California, United States"
+      ],
+      "posted_at": "2026-09-14",
+      "priority": 11,
+      "priority_program": false,
+      "source": "greenhouse",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
+    },
+    {
       "company": "Wellmark",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29569,7 +29597,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-18T01:34:40.126504+00:00",
+  "last_checked": "2026-11-18T03:05:14.293830+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

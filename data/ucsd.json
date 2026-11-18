@@ -11994,6 +11994,11 @@
       "fingerprint": "0556eec11c125dc16cbb2f87e572989ccd48c956756536f7d57979d2ebb94f8f",
       "revision": 0
     },
+    "url:https://careers.airbnb.com/positions/8380007?gh_jid=8380007": {
+      "eligible": false,
+      "fingerprint": "5295a14451c34362910e28a67e803c610d42aa884c45d10bd8f73fed4f643539",
+      "revision": 1
+    },
     "url:https://careers.amd.com/jobs/90297?icims=1": {
       "eligible": false,
       "fingerprint": "7dcf72c452ed3dd599ad0412bc864e9ea306ddeda9749e242bc9e2c7249bbe42",
@@ -15228,17 +15233,16 @@
           "master's"
         ],
         "locations": [
-          "mountain view, ca",
-          "sf"
+          "mountain view, california, united states; san francisco, california, united states"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern - commercialization"
+        "title": "2027 summer intern, bs/ms, software engineering, commercialization"
       },
-      "fingerprint": "8df35059a2b5096fa674f7cf01044d56e78cfc20de4a998d4d57693f28a44a19",
-      "revision": 3
+      "fingerprint": "e416cebfcbfff141acd6cb44e83e8b436babf4585a33f9cb2c0db2899637ceb0",
+      "revision": 4
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8199365": {
       "eligible": false,
@@ -19314,6 +19318,11 @@
     "url:https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25019924": {
       "eligible": false,
       "fingerprint": "632e248bd88332a257ef76152a59a38325929124b7d327a0729923db9eb01556",
+      "revision": 1
+    },
+    "url:https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25020319": {
+      "eligible": false,
+      "fingerprint": "1d027698a5260fb685ab148273862b84d01beb2ccebd5459fdeedfb54b482812",
       "revision": 1
     },
     "url:https://edel.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_2001/job/22741": {
@@ -26206,6 +26215,11 @@
       "eligible": false,
       "fingerprint": "297251101f78dace9ddfd5a5e18794578550b66e19c42f1403167a6b671d99b6",
       "revision": 0
+    },
+    "url:https://go.vansh.nyc/1c0": {
+      "eligible": false,
+      "fingerprint": "a7999aaa737ace8b3127402fa250f19e624d1aee518eaf37573abaa542a830fe",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/1c8": {
       "eligible": false,
@@ -50368,6 +50382,11 @@
       "fingerprint": "791ec375b052601c7aa8f2c7bdd24d4699c5224e4a3e3b09c6b525ec9fd720fd",
       "revision": 2
     },
+    "url:https://jobs.smartrecruiters.com/boschgroup/744000162212029": {
+      "eligible": false,
+      "fingerprint": "dd5f5cc227ceb716059f28852a698eed6167df9b128f9eb781801ea6ab12fcf0",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/captechconsulting/744000155019115": {
       "eligible": true,
       "evidence": {
@@ -64082,6 +64101,46 @@
       "fingerprint": "2ba258ad2f9bbd6a5fe20d64c1005bbb20912c4ac82499a0e9dbcbd0b7477c32",
       "revision": 0
     },
+    "url:https://sallie-mae.wd5.myworkdayjobs.com/careers/job/indianapolis-in/software-engineer-intern_r26_000633": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "sallie mae",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "indianapolis, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "c77e8656bd7d69dbe1cb02acbf5a3f3ea880e703d3ae91bd4ec4de4815eee5e7",
+      "revision": 1
+    },
+    "url:https://sallie-mae.wd5.myworkdayjobs.com/careers/job/indianapolis-in/software-engineering-intern_r26_000623": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "sallie mae",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "indianapolis, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "c77e8656bd7d69dbe1cb02acbf5a3f3ea880e703d3ae91bd4ec4de4815eee5e7",
+      "revision": 1
+    },
     "url:https://sallie-mae.wd5.myworkdayjobs.com/careers/job/newark-de/data-science---engineering-intern_r26_000659": {
       "eligible": true,
       "evidence": {
@@ -73981,6 +74040,7 @@
     "https://go.vansh.nyc/1BJ": 395,
     "https://go.vansh.nyc/1BP": 395,
     "https://go.vansh.nyc/1BR": 395,
+    "https://go.vansh.nyc/1BZ": 396,
     "https://go.vansh.nyc/1Bb": 385,
     "https://go.vansh.nyc/1Bf": 387,
     "https://go.vansh.nyc/1Bk": 390,
@@ -75478,6 +75538,7 @@
     "https://go.vansh.nyc/1BJ": "https://careers.bissell.com/jobs/9995?icims=1&lang=en-us",
     "https://go.vansh.nyc/1BP": "https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv?nl=1&nl=1&fr=false",
     "https://go.vansh.nyc/1BR": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+    "https://go.vansh.nyc/1BZ": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943",
     "https://go.vansh.nyc/1Bb": "https://sedarotech.bamboohr.com/careers/97",
     "https://go.vansh.nyc/1Bf": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
     "https://go.vansh.nyc/1Bk": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49",
@@ -76733,7 +76794,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 395,
+  "scan_sequence": 396,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
