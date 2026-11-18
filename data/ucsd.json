@@ -49104,6 +49104,11 @@
       "fingerprint": "2711d842e641169b62ea8e4221dee91758d4f73b5e0046d33aa606a8d5e3746c",
       "revision": 4
     },
+    "url:https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8": {
+      "eligible": false,
+      "fingerprint": "afa14fe3008cef92adb7f3fdbb0286bb163661bbae0387239f55a322257184ce",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37": {
       "eligible": false,
       "fingerprint": "fe28a71668722be82afdad63c3002b20399bb591572052e28b7d2da507b8fecf",
@@ -76815,7 +76820,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 402,
+  "scan_sequence": 403,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
