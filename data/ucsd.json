@@ -4801,13 +4801,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
-        "title": "machine learning and image-based metrics for euv system setup intern"
+        "title": "machine learning and image-based euv system setup intern"
       },
-      "fingerprint": "3e1732f33962920181d246db7805f8e0c684c546ebfd6501f2eefb31c7e8fd3a",
-      "revision": 2
+      "fingerprint": "c7f7ab28d42bc3f78e48499a748381aaae4a3fe90718c0c4d290047efaeeb92d",
+      "revision": 3
     },
     "url:https://asml.wd3.myworkdayjobs.com/asmlext1/job/san-diego-ca-usa/internship--co-op--ai-engineer_j-00355628": {
       "eligible": false,
@@ -11988,8 +11987,8 @@
     },
     "url:https://careers.airbnb.com/positions/8360478?gh_jid=8360478": {
       "eligible": false,
-      "fingerprint": "277bc1403ff5eee7558f59f2e39a4b44c0ec00b2d846e3dcb7cd58eb4c988776",
-      "revision": 2
+      "fingerprint": "9c5dbeff59781f4ac7e48e66331e4c612d04730b0d76dff08050e25044575b85",
+      "revision": 3
     },
     "url:https://careers.airbnb.com/positions/8380007?gh_jid=8380007": {
       "eligible": false,
@@ -23086,7 +23085,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "great american insurance company",
+        "company": "national interstate insurance",
         "degrees": [
           "bachelor's"
         ],
@@ -23099,8 +23098,8 @@
         ],
         "title": "content publishing developer intern"
       },
-      "fingerprint": "6fe7660f1ba946f4f533cbd8c661895b6e14180a1293ebe6c3250be53bf11160",
-      "revision": 1
+      "fingerprint": "94544f3ab4141ee02fd3422341cabbf89033df8e92728abe3f1d7d10ef28b261",
+      "revision": 2
     },
     "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/data-application-development-intern---summer-2027_r9796": {
       "eligible": true,
@@ -26222,11 +26221,6 @@
     "url:https://go.vansh.nyc/1c0": {
       "eligible": false,
       "fingerprint": "a7999aaa737ace8b3127402fa250f19e624d1aee518eaf37573abaa542a830fe",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1c8": {
-      "eligible": false,
-      "fingerprint": "ca198976357e2fdc746cf7fd3da312adf74135f0fa0483b96f1027a7dc68a6e9",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1cd": {
@@ -41928,24 +41922,9 @@
       "revision": 0
     },
     "url:https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "ixian robotics",
-        "degrees": [],
-        "locations": [
-          "san francisco, ca",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software intern"
-      },
-      "fingerprint": "26b935b7254e01b703d6cd0e66b21df5117125f943452a8e79023de84da60a39",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "57584e7ceab96d1798709da7d2b535ead44ae5b68b7825492daeb5b0a737ee13",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a": {
       "eligible": false,
@@ -65202,6 +65181,11 @@
       "fingerprint": "0a9e256bdff7049f4e85ea1d54d5d41513f4f0df2849a435f6a41f0e40ea1eab",
       "revision": 0
     },
+    "url:https://ssicorporate.bamboohr.com/careers/101": {
+      "eligible": false,
+      "fingerprint": "99261b9e6bae97c98282486197a3d53609e89d47f055512f08dd9761a8bd2223",
+      "revision": 1
+    },
     "url:https://standoutforgood.wd12.myworkdayjobs.com/standoutforgood/job/knoxville-tn/spring-2027-it-analytics-intern_sosj12499": {
       "eligible": false,
       "fingerprint": "b0d5cd4ec54e60e06208029dd470dcb93113f6e19cd89618aed49dba72b960c9",
@@ -76826,7 +76810,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 399,
+  "scan_sequence": 400,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
