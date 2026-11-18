@@ -9198,6 +9198,25 @@
       "fingerprint": "edab77769c6cef06a2ac48cdb0a7b4dbba84b79a8bc7980870114a34a8601d4e",
       "revision": 1
     },
+    "url:https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/remote---united-states---us/data-science-intern--undergrad--summer-2027_r1608665": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "bristol myers squibb",
+        "degrees": [],
+        "locations": [
+          "remote",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "undergrad data science intern"
+      },
+      "fingerprint": "9a5f58b655385c619396c11d40da50f775e62df4905a713a517b09c43e411ece",
+      "revision": 1
+    },
     "url:https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/new-york-new-york/artificial-intelligence-intern--renewable-power---transition_r2048741": {
       "eligible": false,
       "fingerprint": "eb2b41c127c35c60097df0618d868745a01523a8adf21a0f19cf2e8fe6e98af3",
@@ -14909,6 +14928,11 @@
         "title": "software engineer intern"
       },
       "fingerprint": "ee78cb172f4b6419c9a09baf36b1ddd6b9a04b7f7e35708be389fade16ad0ba2",
+      "revision": 1
+    },
+    "url:https://careers.roblox.com/jobs/8386080?gh_jid=8386080": {
+      "eligible": false,
+      "fingerprint": "f2fbfd154282ce132b1fcc6266756634c82aaa8a6c58391ba378cdf38d8d1a61",
       "revision": 1
     },
     "url:https://careers.safran-dsi.com/job/bedford-software-engineering-internship-nh-03110/1440599100?ats=successfactors": {
@@ -20831,6 +20855,11 @@
       "fingerprint": "7d2173d5ec497afa95157c2fe7a2389c6f20e463b4128fd5d4c1620a47153590",
       "revision": 0
     },
+    "url:https://epicgames.com/careers/jobs/6147154004?gh_jid=6147154004": {
+      "eligible": false,
+      "fingerprint": "799db50037a1e97197a5561f04e8266342aa4684a2bff44f8d4aae6ab33b8412",
+      "revision": 1
+    },
     "url:https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004": {
       "eligible": false,
       "fingerprint": "471869758646980d319a60c4be99cc3032be076a7c422c4a0c4b5d5179ecb344",
@@ -26351,8 +26380,8 @@
     },
     "url:https://go.vansh.nyc/1en": {
       "eligible": false,
-      "fingerprint": "aeff953ba96ce8eed41a6a41605f05b5a4ef3d3a15036ef9ba49f3569ea05fd2",
-      "revision": 2
+      "fingerprint": "5d3f1b31f6d80b0e3a57697be00bfef06553f48593cdfd74aaec7395be3dae96",
+      "revision": 3
     },
     "url:https://go.vansh.nyc/1ep": {
       "eligible": false,
@@ -57934,13 +57963,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
-        "title": "product yield enhancement software engineer intern"
+        "title": "product yield software engineer intern"
       },
-      "fingerprint": "f9b54969f422ad6a9692099ae04d237464d9ef66b11c7015a65fd3082c7c9b90",
-      "revision": 1
+      "fingerprint": "d2e1db35ecf077fb21573bec8495742f6ec3562e8230e247c9a007a42da920e3",
+      "revision": 2
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---smai-probe-ai-engineer_jr114094": {
       "eligible": true,
@@ -74180,6 +74208,7 @@
     "https://go.vansh.nyc/1C6": 399,
     "https://go.vansh.nyc/1C7": 399,
     "https://go.vansh.nyc/1Ci": 407,
+    "https://go.vansh.nyc/1Ck": 408,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -75682,6 +75711,7 @@
     "https://go.vansh.nyc/1C6": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
     "https://go.vansh.nyc/1C7": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714",
     "https://go.vansh.nyc/1Ci": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
+    "https://go.vansh.nyc/1Ck": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -76928,7 +76958,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 407,
+  "scan_sequence": 408,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
