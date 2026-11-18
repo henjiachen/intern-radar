@@ -7274,9 +7274,22 @@
       "revision": 1
     },
     "url:https://birdseyeaccount.bamboohr.com/careers/288": {
-      "eligible": false,
-      "fingerprint": "6c33c9eb952ae8b35e2675c990f50c12ef36dc98ae1abfabc9f4da2dab8fd7ec",
-      "revision": 2
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "birdseye security solutions",
+        "degrees": [],
+        "locations": [
+          "dallas, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai systems intern"
+      },
+      "fingerprint": "17cf5660604c6ee2166089705aa675786582d842204eb9a82489f345311ad547",
+      "revision": 3
     },
     "url:https://birdseyeaccount.bamboohr.com/careers/289": {
       "eligible": false,
@@ -19314,26 +19327,9 @@
       "revision": 0
     },
     "url:https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25019103": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "texas instruments",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "sugar land, tx",
-          "united states"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "software engineer intern - compiler"
-      },
-      "fingerprint": "438531e8a02bec881335588d51093d53e5c05aa770c266bfcea2647fedc10087",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "446bde08d3676ff34ad4b300852b3f5ae1e0fb80c7850f792cbcb35dc50f07fa",
+      "revision": 2
     },
     "url:https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25019924": {
       "eligible": false,
@@ -20871,8 +20867,7 @@
         "company": "epic games",
         "degrees": [],
         "locations": [
-          "cary, nc",
-          "cary,north carolina,united states"
+          "cary, nc"
         ],
         "requirements": [
           "note to recruitment agencies: epic does not accept any unsolicited resumes or approaches from any unauthorized third party (including recruitment or placement agencies) (i.e., a third party with whom we do not have a negotiated and validly executed agreement). we will not pay any fees to any unauthorized third party. further details on these matters can be found here.",
@@ -20883,8 +20878,8 @@
         ],
         "title": "tools programmer intern"
       },
-      "fingerprint": "f73d3463052786d45671e557d895123bad7d415cf28adab1923ad27ac5d5ce5b",
-      "revision": 3
+      "fingerprint": "4d727305b5a739e28ac1d04cbd83b5fa4d0df259303a7c51bb4393a2fd78b633",
+      "revision": 4
     },
     "url:https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004": {
       "eligible": true,
@@ -26282,6 +26277,11 @@
     "url:https://go.vansh.nyc/1ce": {
       "eligible": false,
       "fingerprint": "47effd38598f7ae5e0a0c84f6a067902238973b290a259c53a3b7d50620cbb95",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1cg": {
+      "eligible": false,
+      "fingerprint": "6d15bf7c3350322b7ce51adb792e43209b91fad90dbc8660a4e023cd4456c7f6",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1co": {
@@ -33280,10 +33280,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "data science intern - distributed intelligence"
+        "title": "data science intern, distributed intelligence"
       },
-      "fingerprint": "d6f64f173a10882e3db35a76978838960fd7aa66206d5f734e3ea6677ec7d68c",
-      "revision": 0
+      "fingerprint": "fa0d01fc4befd15d3d63584fe0e3a1fb32326dee543d1553eb90c56d4682865e",
+      "revision": 1
     },
     "url:https://itw.wd5.myworkdayjobs.com/external/job/appleton-1635-w-spencer/software-engineering-intern_jr10122": {
       "eligible": false,
@@ -40136,22 +40136,21 @@
       "eligible": true,
       "evidence": {
         "category": "hardware",
-        "company": "antares nuclear",
+        "company": "antares",
         "degrees": [
           "bachelor's"
         ],
         "locations": [
-          "los angeles, ca",
-          "torrance, ca"
+          "los angeles, ca"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "reactor software engineering intern - summer 2027"
       },
-      "fingerprint": "ae7c7d69f87d00c3e7adb1fef194264855570385d51fbd252e420374cd5fe297",
-      "revision": 0
+      "fingerprint": "2c6110e55d729eae0b3271b7ca64239848bebadd7dcc046aa785f2d754f7fdd6",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/antares/922a527d-9826-446d-9aba-ffc611995830": {
       "eligible": true,
@@ -69046,6 +69045,24 @@
       "fingerprint": "6fcaa17a13cb1f4305d45d64a960c6fe891370eb03a123756e78eb3161393157",
       "revision": 0
     },
+    "url:https://viavisolutions.wd1.myworkdayjobs.com/careers/job/bothell-wa-usa/coop---efi-fit-intern_260005313-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "viavi solutions",
+        "degrees": [],
+        "locations": [
+          "bothell, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "robotics intern"
+      },
+      "fingerprint": "9af9ecebeda0ca6fd2761b6e1bfd9444d9b0e768ee9dcf4b8e1b46fd0a555091",
+      "revision": 1
+    },
     "url:https://viavisolutions.wd1.myworkdayjobs.com/careers/job/germantown-md-usa/software-engineering-co-op_260005140-1": {
       "eligible": false,
       "fingerprint": "8e9f5551093d3d944d56383037bf253b09e350b498d760a7b1c951a631b5d919",
@@ -74162,6 +74179,7 @@
     "https://go.vansh.nyc/1C4": 398,
     "https://go.vansh.nyc/1C6": 399,
     "https://go.vansh.nyc/1C7": 399,
+    "https://go.vansh.nyc/1Ci": 407,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -75663,6 +75681,7 @@
     "https://go.vansh.nyc/1C4": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633",
     "https://go.vansh.nyc/1C6": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
     "https://go.vansh.nyc/1C7": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714",
+    "https://go.vansh.nyc/1Ci": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -76909,7 +76928,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 406,
+  "scan_sequence": 407,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
