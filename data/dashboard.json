@@ -550,21 +550,6 @@
       "company": "Microsoft",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "eadd1b51dc472555231dece73157a58c77701dcab17b0201f86fa59517669a7a",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "posted_at": "2026-11-17",
-      "priority": 9,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Research Intern, Firmware Security",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140"
-    },
-    {
-      "company": "Microsoft",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "ee8adbf0ba60f5b8955c7aa7acb5db43f94da7e1105aae940257498447485826",
       "locations": [
         "Redmond, WA"
@@ -22719,19 +22704,19 @@
       "url": "https://seatgeek.com/jobs/8227553?gh_jid=8227553"
     },
     {
-      "company": "SecurityMetrics",
+      "company": "Securitymetrics",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
       "id": "be955a970cb86c6981b0fe4086de429a7cffeb21c3056a4bdd0f54e80a38e390",
       "locations": [
         "Orem, UT"
       ],
-      "posted_at": "2026-11-17",
+      "posted_at": "2026-11-11",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "vanshb03",
       "title": "Software Engineer Intern",
-      "url": "https://securitymetrics.bamboohr.com/careers/215/"
+      "url": "https://securitymetrics.bamboohr.com/careers/215"
     },
     {
       "company": "Sedaro",
@@ -23814,12 +23799,12 @@
       "locations": [
         "Seattle, WA"
       ],
-      "posted_at": "2026-10-29",
+      "posted_at": "2026-10-30",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Software Product Manager Intern",
-      "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1"
+      "source": "speedyapply",
+      "title": "Software Product Management Intern - Seattle",
+      "url": "https://sonos.wd1.myworkdayjobs.com/en-US/sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1"
     },
     {
       "company": "Sophinea",
@@ -29597,7 +29582,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-18T03:05:14.293830+00:00",
+  "last_checked": "2026-11-18T04:12:46.020696+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

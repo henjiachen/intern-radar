@@ -3298,22 +3298,9 @@
       "revision": 1
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393557075140": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "microsoft",
-        "degrees": [],
-        "locations": [
-          "redmond, wa"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "research intern, firmware security"
-      },
-      "fingerprint": "0a385ec3e3939e706c2c584a8f6073301fbd00dea4dec22353ec4730e345e1cc",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "31a683afb30bd6cfa29999644fea0af927f279479f9d2df8ec4980f4b1872e62",
+      "revision": 2
     },
     "url:https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0": {
       "eligible": true,
@@ -5541,6 +5528,11 @@
       "eligible": false,
       "fingerprint": "5c18b5ebbb98807a7d5ae0e258ac6a3b023ba6191646ff682b5e68f52a9f58d1",
       "revision": 0
+    },
+    "url:https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6": {
+      "eligible": false,
+      "fingerprint": "dfa8e393bd5ab7088f6b667e486bc3f195bc1d48e8ca21e4ac085efd43cd2c88",
+      "revision": 1
     },
     "url:https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5": {
       "eligible": false,
@@ -8780,8 +8772,8 @@
     },
     "url:https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/us-ma---framingham/audio-machine-learning-engineer-co-op_r28719": {
       "eligible": false,
-      "fingerprint": "3f8d39deed11e13b83f694c425ec0d67ace145a0481ba38c199457d1f7ba12a2",
-      "revision": 0
+      "fingerprint": "a391996fb0fc4f17d4c5f66892f18612ed4191fa70cded830060ecc938aacfaa",
+      "revision": 1
     },
     "url:https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/us-ma---framingham/audio-machine-learning-intern-co-op_r29277": {
       "eligible": false,
@@ -15233,7 +15225,9 @@
           "master's"
         ],
         "locations": [
-          "mountain view, california, united states; san francisco, california, united states"
+          "mountain view, ca",
+          "mountain view, california, united states; san francisco, california, united states",
+          "sf"
         ],
         "requirements": [],
         "terms": [
@@ -15241,8 +15235,8 @@
         ],
         "title": "2027 summer intern, bs/ms, software engineering, commercialization"
       },
-      "fingerprint": "e416cebfcbfff141acd6cb44e83e8b436babf4585a33f9cb2c0db2899637ceb0",
-      "revision": 4
+      "fingerprint": "39bafd05957650c1bd68d225a8780c1a5cfba332b376bc026c8b09be8d323dcd",
+      "revision": 5
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8199365": {
       "eligible": false,
@@ -22615,6 +22609,11 @@
       },
       "fingerprint": "b0e97ade4e7834e1b9fe1248d7fb811511bb2687468125bcab8266a3d8b90c01",
       "revision": 0
+    },
+    "url:https://fireflyspace.wd115.myworkdayjobs.com/firefly/job/cedar-park-tx/internship---software-engineering---spring-2027_jr100188": {
+      "eligible": false,
+      "fingerprint": "22bf5517633a8b0dbc1bb5e58db102d37e8da5fe63d641e9d3e95e0dd4cbcfcb",
+      "revision": 1
     },
     "url:https://firstcitizens.jibeapply.com/jobs/36230?icims=1": {
       "eligible": true,
@@ -33112,6 +33111,11 @@
       },
       "fingerprint": "b1ebee8d9ab892a067c0eb7ad71235140a1aa7ee38c18977ffc41dec9ec28aea",
       "revision": 2
+    },
+    "url:https://invitationhomes.wd503.myworkdayjobs.com/invh/job/dallas-tx--hq/intern-software-engineering_r5984": {
+      "eligible": false,
+      "fingerprint": "c2bbc579793fbb81d965c105d6ca15603bc1b209acb31248bd27892dd671393d",
+      "revision": 1
     },
     "url:https://ipconfigure.bamboohr.com/careers/71": {
       "eligible": true,
@@ -64391,13 +64395,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "41c2f2d545ccac00ba6302e2bcfede4ed955cd087558b7488c94361e9078af20",
-      "revision": 2
+      "fingerprint": "bd2840801bb5f09d29d08e16269710c4ffd6724358946756acb3727c77d124ef",
+      "revision": 3
     },
     "url:https://sedarotech.bamboohr.com/careers/95": {
       "eligible": false,
@@ -65002,10 +65005,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software product manager intern"
+        "title": "software product management intern - seattle"
       },
-      "fingerprint": "7f853142a3cf0b2de1be138f9664f06649e794a4d0ba95d42bd8f56244c22005",
-      "revision": 0
+      "fingerprint": "9cbb2bbc3ef092b8ac55a6ad8f5dda83b34060af78e3d86da1093f4530581f71",
+      "revision": 1
     },
     "url:https://sonyglobal.wd1.myworkdayjobs.com/sony_europe_careers/job/weybridge/data-quality---systems-intern---student-placement-year_jr-119746": {
       "eligible": false,
@@ -76794,7 +76797,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 396,
+  "scan_sequence": 397,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
