@@ -11988,8 +11988,8 @@
     },
     "url:https://careers.airbnb.com/positions/8360478?gh_jid=8360478": {
       "eligible": false,
-      "fingerprint": "43041ba364981d2df9dca7283b6fd74ee949ce78d0b4f01725a0d1e7b227076a",
-      "revision": 1
+      "fingerprint": "277bc1403ff5eee7558f59f2e39a4b44c0ec00b2d846e3dcb7cd58eb4c988776",
+      "revision": 2
     },
     "url:https://careers.airbnb.com/positions/8380007?gh_jid=8380007": {
       "eligible": false,
@@ -15231,17 +15231,16 @@
         ],
         "locations": [
           "mountain view, ca",
-          "mountain view, california, united states; san francisco, california, united states",
           "sf"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "2027 summer intern, bs/ms, software engineering, commercialization"
+        "title": "software engineering intern - commercialization"
       },
-      "fingerprint": "39bafd05957650c1bd68d225a8780c1a5cfba332b376bc026c8b09be8d323dcd",
-      "revision": 5
+      "fingerprint": "8df35059a2b5096fa674f7cf01044d56e78cfc20de4a998d4d57693f28a44a19",
+      "revision": 6
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8199365": {
       "eligible": false,
@@ -33453,8 +33452,8 @@
     },
     "url:https://jj.wd5.myworkdayjobs.com/jj/job/danvers-massachusetts-united-states-of-america/software-engineering-co-op_r-098277": {
       "eligible": false,
-      "fingerprint": "ee3e16838221961582aff61650b6fedc2c0c476028ac2f37cfe2a0180fad5bbb",
-      "revision": 2
+      "fingerprint": "0064c77f73a87bda56b7594b270e9bb5e457a1549003429a73a230699de2beae",
+      "revision": 3
     },
     "url:https://jj.wd5.myworkdayjobs.com/jj/job/danvers-massachusetts-united-states-of-america/software-test-engineering-co-op--rlm-_r-098669": {
       "eligible": false,
@@ -65159,6 +65158,25 @@
       "fingerprint": "290b6839b967c30001fdd2e885d555e00d75b52d4c04e76e5be9874af9945a25",
       "revision": 1
     },
+    "url:https://spgi.wd5.myworkdayjobs.com/kensho_careers/job/cambridge-ma/machine-learning-engineer---summer-intern-2027_331714": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "s&p global",
+        "degrees": [],
+        "locations": [
+          "cambridge, ma",
+          "new york, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "machine learning engineer intern"
+      },
+      "fingerprint": "5b5029b1b56ae670d2088ee94ba30367193679d54801257766ec3e50eb74e4df",
+      "revision": 1
+    },
     "url:https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/dallas-tx/summer-intern--ilevel---gp-mds_332651-1": {
       "eligible": true,
       "evidence": {
@@ -74059,6 +74077,8 @@
     "https://go.vansh.nyc/1Bx": 393,
     "https://go.vansh.nyc/1Bz": 393,
     "https://go.vansh.nyc/1C4": 398,
+    "https://go.vansh.nyc/1C6": 399,
+    "https://go.vansh.nyc/1C7": 399,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -75558,6 +75578,8 @@
     "https://go.vansh.nyc/1Bx": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Intern_REQ381273",
     "https://go.vansh.nyc/1Bz": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Software-Engineering_R1013421",
     "https://go.vansh.nyc/1C4": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633",
+    "https://go.vansh.nyc/1C6": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+    "https://go.vansh.nyc/1C7": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -76804,7 +76826,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 398,
+  "scan_sequence": 399,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

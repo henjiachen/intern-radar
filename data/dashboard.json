@@ -22239,6 +22239,22 @@
       "company": "S&P Global",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "5710c65438e6b6ec0f926bb18db98e2a3ac18cb6f489850f1af139c080baec62",
+      "locations": [
+        "Cambridge, MA",
+        "New York, NY"
+      ],
+      "posted_at": "2026-11-18",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714"
+    },
+    {
+      "company": "S&P Global",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "a1d141ef50f3d25646e6b6d8e77ded10bc96226e7e35ddff4aa0b7401f3400f5",
       "locations": [
         "Dallas, TX"
@@ -28914,17 +28930,18 @@
     },
     {
       "company": "Waymo",
-      "graduation_detail": "\u2796 No grad year found in the available description",
-      "graduation_status": "not_found",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "1393b0b664735e0b07fd4983db8adb6c6e53c25e30e2c877a7e50d0d8676d530",
       "locations": [
-        "Mountain View, California, United States; San Francisco, California, United States"
+        "SF",
+        "Mountain View, CA"
       ],
       "posted_at": "2026-09-14",
       "priority": 11,
       "priority_program": false,
-      "source": "greenhouse",
-      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "source": "simplify",
+      "title": "Software Engineering Intern - Commercialization",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
     },
     {
@@ -29582,7 +29599,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-18T05:18:07.045831+00:00",
+  "last_checked": "2026-11-18T07:34:28.148016+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
