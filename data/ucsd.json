@@ -18105,9 +18105,20 @@
       "revision": 0
     },
     "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/az---scottsdale/innovation---technology-internship-software-engineering--platform---applications--summer-2027-grad_r1081216": {
-      "eligible": false,
-      "fingerprint": "18c8cdbf22d9520a38e18f56a6801a15eebd22bad2bede238704441520f5121d",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cvs health",
+        "degrees": [],
+        "locations": [
+          "scottsdale, az +3"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "innovation & technology internship - software engineering: platform & applications -summer 2027 grad"
+      },
+      "fingerprint": "1898ea13503bd0700438b37e5e24898339bff78d7da7cd72ebdb0c6f035a2d84",
+      "revision": 1
     },
     "url:https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/az---scottsdale/innovation-technology-internship-software-engineering--platform---applications-summer-2027-undergrad_r1081193": {
       "eligible": true,
@@ -21051,7 +21062,7 @@
         "company": "epic games",
         "degrees": [],
         "locations": [
-          "cary, nc"
+          "cary,north carolina,united states"
         ],
         "requirements": [
           "note to recruitment agencies: epic does not accept any unsolicited resumes or approaches from any unauthorized third party (including recruitment or placement agencies) (i.e., a third party with whom we do not have a negotiated and validly executed agreement). we will not pay any fees to any unauthorized third party. further details on these matters can be found here.",
@@ -21060,10 +21071,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "tools programmer intern - graphics"
+        "title": "tools programmer intern (graphics)"
       },
-      "fingerprint": "8c6a5a46bea756c8cd17a380f5074830659a3b50ea90bf76f1ea0888cb3320bd",
-      "revision": 1
+      "fingerprint": "2ec276f27003ab9cb729b7a1aa5425e41d89c9aecb67620c6f81bb3bd3363a80",
+      "revision": 2
     },
     "url:https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004": {
       "eligible": true,
@@ -27651,6 +27662,11 @@
         "title": "software engineer intern"
       },
       "fingerprint": "cdb1dd0778e3734354547469743be70949fe87c105ec9b7998eabbfce18806f2",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/dy": {
+      "eligible": false,
+      "fingerprint": "ccc9a9742698805710b2afc317285a4017e93048a45a8f20b55f523194c6943a",
       "revision": 1
     },
     "url:https://go.vansh.nyc/dz": {
@@ -37114,8 +37130,8 @@
     },
     "url:https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003": {
       "eligible": false,
-      "fingerprint": "a6d63ea439ef68ad409deead73f21f20289e3f0852aa101925d0cdb83d9ae753",
-      "revision": 2
+      "fingerprint": "72109b683adca77f91f4ed5fd96efe2b978dd7c99d9db2a09150612ad89b713a",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003": {
       "eligible": false,
@@ -50414,8 +50430,8 @@
     },
     "url:https://jobs.smartrecruiters.com/boschgroup/744000151900549": {
       "eligible": false,
-      "fingerprint": "63a5e6fdd08d05370389a5426d4a6192db62504cca1b874c0c55ccd574b7df51",
-      "revision": 0
+      "fingerprint": "301a3bddec9f69523fbdac55c10c9b63db327f44b579f3871f7bda3b5a10cc2c",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/boschgroup/744000152706359": {
       "eligible": false,
@@ -58263,8 +58279,8 @@
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/san-jose-ca/intern---ssd-firmware_jr115209": {
       "eligible": false,
-      "fingerprint": "cb395c14ee97316437c6a828fc641c850c28aa0d40a80e79da5c54239d03809f",
-      "revision": 2
+      "fingerprint": "2f284be7c949afd4adf320019bd5a248d902dbedcbf842db7bdd372a1d21cb1d",
+      "revision": 3
     },
     "url:https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/effingham-il/intern---ai-solutions-engineer_jr1461": {
       "eligible": true,
@@ -69422,6 +69438,24 @@
       "fingerprint": "5b92f63537541f1b1ae5b77a4495f45a889bca44c8f19a00e3a467e2492348f9",
       "revision": 1
     },
+    "url:https://vibrantz.wd503.myworkdayjobs.com/vibrantzcareers/job/houston-tx/applied-ai---automation-intern_req269123": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "vibrantz technologies",
+        "degrees": [],
+        "locations": [
+          "houston, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "applied ai & automation intern"
+      },
+      "fingerprint": "9d98f55ed75a48bf79cb53ccf7ae19a7428a3bba0dbc65ae32ee8eabca7c4c51",
+      "revision": 1
+    },
     "url:https://visa.wd5.myworkdayjobs.com/visa/job/gb---cambridge-united-kingdom/software-engineer-intern_ref090467w-1": {
       "eligible": false,
       "fingerprint": "bc6d5fcfd8963ea8257cd4f47c32bd43f015baaa0e73ba9a20e4ca1e6690a117",
@@ -74537,6 +74571,7 @@
     "https://go.vansh.nyc/1Ck": 408,
     "https://go.vansh.nyc/1Co": 409,
     "https://go.vansh.nyc/1Cp": 410,
+    "https://go.vansh.nyc/1Ct": 411,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -76042,6 +76077,7 @@
     "https://go.vansh.nyc/1Ck": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665",
     "https://go.vansh.nyc/1Co": "https://jobs.smartrecruiters.com/syngentagroup/744000162383708",
     "https://go.vansh.nyc/1Cp": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829-1",
+    "https://go.vansh.nyc/1Ct": "https://vibrantz.wd503.myworkdayjobs.com/vibrantzcareers/job/Houston-TX/Applied-AI---Automation-Intern_REQ269123",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -77288,7 +77324,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 410,
+  "scan_sequence": 411,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
