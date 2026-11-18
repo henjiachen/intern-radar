@@ -3292,6 +3292,29 @@
       "fingerprint": "34d859ccc88d9d3e8a250da2c5b6bed7fe9174c8691548e842c3f115d94df0d7",
       "revision": 1
     },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557075074": {
+      "eligible": false,
+      "fingerprint": "ae88b626f4c1354392251e9c60a67d470c7ce6745216adbaf2ef49983e8d57fb",
+      "revision": 1
+    },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557075140": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "microsoft",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "research intern, firmware security"
+      },
+      "fingerprint": "0a385ec3e3939e706c2c584a8f6073301fbd00dea4dec22353ec4730e345e1cc",
+      "revision": 1
+    },
     "url:https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0": {
       "eligible": true,
       "evidence": {
@@ -11767,6 +11790,11 @@
       "fingerprint": "421b647b6edde289ed9dc98b5d5f4ba4e249c4e3e42da0925bf24ac6492081d5",
       "revision": 0
     },
+    "url:https://careers-sri.icims.com/jobs/6540/job": {
+      "eligible": false,
+      "fingerprint": "748c1900f3a60b849ae8888f97fa887cfaf6843d9546a75a11405aae62d26a69",
+      "revision": 1
+    },
     "url:https://careers-sri.icims.com/jobs/6541/job": {
       "eligible": false,
       "fingerprint": "9caa9f75ab0cac84adc085fa8f56520dbb3bf16a6fc3754f3aae2468dc406933",
@@ -12363,6 +12391,24 @@
       "fingerprint": "4784beb64ff1a54d9a59fcdfb12c9f770a87362b972dfa4c74c8d3807c4d572c",
       "revision": 1
     },
+    "url:https://careers.bissell.com/jobs/9995?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "bissell",
+        "degrees": [],
+        "locations": [
+          "grand rapids, mi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai & automation intern"
+      },
+      "fingerprint": "cfedac6decfdbc5e42c86dc48e0c294e0a26239b9822f0a1149f0ad2bf7614d5",
+      "revision": 1
+    },
     "url:https://careers.celestica.com/job/austin-student-intern%2c-software-&-hardware-engineer-tx-73301/1450863433": {
       "eligible": true,
       "evidence": {
@@ -12940,6 +12986,11 @@
         "title": "software engineer intern, real time aviation data"
       },
       "fingerprint": "96ce9a84baf1ed21cfa818d6753d74b8fae8f3034ebac9d37b62aa3745a0dcc0",
+      "revision": 1
+    },
+    "url:https://careers.garmin.com/jobs/20081?icims=1": {
+      "eligible": false,
+      "fingerprint": "868d781a9186c30676832e5e13a6ccea1f64cedd9830fd032476dcb7ceca88ea",
       "revision": 1
     },
     "url:https://careers.garmin.com/jobs/20119?icims=1": {
@@ -15191,8 +15242,8 @@
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8199365": {
       "eligible": false,
-      "fingerprint": "d45d6c165811acb950cf1e9f5deb2aaf3cf0dd941697d603fc215e192c3acd2b",
-      "revision": 0
+      "fingerprint": "6718847527fd5224b562d69a08a6cb77fd745ded3c2aa7711505c2770428c37c",
+      "revision": 1
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8202025": {
       "eligible": false,
@@ -22325,6 +22376,27 @@
       "fingerprint": "e0935f40c8c4df66286470f9e8d297ac6e82fb6ad915fe82beaced41ef20b2d7",
       "revision": 0
     },
+    "url:https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/260943": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "gm financial",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "arlington, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development engineer intern"
+      },
+      "fingerprint": "f9cc71926180fc71634465e2aa234db423abe3dea57cad5c34a9fe80451913e0",
+      "revision": 1
+    },
     "url:https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/261197": {
       "eligible": true,
       "evidence": {
@@ -26105,19 +26177,14 @@
       "fingerprint": "843e6f297a6fcb76919ec92eda6e9fc073a9ec6c50baf31e0189e6d64ddf184b",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1bk": {
-      "eligible": false,
-      "fingerprint": "0151051e10c77e1067c36f31b4491b6dd14306cd9b0ac115b085c56523d4e973",
-      "revision": 2
-    },
     "url:https://go.vansh.nyc/1bn": {
       "eligible": false,
-      "fingerprint": "2810bcd0d18feded8a0eab4ed66983b84db5b1cb5ad3e0c937d543c647c0888c",
-      "revision": 2
+      "fingerprint": "8cab281de2eeaf789fc0e2d8ca99b0458fc064de97d14bbc7529d3b1c6b25eaf",
+      "revision": 3
     },
-    "url:https://go.vansh.nyc/1bq": {
+    "url:https://go.vansh.nyc/1bo": {
       "eligible": false,
-      "fingerprint": "bd68aa2f56c1377a83576769c7b2913beba9c520ffc82d4b7ef4a69a4ffc0b29",
+      "fingerprint": "7fae83a65ef361fb5d6cea8330a4f72d8eaa4aeb060806fe3793c9d0a5dc8464",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1br": {
@@ -32194,7 +32261,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "icf international",
+        "company": "icf",
         "degrees": [
           "bachelor's",
           "master's"
@@ -32206,10 +32273,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software developer intern"
+        "title": "2027 summer intern - software developer - reston - va"
       },
-      "fingerprint": "008d49eff56d9846da8b59d006bb031f48c5a9e8fdb1a23521545699113558a5",
-      "revision": 0
+      "fingerprint": "a9ff3e89096abe00e18b8ac09d6f30c04db51e3a967be92d40e044c252b9025f",
+      "revision": 1
     },
     "url:https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/reston-va/xmlname-2027-summer-intern--software-engineer--reston--va-_r2603522": {
       "eligible": true,
@@ -40762,6 +40829,11 @@
       "fingerprint": "30b59a55f27c4785b2b55fcef473550601937c1facc7afa7d7264ff67007e0b6",
       "revision": 2
     },
+    "url:https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5": {
+      "eligible": false,
+      "fingerprint": "393c7ca868d0c5afc598e9c6d8bd9c570de5be750f3be8563b209107ea79755b",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e": {
       "eligible": true,
       "evidence": {
@@ -41917,9 +41989,23 @@
       "revision": 2
     },
     "url:https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862": {
-      "eligible": false,
-      "fingerprint": "42c948a563a340e3ce41aff206f27c9f9bac8ceed767f4fadeaead44bd824e3c",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "lean techniques",
+        "degrees": [],
+        "locations": [
+          "johnston, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "9c48a4abb431485a4a42d9a4e80986419ffa6b0aed8ca84e57f475300e3bf8a0",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/lendable/e001dc0b-6e0f-46a7-95ba-38a3733db2f4": {
       "eligible": false,
@@ -43972,8 +44058,8 @@
     },
     "url:https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64": {
       "eligible": false,
-      "fingerprint": "bbc901a8608c9f82a07deae7b5495d5a71a2dd97dc47b0a3c7ad9e964513cdad",
-      "revision": 2
+      "fingerprint": "5d8ba19ec004e3bb0b77ff1c1d34620e239c187a45c948e8bcfe8b7489204a50",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea": {
       "eligible": false,
@@ -44054,6 +44140,11 @@
       "eligible": false,
       "fingerprint": "588db093a0cf08f37e3bbe6c93bf0928af2af4ed46fe617b72f3890531e47ac8",
       "revision": 3
+    },
+    "url:https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9": {
+      "eligible": false,
+      "fingerprint": "ab3217421013b5165ef3d1e69e9e7d3c7e851cfb76fc212cfe88076c89bd278f",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d": {
       "eligible": false,
@@ -45085,6 +45176,26 @@
         "title": "renewable energy intern"
       },
       "fingerprint": "fc8ead7c277c03a1eebc61267a94ba020cd45e05610be2dd73aa0d25bec85e6d",
+      "revision": 1
+    },
+    "url:https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "constellation energy",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "san diego, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it software developer intern"
+      },
+      "fingerprint": "267ce198b3233aaa2c7a0b8c3c127ec7c1de84ed1f402c1ca682ac141c947104",
       "revision": 1
     },
     "url:https://jobs.dayforcehcm.com/en-us/ibgllc/candidateportal/jobs/2135": {
@@ -46294,6 +46405,16 @@
       "fingerprint": "a7657128583542f8985771f706b2a4d62f57c595f67205e67693d5d8bcb9c802",
       "revision": 0
     },
+    "url:https://jobs.jobvite.com/blountfinefoods/job/obf3afwd?nl=1&fr=false": {
+      "eligible": false,
+      "fingerprint": "4b9946f99b31f45cb39afa865f58c2c07d3f2c0646b7223541957fecbd469180",
+      "revision": 1
+    },
+    "url:https://jobs.jobvite.com/cmimedia/job/obh1sfwv?nl=1&fr=false": {
+      "eligible": false,
+      "fingerprint": "ee98d6008e45165d7a2228e51427755df77203d71b19a526f92a2a6e6fd4a383",
+      "revision": 1
+    },
     "url:https://jobs.jobvite.com/compunetix/job/omdpafwi?nl=1&fr=false": {
       "eligible": false,
       "fingerprint": "b29e2b839e3dce8b2db14494b7e418a150aaec123d853d13d3a1a8dc348f0e0e",
@@ -46351,6 +46472,25 @@
       "eligible": false,
       "fingerprint": "0f7899d7d01e3dd2991ad63dbe66cd61bd429badaed720a9f879d0e2946176ce",
       "revision": 0
+    },
+    "url:https://jobs.jobvite.com/gei-consultants/job/ogr5zfwv?nl=1&fr=false": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "gei consultants",
+        "degrees": [],
+        "locations": [
+          "rancho cordova, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "web developer intern"
+      },
+      "fingerprint": "8467f401e65d769c9b1126c2ab27345ede544a1e780a4b9d65c4b5c0927d5e5c",
+      "revision": 1
     },
     "url:https://jobs.jobvite.com/metropolitantransportationauthority/job/omtwafw5?nl=1&fr=false": {
       "eligible": false,
@@ -48932,7 +49072,7 @@
     "url:https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "tri",
         "degrees": [],
         "locations": [
@@ -48940,12 +49080,13 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "robotics intern, agentic robotics"
       },
-      "fingerprint": "db57c1f43ffc724c130748292823774ecbbd69694adf899373e4ab8a30bc1397",
-      "revision": 1
+      "fingerprint": "ace2276a2e85ef7459b5550a25f37e6ad5787e3e739237e8f543e4e4c8459d17",
+      "revision": 2
     },
     "url:https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9": {
       "eligible": false,
@@ -49528,6 +49669,27 @@
         "title": "data engineer intern"
       },
       "fingerprint": "7507a83f141cf340d637bf6b49e7726e722b768406161a10db4c741884f77a6a",
+      "revision": 1
+    },
+    "url:https://jobs.paccar.com/job/denton-2027-summer-internship-data-scientist-tx-76205-7864/1458178433?ats=successfactors": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "paccar",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "denton, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data scientist intern"
+      },
+      "fingerprint": "b929cbc474202fd24b244a282976335985ed7ec028458e49439e3ac37d7ea393",
       "revision": 1
     },
     "url:https://jobs.paccar.com/job/denton-2027-summer-internship-materials-systems-tx-76205-7864/1453566333?ats=successfactors": {
@@ -53040,13 +53202,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "software intern"
       },
-      "fingerprint": "c1ba0ff4becc132978c5a6d80fde04336638292e7b82396a76ed637fbd6de828",
-      "revision": 2
+      "fingerprint": "7affc50411d89a6ab2c96ec58d0e81bc2fc18827ac23e02726746bf7c0f8c933",
+      "revision": 3
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/software-intern_2642954-1": {
       "eligible": true,
@@ -61433,6 +61594,16 @@
       "fingerprint": "549103c4f0fbba7c731494aaea75448bec54843584a4f43fd1ae88433d4c6fa9",
       "revision": 1
     },
+    "url:https://publicisgroupe.jibeapply.com/jobs/182898?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "8ed68730e40aac3f31813898605565bad27c3f198c629e98025223bed7c82ee8",
+      "revision": 1
+    },
+    "url:https://publicisgroupe.jibeapply.com/jobs/182963?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "4ebf7d1470b236471104d312a71527c06c76e80f12ef9acf6f887e3f65cefe06",
+      "revision": 1
+    },
     "url:https://punchcut.bamboohr.com/careers/65": {
       "eligible": false,
       "fingerprint": "551dd22514b9f658884de4e3cfc99727c3c25367614b3df2f0aa059cbcb13a3c",
@@ -61684,6 +61855,11 @@
     "url:https://qualcomm.eightfold.ai/careers/job/446722152489": {
       "eligible": false,
       "fingerprint": "d179963ac63a692115e4a6b2cf65b8b524ca01b51ff1b316f77e8eb784ea23da",
+      "revision": 1
+    },
+    "url:https://qualcomm.eightfold.ai/careers/job/446722176432": {
+      "eligible": false,
+      "fingerprint": "b9aeb9cef5910288a6bf91437fabe8b3eb1032ba3a4dab48d38af1b51b0c5f37",
       "revision": 1
     },
     "url:https://quantumsignalai.applytojob.com/apply/mwrhqd8hn9/software-engineering-intern-tools-and-prototypes": {
@@ -65960,6 +66136,26 @@
       "fingerprint": "09a1d33dfbf6bb3f269786eb380664958bf4ee019a61d76ca13bfc98dd4a7878",
       "revision": 0
     },
+    "url:https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "textron",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "hunt valley, cockeysville, md"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - electronic systems"
+      },
+      "fingerprint": "b758b161df5b1ccd7d86bc53a0a360c1125544090f9a5ed6a1bf82c4fbadc777",
+      "revision": 1
+    },
     "url:https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915": {
       "eligible": true,
       "evidence": {
@@ -69695,6 +69891,11 @@
     "url:https://wd3.myworkdaysite.com/recruiting/havas/groupexternalcareersite/job/london/data---analytics-platformer_jr0101641": {
       "eligible": false,
       "fingerprint": "c84a4e711bda5d86c517a1f4077f1b69792b1d41307ba18a6345ecaffc80dedd",
+      "revision": 1
+    },
+    "url:https://wd3.myworkdaysite.com/recruiting/havas/groupexternalcareersite/job/london/google--analytics--enablement-platformer_jr0101727": {
+      "eligible": false,
+      "fingerprint": "2bf2d41351088560ca64773aa887a4d3c21b8190053f14f0e88720a25bf4dc39",
       "revision": 1
     },
     "url:https://wd3.myworkdaysite.com/recruiting/magna/magna/job/auburn-hills-michigan-us/intern---engineering_r00235438": {
@@ -73776,6 +73977,10 @@
     "https://go.vansh.nyc/1BB": 394,
     "https://go.vansh.nyc/1BC": 394,
     "https://go.vansh.nyc/1BD": 394,
+    "https://go.vansh.nyc/1BI": 395,
+    "https://go.vansh.nyc/1BJ": 395,
+    "https://go.vansh.nyc/1BP": 395,
+    "https://go.vansh.nyc/1BR": 395,
     "https://go.vansh.nyc/1Bb": 385,
     "https://go.vansh.nyc/1Bf": 387,
     "https://go.vansh.nyc/1Bk": 390,
@@ -75269,6 +75474,10 @@
     "https://go.vansh.nyc/1BB": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599",
     "https://go.vansh.nyc/1BC": "https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern",
     "https://go.vansh.nyc/1BD": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Engineering---DevOps-Intern_JR003155",
+    "https://go.vansh.nyc/1BI": "https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862",
+    "https://go.vansh.nyc/1BJ": "https://careers.bissell.com/jobs/9995?icims=1&lang=en-us",
+    "https://go.vansh.nyc/1BP": "https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv?nl=1&nl=1&fr=false",
+    "https://go.vansh.nyc/1BR": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
     "https://go.vansh.nyc/1Bb": "https://sedarotech.bamboohr.com/careers/97",
     "https://go.vansh.nyc/1Bf": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
     "https://go.vansh.nyc/1Bk": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49",
@@ -76524,7 +76733,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 394,
+  "scan_sequence": 395,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
