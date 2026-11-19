@@ -9030,6 +9030,21 @@
       "company": "DriveWealth",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "62be23516146a1197a14e776a373995f2469921ff36cc851b1f0b53debe6d08d",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-10-20",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Consulting Associate Program Brokerage Intern",
+      "url": "https://boards.greenhouse.io/drivewealth/jobs/8039368003"
+    },
+    {
+      "company": "DriveWealth",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "fe01b99d3f6ce2436c5444b4a5dedbc62d968bd126c52a0242c67b38e03027c1",
       "locations": [
         "Chicago, IL"
@@ -21927,21 +21942,6 @@
       "company": "Ryan",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "892a4af4a25a008738edfa48452471a268e2ede8f267f9014294c81b7d353d3d",
-      "locations": [
-        "Plano, TX"
-      ],
-      "posted_at": "2026-10-16",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Intern",
-      "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
-    },
-    {
-      "company": "Ryan",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "11e1b4b67784e8607d94f5ccbc74eb9931724f5822017d814e7a1bb28d41ad21",
       "locations": [
         "Plano, TX"
@@ -21967,6 +21967,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1"
+    },
+    {
+      "company": "Ryan",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "892a4af4a25a008738edfa48452471a268e2ede8f267f9014294c81b7d353d3d",
+      "locations": [
+        "Plano, TX"
+      ],
+      "posted_at": "2026-10-17",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Summer 2027 Intern - Software Development",
+      "url": "https://ryan.wd1.myworkdayjobs.com/en-US/ryancareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
     },
     {
       "company": "Ryan",
@@ -24344,21 +24359,6 @@
       "source": "simplify",
       "title": "Associate AI Engineer Intern",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492"
-    },
-    {
-      "company": "T-Mobile",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "a43019ee79bed6a2ff47d018bfd20ecbe559410f4911c60102253a3cfb1a683d",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "posted_at": "2026-11-12",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Product Intern",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212"
     },
     {
       "company": "T-Mobile",
@@ -27474,6 +27474,23 @@
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
     },
     {
+      "company": "Tyler Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "16dc7eb93500aa9ee329c737c74f4d38d27446e7f659c60289b0fca943b5f5ad",
+      "locations": [
+        "Yarmouth, ME",
+        "Orono, ME",
+        "Falmouth, ME"
+      ],
+      "posted_at": "2026-09-21",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Development Intern - Summer 2027",
+      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
+    },
+    {
       "company": "Uber",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29359,7 +29376,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-19T11:15:05.106034+00:00",
+  "last_checked": "2026-11-19T12:16:48.502027+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
