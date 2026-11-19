@@ -550,21 +550,6 @@
       "company": "Microsoft",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "51f146b21a9d8263ab508bf0c738c6c45a484077072b3c91aac3ac3c37c6f180",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "posted_at": "2026-11-18",
-      "priority": 9,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Research Intern, Computer Vision and Deep Learning",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075490"
-    },
-    {
-      "company": "Microsoft",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "ee8adbf0ba60f5b8955c7aa7acb5db43f94da7e1105aae940257498447485826",
       "locations": [
         "Redmond, WA"
@@ -2479,6 +2464,21 @@
       "source": "simplify",
       "title": "Business Operations Engineer Intern",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007"
+    },
+    {
+      "company": "Anduril",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "fa5693e78e70e4eb76763b173dbfd23fe85773db62ae3e81b4d5468b7f52fc03",
+      "locations": [
+        "Costa Mesa, CA"
+      ],
+      "posted_at": "2026-11-18",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Business Systems Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007"
     },
     {
       "company": "Anduril",
@@ -11733,6 +11733,21 @@
       "url": "https://higher.gs.com/roles/171553?type=students"
     },
     {
+      "company": "Goldman Sachs",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "dd474e31506c640441ddf01b0f28da8f42f832cbe70773c48858ce412240d3f6",
+      "locations": [
+        "Albany, NY"
+      ],
+      "posted_at": "2026-11-18",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Analyst Intern - Multiple Teams",
+      "url": "https://higher.gs.com/roles/189373?type=students"
+    },
+    {
       "company": "Graco",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -11928,21 +11943,6 @@
       "url": "https://recruiting.ultipro.com/gas1003/jobboard/6eb19b1f-4963-9bbd-eff5-d321e7265519/opportunitydetail?opportunityid=52b782dd-a1b7-4a41-8bde-a39d265fc776"
     },
     {
-      "company": "GuideStone",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "7620d1a40609fb80ada25d1b2e37747d5fc4debd9d5eb4b65cdeb8cf5415e038",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-09-22",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Developer Intern, Software Development",
-      "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129"
-    },
-    {
       "company": "Hadrian",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -12124,6 +12124,36 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true"
+    },
+    {
+      "company": "HERE Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "02dd0e698d953c0a8d83bc24142e748227ac8ed6f1dd282467c4a09b4c3533ad",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-11-18",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Data Science Intern",
+      "url": "https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false"
+    },
+    {
+      "company": "HERE Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "1d7daafb7bf0d7553df33abf3741a6e482d79689a7d8d34c040c75cd1280006d",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-11-18",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false"
     },
     {
       "company": "Hermeus",
@@ -13702,7 +13732,7 @@
       "posted_at": "2026-10-14",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Applications Software Developer Intern",
       "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007"
     },
@@ -14690,21 +14720,6 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://www.ixl.com/company/jobs?gh_jid=8862214002"
-    },
-    {
-      "company": "J.M. Smucker",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "71a073eed222e1d9a57df4a07b1f755f49ba2e25a87242f01f4364e9488cd7c8",
-      "locations": [
-        "Orrville, OH"
-      ],
-      "posted_at": "2026-11-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Finance Technology Intern",
-      "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Summer-2027_116135"
     },
     {
       "company": "J.M. Smucker",
@@ -15846,21 +15861,6 @@
       "source": "simplify",
       "title": "AI/Automation Development Intern - Assessment & Authorization",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319"
-    },
-    {
-      "company": "Leidos",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "f3474ee5002caef68c950196b8dd84cc48bed98a77007500fc6eb7a6a2fa9a2e",
-      "locations": [
-        "Fort Belvoir, VA"
-      ],
-      "posted_at": "2026-10-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Data Engineer Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576"
     },
     {
       "company": "Leidos",
@@ -17023,6 +17023,21 @@
       "company": "Micron Technology",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "45ab37d3d638a2a1f6e50ddcb4d2646784850e5bee1ec8066345327a8255e30c",
+      "locations": [
+        "Boise, ID"
+      ],
+      "posted_at": "2026-10-28",
+      "priority": 11,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "Intern - Product Yield Software Engineer",
+      "url": "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864"
+    },
+    {
+      "company": "Micron Technology",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "5a18b081a0dc025cff8e4e9e11e606c1e500d8042377d68b724d9f5f24f23554",
       "locations": [
         "Boise, ID"
@@ -17048,21 +17063,6 @@
       "source": "vanshb03",
       "title": "Machine Learning Engineering Intern",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750"
-    },
-    {
-      "company": "Micron Technology",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "45ab37d3d638a2a1f6e50ddcb4d2646784850e5bee1ec8066345327a8255e30c",
-      "locations": [
-        "Boise, ID"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Product Yield Software Engineer Intern",
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864"
     },
     {
       "company": "Micron Technology",
@@ -22347,7 +22347,7 @@
       "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003"
     },
     {
-      "company": "Samsung Semiconductor",
+      "company": "Samsung",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
       "id": "d32aab02b630147c735465dc184ea7e21ab89176448b53b193885afeba251f99",
@@ -22357,7 +22357,7 @@
       "posted_at": "2026-11-18",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "SSD Firmware Engineer Intern",
       "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003"
     },
@@ -24475,9 +24475,9 @@
       "posted_at": "2026-11-18",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Data Science Intern",
-      "url": "https://jobs.smartrecruiters.com/syngentagroup/744000162383708"
+      "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708"
     },
     {
       "company": "Syntiant",
@@ -27684,23 +27684,6 @@
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
     },
     {
-      "company": "Tyler Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "16dc7eb93500aa9ee329c737c74f4d38d27446e7f659c60289b0fca943b5f5ad",
-      "locations": [
-        "Yarmouth, ME",
-        "Orono, ME",
-        "Falmouth, ME"
-      ],
-      "posted_at": "2026-09-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Intern - Summer 2027",
-      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
-    },
-    {
       "company": "Uber",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29586,7 +29569,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-19T00:02:38.623416+00:00",
+  "last_checked": "2026-11-19T01:30:48.795716+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

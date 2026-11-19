@@ -3317,27 +3317,29 @@
       "fingerprint": "ae88b626f4c1354392251e9c60a67d470c7ce6745216adbaf2ef49983e8d57fb",
       "revision": 1
     },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557075136": {
+      "eligible": false,
+      "fingerprint": "80c136afdd1c07082508e1336aa4fcaa6b6b99ae90eac8cf05dba6ed77cadf49",
+      "revision": 1
+    },
     "url:https://apply.careers.microsoft.com/careers/job/1970393557075140": {
       "eligible": false,
       "fingerprint": "31a683afb30bd6cfa29999644fea0af927f279479f9d2df8ec4980f4b1872e62",
       "revision": 2
     },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557075474": {
+      "eligible": false,
+      "fingerprint": "b16f9621d326258f117bdd3a9d8e72877bd61e1b478f8481b64c697def0ae6a7",
+      "revision": 1
+    },
     "url:https://apply.careers.microsoft.com/careers/job/1970393557075490": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "microsoft",
-        "degrees": [],
-        "locations": [
-          "redmond, wa"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "research intern, computer vision and deep learning"
-      },
-      "fingerprint": "68c00bdaad503b4c8fa19fd6c055885c82adcf89bb5416f183d14ea3eb9573ea",
+      "eligible": false,
+      "fingerprint": "b264b23f67ac7331da665b3b73d9645c09ad07a9c0412630f5280a8a0743d17c",
+      "revision": 2
+    },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557075527": {
+      "eligible": false,
+      "fingerprint": "54dc9a92f87ed90e834bd0424c4ad395680e25db217cf12453c115d29fe6eb9d",
       "revision": 1
     },
     "url:https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0": {
@@ -7867,6 +7869,27 @@
       "fingerprint": "b0ffdda6a14ad9908c27c6c38796f54563e509d52b560757dcb8b37fe72cbe82",
       "revision": 0
     },
+    "url:https://boards.greenhouse.io/andurilindustries/jobs/5300647007": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "anduril",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "costa mesa, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "business systems engineer intern"
+      },
+      "fingerprint": "1591b075186ca5b42801bda6f0df678e5110cf280eb273bad33bcc5678b07662",
+      "revision": 1
+    },
     "url:https://boards.greenhouse.io/cloudflare/jobs/7774167": {
       "eligible": false,
       "fingerprint": "9191ab28bacf7c889bde6796f8620e3babef8dc8d0b7b07324fe05eea8b284a4",
@@ -11054,6 +11077,44 @@
       "fingerprint": "d7e184732b46d76659af044b3f56c7d88a9e0c582399820f569375e00b24196f",
       "revision": 1
     },
+    "url:https://careers-here.icims.com/jobs/83731/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "here technologies",
+        "degrees": [],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "dc46b480cdec4a2456964fa60483b16c9e0a814391bfc7ffd4657d301a29b8fe",
+      "revision": 1
+    },
+    "url:https://careers-here.icims.com/jobs/85068/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "here technologies",
+        "degrees": [],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "ae0e7424da6914df3e97d8c287431a4df51ebaadbb8a3a7e1281c710375f50a8",
+      "revision": 1
+    },
     "url:https://careers-hrblock.icims.com/jobs/76987/job": {
       "eligible": false,
       "fingerprint": "7a99ff41675da71ab0c3ec801fe2032c055891344b2507993372774641612296",
@@ -12025,6 +12086,11 @@
         "title": "software engineer intern"
       },
       "fingerprint": "87521c9d417af729df33a3e155cbf4706e223370fde326c0adde8d30516cd1cb",
+      "revision": 1
+    },
+    "url:https://careers-wilson.icims.com/jobs/5238/job": {
+      "eligible": false,
+      "fingerprint": "95183f9020a27ca48812bb2f15733e3de6142c1400c99afb08a9ae88bb96a630",
       "revision": 1
     },
     "url:https://careers.84lumber.com/jobs/26178?icims=1": {
@@ -15056,8 +15122,8 @@
     },
     "url:https://careers.roblox.com/jobs/8386080?gh_jid=8386080": {
       "eligible": false,
-      "fingerprint": "f2fbfd154282ce132b1fcc6266756634c82aaa8a6c58391ba378cdf38d8d1a61",
-      "revision": 1
+      "fingerprint": "599cf7d9f42d9bdff605ff3aaf2e6e0fadd6dc76a7ca7d89fe54204902def04d",
+      "revision": 2
     },
     "url:https://careers.safran-dsi.com/job/bedford-software-engineering-internship-nh-03110/1440599100?ats=successfactors": {
       "eligible": true,
@@ -15437,8 +15503,8 @@
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8205680": {
       "eligible": false,
-      "fingerprint": "21e10ab5d7ed77df3df5e448e0037397f2b02dc12cdfed9083dc5b30bee6b9cd",
-      "revision": 0
+      "fingerprint": "427fe80b5129ebad8091e0a21f196751ef195a10eab8b96c075bd220889fe691",
+      "revision": 1
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8208465": {
       "eligible": false,
@@ -29865,6 +29931,26 @@
       "fingerprint": "ee257b953707789d42989184d2b712e83d40e6856a5ea46b10e39829b4d65832",
       "revision": 1
     },
+    "url:https://higher.gs.com/roles/189373?type=students": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "goldman sachs",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "albany, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "summer analyst intern - multiple teams"
+      },
+      "fingerprint": "a96813eeec2e58fa95f2697038afc6000f49dcd98b39c7a3f8dfcffc2386a39d",
+      "revision": 1
+    },
     "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-ai-services-and-platforms-software-engineer-graduate-intern_j288322": {
       "eligible": true,
       "evidence": {
@@ -31709,6 +31795,11 @@
     "url:https://huaweicanada.recruitee.com/o/intern-researcher-physical-ai": {
       "eligible": false,
       "fingerprint": "73953937b64a6893d6c571f70fd7f253efbbdee23881d4781ae45f2b71edcc6f",
+      "revision": 1
+    },
+    "url:https://huaweicanada.recruitee.com/o/intern-researcher-recursive-self-improvement-rsi": {
+      "eligible": false,
+      "fingerprint": "79fe197f9c442a5de8e85585b3e45cfcf582931727e8b500a8b124d40100ea56",
       "revision": 1
     },
     "url:https://hubcareers-docusign.icims.com/jobs/30578/job": {
@@ -38367,23 +38458,42 @@
       "fingerprint": "39eb5742e5d8d4058feedda8178a9ae0c64f65243bfd0e98263535c3636c0644",
       "revision": 2
     },
+    "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8207759003": {
+      "eligible": false,
+      "fingerprint": "7885b74f98e2d56192eb490c92bd6fa49263dcaffc15be5cd33e528f97f1a057",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208494003": {
+      "eligible": false,
+      "fingerprint": "b8593e67d5a6ba653512207308471b1ea9cd58ffa0c1cfdc2ad4091a56ddcf9e",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003": {
+      "eligible": false,
+      "fingerprint": "9065f9399f1316f670972a398bc9976977da7ad64d6b8c13b5125edc42f2dafa",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "samsung semiconductor",
-        "degrees": [],
+        "category": "hardware",
+        "company": "samsung",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "san jose, ca"
         ],
         "requirements": [],
         "terms": [
+          "summer 2026",
           "summer 2027"
         ],
         "title": "ssd firmware engineer intern"
       },
-      "fingerprint": "6d4d629c83e9fbe72dddfc68cf7fdc11c25f45d21ee11fbc1f2021d2b14d9411",
-      "revision": 1
+      "fingerprint": "031b606769355377dd71114a3797cef787ae531ae77acd023b5c11427d9a0ef0",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/scaleai/jobs/4730834005": {
       "eligible": false,
@@ -41106,6 +41216,11 @@
       },
       "fingerprint": "4518c11f36edab973a8674e0ae3f333752c093bc8c63501bc67c16e1393180bc",
       "revision": 2
+    },
+    "url:https://jobs.ashbyhq.com/crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b": {
+      "eligible": false,
+      "fingerprint": "a31bcd545a5b8cadb1e1ff8cad453703b7dbdb382b7c603d77ae4453b0787751",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e": {
       "eligible": true,
@@ -46391,6 +46506,11 @@
     "url:https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8/apply": {
       "eligible": false,
       "fingerprint": "58a3b86bd13b1e80cd2cdf6252b5c97750d7a720f9b92d6fe47eaefd4be0fa9d",
+      "revision": 1
+    },
+    "url:https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61/apply": {
+      "eligible": false,
+      "fingerprint": "3c7044535a19ce70b4680d1ea00ed2e562e61f289ba3ecc05113ff6fe96d8615",
       "revision": 1
     },
     "url:https://jobs.eu.lever.co/cirrus/db51b041-8f20-48e0-af08-be71201a8175": {
@@ -51871,20 +51991,24 @@
     "url:https://jobs.smartrecruiters.com/syngentagroup/744000162383708": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "syngenta group",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "greensboro, nc"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "data science intern"
       },
-      "fingerprint": "b3b81bc4bc09b8f4653cf40de11db5b02c115f81d9b331bd4609ee72c4d88fbc",
-      "revision": 1
+      "fingerprint": "cd3e57ba3a85184d4213200e504b581d58277910471051a06582ee1ecf5983cf",
+      "revision": 2
     },
     "url:https://jobs.smartrecruiters.com/ttp1/744000149038758": {
       "eligible": false,
@@ -52201,8 +52325,8 @@
     },
     "url:https://jobs.smartrecruiters.com/westerndigital/744000162353069": {
       "eligible": false,
-      "fingerprint": "dfa10d5d35940d36a875c539db14d3ce2e5f1a0f346f0fc37977b5a48f5fc67a",
-      "revision": 1
+      "fingerprint": "050fffc0d43ee5fc3d954609040f38439056c4c702c594ef535eb0103d37fb73",
+      "revision": 2
     },
     "url:https://jobs.smartrecruiters.com/winsupply1/3743990015014717": {
       "eligible": false,
@@ -58268,10 +58392,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "product yield software engineer intern"
+        "title": "intern - product yield software engineer"
       },
-      "fingerprint": "d2e1db35ecf077fb21573bec8495742f6ec3562e8230e247c9a007a42da920e3",
-      "revision": 2
+      "fingerprint": "8b2c881a19c859bba5bee5f23a9a2ad7e20a49c1816a6740c0be9da0474c66a3",
+      "revision": 3
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---smai-probe-ai-engineer_jr114094": {
       "eligible": true,
@@ -71877,12 +72001,13 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "applications software developer intern"
       },
-      "fingerprint": "39b3bcde78ce4251efbe5cedfa7b05612045acbd2acdbd1d87cb6ea0b038fa64",
-      "revision": 2
+      "fingerprint": "3f28bebcd8eefd292fbeeaf2323786b0fae2c56f3c07fb06e417429219381452",
+      "revision": 3
     },
     "url:https://www.ixl.com/company/jobs?gh_jid=8862214002": {
       "eligible": true,
@@ -74685,6 +74810,8 @@
     "https://go.vansh.nyc/1C6": 399,
     "https://go.vansh.nyc/1C7": 399,
     "https://go.vansh.nyc/1CA": 412,
+    "https://go.vansh.nyc/1CB": 413,
+    "https://go.vansh.nyc/1CC": 413,
     "https://go.vansh.nyc/1Ci": 407,
     "https://go.vansh.nyc/1Ck": 408,
     "https://go.vansh.nyc/1Co": 409,
@@ -76195,6 +76322,8 @@
     "https://go.vansh.nyc/1C6": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
     "https://go.vansh.nyc/1C7": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714",
     "https://go.vansh.nyc/1CA": "https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Chicago-IL/Junior-AI-Engineering-Intern_26_09290",
+    "https://go.vansh.nyc/1CB": "https://careers-here.icims.com/jobs/85068/data-science-intern/job",
+    "https://go.vansh.nyc/1CC": "https://careers-here.icims.com/jobs/83731/software-engineer-intern/job",
     "https://go.vansh.nyc/1Ci": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
     "https://go.vansh.nyc/1Ck": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665",
     "https://go.vansh.nyc/1Co": "https://jobs.smartrecruiters.com/syngentagroup/744000162383708",
@@ -77449,7 +77578,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 412,
+  "scan_sequence": 413,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
