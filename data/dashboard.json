@@ -16180,6 +16180,21 @@
       "url": "https://lockheedmartin.eightfold.ai/careers/job/996477758184"
     },
     {
+      "company": "Lockheed Martin",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "c81605020a48d4a4b3902542d1053234d7b40c02a669d3b52b8aaf1012fca984",
+      "locations": [
+        "Owego, NY"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://lockheedmartin.eightfold.ai/careers/job/996477886327"
+    },
+    {
       "company": "Los Alamos National Laboratory",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -21902,9 +21917,9 @@
       "posted_at": "2026-11-13",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "vanshb03",
       "title": "Software Engineering Co-op",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404"
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404"
     },
     {
       "company": "RTX",
@@ -23369,21 +23384,6 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230"
-    },
-    {
-      "company": "Sierra Nevada Corporation",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "7ce5200d2771e57212e4e9be471aafd44e77158471d05ff94f1f38ca1b1ab2df",
-      "locations": [
-        "Southern Pines, NC"
-      ],
-      "posted_at": "2026-11-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineer Intern",
-      "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229"
     },
     {
       "company": "SigIQ.ai",
@@ -29525,7 +29525,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-19T04:15:00.154629+00:00",
+  "last_checked": "2026-11-19T05:24:35.663906+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

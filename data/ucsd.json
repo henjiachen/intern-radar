@@ -25942,13 +25942,12 @@
         ],
         "requirements": [],
         "terms": [
-          "fall 2027",
           "summer 2027"
         ],
         "title": "software engineering co-op"
       },
-      "fingerprint": "8e814912d24b0c109697f94015c7d9ffe8b87f9c001258ff8eae71a8d0e5b8c3",
-      "revision": 2
+      "fingerprint": "48cd1d25fbd1834cd94d3db95f202576baa17915071eb2d8f238cbdd8deb7b36",
+      "revision": 3
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-tx-richardson-c17--1717-cityline-dr--cityline-c17/software-engineering-intern--summer-2027-_01888049": {
       "eligible": true,
@@ -57219,6 +57218,24 @@
       "fingerprint": "6c7081730eab683a2e5f3901eb6d143fea18bf17f63d04128820a7478390c874",
       "revision": 1
     },
+    "url:https://lockheedmartin.eightfold.ai/careers/job/996477886327": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lockheed martin",
+        "degrees": [],
+        "locations": [
+          "owego, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "ef4f4a8d7f27b184a734141d29eb407daa10c07284a610ea054921700c12a70a",
+      "revision": 1
+    },
     "url:https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/lowes-charlotte-technology-hub-3505/exploratory-software-engineering---undergrad-internship---summer-2027_jr-02623542": {
       "eligible": true,
       "evidence": {
@@ -74812,6 +74829,7 @@
     "https://go.vansh.nyc/1CA": 412,
     "https://go.vansh.nyc/1CB": 413,
     "https://go.vansh.nyc/1CC": 413,
+    "https://go.vansh.nyc/1CG": 416,
     "https://go.vansh.nyc/1Ci": 407,
     "https://go.vansh.nyc/1Ck": 408,
     "https://go.vansh.nyc/1Co": 409,
@@ -76324,6 +76342,7 @@
     "https://go.vansh.nyc/1CA": "https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Chicago-IL/Junior-AI-Engineering-Intern_26_09290",
     "https://go.vansh.nyc/1CB": "https://careers-here.icims.com/jobs/85068/data-science-intern/job",
     "https://go.vansh.nyc/1CC": "https://careers-here.icims.com/jobs/83731/software-engineer-intern/job",
+    "https://go.vansh.nyc/1CG": "https://lockheedmartin.eightfold.ai/careers/job/996477886327",
     "https://go.vansh.nyc/1Ci": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
     "https://go.vansh.nyc/1Ck": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665",
     "https://go.vansh.nyc/1Co": "https://jobs.smartrecruiters.com/syngentagroup/744000162383708",
@@ -77578,7 +77597,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 415,
+  "scan_sequence": 416,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
