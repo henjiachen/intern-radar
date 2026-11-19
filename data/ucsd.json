@@ -26803,6 +26803,11 @@
       "fingerprint": "fd9d0924488e156dc3f42ec1613cac993af26423eedeb689600a98e451144df3",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1do": {
+      "eligible": false,
+      "fingerprint": "f1708f0b27164cc18a2335a95bed0008c52a87199a12025f8547d0a116c618e9",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1dp": {
       "eligible": false,
       "fingerprint": "2f1b394db110d00856fd19e1f0cb9edb84428d1598fa2e03eba069fe96a5e4b9",
@@ -44432,6 +44437,63 @@
       "fingerprint": "7317a35d35e453924f3095fdf010766f6443eed039aeeb84e286e3c101f4af4f",
       "revision": 0
     },
+    "url:https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "snowflake",
+        "degrees": [],
+        "locations": [
+          "bellevue, wa",
+          "menlo park, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, database engineering"
+      },
+      "fingerprint": "51685219afc55fc5525b40e3b241f2c8cbc5f6e0fa610e3f4e73f40caaaea28d",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "snowflake",
+        "degrees": [],
+        "locations": [
+          "bellevue, wa",
+          "menlo park, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, ai/ml"
+      },
+      "fingerprint": "68f85abdd5242bdbb42cf8bd4fca88e87e48c59ae0817ce915199ac9a199ceed",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "snowflake",
+        "degrees": [],
+        "locations": [
+          "bellevue, wa",
+          "menlo park, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern, core infrastructure & security"
+      },
+      "fingerprint": "83ae3d06c53517f7c77d8defca90208a00fa48aa80b27c7371b0bee3b6188299",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e": {
       "eligible": false,
       "fingerprint": "5f4c93a98345f5c3c20e10cd6ecb758e344d16330d6e6c91670095215176bb33",
@@ -54578,26 +54640,9 @@
       "revision": 2
     },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/tucson-az/junior-software-engineer---data-scientist-intern_r-00196510": {
-      "eligible": true,
-      "evidence": {
-        "category": "software",
-        "company": "leidos",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "tucson, az"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "junior software engineer / data scientist intern"
-      },
-      "fingerprint": "f944065db50ee9428fc1ec033be90ee633bee30e576850053a3ba52ab29c62f3",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "61dd18e51933b2c4761873f346d9eed64132cf703969480bcfd7301c630be148",
+      "revision": 2
     },
     "url:https://lennar.wd1.myworkdayjobs.com/early_careers/job/miami-fl-job-posting-location/intern---software-engineering_r26_0000004291": {
       "eligible": false,
@@ -57845,6 +57890,24 @@
       },
       "fingerprint": "8f927463e5adb112add5c0e0f8ac06d3d3f6315dd9e759ddfc736e94cc53eaed",
       "revision": 0
+    },
+    "url:https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lucid motors",
+        "degrees": [],
+        "locations": [
+          "newark, ca"
+        ],
+        "requirements": [
+          "- visa sponsorship: lucid may but is not obligated to sponsor foreign national employees requiring company sponsorship for u.s employment authorization."
+        ],
+        "terms": [],
+        "title": "intern, software engineer, sdet, summer 2027"
+      },
+      "fingerprint": "ca623d8b8bcb6e87deb949a57d469fe36ccba10eaaf16004e497f307a7a659f4",
+      "revision": 1
     },
     "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/canada---ottawa-bill-leathem/embedded-software-developer-co-op--optical-circuit-switch-_20261320": {
       "eligible": false,
@@ -75404,6 +75467,9 @@
     "https://go.vansh.nyc/1Dj": 427,
     "https://go.vansh.nyc/1Dl": 427,
     "https://go.vansh.nyc/1Dn": 427,
+    "https://go.vansh.nyc/1Dp": 428,
+    "https://go.vansh.nyc/1Dq": 428,
+    "https://go.vansh.nyc/1Dr": 428,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -76939,6 +77005,9 @@
     "https://go.vansh.nyc/1Dj": "https://studentopportunities-lutron.icims.com/jobs/5392/summer-2027---software-engineering-intern---cincinnati%2c-oh/job",
     "https://go.vansh.nyc/1Dl": "https://studentopportunities-lutron.icims.com/jobs/5510/summer-2027-%e2%80%93-data-science-and-machine-learning-intern---philadelphia%2c-pa/job",
     "https://go.vansh.nyc/1Dn": "https://studentopportunities-lutron.icims.com/jobs/5519/summer-2027-%e2%80%93-data-science-and-machine-learning-intern---boston%2c-ma/job",
+    "https://go.vansh.nyc/1Dp": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
+    "https://go.vansh.nyc/1Dq": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
+    "https://go.vansh.nyc/1Dr": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -78185,7 +78254,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 427,
+  "scan_sequence": 428,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

@@ -7228,23 +7228,6 @@
       "company": "Citizens Financial Group",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "ba86b5337f541525c722933d032efa7f3326595f5290031a54d59f615f727cca",
-      "locations": [
-        "Boston, MA",
-        "Johnston, RI",
-        "Columbus, OH"
-      ],
-      "posted_at": "2026-09-11",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Business Insights Intern - Multiple Teams",
-      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49279"
-    },
-    {
-      "company": "Citizens Financial Group",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "66aeec45eb864ba2adb0e233c0ad499391e55d125999fe2fd1932439023f1b70",
       "locations": [
         "Plano, TX",
@@ -8824,21 +8807,6 @@
       "source": "vanshb03",
       "title": "Data Science Intern",
       "url": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960"
-    },
-    {
-      "company": "DraftKings",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "c3a830fa0024274efa10797763640f178c6fa67a7939893a60d6bfc2c7f323a6",
-      "locations": [
-        "Boston, MA"
-      ],
-      "posted_at": "2026-09-01",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Science Intern - Summer 2027",
-      "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958"
     },
     {
       "company": "DraftKings",
@@ -15803,21 +15771,6 @@
       "company": "Leidos",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "7a31a46dd915e901f33532d9e165f36ca1eb2d35b78a2edc7ab9f855038eb299",
-      "locations": [
-        "Tucson, AZ"
-      ],
-      "posted_at": "2026-11-12",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Junior Software Engineer / Data Scientist Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510"
-    },
-    {
-      "company": "Leidos",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "cf8550a8eba530094179fd7a8625d5b501f214883d78b3aa68814b6260e22cc2",
       "locations": [
         "Colorado Springs, CO"
@@ -16302,6 +16255,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921"
+    },
+    {
+      "company": "Lucid Motors",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "3833fb499e9d9691653bcb06d0a7cb859ff2a6ea3429b8073a78a02a8888dbbf",
+      "locations": [
+        "Newark, CA"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "greenhouse",
+      "title": "Intern, Software Engineer, SDET, Summer 2027",
+      "url": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007"
     },
     {
       "company": "Lumbermen's",
@@ -23532,6 +23500,54 @@
       "url": "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true"
     },
     {
+      "company": "Snowflake",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "12307ef2c83fa7c42ce6cb7c2f73e82319a143aed8724187ead47f7c04483612",
+      "locations": [
+        "Menlo Park, CA",
+        "Bellevue, WA"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, AI/ML",
+      "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907"
+    },
+    {
+      "company": "Snowflake",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "762f862bcf724c2576594c09477a10d2959bd60e2b79c5aaaf2c0e1dd4f6ea71",
+      "locations": [
+        "Menlo Park, CA",
+        "Bellevue, WA"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Core Infrastructure & Security",
+      "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897"
+    },
+    {
+      "company": "Snowflake",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "ea2ab2a6eb279bb579acc33717dbc79c2c28ea211ae374ee0cf051371b70d3eb",
+      "locations": [
+        "Menlo Park, CA",
+        "Bellevue, WA"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Database Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d"
+    },
+    {
       "company": "Solarity",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -27180,22 +27196,6 @@
       "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120"
     },
     {
-      "company": "Trinity Life Sciences",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "880a12a748d2287f892514d56a336ba2dfde575c6260e3af71ef201a125ad229",
-      "locations": [
-        "Waltham, MA",
-        "New York, NY"
-      ],
-      "posted_at": "2026-10-27",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Data Science Intern",
-      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881"
-    },
-    {
       "company": "TruStage",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29262,7 +29262,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-19T22:04:30.267742+00:00",
+  "last_checked": "2026-11-19T23:01:17.675186+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
