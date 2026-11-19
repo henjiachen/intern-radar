@@ -3322,6 +3322,24 @@
       "fingerprint": "31a683afb30bd6cfa29999644fea0af927f279479f9d2df8ec4980f4b1872e62",
       "revision": 2
     },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557075490": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "microsoft",
+        "degrees": [],
+        "locations": [
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "research intern, computer vision and deep learning"
+      },
+      "fingerprint": "68c00bdaad503b4c8fa19fd6c055885c82adcf89bb5416f183d14ea3eb9573ea",
+      "revision": 1
+    },
     "url:https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0": {
       "eligible": true,
       "evidence": {
@@ -9782,6 +9800,24 @@
       "fingerprint": "5e1eaef8445ed0f4a25f8bf13d602aace7a98180bc2975dd2faa615bdd3d58dc",
       "revision": 1
     },
+    "url:https://campingworld.wd5.myworkdayjobs.com/jobs/job/chicago-il/junior-ai-engineering-intern_26_09290": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "camping world",
+        "degrees": [],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "junior ai engineering intern"
+      },
+      "fingerprint": "f061ed5aeb9b30d10dc8448a0b241111ae8db31b921e20714f077b93a1ea4255",
+      "revision": 1
+    },
     "url:https://campingworld.wd5.myworkdayjobs.com/jobs/job/lincolnshire-il/software-engineering-intern_26_09080": {
       "eligible": true,
       "evidence": {
@@ -11626,10 +11662,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software developer intern, go/golang"
+        "title": "summer 2027 - software developer intern - go/golang experience"
       },
-      "fingerprint": "4c2f9b5a95c3eae4e3a0980ce12c5e06405a175d2bced2386e4c475d483cc544",
-      "revision": 2
+      "fingerprint": "bb55e8418aff7ba363dcb3813f49a83d0bb031571c6bc56a0954d6996a2b4acd",
+      "revision": 3
     },
     "url:https://careers-sdsurf.icims.com/jobs/21086/job": {
       "eligible": true,
@@ -21062,6 +21098,7 @@
         "company": "epic games",
         "degrees": [],
         "locations": [
+          "cary, nc",
           "cary,north carolina,united states"
         ],
         "requirements": [
@@ -21073,8 +21110,8 @@
         ],
         "title": "tools programmer intern (graphics)"
       },
-      "fingerprint": "2ec276f27003ab9cb729b7a1aa5425e41d89c9aecb67620c6f81bb3bd3363a80",
-      "revision": 2
+      "fingerprint": "e3df9edb559f47da9817040832fe80e706f2ea0d18b5750f7dbf6fd73eb53370",
+      "revision": 3
     },
     "url:https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004": {
       "eligible": true,
@@ -26437,6 +26474,11 @@
       "fingerprint": "61ca4eae39cd62b772dc3f59435b4fe21bc00002d728fff50655ea117fc4c722",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1cx": {
+      "eligible": false,
+      "fingerprint": "dcaf75ea213a97afb80ded6dd6d43cad26b89331c6ce4ef4c39fce6b13d2c8a3",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1cz": {
       "eligible": false,
       "fingerprint": "61d5e9719c7689b57e8a4635df52ed07e1edd2d1cfac54a46704ed7abcf49e1c",
@@ -27986,6 +28028,11 @@
       "eligible": false,
       "fingerprint": "78368cac2ad81bcabb71cf42802d1d4c73915b0d25a4140d6049b8b760bf203f",
       "revision": 0
+    },
+    "url:https://go.vansh.nyc/ht": {
+      "eligible": false,
+      "fingerprint": "672e1f8c380c3536b005d7428949fb9f004eeac069ed261c226e4af9c5f5f8b9",
+      "revision": 1
     },
     "url:https://go.vansh.nyc/hy": {
       "eligible": true,
@@ -38320,6 +38367,24 @@
       "fingerprint": "39eb5742e5d8d4058feedda8178a9ae0c64f65243bfd0e98263535c3636c0644",
       "revision": 2
     },
+    "url:https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "samsung semiconductor",
+        "degrees": [],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ssd firmware engineer intern"
+      },
+      "fingerprint": "6d4d629c83e9fbe72dddfc68cf7fdc11c25f45d21ee11fbc1f2021d2b14d9411",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/scaleai/jobs/4730834005": {
       "eligible": false,
       "fingerprint": "c4db30d06e857d12b34285a0387f7b839ff9ed470c0a0b4f6c3bf0dc9161f23a",
@@ -39316,6 +39381,11 @@
       "eligible": false,
       "fingerprint": "eb7b36d2200b86055bfaef385d62024884514feb2230dcfef2b0ebf0c7a3026b",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/truveta/jobs/6249810004": {
+      "eligible": false,
+      "fingerprint": "6d7f9e831c6137cc5b72b480fda6df33a6afb05f2753d7a25e7c0f4d99438354",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/twitch/jobs/8886605002": {
       "eligible": false,
@@ -42168,6 +42238,11 @@
     "url:https://jobs.ashbyhq.com/keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd": {
       "eligible": false,
       "fingerprint": "e6d1fac436c3e601dfdc2e78f18cd5eace0b7dfe70615bc67b28075c2c5e9594",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe": {
+      "eligible": false,
+      "fingerprint": "5739e0ea756d4ce96f80bef7c3108819c66a6ca7d5e29db3d32df76f9a9aeee8",
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5": {
@@ -49235,6 +49310,24 @@
       "fingerprint": "6370d1d40bc761cc7ab3450e1de15bf5ced7ad497be92001d040eaea4c289e8a",
       "revision": 4
     },
+    "url:https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "tri",
+        "degrees": [],
+        "locations": [
+          "los altos, ca"
+        ],
+        "requirements": [
+          "the generalist robot learning (grl) team in the robotics division is looking for research interns for summer 2027. we are advancing core methods in 3d perception, representation learning, and world modeling. these methods enable robots to understand, reconstruct, simulate, and interact with the world across diverse environments and sensor modalities. our work spans:"
+        ],
+        "terms": [],
+        "title": "robotics intern, generalist robot learning (grl)"
+      },
+      "fingerprint": "cf997024802bc6d7718c32535b604b6154ceae1d544cd8bc58495ecf956e98e3",
+      "revision": 1
+    },
     "url:https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871": {
       "eligible": true,
       "evidence": {
@@ -50249,6 +50342,26 @@
       "fingerprint": "4304501ebbea5e234c7e3f55e2cca5baa6f27dd6b78a3567cf059b1d08815068",
       "revision": 1
     },
+    "url:https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "sheetz",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "pittsburgh, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "business intelligence analytics intern"
+      },
+      "fingerprint": "0a669be307d79155d6f2832466c9947c2dfb6362cc5958b666c37845310150eb",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/abbvie/3743990014697918": {
       "eligible": true,
       "evidence": {
@@ -50918,8 +51031,7 @@
           "bachelor's"
         ],
         "locations": [
-          "mountain view, ca",
-          "mountain view, ca, united states"
+          "mountain view, ca"
         ],
         "requirements": [],
         "terms": [
@@ -50927,8 +51039,8 @@
         ],
         "title": "software engineer intern - first play"
       },
-      "fingerprint": "790aa4d38f5c5d6860aeafddd8c4f6b4dca23abbe9f15d0f87768533276b6e39",
-      "revision": 0
+      "fingerprint": "7c62f3af80ebda3f8e5fe873df52784c87c4868e2970f3ae05a312318a5c0e3d",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/linkedin3/744000161930950": {
       "eligible": false,
@@ -62225,6 +62337,11 @@
     "url:https://qualcomm.eightfold.ai/careers/job/446722176432": {
       "eligible": false,
       "fingerprint": "b9aeb9cef5910288a6bf91437fabe8b3eb1032ba3a4dab48d38af1b51b0c5f37",
+      "revision": 1
+    },
+    "url:https://qualcomm.eightfold.ai/careers/job/446722198182": {
+      "eligible": false,
+      "fingerprint": "ec9b1bee179a5a950eb941314ffe7af1864e6d75d008bf11213e07ba7982bd75",
       "revision": 1
     },
     "url:https://quantumsignalai.applytojob.com/apply/mwrhqd8hn9/software-engineering-intern-tools-and-prototypes": {
@@ -74567,11 +74684,15 @@
     "https://go.vansh.nyc/1C4": 398,
     "https://go.vansh.nyc/1C6": 399,
     "https://go.vansh.nyc/1C7": 399,
+    "https://go.vansh.nyc/1CA": 412,
     "https://go.vansh.nyc/1Ci": 407,
     "https://go.vansh.nyc/1Ck": 408,
     "https://go.vansh.nyc/1Co": 409,
     "https://go.vansh.nyc/1Cp": 410,
     "https://go.vansh.nyc/1Ct": 411,
+    "https://go.vansh.nyc/1Cu": 412,
+    "https://go.vansh.nyc/1Cv": 412,
+    "https://go.vansh.nyc/1Cz": 412,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -76073,11 +76194,15 @@
     "https://go.vansh.nyc/1C4": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633",
     "https://go.vansh.nyc/1C6": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
     "https://go.vansh.nyc/1C7": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714",
+    "https://go.vansh.nyc/1CA": "https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Chicago-IL/Junior-AI-Engineering-Intern_26_09290",
     "https://go.vansh.nyc/1Ci": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
     "https://go.vansh.nyc/1Ck": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665",
     "https://go.vansh.nyc/1Co": "https://jobs.smartrecruiters.com/syngentagroup/744000162383708",
     "https://go.vansh.nyc/1Cp": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829-1",
     "https://go.vansh.nyc/1Ct": "https://vibrantz.wd503.myworkdayjobs.com/vibrantzcareers/job/Houston-TX/Applied-AI---Automation-Intern_REQ269123",
+    "https://go.vansh.nyc/1Cu": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003",
+    "https://go.vansh.nyc/1Cv": "https://apply.careers.microsoft.com/careers/job/1970393557075490",
+    "https://go.vansh.nyc/1Cz": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -77324,7 +77449,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 411,
+  "scan_sequence": 412,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
