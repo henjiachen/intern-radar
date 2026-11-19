@@ -10384,6 +10384,24 @@
       "fingerprint": "90fe1e7aebad241386a7211d7e30114e8719d16d4a33a2afd3d4c60e9b77bd9e",
       "revision": 1
     },
+    "url:https://careers-alliedconsultants.icims.com/jobs/9084/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "allied consultants",
+        "degrees": [],
+        "locations": [
+          "austin, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai/ml engineer intern"
+      },
+      "fingerprint": "7252512f1ccca56ba0e298999c4bc3662db2bbda91dc7c1839426fd20556f79e",
+      "revision": 1
+    },
     "url:https://careers-americas.icims.com/jobs/26266/job": {
       "eligible": true,
       "evidence": {
@@ -60636,9 +60654,20 @@
       "revision": 9
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--systems-software-engineering_jr2023492": {
-      "eligible": false,
-      "fingerprint": "841e11a31695de396332da0d8756a2d660b0a6387a30ee0feaee132d86923242",
-      "revision": 9
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nvidia",
+        "degrees": [],
+        "locations": [
+          "santa clara, ca"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "nvidia 2027 internships: systems software engineering"
+      },
+      "fingerprint": "81211c21eea65d30643c56186e72285ef2c6832a23685eafdd77daca9b359888",
+      "revision": 10
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-spring-2027-internships--developer-and-performance-technology_jr2023499": {
       "eligible": false,
@@ -69425,6 +69454,24 @@
       "fingerprint": "60778fa7c254e8be4d40ccf4ad268eea4707ae73a6180e7ea5482f7f8243d3bc",
       "revision": 1
     },
+    "url:https://uscareers-docusign.icims.com/jobs/31092/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "docusign",
+        "degrees": [],
+        "locations": [
+          "san francisco, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "product data science intern"
+      },
+      "fingerprint": "62412e1f86f573ff794c54ae1fe735e144193753746d824d25324a9da1b00837",
+      "revision": 1
+    },
     "url:https://uscareers-idemia.icims.com/jobs/8642/job": {
       "eligible": true,
       "evidence": {
@@ -75126,6 +75173,8 @@
     "https://go.vansh.nyc/1Cu": 412,
     "https://go.vansh.nyc/1Cv": 412,
     "https://go.vansh.nyc/1Cz": 412,
+    "https://go.vansh.nyc/1D1": 426,
+    "https://go.vansh.nyc/1D2": 426,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -76647,6 +76696,8 @@
     "https://go.vansh.nyc/1Cu": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003",
     "https://go.vansh.nyc/1Cv": "https://apply.careers.microsoft.com/careers/job/1970393557075490",
     "https://go.vansh.nyc/1Cz": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
+    "https://go.vansh.nyc/1D1": "https://careers-alliedconsultants.icims.com/jobs/9084/ai-ml-engineer-intern/job",
+    "https://go.vansh.nyc/1D2": "https://uscareers-docusign.icims.com/jobs/31092/product-data-science-intern/job",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -77893,7 +77944,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 425,
+  "scan_sequence": 426,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

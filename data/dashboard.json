@@ -411,6 +411,21 @@
       "company": "NVIDIA",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "f87a89088b6c147da89653168c736c39b52192d4719d149b0db14ac33bb03445",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "posted_at": "2026-08-20",
+      "priority": 7,
+      "priority_program": false,
+      "source": "speedyapply",
+      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
+    },
+    {
+      "company": "NVIDIA",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "1947e6c62b966033b6366635537b0056fb6f3a644b655aa16d25f6a8efbf7b66",
       "locations": [
         "Canada",
@@ -1583,6 +1598,21 @@
       "source": "simplify",
       "title": "Embedded Firmware Co-op",
       "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job?mobile=true&needsRedirect=false"
+    },
+    {
+      "company": "Allied Consultants",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "56e5b035911560f3cb4bc16f8d743f1dbad7e785bf7281952ed94754f2bcddd4",
+      "locations": [
+        "Austin, TX"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI/ML Engineer Intern",
+      "url": "https://careers-alliedconsultants.icims.com/jobs/9084/ai-ml-engineer-intern/job"
     },
     {
       "company": "Allstate",
@@ -8549,6 +8579,21 @@
       "source": "simplify",
       "title": "Information Technology Intern",
       "url": "https://careers.div.energy/jobs/2734?icims=1"
+    },
+    {
+      "company": "DocuSign",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "d8e45652f4116c61423834b73051db1094def97cdb77c7f558d26ca0565191af",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Product Data Science Intern",
+      "url": "https://uscareers-docusign.icims.com/jobs/31092/product-data-science-intern/job"
     },
     {
       "company": "DocuSign",
@@ -23044,21 +23089,6 @@
       "company": "Shure",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "7d3569cef565359205fa88de814f5f45fbd5784da01220702ec35e8cbfdd7a89",
-      "locations": [
-        "Niles, IL"
-      ],
-      "posted_at": "2026-09-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Mobile Applications Intern - Android",
-      "url": "https://careersus-shure.icims.com/jobs/5006/job?mobile=true&needsRedirect=false"
-    },
-    {
-      "company": "Shure",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "5c31f3a3e91ba683349e3361bdf4a2b01bb19acc6261bf222557162f55782ce2",
       "locations": [
         "Skokie, IL"
@@ -29282,7 +29312,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-19T19:16:20.460009+00:00",
+  "last_checked": "2026-11-19T20:20:56.452803+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
