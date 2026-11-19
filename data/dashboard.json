@@ -10815,6 +10815,21 @@
       "url": "https://careers.garmin.com/jobs/20081"
     },
     {
+      "company": "Garmin",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "6f39bc53062443af331e33a04aa78e40780b624219e533f9a5ef3c544c0b1384",
+      "locations": [
+        "Manhattan, KS"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.garmin.com/jobs/20177"
+    },
+    {
       "company": "GCM Grosvenor",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -14601,21 +14616,6 @@
       "source": "simplify",
       "title": "Data Analytics and Automation Intern - Finance",
       "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Analytics-and-Automation--Finance_JR103020-1"
-    },
-    {
-      "company": "Itron",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "bcf678c611ac7c84f2d563fbcf882a9134a666405bc1f9c1fc1bad28dc467f7d",
-      "locations": [
-        "Liberty Lake, WA"
-      ],
-      "posted_at": "2026-09-28",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Science Intern - Distributed Intelligence",
-      "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
     },
     {
       "company": "Itron",
@@ -22546,21 +22546,6 @@
       "company": "Selective Insurance",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "1311df843d08a3a2ace4c3c9ffa466bec6a8bc680f9665ed425bcbc8c0bb5e4c",
-      "locations": [
-        "Branchville, NJ"
-      ],
-      "posted_at": "2026-09-08",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Business Intelligence & Insights Intern",
-      "url": "https://jobs.selective.com/jobs/5707?icims=1&lang=en-us"
-    },
-    {
-      "company": "Selective Insurance",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "2d3b4b1be9bb410ac5ef73e2cb6f2454917c3923f539bbb353e5093cdc250539",
       "locations": [
         "Charlotte, NC",
@@ -27912,21 +27897,6 @@
       "company": "Vanguard",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "0e34115c73678dda091b0df072dde140f5c6a35ed4cc635115e97c74a1265dbe",
-      "locations": [
-        "Charlotte, NC"
-      ],
-      "posted_at": "2026-08-20",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Science Intern - College to Corporate IT",
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765"
-    },
-    {
-      "company": "Vanguard",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "206c094aa311517d6fcd7c56b7c920157a12b0bab3a2469f7653bc5a9492fe83",
       "locations": [
         "Malvern, PA"
@@ -29376,7 +29346,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-19T13:40:44.020855+00:00",
+  "last_checked": "2026-11-19T15:14:38.066547+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

@@ -13326,6 +13326,24 @@
       "fingerprint": "5f5c755ebd14394f42c937a3fafe5464c54f94f9e6098f8de5c080052c1c20ef",
       "revision": 0
     },
+    "url:https://careers.garmin.com/jobs/20177": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "garmin",
+        "degrees": [],
+        "locations": [
+          "manhattan, ks"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "f3de85427fcdcb7dcfbe1f8c6199d30909a808cdb1f3f398a71850e9f177e22a",
+      "revision": 1
+    },
     "url:https://careers.garmin.com/jobs/20188?icims=1": {
       "eligible": false,
       "fingerprint": "c3c8a0694415c500be48aa7246995b85fee00e89b9f2c3a825c747db17e72d0b",
@@ -32797,6 +32815,11 @@
       },
       "fingerprint": "25de2b5cb07a164c746d0454c54e3969e30a1231f757a5586a572ec47bc8269c",
       "revision": 2
+    },
+    "url:https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--portfolio-it_r9716": {
+      "eligible": false,
+      "fingerprint": "8fca19a5fc3dbabde911a7c37ea341fb5450128b0f0759bec365067b55c3109a",
+      "revision": 1
     },
     "url:https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/key-bank-tower/ai-ml-engineer-intern_r188835": {
       "eligible": true,
@@ -73013,6 +73036,11 @@
       "fingerprint": "5f20083aa7fbb13ee36f3a9cd4fbe88fc4c1f3cd26365ffdc43310e76c74713a",
       "revision": 0
     },
+    "url:https://www.mongodb.com/careers/job?gh_jid=8346138": {
+      "eligible": false,
+      "fingerprint": "54bf7407f31d4cb72f2930027d68bdf5a5a9c72b3b411e9ec94642c54a75566c",
+      "revision": 1
+    },
     "url:https://www.murumed.com/job-listings/software-engineer-intern": {
       "eligible": false,
       "fingerprint": "5eb0bdd7c9af60aa03d4e65e3fdece22cf46d7ddbb8c037e8886628278241cd7",
@@ -74901,6 +74929,7 @@
     "https://go.vansh.nyc/1CB": 413,
     "https://go.vansh.nyc/1CC": 413,
     "https://go.vansh.nyc/1CG": 416,
+    "https://go.vansh.nyc/1CN": 422,
     "https://go.vansh.nyc/1Ci": 407,
     "https://go.vansh.nyc/1Ck": 408,
     "https://go.vansh.nyc/1Co": 409,
@@ -76414,6 +76443,7 @@
     "https://go.vansh.nyc/1CB": "https://careers-here.icims.com/jobs/85068/data-science-intern/job",
     "https://go.vansh.nyc/1CC": "https://careers-here.icims.com/jobs/83731/software-engineer-intern/job",
     "https://go.vansh.nyc/1CG": "https://lockheedmartin.eightfold.ai/careers/job/996477886327",
+    "https://go.vansh.nyc/1CN": "https://careers.garmin.com/jobs/20177",
     "https://go.vansh.nyc/1Ci": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
     "https://go.vansh.nyc/1Ck": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665",
     "https://go.vansh.nyc/1Co": "https://jobs.smartrecruiters.com/syngentagroup/744000162383708",
@@ -77668,7 +77698,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 421,
+  "scan_sequence": 422,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
