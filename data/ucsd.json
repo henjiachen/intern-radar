@@ -3659,6 +3659,29 @@
       "fingerprint": "fb6d88aeca789c875f779d90c8f1de5927183d73678b20d5bff223b73ee251d2",
       "revision": 0
     },
+    "url:https://apply.edisoncareers.com/job/westminster-2027-summer-internship-data-analyticsscienceapplied-math-santa-anawestminsterirvinefullerton-ca-92683-5240/1425178600?ats=successfactors": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "edison international",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "fullerton, ca",
+          "irvine, ca",
+          "santa ana, ca",
+          "westminster, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "intern - multiple teams"
+      },
+      "fingerprint": "df60ba5a47d66a75dd4974f3140f46c733489bf2cab8cfb15e7467250eac61f0",
+      "revision": 1
+    },
     "url:https://apply.workable.com/altalink/j/3fb9dd016f/apply": {
       "eligible": false,
       "fingerprint": "8a7c0696cae861d8b3d9c0e008eccfabb0a0abf5293c00a5bcc8119d7119ce76",
@@ -35668,6 +35691,11 @@
       "eligible": false,
       "fingerprint": "235152da6566605aef530a8a11f5d4205671f788674d231f9c66f89903d4d3d9",
       "revision": 0
+    },
+    "url:https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005": {
+      "eligible": false,
+      "fingerprint": "778ce78a4d8041f9683dc195b3613b3a89908acbd6129c795c3f9c6cd2503364",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/cssmerge/jobs/8693034002": {
       "eligible": false,
@@ -77635,7 +77663,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 418,
+  "scan_sequence": 419,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
