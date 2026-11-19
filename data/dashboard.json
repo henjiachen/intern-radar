@@ -548,6 +548,22 @@
       "company": "Microsoft",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "b3232ea25e146b46cd40e1de1e60fa6edda5cd0d713fdcf445b82bcce79a032a",
+      "locations": [
+        "Redmond, WA",
+        "Mountain View, CA"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 9,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Research Intern, AI/Machine Learning Numerics & Efficiency",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557076159"
+    },
+    {
+      "company": "Microsoft",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "ee8adbf0ba60f5b8955c7aa7acb5db43f94da7e1105aae940257498447485826",
       "locations": [
         "Redmond, WA"
@@ -5351,6 +5367,21 @@
       "company": "Boston Scientific",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "5c26ab569d68957e536cc421d90eb349ac369608802f61a17c67bd3952f7678e",
+      "locations": [
+        "Arden Hills, MN"
+      ],
+      "posted_at": "2026-09-29",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "R&D Firmware Engineer Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547669"
+    },
+    {
+      "company": "Boston Scientific",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "828afda90e942ca5607c539364a5ed59f32bff901d6deb0afe2a8a1f524bd0d9",
       "locations": [
         "Arden Hills, MN"
@@ -7497,6 +7528,21 @@
       "source": "simplify",
       "title": "Plasma Physics Intern",
       "url": "https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply"
+    },
+    {
+      "company": "Compassion International",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "3306e62c540a4db6d2ab65f7148c68d54b1674a328b216bb72fc318e3bcd25f3",
+      "locations": [
+        "United States"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data and Software Engineering Intern",
+      "url": "https://compassion.wd5.myworkdayjobs.com/CompassionCareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840"
     },
     {
       "company": "Compeer Financial",
@@ -16260,6 +16306,51 @@
       "company": "Lucid Motors",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
+      "id": "1c53f634511fb388777aa66f133ae96cf21746b19fcd5e5cd720a75d9997bab6",
+      "locations": [
+        "Newark, CA"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "greenhouse",
+      "title": "Intern, AI & Data (Applied AI/Machine Learning), Summer 2027",
+      "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007"
+    },
+    {
+      "company": "Lucid Motors",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "dd845dc5f4c0d0119cffae7b98482c68c868c953f143c90b019f5a49a5ceb51a",
+      "locations": [
+        "Newark, CA"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "greenhouse",
+      "title": "Intern, Embedded Software, Summer 2027",
+      "url": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007"
+    },
+    {
+      "company": "Lucid Motors",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "a3375be52190885702e809102632707b0fa37c3b1e3ccc1c1b0614b0ddf534c4",
+      "locations": [
+        "Newark, CA"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "greenhouse",
+      "title": "Intern, Motor Control Software Development and Validation Engineer, Summer 2027",
+      "url": "https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007"
+    },
+    {
+      "company": "Lucid Motors",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
       "id": "3833fb499e9d9691653bcb06d0a7cb859ff2a6ea3429b8073a78a02a8888dbbf",
       "locations": [
         "Newark, CA"
@@ -16270,6 +16361,21 @@
       "source": "greenhouse",
       "title": "Intern, Software Engineer, SDET, Summer 2027",
       "url": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007"
+    },
+    {
+      "company": "Lucid Motors",
+      "graduation_detail": "\u2796 No grad year found in the available description",
+      "graduation_status": "not_found",
+      "id": "f3bbd6f73135537a5e2ca8289c6e4ff76cb8119bbd4eab7893c568c1f8b91105",
+      "locations": [
+        "Newark, CA"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "greenhouse",
+      "title": "Intern, Software QA Engineer, Infotainment, Summer 2027",
+      "url": "https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007"
     },
     {
       "company": "Lumbermen's",
@@ -17306,21 +17412,6 @@
       "company": "Motorola",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "7c1c29c9035c0d8772bf8b16fed41438add610ceecb937da2f980da57af8f8ae",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "posted_at": "2026-09-08",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388"
-    },
-    {
-      "company": "Motorola",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "0ee7dec5d76240d8576120f86d8a7abcf6c604bd14936fe36f6344001c6017b7",
       "locations": [
         "Plantation, FL"
@@ -17361,21 +17452,6 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125"
-    },
-    {
-      "company": "Motorola Solutions",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "26714d408bc5040a1bec77fadfcd73c3a341e4c4bc2a89f3215f04d599d76cfc",
-      "locations": [
-        "Schaumburg, IL"
-      ],
-      "posted_at": "2026-11-11",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1"
     },
     {
       "company": "Motorola Solutions",
@@ -18840,21 +18916,6 @@
       "company": "Old Mission",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "685ea07a47fb8a23a8a774282a98792c0bfd91df7e0066b67ef97ccca167e88c",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "posted_at": "2026-07-15",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6/application?embed=true"
-    },
-    {
-      "company": "Old Mission",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "aaa3d86ec21963aae13508e8e6c6c97c8edbf5fe80b6cad95ecd94cccdeb5da9",
       "locations": [
         "Chicago, IL"
@@ -20241,6 +20302,21 @@
       "company": "Publicis Groupe",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "f4fc00edbf5ae1d057c03ac7bea8866066f4ccbcad98e016d4b22d00797242a2",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Identity Analytics Intern",
+      "url": "https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us"
+    },
+    {
+      "company": "Publicis Groupe",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "31dba33e1eee23ae834d0b708c971cc726f173f140fc3a7d8cb532fea57efe9a",
       "locations": [
         "Chicago, IL"
@@ -20636,9 +20712,54 @@
       "posted_at": "2026-11-19",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
       "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153"
+    },
+    {
+      "company": "Ralliant",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "d936d564de65ce3040255452dae19e424881473e74b37dc7c2365124bc5bcfff",
+      "locations": [
+        "Beaverton, OR"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11266"
+    },
+    {
+      "company": "Ralliant",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "823c5dbddaa135fda2a14ff54d25e347dc22596b64bf6ce13ef76e37d1ff17ec",
+      "locations": [
+        "Beaverton, OR"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11231"
+    },
+    {
+      "company": "Ralliant",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "d7206ae05d6ffc45ac2947bfb79c523a26410c8966f3a79f56552858a9e72975",
+      "locations": [
+        "Beaverton, OR"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11167"
     },
     {
       "company": "Rambus",
@@ -22190,6 +22311,21 @@
       "company": "SAS",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "957ea10d5dd15b87b4378619430522ff83fdeecea55eb1f24b1150609c144208",
+      "locations": [
+        "Cary, NC"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Cybersecurity Compliance and AI Automation Intern",
+      "url": "https://careers-sas.icims.com/jobs/42781/summer-2027---cybersecurity-compliance-and-ai-automation-intern/job"
+    },
+    {
+      "company": "SAS",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "dd1704d0694dcd08aa72c357cd54dcf303c89d638a6c87c93ae55231a783d6d8",
       "locations": [
         "Bloomington, MN"
@@ -22912,21 +23048,6 @@
       "source": "simplify",
       "title": "Application Software Development Intern",
       "url": "https://careersus-shure.icims.com/jobs/5020/job?mobile=true&needsRedirect=false"
-    },
-    {
-      "company": "Shure",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "58cec7f8e069cf2931ec7aaff0a9f8840450ac38d4865733080a0c34d4dafef6",
-      "locations": [
-        "Niles, IL"
-      ],
-      "posted_at": "2026-09-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Application Software Engineer Intern",
-      "url": "https://careersus-shure.icims.com/jobs/4956/job?mobile=true&needsRedirect=false"
     },
     {
       "company": "Shure",
@@ -27392,6 +27513,23 @@
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
     },
     {
+      "company": "Tyler Technologies",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "16dc7eb93500aa9ee329c737c74f4d38d27446e7f659c60289b0fca943b5f5ad",
+      "locations": [
+        "Yarmouth, ME",
+        "Orono, ME",
+        "Falmouth, ME"
+      ],
+      "posted_at": "2026-09-21",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Development Intern - Summer 2027",
+      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
+    },
+    {
       "company": "Uber",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29262,7 +29400,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-19T23:01:17.675186+00:00",
+  "last_checked": "2026-11-19T23:57:35.593982+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

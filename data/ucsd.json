@@ -3388,6 +3388,25 @@
       "fingerprint": "54dc9a92f87ed90e834bd0424c4ad395680e25db217cf12453c115d29fe6eb9d",
       "revision": 1
     },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557076159": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "microsoft",
+        "degrees": [],
+        "locations": [
+          "mountain view, ca",
+          "redmond, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "research intern, ai/machine learning numerics & efficiency"
+      },
+      "fingerprint": "4b83a92aae09824c58a41a1c9ec295508a67d12812b8107e416bf3f303b690d2",
+      "revision": 1
+    },
     "url:https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0": {
       "eligible": true,
       "evidence": {
@@ -5395,6 +5414,11 @@
       },
       "fingerprint": "dbaa470da74d0c4451bc045ac18b18d1c4f412ed145473f548f3cb333e9c09a8",
       "revision": 0
+    },
+    "url:https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f": {
+      "eligible": false,
+      "fingerprint": "5f4862631af429a9d88dcc8a1bbf55049af9e334ca07a89f17065799e53d9806",
+      "revision": 1
     },
     "url:https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd": {
       "eligible": true,
@@ -9055,6 +9079,27 @@
       "fingerprint": "e4f7fc066b3cf42ef9fe4584d594cef152089a9b108515d80bf0263e9a359818",
       "revision": 1
     },
+    "url:https://bostonscientific.eightfold.ai/careers/job/563602813547669": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "boston scientific",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "arden hills, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "r&d firmware engineer intern"
+      },
+      "fingerprint": "e4f7fc066b3cf42ef9fe4584d594cef152089a9b108515d80bf0263e9a359818",
+      "revision": 1
+    },
     "url:https://bostonscientific.eightfold.ai/careers/job/563602813547675": {
       "eligible": true,
       "evidence": {
@@ -11217,6 +11262,11 @@
       "fingerprint": "ae0e7424da6914df3e97d8c287431a4df51ebaadbb8a3a7e1281c710375f50a8",
       "revision": 1
     },
+    "url:https://careers-here.icims.com/jobs/85084/job": {
+      "eligible": false,
+      "fingerprint": "43ff0426ac769dbf6fbb5315718437c36920cf28231e6ed04a9f48282a27a82f",
+      "revision": 1
+    },
     "url:https://careers-hrblock.icims.com/jobs/76987/job": {
       "eligible": false,
       "fingerprint": "7a99ff41675da71ab0c3ec801fe2032c055891344b2507993372774641612296",
@@ -11805,6 +11855,24 @@
         "title": "summer 2027 - evaas instructional design e-learning developer intern"
       },
       "fingerprint": "69e028d33c8ff7ffabe058605d120263a7b467e63bcf28162b3483b2ef049e60",
+      "revision": 1
+    },
+    "url:https://careers-sas.icims.com/jobs/42781/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "sas",
+        "degrees": [],
+        "locations": [
+          "cary, nc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "cybersecurity compliance and ai automation intern"
+      },
+      "fingerprint": "1796a792d929debe943d428079ddb62f3102271346fb5ea8f961bd51648ae4b4",
       "revision": 1
     },
     "url:https://careers-sas.icims.com/jobs/42786/job": {
@@ -13139,6 +13207,11 @@
     "url:https://careers.docusign.com/jobs/30597?icims=1": {
       "eligible": false,
       "fingerprint": "918e5528920931d5879e3c6297f99502cd8e478a2ed185102c0e1f44e7e865f5",
+      "revision": 1
+    },
+    "url:https://careers.docusign.com/jobs/31092?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "f8852e12c8986c9549c0cc03860133fabe87af9a00486651324959c75efc0e5e",
       "revision": 1
     },
     "url:https://careers.dominionenergy.com/job/glen-allen-intern-et-asset-analyst-(digital-solutions-team)-va-23060/1441549200?ats=successfactors": {
@@ -14963,6 +15036,27 @@
       "fingerprint": "4ebf7d1470b236471104d312a71527c06c76e80f12ef9acf6f887e3f65cefe06",
       "revision": 1
     },
+    "url:https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "publicis groupe",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "identity analytics intern"
+      },
+      "fingerprint": "0c3f00ea6c4a495da000fdd2bae7f324703f680836c1c37b6d61e696dfed8b26",
+      "revision": 1
+    },
     "url:https://careers.qorvo.com/job/apopka-database-intern-fl-32703/1425883100?ats=successfactors": {
       "eligible": false,
       "fingerprint": "e48602d1c756b01e32741f4bf12671799fc5723c44301c2f67845a76c862c7cc",
@@ -15831,6 +15925,11 @@
       "eligible": false,
       "fingerprint": "3f4e504689ee20e2d780d366d0bcfb166858b9d8499cca8ec97829996712c719",
       "revision": 2
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8401116": {
+      "eligible": false,
+      "fingerprint": "255552c95fc3efdd0252e554de72480f217eaba36c2ba67a2766e94bfde2ce30",
+      "revision": 1
     },
     "url:https://careers.zimmerbiomet.com/us/en/job/13309": {
       "eligible": false,
@@ -17818,6 +17917,24 @@
       "fingerprint": "85d23bdd91750a7a7af80b2e713609ca54316ccc7b4b028bafb31b9b99d4330c",
       "revision": 1
     },
+    "url:https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/usa---global-ministry-center/xmlname-2027-summer-internship---data-and-software-engineering_r8840": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "compassion international",
+        "degrees": [],
+        "locations": [
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data and software engineering intern"
+      },
+      "fingerprint": "180b171f80ee14ec81bf6874c82d91cbb5e9b843710c97607bc2dbbcec105f34",
+      "revision": 1
+    },
     "url:https://copart.wd12.myworkdayjobs.com/copart/job/dallas-tx---headquarters/data---ai-intern_jr111596": {
       "eligible": false,
       "fingerprint": "b7c409990f4f085599551756a7e74355244be5939921d113699b1bc753b1c05d",
@@ -19684,6 +19801,16 @@
       "fingerprint": "5eb0fc88fff941f0158faa2b6fc0f511c21321e26dcc64d4eb45d9f5b81ff01f",
       "revision": 1
     },
+    "url:https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25016336": {
+      "eligible": false,
+      "fingerprint": "fe0352ade4a6fd491f22e5c555465269abfeef82366cd438b74517e53a18c253",
+      "revision": 1
+    },
+    "url:https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25016339": {
+      "eligible": false,
+      "fingerprint": "353a5debecfcd6a4db45b38147d76869b490cb88c07b0559b630274b2966f329",
+      "revision": 1
+    },
     "url:https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25017573": {
       "eligible": false,
       "fingerprint": "6369048d25ab8016c8d2220b6e2eea028a337d50e893cb2376e9b02493171a90",
@@ -19717,6 +19844,11 @@
     "url:https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25020319": {
       "eligible": false,
       "fingerprint": "1d027698a5260fb685ab148273862b84d01beb2ccebd5459fdeedfb54b482812",
+      "revision": 1
+    },
+    "url:https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25020388": {
+      "eligible": false,
+      "fingerprint": "db8b99d63ef86bc27afbfcbe4b94da4bf3fcd2c8df6d34ee6283d1792163b236",
       "revision": 1
     },
     "url:https://edel.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_2001/job/22741": {
@@ -32522,9 +32654,11 @@
     "url:https://ibwujb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/11153": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "ralliant",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "beaverton, or"
         ],
@@ -32532,9 +32666,70 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "software engineer intern"
       },
-      "fingerprint": "7e6d9ab42d57a11bb76bdd662c9d68e08cc2619874cfa0b015fb2601cb216a10",
+      "fingerprint": "30a8ee904788885447d41953bd04d04fad93dcfbe8eed03a859883095507a4f4",
+      "revision": 2
+    },
+    "url:https://ibwujb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/11167": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "ralliant",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "beaverton, or"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "4d0ff2cdde17324b9aacbe07e36968792d5d6116b672e67d327dc7c2010434c2",
+      "revision": 1
+    },
+    "url:https://ibwujb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/11231": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "ralliant",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "beaverton, or"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "9284189cedbdfee761235543d023c119fa5a197008bd2386e2fa2224219b3b8a",
+      "revision": 1
+    },
+    "url:https://ibwujb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/11266": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "ralliant",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "beaverton, or"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "9284189cedbdfee761235543d023c119fa5a197008bd2386e2fa2224219b3b8a",
       "revision": 1
     },
     "url:https://ice.jibeapply.com/jobs/14059?icims=1": {
@@ -34526,6 +34721,16 @@
     "url:https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995823101": {
       "eligible": false,
       "fingerprint": "072bdf5f58cc47c2b4d53aaa855d6815f67f67d4ea0727f95d5b9346e30325d7",
+      "revision": 1
+    },
+    "url:https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101": {
+      "eligible": false,
+      "fingerprint": "d7b996d564d52f56e3e28ca17154807616d03d588b19c38008c29ca7de0db9ed",
+      "revision": 1
+    },
+    "url:https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011271101": {
+      "eligible": false,
+      "fingerprint": "8c053b20281425b721cf066c23cba85bf39b5a65876e3e9d489b71a5ee187f9e",
       "revision": 1
     },
     "url:https://job-boards.eu.greenhouse.io/imc/jobs/4667854101": {
@@ -38480,6 +38685,11 @@
       "fingerprint": "b49e106baef5c9f5bbf79a7c64080595173ee5bb7b26ed30d31a4f1828d3c230",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/queracomputinginc/jobs/5490107008": {
+      "eligible": false,
+      "fingerprint": "9316a8583837398460feb0d85c01f701eb7d7f1127cb06cfa1a3b0eeb6abf24f",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/relaypro/jobs/8180836": {
       "eligible": true,
       "evidence": {
@@ -42230,6 +42440,11 @@
       "eligible": false,
       "fingerprint": "9facdf43abc3a718e6be5867edba570fb40aed0abb86089d5db3aa738a6cc9c5",
       "revision": 0
+    },
+    "url:https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228": {
+      "eligible": false,
+      "fingerprint": "f1309e3ddc0885965b44005545ec179045cc6d39b183e53bba6364d0027bcb28",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320": {
       "eligible": false,
@@ -51708,8 +51923,8 @@
     },
     "url:https://jobs.smartrecruiters.com/llnl/3743990016351716": {
       "eligible": false,
-      "fingerprint": "e62127d1070b943da63debed2eaff8d482da21b857bccb9fcf800b7e071edd6d",
-      "revision": 0
+      "fingerprint": "81a3dbaa4812c6cc9480af4dc98e6e044a297e6835ca6dae17df72c2b62dacd9",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/llnl/3743990016356547": {
       "eligible": false,
@@ -51740,6 +51955,11 @@
         "title": "critical infrastructure analysis graduate intern - cyber and critical infrastructure summer institute"
       },
       "fingerprint": "5071c18585cb9644967c76a77f79c1f1464cb8a2932510df714e6faec637e8bb",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/llnl/3743990016983316": {
+      "eligible": false,
+      "fingerprint": "368e23e005fdb92567f4f4dfe213c84f6b2c711994b0a9d081165e24916b6eb2",
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/luxemediallc/83337884": {
@@ -52398,6 +52618,11 @@
     "url:https://jobs.smartrecruiters.com/veoliaenvironnementsa/744000160896184-manufacturing-software-engineer-intern?oga=true": {
       "eligible": false,
       "fingerprint": "60f3a7f1f435a9053c5c34db89cd96f1beb843530b1a6684539197e6336515f0",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/veoliaenvironnementsa/744000162593839": {
+      "eligible": false,
+      "fingerprint": "c808b6f20f03e0907216299d81c9fb222e297141ef98ff91c4831aad9a11ba09",
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/vusiongroupsa/744000149935589": {
@@ -57891,6 +58116,29 @@
       "fingerprint": "8f927463e5adb112add5c0e0f8ac06d3d3f6315dd9e759ddfc736e94cc53eaed",
       "revision": 0
     },
+    "url:https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "lucid motors",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "newark, ca"
+        ],
+        "requirements": [
+          "- visa sponsorship: lucid may but is not obligated to sponsor foreign national employees requiring company sponsorship for u.s employment authorization."
+        ],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "intern, embedded software, summer 2027"
+      },
+      "fingerprint": "323cbc44980825ee5efaaa3762fceab825228c60dfb9dfc7cc2865b60d0d9d1b",
+      "revision": 1
+    },
     "url:https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007": {
       "eligible": true,
       "evidence": {
@@ -57903,10 +58151,66 @@
         "requirements": [
           "- visa sponsorship: lucid may but is not obligated to sponsor foreign national employees requiring company sponsorship for u.s employment authorization."
         ],
-        "terms": [],
+        "terms": [
+          "summer 2027"
+        ],
         "title": "intern, software engineer, sdet, summer 2027"
       },
-      "fingerprint": "ca623d8b8bcb6e87deb949a57d469fe36ccba10eaaf16004e497f307a7a659f4",
+      "fingerprint": "7c2e31763919332bd6d8e2ae29927d80b25ed7ce9edc245f3999b5d32432626e",
+      "revision": 2
+    },
+    "url:https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lucid motors",
+        "degrees": [],
+        "locations": [
+          "newark, ca"
+        ],
+        "requirements": [
+          "- visa sponsorship: lucid may but is not obligated to sponsor foreign national employees requiring company sponsorship for u.s employment authorization."
+        ],
+        "terms": [],
+        "title": "intern, ai & data (applied ai/machine learning), summer 2027"
+      },
+      "fingerprint": "59d8e69ff1533c00be4ffc8985feccd1a5c7db87fd271161311b87d48c4fd3a5",
+      "revision": 1
+    },
+    "url:https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lucid motors",
+        "degrees": [],
+        "locations": [
+          "newark, ca"
+        ],
+        "requirements": [
+          "- visa sponsorship: lucid may but is not obligated to sponsor foreign national employees requiring company sponsorship for u.s employment authorization."
+        ],
+        "terms": [],
+        "title": "intern, software qa engineer, infotainment, summer 2027"
+      },
+      "fingerprint": "258d7c4cb0bee57e4c4931529734e0ab5fa1c0152a900193717cd5edc8112389",
+      "revision": 1
+    },
+    "url:https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lucid motors",
+        "degrees": [],
+        "locations": [
+          "newark, ca"
+        ],
+        "requirements": [
+          "- visa sponsorship: lucid may but is not obligated to sponsor foreign national employees requiring company sponsorship for u.s employment authorization."
+        ],
+        "terms": [],
+        "title": "intern, motor control software development and validation engineer, summer 2027"
+      },
+      "fingerprint": "b054eaebd2fb1e0f7bdf646e6ca62cc3f1f23f5de7e2a6eea231b0bb07c12322",
       "revision": 1
     },
     "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/canada---ottawa-bill-leathem/embedded-software-developer-co-op--optical-circuit-switch-_20261320": {
@@ -59348,25 +59652,9 @@
       "revision": 2
     },
     "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/schaumburg-il/xmlname-2027-summer-embedded-sw-engineering-intern_r67741-1": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "motorola solutions",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "schaumburg, il"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "embedded software engineer intern"
-      },
-      "fingerprint": "b395b0d7cddea45a930ab917966ac50ff6b6c57797366b794f3946eba3e844a9",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "746f43c28fcfba79f5306bfe1130e3a8652162bd8a5b6535d7ae855fe06aaff2",
+      "revision": 2
     },
     "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/utah-remote-work/software-engineer-co-op_r70561": {
       "eligible": false,
@@ -75456,6 +75744,7 @@
     "https://go.vansh.nyc/1D1": 426,
     "https://go.vansh.nyc/1D2": 426,
     "https://go.vansh.nyc/1D6": 427,
+    "https://go.vansh.nyc/1DA": 429,
     "https://go.vansh.nyc/1Db": 427,
     "https://go.vansh.nyc/1Dc": 427,
     "https://go.vansh.nyc/1Dd": 427,
@@ -75470,6 +75759,11 @@
     "https://go.vansh.nyc/1Dp": 428,
     "https://go.vansh.nyc/1Dq": 428,
     "https://go.vansh.nyc/1Dr": 428,
+    "https://go.vansh.nyc/1Du": 429,
+    "https://go.vansh.nyc/1Dv": 429,
+    "https://go.vansh.nyc/1Dw": 429,
+    "https://go.vansh.nyc/1Dx": 429,
+    "https://go.vansh.nyc/1Dy": 429,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -76994,6 +77288,7 @@
     "https://go.vansh.nyc/1D1": "https://careers-alliedconsultants.icims.com/jobs/9084/ai-ml-engineer-intern/job",
     "https://go.vansh.nyc/1D2": "https://uscareers-docusign.icims.com/jobs/31092/product-data-science-intern/job",
     "https://go.vansh.nyc/1D6": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/intern/job/2260",
+    "https://go.vansh.nyc/1DA": "https://compassion.wd5.myworkdayjobs.com/CompassionCareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
     "https://go.vansh.nyc/1Db": "https://studentopportunities-lutron.icims.com/jobs/5360/summer-2027---embedded-firmware-engineering-intern---boston%2c-ma/job",
     "https://go.vansh.nyc/1Dc": "https://studentopportunities-lutron.icims.com/jobs/5361/summer-2027---embedded-firmware-engineering-intern---austin%2c-tx/job",
     "https://go.vansh.nyc/1Dd": "https://studentopportunities-lutron.icims.com/jobs/5362/summer-2027---embedded-firmware-engineering-intern---boynton-beach%2c-fl/job",
@@ -77008,6 +77303,11 @@
     "https://go.vansh.nyc/1Dp": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
     "https://go.vansh.nyc/1Dq": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
     "https://go.vansh.nyc/1Dr": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
+    "https://go.vansh.nyc/1Du": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11266",
+    "https://go.vansh.nyc/1Dv": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
+    "https://go.vansh.nyc/1Dw": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
+    "https://go.vansh.nyc/1Dx": "https://apply.careers.microsoft.com/careers/job/1970393557076159",
+    "https://go.vansh.nyc/1Dy": "https://careers-sas.icims.com/jobs/42781/summer-2027---cybersecurity-compliance-and-ai-automation-intern/job",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -78254,7 +78554,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 428,
+  "scan_sequence": 429,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
