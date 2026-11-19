@@ -1119,21 +1119,6 @@
       "company": "Aechelon Technology",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "f9a004ce659867731a2477e4ed4fcf0bc6cf196f489362fc748ba99c3a683b83",
-      "locations": [
-        "Overland Park, KS"
-      ],
-      "posted_at": "2026-08-13",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Junior Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008"
-    },
-    {
-      "company": "Aechelon Technology",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "baa109e72774ff9fd23c1c8d8f1e1ac1284d3893c8cc5eee27206267a1ba1504",
       "locations": [
         "Farmer's Branch, TX"
@@ -5475,17 +5460,17 @@
       "graduation_status": "unknown",
       "id": "ccf47ecc737f066f701d2440b6bcf601a5faee76a4e1b53d72952de235e2ce53",
       "locations": [
-        "Columbus, OH",
-        "Chadds Ford, PA",
         "Frisco, TX",
+        "Chadds Ford Township, PA",
+        "Columbus, OH",
         "Draper, UT",
         "Wilmington, DE"
       ],
       "posted_at": "2026-11-16",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
       "url": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Software-Engineering_R1013421"
     },
     {
@@ -7227,23 +7212,6 @@
       "source": "simplify",
       "title": "Business Insights Intern - Multiple Teams",
       "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49279"
-    },
-    {
-      "company": "Citizens Financial Group",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "4e2891865434d3cef1c44093b87d48887e9e4be6bbca5a96639f65f9bb14db3e",
-      "locations": [
-        "Boston, MA",
-        "Johnston, RI",
-        "Columbus, OH"
-      ],
-      "posted_at": "2026-09-11",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Analyst Intern - Multiple Teams",
-      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278"
     },
     {
       "company": "Citizens Financial Group",
@@ -15837,6 +15805,21 @@
       "company": "Leidos",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "cf8550a8eba530094179fd7a8625d5b501f214883d78b3aa68814b6260e22cc2",
+      "locations": [
+        "Colorado Springs, CO"
+      ],
+      "posted_at": "2026-11-18",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Developer Intern, AI Project",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Software-Developer--AI-Project--Intern_R-00197294"
+    },
+    {
+      "company": "Leidos",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "7c353d53fd624aabdc03f852a559c21a27bf1039d914fce56a9fc8b1fe9659b2",
       "locations": [
         "Atlantic City, NJ"
@@ -16041,7 +16024,7 @@
       "posted_at": "2026-11-05",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "vanshb03",
       "title": "Developer IT Intern",
       "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677"
     },
@@ -21837,6 +21820,21 @@
       "company": "RTX",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "5089ab71238f9a756350236aa3f055012989eb2f2129ac335857b4fb9f7f5a85",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Security Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Security-Intern_01890095"
+    },
+    {
+      "company": "RTX",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "59b53273db8827ce70e51ab82c920f5a7ab93d9f8934dceb3cc4d5ab7c47585a",
       "locations": [
         "Cedar Rapids, IA"
@@ -22421,6 +22419,21 @@
       "source": "simplify",
       "title": "Digital Products Intern",
       "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007"
+    },
+    {
+      "company": "Scout Space",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "35693bdfe39a7f370dda5030a6d1a7a1fde69ef10ddf3204ff81f3849bd922b4",
+      "locations": [
+        "Reston, VA"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Computer Vision Engineer Intern - AI/ML",
+      "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008"
     },
     {
       "company": "SDSU Research Foundation",
@@ -24955,6 +24968,21 @@
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688"
     },
     {
+      "company": "Textron",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "7a82f3bf31b71fc511fd0fe71d354f9edceead3bbb1cd114d6ff16e1d599105f",
+      "locations": [
+        "Hunt Valley, Cockeysville, MD"
+      ],
+      "posted_at": "2026-09-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern - Sea Systems",
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935"
+    },
+    {
       "company": "The Brattle Group",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -27459,23 +27487,6 @@
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
     },
     {
-      "company": "Tyler Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "16dc7eb93500aa9ee329c737c74f4d38d27446e7f659c60289b0fca943b5f5ad",
-      "locations": [
-        "Yarmouth, ME",
-        "Orono, ME",
-        "Falmouth, ME"
-      ],
-      "posted_at": "2026-09-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Intern - Summer 2027",
-      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
-    },
-    {
       "company": "Uber",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -29346,7 +29357,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-19T15:14:38.066547+00:00",
+  "last_checked": "2026-11-19T16:21:02.300725+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

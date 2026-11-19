@@ -1348,10 +1348,11 @@
     "url:https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/columbus-oh/intern---software-engineering_r1013421": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "bread financial",
         "degrees": [],
         "locations": [
+          "chadds ford township, pa",
           "chadds ford, pa",
           "columbus, oh",
           "columbus, oh +4",
@@ -1361,12 +1362,13 @@
         ],
         "requirements": [],
         "terms": [
+          "summer 2026",
           "summer 2027"
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "bcd8ae16779ec6ca157f85545dfe56eec517cdafbf40002e1abcaf7c04417c03",
-      "revision": 2
+      "fingerprint": "c7cee83ef92c9233a41036eb0736c2a6c8c85c16d3294ca1e9d5646321320ca6",
+      "revision": 3
     },
     "url:https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/usa---il-remote/arity---data-analytics-engineer-intern_r36286": {
       "eligible": true,
@@ -3326,6 +3328,11 @@
       "eligible": false,
       "fingerprint": "31a683afb30bd6cfa29999644fea0af927f279479f9d2df8ec4980f4b1872e62",
       "revision": 2
+    },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557075448": {
+      "eligible": false,
+      "fingerprint": "1cd8d6192a0b8252bd55f7c1a0d765d054372a3b97023314c05959d0a86ef447",
+      "revision": 1
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393557075474": {
       "eligible": false,
@@ -13344,6 +13351,11 @@
       "fingerprint": "f3de85427fcdcb7dcfbe1f8c6199d30909a808cdb1f3f398a71850e9f177e22a",
       "revision": 1
     },
+    "url:https://careers.garmin.com/jobs/20177?icims=1": {
+      "eligible": false,
+      "fingerprint": "66417985d60ee8304e7170977a05a2d4df248931715d35ce0f464223d8dee87c",
+      "revision": 1
+    },
     "url:https://careers.garmin.com/jobs/20188?icims=1": {
       "eligible": false,
       "fingerprint": "c3c8a0694415c500be48aa7246995b85fee00e89b9f2c3a825c747db17e72d0b",
@@ -21338,6 +21350,11 @@
       "fingerprint": "10bf6c5377023b4ebe3dbca6552c98f498db89ea63ed7c16431a7a8b22caced9",
       "revision": 0
     },
+    "url:https://erqh.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/34551": {
+      "eligible": false,
+      "fingerprint": "a8775ed9d5e9bad33e622cebbae296e563b2d3f99316d9e06ed2bdf8a28d74dc",
+      "revision": 1
+    },
     "url:https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3263-2028-summer-analyst-program-global-technology-new-york/en-gb": {
       "eligible": false,
       "fingerprint": "4799cc10ce3ce3d57339c994bb39ecad93c1447058379a1cf2460a792bb5a2b4",
@@ -25660,6 +25677,24 @@
       },
       "fingerprint": "37a4e908dc40ef4506f8f55175730857545e2b84b3b8ee4ec28f0e849f6dcd49",
       "revision": 0
+    },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-137--855-35th-st-ne--bldg-137/senior-software-security-intern_01890095": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "rtx",
+        "degrees": [],
+        "locations": [
+          "cedar rapids, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software security intern"
+      },
+      "fingerprint": "2b0c2f9e1a86a2d859206a34dfc959024adb5689a4fe40f1a8743a7b71d17a16",
+      "revision": 1
     },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-143--855-35th-st-ne--bldg-143/software-engineering-intern--summer-2027-_01888055": {
       "eligible": true,
@@ -32808,13 +32843,12 @@
         ],
         "requirements": [],
         "terms": [
-          "summer 2026",
           "summer 2027"
         ],
         "title": "developer it intern"
       },
-      "fingerprint": "25de2b5cb07a164c746d0454c54e3969e30a1231f757a5586a572ec47bc8269c",
-      "revision": 2
+      "fingerprint": "e0ccedb3a9b8f4f8652164418f62bf97b47765cd790680e654fa6278110839d4",
+      "revision": 3
     },
     "url:https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--portfolio-it_r9716": {
       "eligible": false,
@@ -38646,6 +38680,28 @@
         "title": "digital products intern"
       },
       "fingerprint": "8a54920d5d5c8a2da15dd737c0f5d163ea64cb568ec03bc9ae1f6c0e68f75c23",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/scoutspace/jobs/5489231008": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "scout space",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "reston, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "computer vision engineer intern - ai/ml"
+      },
+      "fingerprint": "ef6c9e5984b9e620570d0814bcf12b907f8cbfc0678dbf2c50c8ea43e18c8912",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008": {
@@ -54292,6 +54348,24 @@
       "fingerprint": "147e99fd2cc443bed769692d59fd7df6900dcdc8b1c7ee1370d1debe84122851",
       "revision": 1
     },
+    "url:https://leidos.wd5.myworkdayjobs.com/external/job/colorado-springs-co/software-developer--ai-project--intern_r-00197294": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "leidos",
+        "degrees": [],
+        "locations": [
+          "colorado springs, co"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern, ai project"
+      },
+      "fingerprint": "f19c84aa626325d9ac1cfc151b4ae7b1043de82cd14cb8b6afae1f5ea35a9bca",
+      "revision": 1
+    },
     "url:https://leidos.wd5.myworkdayjobs.com/external/job/fort-belvoir-va/data-engineer-intern_r-00195576": {
       "eligible": true,
       "evidence": {
@@ -57781,6 +57855,11 @@
       "eligible": false,
       "fingerprint": "5fab7f44f8c92491dcf41e11a7a69b5e44dfdc14bf34674f7ddc8ef7ae5adae0",
       "revision": 0
+    },
+    "url:https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/toronto-ontario/winter-co-op-2027---technology-enablement-analyst_jr26090774-1": {
+      "eligible": false,
+      "fingerprint": "910056b2a0999a67b49c7262bc660512cb118e3f87e0fb8c0d5cd4a65dc640c9",
+      "revision": 1
     },
     "url:https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/waterloo-ontario/summer-intern-2027---software-engineering--12-months-_jr26091053-1": {
       "eligible": false,
@@ -65838,6 +65917,11 @@
       "fingerprint": "a30b34b0f1b7a97d08c8c6301fdb482516cab2f30bbd83eb3aba9e15329f8fd2",
       "revision": 1
     },
+    "url:https://spacedynamicslaboratory.applytojob.com/apply/qi2jnocwkx/student-software-engineering-assistant": {
+      "eligible": false,
+      "fingerprint": "c1a06cd9315f7bf91f120b787c1ed48a8a54edcb8029ba9f9d6d1017f4f2cba8",
+      "revision": 1
+    },
     "url:https://spacedynamicslaboratory.applytojob.com/apply/xb4whc202x/student-software-engineer": {
       "eligible": false,
       "fingerprint": "9cafb6f74816e612bc8fe36dcbba627f4616b7427d202f37ce0a64d1475b56de",
@@ -67073,6 +67157,26 @@
       },
       "fingerprint": "9664f308550f378b7f0f5f589b9d6669412d626724a47615d4072071798133df",
       "revision": 0
+    },
+    "url:https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "textron",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "hunt valley, cockeysville, md"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern - sea systems"
+      },
+      "fingerprint": "c12be8afb675b65253bbc998095c77de2493c51bc6470302d799a8d5e2fd8875",
+      "revision": 1
     },
     "url:https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343153": {
       "eligible": true,
@@ -74930,6 +75034,9 @@
     "https://go.vansh.nyc/1CC": 413,
     "https://go.vansh.nyc/1CG": 416,
     "https://go.vansh.nyc/1CN": 422,
+    "https://go.vansh.nyc/1CQ": 423,
+    "https://go.vansh.nyc/1CS": 423,
+    "https://go.vansh.nyc/1CT": 423,
     "https://go.vansh.nyc/1Ci": 407,
     "https://go.vansh.nyc/1Ck": 408,
     "https://go.vansh.nyc/1Co": 409,
@@ -76444,6 +76551,9 @@
     "https://go.vansh.nyc/1CC": "https://careers-here.icims.com/jobs/83731/software-engineer-intern/job",
     "https://go.vansh.nyc/1CG": "https://lockheedmartin.eightfold.ai/careers/job/996477886327",
     "https://go.vansh.nyc/1CN": "https://careers.garmin.com/jobs/20177",
+    "https://go.vansh.nyc/1CQ": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
+    "https://go.vansh.nyc/1CS": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Security-Intern_01890095",
+    "https://go.vansh.nyc/1CT": "https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Software-Developer--AI-Project--Intern_R-00197294",
     "https://go.vansh.nyc/1Ci": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
     "https://go.vansh.nyc/1Ck": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665",
     "https://go.vansh.nyc/1Co": "https://jobs.smartrecruiters.com/syngentagroup/744000162383708",
@@ -77698,7 +77808,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 422,
+  "scan_sequence": 423,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
