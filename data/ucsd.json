@@ -8907,6 +8907,11 @@
       "fingerprint": "ccf90e4c20c5f7c41d03d94b3cff46122fa6ba39897c83a36f6a809a4bf7dd67",
       "revision": 1
     },
+    "url:https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/us-ma---framingham/data-science-co-op--nlp---genai-_r29251": {
+      "eligible": false,
+      "fingerprint": "47c368bdc04856d4845145034c67aca2c453c5d974bca891accbcbcee24a712b",
+      "revision": 1
+    },
     "url:https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/us-ma---framingham/digital-signal-processing-ml-software-development-co-op_r29372": {
       "eligible": false,
       "fingerprint": "c4559e9e26422025acaa35138ecae52f1eb072e6527d7ef22da9842373a07dbc",
@@ -8930,6 +8935,11 @@
     "url:https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/us-ma---framingham/software-dsp-research-engineer-co-op_r29369": {
       "eligible": false,
       "fingerprint": "e30e10635ef710d7bf60fa6546149f25ced0e987a32056071c5002a6928d186f",
+      "revision": 1
+    },
+    "url:https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/us-ma---framingham/software-engineer-co-op_r29387": {
+      "eligible": false,
+      "fingerprint": "846931a4ceb0c29a58b42e2377f5a146aabe58a1d2bd19aa9cc0159bbb75f9c6",
       "revision": 1
     },
     "url:https://bostondynamics.wd1.myworkdayjobs.com/boston_dynamics/job/waltham-office-post/atlas-vla-research-intern_r3317": {
@@ -17534,6 +17544,24 @@
     "url:https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/agentic-development-intern_2025292-1": {
       "eligible": false,
       "fingerprint": "a4c2e7b747ced73c6350cbf35acb1192eb475489b40a822928060543de061ddd",
+      "revision": 1
+    },
+    "url:https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/ai-engineer-intern---mission-innovation-lab--summer-2027-_2025364-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "carnegie mellon university",
+        "degrees": [],
+        "locations": [
+          "pittsburgh, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai engineer intern - mission innovation lab"
+      },
+      "fingerprint": "039ff7b0c6efda565837135ec03e77acdbcde2579ce3b5ae529b289c6fd3aaba",
       "revision": 1
     },
     "url:https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/cyber-ai-engineering-intern--spring-2027-_2025346-2": {
@@ -42440,6 +42468,11 @@
     "url:https://jobs.ashbyhq.com/machinacognita/c36e9f62-9bbe-45e7-8bff-d52affacbe81": {
       "eligible": false,
       "fingerprint": "d67a815f71d931a300b78801827004cb5dacfcf855731c69b89ea1fbadbdfc77",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/makermaker.ai/735488d9-37de-4e54-bc13-a4705e200583": {
+      "eligible": false,
+      "fingerprint": "728bfddcc2319761d7de1a916dee808c13a3d3ad02bcee9f1194e9ca64019238",
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d": {
@@ -77602,7 +77635,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 417,
+  "scan_sequence": 418,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

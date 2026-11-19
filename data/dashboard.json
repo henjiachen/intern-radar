@@ -6727,6 +6727,21 @@
       "company": "Carnegie Mellon University",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
+      "id": "a5f011df56a68512ebca2d8387e99e72993c6655e1ff7252c83c63b489d527a4",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "posted_at": "2026-11-16",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "AI Engineer Intern - Mission Innovation Lab",
+      "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1"
+    },
+    {
+      "company": "Carnegie Mellon University",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
       "id": "e65dc1bc0daaadface4878b06e8669a2f4f0ade2cfed7f3da089bf24de67a79d",
       "locations": [
         "Pittsburgh, PA"
@@ -11640,21 +11655,6 @@
       "source": "simplify",
       "title": "Operations Analyst Intern",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261259"
-    },
-    {
-      "company": "GM financial",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "d08eb73edce45fa93bbb4af0cde2e2b358ee1be8c47f236f168e118f9a71529e",
-      "locations": [
-        "Arlington, TX"
-      ],
-      "posted_at": "2026-09-23",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Engineer Intern",
-      "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943"
     },
     {
       "company": "GM financial",
@@ -21925,21 +21925,6 @@
       "company": "RTX",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "1de8375d97b26a8db550b24fa169f5caab93d9bee0505cf8f946a9db2f51d39a",
-      "locations": [
-        "Melbourne, FL"
-      ],
-      "posted_at": "2026-11-13",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Software Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543"
-    },
-    {
-      "company": "RTX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "1db085eb5a95636cbb89c515071c9871615b3c39e3e245aaf6e94f5a3494accb",
       "locations": [
         "El Segundo, CA"
@@ -29508,7 +29493,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-19T07:38:04.852196+00:00",
+  "last_checked": "2026-11-19T09:23:22.510588+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
