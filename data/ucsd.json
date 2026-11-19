@@ -5451,6 +5451,11 @@
       "fingerprint": "255b8bb83d484d1170ddc1c5f517a322731252971d7206fa40088cd4d17fed30",
       "revision": 1
     },
+    "url:https://ats.rippling.com/mytra/jobs/5e479468-c622-4d2b-8789-89fbc14f3292": {
+      "eligible": false,
+      "fingerprint": "4d7a9f2813665659ff5151f28f7bf8b83aa4f4511de00a4c0d6381ea3eeda184",
+      "revision": 1
+    },
     "url:https://ats.rippling.com/mytra/jobs/ce0c1a3b-21b5-42df-a710-1def7071dfd8": {
       "eligible": false,
       "fingerprint": "2dcb23a2d047f64e3187ea954138e2ea6d721c60a81634bed2bdf690f0f3f26b",
@@ -20776,10 +20781,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "embedded software engineer intern"
+        "title": "embedded software engineering intern"
       },
-      "fingerprint": "44bc09c8ab946a90fccbcb48b4e0f4ebc1e39ca829578854ae6d5d071d7ac6a7",
-      "revision": 1
+      "fingerprint": "9a2f5b32f63b5d8777da6c763935c357718435c7789db7eb6928eb1636d1a46f",
+      "revision": 2
     },
     "url:https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/colorado-springs-co/operations-technical-training-platforms-co-op_req-14416": {
       "eligible": false,
@@ -40019,6 +40024,11 @@
       "fingerprint": "93184a8eb234bb1282a06a07cd0f7a88106573908de26f88f36fab0e89f8fd4a",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/workstream/jobs/6265872004": {
+      "eligible": false,
+      "fingerprint": "e720929e9cd4983a3c458349f51f12440439367ab49ec4f2fdc0497d87b8a2e5",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/wurljobs/jobs/4716249006": {
       "eligible": false,
       "fingerprint": "d539faf8b17f9325b0d75cd78ac0dc00771794d3842724fe7a13eb4663ab001f",
@@ -49431,22 +49441,9 @@
       "revision": 4
     },
     "url:https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "tri",
-        "degrees": [],
-        "locations": [
-          "los altos, ca"
-        ],
-        "requirements": [
-          "the generalist robot learning (grl) team in the robotics division is looking for research interns for summer 2027. we are advancing core methods in 3d perception, representation learning, and world modeling. these methods enable robots to understand, reconstruct, simulate, and interact with the world across diverse environments and sensor modalities. our work spans:"
-        ],
-        "terms": [],
-        "title": "robotics intern, generalist robot learning (grl)"
-      },
-      "fingerprint": "cf997024802bc6d7718c32535b604b6154ceae1d544cd8bc58495ecf956e98e3",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "74d2a79a327f9b3a4329f8ea7bcf4d0590f8d93b1e0a75fb89686d894fdecab7",
+      "revision": 2
     },
     "url:https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871": {
       "eligible": true,
@@ -64631,6 +64628,11 @@
       "fingerprint": "5e800d2b9fcb1f7bbd556da22c340aede70b4919e3ac7d41b26a448f3466b6bd",
       "revision": 1
     },
+    "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/singapore---singapore/xmlname-2025-phd-intern---ai-research--singapore_jr267880-2": {
+      "eligible": false,
+      "fingerprint": "7461cf222abf20fef1095fcf12ddf9c509861c925c39a65cb01eb2a1c1140f7d",
+      "revision": 1
+    },
     "url:https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/united-kingdom---london/engineering-intern_jr367683": {
       "eligible": false,
       "fingerprint": "35d0b84d7b4f12dca9dbe3b6fcab19d19586f2679841ad80f588a413d1959fb4",
@@ -72001,13 +72003,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "applications software developer intern"
       },
-      "fingerprint": "3f28bebcd8eefd292fbeeaf2323786b0fae2c56f3c07fb06e417429219381452",
-      "revision": 3
+      "fingerprint": "39b3bcde78ce4251efbe5cedfa7b05612045acbd2acdbd1d87cb6ea0b038fa64",
+      "revision": 4
     },
     "url:https://www.ixl.com/company/jobs?gh_jid=8862214002": {
       "eligible": true,
@@ -72877,6 +72878,11 @@
       "eligible": false,
       "fingerprint": "21c6d15f7c86d5f06185e13051e3a806abf8d87f3fb77b5a84e07aebcb626eba",
       "revision": 0
+    },
+    "url:https://www.metacareers.com/jobs/994911809842621": {
+      "eligible": false,
+      "fingerprint": "29acbac54395a054a1981c9fb66b244d757dfed6bd64809e3c3a231b8a658710",
+      "revision": 1
     },
     "url:https://www.metacareers.com/jobs/997597222780035": {
       "eligible": false,
@@ -77578,7 +77584,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 413,
+  "scan_sequence": 414,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
