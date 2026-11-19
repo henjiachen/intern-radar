@@ -2495,6 +2495,24 @@
       "fingerprint": "9e65577582cf3c8faaa6c12a0dbba0e399f48e58252867b6d2248da301e46b6c",
       "revision": 1
     },
+    "url:https://amperity.com/careers?gh_jid=8393990": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "amperity",
+        "degrees": [],
+        "locations": [
+          "seattle, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software development engineer intern"
+      },
+      "fingerprint": "aabd3435344de472d0f92d8db75d85883ea419db23358c01c8cf5ae65a0e6b32",
+      "revision": 1
+    },
     "url:https://analogdevices.wd1.myworkdayjobs.com/external/job/canada-toronto/embedded-software-engineer_r266615": {
       "eligible": false,
       "fingerprint": "080ffcfe6bd25f04022dce415f3b4c32cb1bfa5f3ed91eb809c1c71caf6bc9b8",
@@ -15576,8 +15594,8 @@
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8208465": {
       "eligible": false,
-      "fingerprint": "885efe8734f84122caad5fb585bd5f400418b3f38d0e7b3107e3ac1dbbf23529",
-      "revision": 0
+      "fingerprint": "f769115f2b17da863b57857f999e22094bc37a9957e5a56b59f03e58d9484a72",
+      "revision": 1
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8210170": {
       "eligible": true,
@@ -20475,6 +20493,24 @@
         "title": "revenue data science intern"
       },
       "fingerprint": "ebbc6caf889cbcd2235fd306454c130cef699be2a21f9423ddb1d6805f596d25",
+      "revision": 1
+    },
+    "url:https://eicl.fa.em5.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/14495": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "carnival corporation",
+        "degrees": [],
+        "locations": [
+          "seattle, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "bi report developer intern, crew operations"
+      },
+      "fingerprint": "68cb3348375690aa4111a42bdce9864b01739557ae73c659c97da32c374357eb",
       "revision": 1
     },
     "url:https://ejhp.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_2/job/2627417": {
@@ -26650,8 +26686,8 @@
     },
     "url:https://go.vansh.nyc/1cx": {
       "eligible": false,
-      "fingerprint": "dcaf75ea213a97afb80ded6dd6d43cad26b89331c6ce4ef4c39fce6b13d2c8a3",
-      "revision": 1
+      "fingerprint": "722a34c754243fe69595cad72646c91b8bdc2e37a0085f121e76b2732f84f3c7",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1cz": {
       "eligible": false,
@@ -32377,6 +32413,24 @@
       "eligible": false,
       "fingerprint": "a715e16dc7e9de6c855f6b5d35e3a1e28a7f46c7e630413202450cdb6d0fc543",
       "revision": 0
+    },
+    "url:https://ibwujb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/11153": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "ralliant",
+        "degrees": [],
+        "locations": [
+          "beaverton, or"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "7e6d9ab42d57a11bb76bdd662c9d68e08cc2619874cfa0b015fb2601cb216a10",
+      "revision": 1
     },
     "url:https://ice.jibeapply.com/jobs/14059?icims=1": {
       "eligible": false,
@@ -38702,6 +38756,26 @@
         "title": "computer vision engineer intern - ai/ml"
       },
       "fingerprint": "ef6c9e5984b9e620570d0814bcf12b907f8cbfc0678dbf2c50c8ea43e18c8912",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/scoutspace/jobs/5489232008": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "scout space",
+        "degrees": [],
+        "locations": [
+          "remote",
+          "reston, va",
+          "united states"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded firmware engineering intern"
+      },
+      "fingerprint": "f6856c52a6686d1c4a2fa2637663eb57e432bd409578cc9ef8ab3135010bc53d",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008": {
@@ -60613,8 +60687,8 @@
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--generative-ai---2026_jr2016035": {
       "eligible": false,
-      "fingerprint": "59b7a470a8f5d3ea85e51304f1edda5ad03bd15d38a704cae666e118ef67aafa",
-      "revision": 9
+      "fingerprint": "29bd436b1c572fd8c84d0a6bc0bc6091eaf61e24247872d86cbf91801993da65",
+      "revision": 10
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--generative-ai-for-physical-ai---2027_jr2025025": {
       "eligible": false,
@@ -75040,6 +75114,10 @@
     "https://go.vansh.nyc/1CQ": 423,
     "https://go.vansh.nyc/1CS": 423,
     "https://go.vansh.nyc/1CT": 423,
+    "https://go.vansh.nyc/1CU": 425,
+    "https://go.vansh.nyc/1CV": 425,
+    "https://go.vansh.nyc/1CW": 425,
+    "https://go.vansh.nyc/1CY": 425,
     "https://go.vansh.nyc/1Ci": 407,
     "https://go.vansh.nyc/1Ck": 408,
     "https://go.vansh.nyc/1Co": 409,
@@ -76557,6 +76635,10 @@
     "https://go.vansh.nyc/1CQ": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
     "https://go.vansh.nyc/1CS": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Security-Intern_01890095",
     "https://go.vansh.nyc/1CT": "https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Software-Developer--AI-Project--Intern_R-00197294",
+    "https://go.vansh.nyc/1CU": "https://job-boards.greenhouse.io/scoutspace/jobs/5489232008",
+    "https://go.vansh.nyc/1CV": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/14495",
+    "https://go.vansh.nyc/1CW": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153",
+    "https://go.vansh.nyc/1CY": "https://amperity.com/careers?gh_jid=8393990#openpositions",
     "https://go.vansh.nyc/1Ci": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
     "https://go.vansh.nyc/1Ck": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665",
     "https://go.vansh.nyc/1Co": "https://jobs.smartrecruiters.com/syngentagroup/744000162383708",
@@ -77811,7 +77893,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 424,
+  "scan_sequence": 425,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
