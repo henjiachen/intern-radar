@@ -614,6 +614,22 @@
       "fingerprint": "8069a1542cb400ab4c97ec5caa9ca4227305e22f0a9201e6a5c43ac18a9c5bf2",
       "revision": 0
     },
+    "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-software-tools-and-assurance-grad-intern_r017260": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "aerospace",
+        "degrees": [],
+        "locations": [
+          "el segundo, ca"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "2027 software tools and assurance grad intern"
+      },
+      "fingerprint": "d68e5172dba1676b67c7563e2e4522fbe9de292e7fffd53a40b0a55b6185553e",
+      "revision": 1
+    },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-software-tools-and-assurance-intern_r016429": {
       "eligible": true,
       "evidence": {
@@ -2563,8 +2579,8 @@
     },
     "url:https://analogdevices.wd1.myworkdayjobs.com/external/job/us-ma-wilmington/embedded-software-engineer-intern_r266132": {
       "eligible": false,
-      "fingerprint": "12c67ec16f7138f38b656e34cad3bf6e7f30da18ad5a331d398a0721ac8531ce",
-      "revision": 0
+      "fingerprint": "b71c92a02e182d9e279c543ce89b968b09221f7e6eb131e1bc100fb7c7c9fff7",
+      "revision": 1
     },
     "url:https://analogdevices.wd1.myworkdayjobs.com/external/job/us-ma-wilmington/software-engineering-intern--medical-device---healthcare-integration-_r269165": {
       "eligible": true,
@@ -2582,6 +2598,11 @@
         "title": "software engineering intern, medical device & healthcare integration"
       },
       "fingerprint": "973c1e65f9d72d182c51156c24980ad5fcf930ba74ae3a9a988cb0f09564c0cc",
+      "revision": 1
+    },
+    "url:https://analogdevices.wd1.myworkdayjobs.com/external/job/us-tx-austin-plaza-on-the-lake/embedded-software-engineer-intern_r269548": {
+      "eligible": false,
+      "fingerprint": "bcea21a3205fc59a390441378b8580237decccd5ffe3b0d2ab343781fab217e3",
       "revision": 1
     },
     "url:https://ancestry.wd501.myworkdayjobs.com/careers/job/draper-utah/software-engineer---observability--co-op_r003434": {
@@ -17510,13 +17531,13 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12182": {
       "eligible": false,
-      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
-      "revision": 6
+      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
+      "revision": 7
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12183": {
       "eligible": false,
-      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
-      "revision": 10
+      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
+      "revision": 11
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12184": {
       "eligible": false,
@@ -17847,6 +17868,16 @@
         "title": "software engineer intern"
       },
       "fingerprint": "1043ab20b67fa8f8eb323c938bddbdff121d386be02064ee54bd1d52bd78fcf8",
+      "revision": 1
+    },
+    "url:https://copart.wd12.myworkdayjobs.com/copart/job/dallas-tx---headquarters/software-engineering-intern_jr112072-1": {
+      "eligible": false,
+      "fingerprint": "99aac47e464f8c8b8fa8e646bc992711c0df3a1f241dfa5dad87d7b07474d7ea",
+      "revision": 1
+    },
+    "url:https://copart.wd12.myworkdayjobs.com/copart/job/dallas-tx---headquarters/software-engineering-intern_jr112593": {
+      "eligible": false,
+      "fingerprint": "99aac47e464f8c8b8fa8e646bc992711c0df3a1f241dfa5dad87d7b07474d7ea",
       "revision": 1
     },
     "url:https://corningjobs.corning.com/job/corning-intern,-image-analysis-summer-2027-ny-14831/1448762800?ats=successfactors": {
@@ -20759,6 +20790,24 @@
       "fingerprint": "d61f05d529fbeced555c144397383bd60eb562c06dfbc9f3eaa791b33727e1be",
       "revision": 1
     },
+    "url:https://elhe.fa.us8.oraclecloud.com/hcmui/candidateexperience/en/sites/intern/job/2260": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "idaho national laboratory",
+        "degrees": [],
+        "locations": [
+          "idaho falls, id"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, java/api development for neutronics code"
+      },
+      "fingerprint": "e88e1b0fd40a29e0b54a56d2548936b8191c598fc4e3021179c359520f50cefd",
+      "revision": 1
+    },
     "url:https://elkay.wd1.myworkdayjobs.com/elkay_external/job/milwaukee-wi/embedded-firmware-intern--summer-2027-_req-020150-1": {
       "eligible": true,
       "evidence": {
@@ -23515,6 +23564,22 @@
       "fingerprint": "6f1117372f7e65cbd7bad944ef429f4889bc4bce3f0dfc0ae9ff386e9e34eceb",
       "revision": 0
     },
+    "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/data-engineer-developer-intern---summer-2027_r9919": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "great american insurance group",
+        "degrees": [],
+        "locations": [
+          "cincinnati, oh"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "data engineer developer intern - summer 2027"
+      },
+      "fingerprint": "28b6fe8b293a86c5623f2c03452a0ffa946b4a85065b2f58d0d92df7d1558cc8",
+      "revision": 1
+    },
     "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/data-engineering-intern---summer-2027_r9794": {
       "eligible": true,
       "evidence": {
@@ -25710,6 +25775,22 @@
       "fingerprint": "f447e5befed6ddb421bcaf356245b553d30009e6355b128ac6325ab7b367063d",
       "revision": 1
     },
+    "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-124--400-collins-rd-ne--bldg-124/software-engineering-intern--summer-2027-_01889954": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "raytheon",
+        "degrees": [],
+        "locations": [
+          "cedar rapids, ia"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "software engineering intern - summer 2027"
+      },
+      "fingerprint": "f447e5befed6ddb421bcaf356245b553d30009e6355b128ac6325ab7b367063d",
+      "revision": 1
+    },
     "url:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-131--5450-c-ave-ne--bldg-131/xmlname-2027-summer-fall-co-op--ags-software-engineering--onsite-_01871646": {
       "eligible": true,
       "evidence": {
@@ -26712,9 +26793,9 @@
       "fingerprint": "61d5e9719c7689b57e8a4635df52ed07e1edd2d1cfac54a46704ed7abcf49e1c",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1da": {
+    "url:https://go.vansh.nyc/1d7": {
       "eligible": false,
-      "fingerprint": "1b5cd4de2fba6866cc569d5ee41d42f4a743cbf3a75e99627e68f6675dcda702",
+      "fingerprint": "2d644cf175bf10d2203e3e1a31f5bcd8a92e5388072624edbf1a03da91dd6325",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1dj": {
@@ -31764,8 +31845,8 @@
     },
     "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/spring-texas-united-states-of-america/firmware-engineer-intern_1213627": {
       "eligible": false,
-      "fingerprint": "8b342936fff6090f5b06335ef4b01a0df9715ed8555dee64575fcd951aa1faae",
-      "revision": 1
+      "fingerprint": "feeb36fb96644d96d6139d9b8aa2f518f7a45bb3a718a7e53abc56507293974b",
+      "revision": 2
     },
     "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/spring-texas-united-states-of-america/software-engineer-intern_1213625": {
       "eligible": true,
@@ -31785,6 +31866,7 @@
           "roseville, ca",
           "san jose, ca",
           "spring, tx",
+          "spring, tx +9",
           "sunnyvale, ca",
           "westford, ma"
         ],
@@ -31795,8 +31877,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "5bd5550181418d3073553e903ac5cde3ab51c891e706d6452ffada57bb375512",
-      "revision": 1
+      "fingerprint": "30784384a58c7ff91671663996bca31a9ef218b4409bb1c04eb7e742f85436dc",
+      "revision": 2
     },
     "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/sunnyvale-california-united-states-of-america/firmware-engineering-intern_1214254": {
       "eligible": false,
@@ -42597,8 +42679,8 @@
     },
     "url:https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe": {
       "eligible": false,
-      "fingerprint": "5739e0ea756d4ce96f80bef7c3108819c66a6ca7d5e29db3d32df76f9a9aeee8",
-      "revision": 1
+      "fingerprint": "ea418e7d1f9fa0f8ba7362948ceeeccec5e07f9a6fca619af08bc351b4b17442",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5": {
       "eligible": false,
@@ -46751,6 +46833,22 @@
     "url:https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8/apply": {
       "eligible": false,
       "fingerprint": "58a3b86bd13b1e80cd2cdf6252b5c97750d7a720f9b92d6fe47eaefd4be0fa9d",
+      "revision": 1
+    },
+    "url:https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "cirrus logic",
+        "degrees": [],
+        "locations": [
+          "austin, tx"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "2027 internship - software engineer - ai/ml"
+      },
+      "fingerprint": "cd7370630fd676e7c83caebfbabb15741e359bc010ca87d11a5c7f760d6b2cf5",
       "revision": 1
     },
     "url:https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61/apply": {
@@ -52221,26 +52319,9 @@
       "revision": 0
     },
     "url:https://jobs.smartrecruiters.com/syngentagroup/744000162383708": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "syngenta group",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "greensboro, nc"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "data science intern"
-      },
-      "fingerprint": "cd3e57ba3a85184d4213200e504b581d58277910471051a06582ee1ecf5983cf",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "e347f86c8dbf64582ed1ce99467127b11c73ba83384d884418da9c665ae45c82",
+      "revision": 3
     },
     "url:https://jobs.smartrecruiters.com/ttp1/744000149038758": {
       "eligible": false,
@@ -52559,6 +52640,11 @@
       "eligible": false,
       "fingerprint": "050fffc0d43ee5fc3d954609040f38439056c4c702c594ef535eb0103d37fb73",
       "revision": 2
+    },
+    "url:https://jobs.smartrecruiters.com/westerndigital/744000162353069-spring-2027-intern-software-engineering?oga=true": {
+      "eligible": false,
+      "fingerprint": "65584056e44cad9bb715a398eae714974c66c05e8be1319b822c51b5ce45c945",
+      "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/winsupply1/3743990015014717": {
       "eligible": false,
@@ -53871,6 +53957,11 @@
       "fingerprint": "6ffb7812c44f6ce41111a5d1bf27e8b80fd15a1be5a562ff5d9aba8ff7258cfd",
       "revision": 1
     },
+    "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/software-applications-engineering-intern_2642337-1": {
+      "eligible": false,
+      "fingerprint": "ae8acde7cdcd7ed0c1a739ec43220118e76cf6b7d8633904f5f0a610c37f99f1",
+      "revision": 1
+    },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/software-engineer-intern_2642721-1": {
       "eligible": false,
       "fingerprint": "26c205552b5f9c7ddb9628142f0c174367864f80a8d8b05a2c6cc73251070065",
@@ -53903,6 +53994,11 @@
       "eligible": false,
       "fingerprint": "d74e6c3df336bc89a64b3fff70ab3c07de66240bd08873ef093c439226f7134f",
       "revision": 0
+    },
+    "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/software-engineering-intern_2641572-1": {
+      "eligible": false,
+      "fingerprint": "a49a9585822168fb41d6609f7ca8649e996b024ac2b1b75aeb91d1c1f31ac7c5",
+      "revision": 1
     },
     "url:https://kla.wd1.myworkdayjobs.com/search/job/milpitas-ca/software-engineering-intern_2641581-1": {
       "eligible": false,
@@ -54059,6 +54155,11 @@
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/image-processing-intern_2642159-2": {
       "eligible": false,
       "fingerprint": "782c64ab7aa1f89644328d6e996f3b19861babe4ab40b74ec963a1374fec0681",
+      "revision": 1
+    },
+    "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-applications-engineering-intern_2642337": {
+      "eligible": false,
+      "fingerprint": "ae8acde7cdcd7ed0c1a739ec43220118e76cf6b7d8633904f5f0a610c37f99f1",
       "revision": 1
     },
     "url:https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineer-intern--c----linux----summer-2027_2641878": {
@@ -58703,8 +58804,8 @@
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---main-site/intern---ssd-firmware_jr115210": {
       "eligible": false,
-      "fingerprint": "30a40e8efe449f0b887ee925d03cdeec0fd7f537ed25f67ea385d2c2c459adcf",
-      "revision": 2
+      "fingerprint": "88c742b799ec73662405531e5252d97467d6455f9d0ba238ab474a76984192a2",
+      "revision": 3
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/boise-id---sig-building/embedded-software-engineering-intern_jr115959": {
       "eligible": false,
@@ -58728,7 +58829,8 @@
         "company": "micron technology",
         "degrees": [],
         "locations": [
-          "longmont, co"
+          "longmont, co",
+          "longmont-max, co"
         ],
         "requirements": [],
         "terms": [
@@ -58736,8 +58838,8 @@
         ],
         "title": "ssd firmware intern, cicd"
       },
-      "fingerprint": "ecfe8249759b14c505b8768a81af3e621c197dd76735892167abeca093c5a80b",
-      "revision": 3
+      "fingerprint": "73254292e526a2d4357f14fb2afa6e79758e19660e4ff4726cfcce2346fdb9c6",
+      "revision": 4
     },
     "url:https://micron.wd1.myworkdayjobs.com/external/job/richardson-tx/intern---hbm-data-scientist_jr115127": {
       "eligible": false,
@@ -60614,7 +60716,8 @@
           "phd"
         ],
         "locations": [
-          "santa clara, ca"
+          "santa clara, ca",
+          "us, ca, santa clara"
         ],
         "requirements": [],
         "terms": [
@@ -60622,13 +60725,13 @@
         ],
         "title": "deep learning computer architecture intern"
       },
-      "fingerprint": "8400d639ec1580c35c008e40f374818983a0d235147e4bc99f1cb9ebd4bb7d21",
-      "revision": 8
+      "fingerprint": "19ddc534ba6c591699e61c28e4ac0f36d56f30d8ba7c066679a703898edd0e23",
+      "revision": 9
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning_jr2023497-1": {
       "eligible": false,
-      "fingerprint": "9399de29e1069a4982e2865aecb980bfa8fe1de46195e24a13fa38cdfe4cf167",
-      "revision": 6
+      "fingerprint": "2e130a5f2868de76bac5cc0b2014e17423cca8877d592cd66ad19bbf812cddb2",
+      "revision": 7
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--software-engineering_jr2023495": {
       "eligible": true,
@@ -60642,7 +60745,8 @@
         ],
         "locations": [
           "canada",
-          "santa clara, ca"
+          "santa clara, ca",
+          "us, ca, santa clara"
         ],
         "requirements": [],
         "terms": [
@@ -60650,8 +60754,8 @@
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "08b7f10b1959656b88bfc09ddd927266fc46735ec94e85f59870e0b66d9fe933",
-      "revision": 9
+      "fingerprint": "11559cba0989c3fdad9fec0d533976dd1eb3774cded59f4a53023fc637303123",
+      "revision": 10
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--systems-software-engineering_jr2023492": {
       "eligible": true,
@@ -60660,19 +60764,20 @@
         "company": "nvidia",
         "degrees": [],
         "locations": [
-          "santa clara, ca"
+          "santa clara, ca",
+          "us, ca, santa clara"
         ],
         "requirements": [],
         "terms": [],
         "title": "nvidia 2027 internships: systems software engineering"
       },
-      "fingerprint": "81211c21eea65d30643c56186e72285ef2c6832a23685eafdd77daca9b359888",
-      "revision": 10
+      "fingerprint": "247a8b0edac1a13ecefd8aff7d9a681330c1ba85ef2e40c1f8049376e070ccab",
+      "revision": 11
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-spring-2027-internships--developer-and-performance-technology_jr2023499": {
       "eligible": false,
-      "fingerprint": "3adf5cde254efff996fa6334d8c7b186f37b1638a27226a7a1d7407695b76852",
-      "revision": 10
+      "fingerprint": "edcf289c2f45978cd0a0ba3376c200f322ed805489d7f7b8188918aaef6d4f53",
+      "revision": 11
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--ai-accelerator-design-and-vlsi---2027_jr2026584-1": {
       "eligible": false,
@@ -65075,6 +65180,11 @@
       "fingerprint": "25431a56ff1bafebd24da9868a6a08fe9fc3087a3784a7420e4d50876fcd6bf5",
       "revision": 1
     },
+    "url:https://sallie-mae.wd5.myworkdayjobs.com/careers/job/newark-de/software-engineering-intern_r26_000688": {
+      "eligible": false,
+      "fingerprint": "4567ca432e19e5f60223363dbb7d88f56d7314bad6faf36d424b262f05f4671b",
+      "revision": 1
+    },
     "url:https://sanofi.wd3.myworkdayjobs.com/sanoficareers/job/cambridge-ma/xmlname-2027-summer-intern-us-advanced-analytics-cambridge-ma_r2865218": {
       "eligible": true,
       "evidence": {
@@ -65437,6 +65547,22 @@
         "title": "python backend developer intern - energy flexibility platform"
       },
       "fingerprint": "bbe602de4c7c581e91f2bf70c0f7e3c4b3a73496ba2062d09ae96e4ef74ba73c",
+      "revision": 1
+    },
+    "url:https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---software-engineering_r26560-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "sierra space",
+        "degrees": [],
+        "locations": [
+          "centennial, co +3"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "2027 summer internship - software engineering"
+      },
+      "fingerprint": "32b101a338731d9d4ab178f2353e28cce968582c652cbb4cf672da46283c25e6",
       "revision": 1
     },
     "url:https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/support-center---akron-oh/data-analytics-intern_req_84317": {
@@ -66133,6 +66259,38 @@
       "fingerprint": "06cc9c2afeaf2a0c5cc85f587897627d6f4537c3071dd0f60888ca8e92e08615",
       "revision": 1
     },
+    "url:https://statestreet.wd1.myworkdayjobs.com/global/job/boston-massachusetts/software-engineering-intern---full-time-internship--jan---june-2027-_r-801269-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "state street",
+        "degrees": [],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "software engineering intern - full-time internship - jan - june 2027"
+      },
+      "fingerprint": "9795170bcb5e8947e55ea1069905ad50f102da600e0c7b14b3be9622573a110b",
+      "revision": 1
+    },
+    "url:https://statestreet.wd1.myworkdayjobs.com/global/job/boston-massachusetts/software-engineering-intern---full-time-internship--jan---june-2027-_r-801272": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "state street",
+        "degrees": [],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "software engineering intern - full-time internship - jan - june 2027"
+      },
+      "fingerprint": "9795170bcb5e8947e55ea1069905ad50f102da600e0c7b14b3be9622573a110b",
+      "revision": 1
+    },
     "url:https://statestreet.wd1.myworkdayjobs.com/global/job/quincy-massachusetts/software-engineer--intergration-services----full-time-internship--jan---june-2027-_r-801234": {
       "eligible": true,
       "evidence": {
@@ -66494,11 +66652,13 @@
           "boston, ma"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 - embedded firmware engineering intern - boston - ma"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded firmware engineering intern"
       },
-      "fingerprint": "68b2e841dd7961400a61dadf2f1e335283bfb2b32ae0da34264457b2c0d0dc51",
-      "revision": 0
+      "fingerprint": "f4cce2ec49e7e483769dabec8cc9fd084ed40084252ac9bf5d5dc2d75706ce72",
+      "revision": 1
     },
     "url:https://studentopportunities-lutron.icims.com/jobs/5361/job": {
       "eligible": true,
@@ -66510,11 +66670,13 @@
           "austin, tx"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 - embedded firmware engineering intern - austin - tx"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded firmware engineering intern"
       },
-      "fingerprint": "e360da7152ad55d3198629405c58658cb85da0d56fdf8580a3942351c01ef674",
-      "revision": 0
+      "fingerprint": "5964c62ebbe2915cb2b07c2170985fb9a5f9c296738b1f71b3f273a199ea3808",
+      "revision": 1
     },
     "url:https://studentopportunities-lutron.icims.com/jobs/5362/job": {
       "eligible": true,
@@ -66526,11 +66688,13 @@
           "boynton beach, fl"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 - embedded firmware engineering intern - boynton beach - fl"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded firmware engineering intern"
       },
-      "fingerprint": "e95b0ce2c6daff7e56027ae6a30c9042ae0747888afa18a1844e2617a2cf3ba6",
-      "revision": 1
+      "fingerprint": "32597b0d6e176e8497c3f48a723129cf21b66c7580c39e6b24bd1fe3d571c8d2",
+      "revision": 2
     },
     "url:https://studentopportunities-lutron.icims.com/jobs/5363/job": {
       "eligible": true,
@@ -66563,11 +66727,13 @@
           "cincinnati, oh"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 - embedded software engineering intern - cincinnati - oh"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded software engineering intern"
       },
-      "fingerprint": "4dd422e0622af6db69011de574c9fa862b270a7cb29d4f0c443d24bba35c865a",
-      "revision": 1
+      "fingerprint": "fe37284507b3617ba5036aee9b0d0b5645e4181abeb9a487fb709ca2d4b278b3",
+      "revision": 2
     },
     "url:https://studentopportunities-lutron.icims.com/jobs/5382/job": {
       "eligible": true,
@@ -66579,11 +66745,13 @@
           "coopersburg, pa"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 - software engineering intern - lehigh valley - pa"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
       },
-      "fingerprint": "7b3077cb0c32d6488f338b5e4825b5be9e6fe5f2edbf70e2f9a57c69800321f4",
-      "revision": 1
+      "fingerprint": "72a7726fd300251866222f64cc177a1713638f1b0ebabb18e7112a2dc29edf81",
+      "revision": 2
     },
     "url:https://studentopportunities-lutron.icims.com/jobs/5384/job": {
       "eligible": true,
@@ -66595,11 +66763,13 @@
           "philadelphia, pa"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 - software engineering intern - philadelphia - pa"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
       },
-      "fingerprint": "18ce6f1678fb6cfc0c4072e04993f4c1c5d8f0b5596efd985b7bde1ab747ef2e",
-      "revision": 1
+      "fingerprint": "5f8861731adc99d292932a90b3419f1688ab39ccb815ed9511ac923c636bac23",
+      "revision": 2
     },
     "url:https://studentopportunities-lutron.icims.com/jobs/5386/job": {
       "eligible": false,
@@ -66616,11 +66786,13 @@
           "boston, ma"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 - software engineering intern - boston - ma"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
       },
-      "fingerprint": "1f9d4fa0d95a4abebb5d00e465f90f013aca8e77ce2dc30148e48ac534f73a6d",
-      "revision": 1
+      "fingerprint": "a2846e2516428e0dc653bc192cd30983899ca6285bc135472348c77388913cc3",
+      "revision": 2
     },
     "url:https://studentopportunities-lutron.icims.com/jobs/5388/job": {
       "eligible": true,
@@ -66632,11 +66804,13 @@
           "austin, tx"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 - software engineering intern - austin - tx"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
       },
-      "fingerprint": "6456dddadf49ec07124f843777a269f9533819451649448f63d838ee8c46f3a6",
-      "revision": 1
+      "fingerprint": "cc0dee9b72844535a19a5117b78d8fed09248e187472fa2aeec67d9bf4fe53e3",
+      "revision": 2
     },
     "url:https://studentopportunities-lutron.icims.com/jobs/5392/job": {
       "eligible": true,
@@ -66648,10 +66822,48 @@
           "cincinnati, oh"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 - software engineering intern - cincinnati - oh"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
       },
-      "fingerprint": "bd55c203114b75e5a88a2c1af54428a32bb1fbbb96181fbe5612ebd864115fe1",
+      "fingerprint": "127a6d8d0f5eb36a42d732434881981c80a18be918e3c75dd75ce379f5a9dd90",
+      "revision": 2
+    },
+    "url:https://studentopportunities-lutron.icims.com/jobs/5510/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lutron",
+        "degrees": [],
+        "locations": [
+          "philadelphia, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science and machine learning intern"
+      },
+      "fingerprint": "0ad365b8307b9e77d74d176a7166ba61d6fd7066169dfa0749a8517879d8eccc",
+      "revision": 1
+    },
+    "url:https://studentopportunities-lutron.icims.com/jobs/5519/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lutron",
+        "degrees": [],
+        "locations": [
+          "boston, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science and machine learning intern"
+      },
+      "fingerprint": "32876da9268fd174762f096cfeca343bc259d910f0554bca90861f68d157db16",
       "revision": 1
     },
     "url:https://studentopportunities-lutron.icims.com/jobs/5616/job": {
@@ -69696,6 +69908,11 @@
       },
       "fingerprint": "2d598fabfd1928bcd6ba93e2594935bcda93b22c1ec430f4e9b29606ba93267b",
       "revision": 2
+    },
+    "url:https://valeris.wd108.myworkdayjobs.com/valeris/job/louisville-ky/software-engineer-intern_jr1044": {
+      "eligible": false,
+      "fingerprint": "96adc8fea642fd3fec83d0fdeb6750ce8e3de4449175670baff51ee24b23a08b",
+      "revision": 1
     },
     "url:https://valeris.wd108.myworkdayjobs.com/valeris/job/remote-kentucky/intern--it_jr971": {
       "eligible": false,
@@ -75175,6 +75392,18 @@
     "https://go.vansh.nyc/1Cz": 412,
     "https://go.vansh.nyc/1D1": 426,
     "https://go.vansh.nyc/1D2": 426,
+    "https://go.vansh.nyc/1D6": 427,
+    "https://go.vansh.nyc/1Db": 427,
+    "https://go.vansh.nyc/1Dc": 427,
+    "https://go.vansh.nyc/1Dd": 427,
+    "https://go.vansh.nyc/1De": 427,
+    "https://go.vansh.nyc/1Df": 427,
+    "https://go.vansh.nyc/1Dg": 427,
+    "https://go.vansh.nyc/1Dh": 427,
+    "https://go.vansh.nyc/1Di": 427,
+    "https://go.vansh.nyc/1Dj": 427,
+    "https://go.vansh.nyc/1Dl": 427,
+    "https://go.vansh.nyc/1Dn": 427,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -76698,6 +76927,18 @@
     "https://go.vansh.nyc/1Cz": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
     "https://go.vansh.nyc/1D1": "https://careers-alliedconsultants.icims.com/jobs/9084/ai-ml-engineer-intern/job",
     "https://go.vansh.nyc/1D2": "https://uscareers-docusign.icims.com/jobs/31092/product-data-science-intern/job",
+    "https://go.vansh.nyc/1D6": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/intern/job/2260",
+    "https://go.vansh.nyc/1Db": "https://studentopportunities-lutron.icims.com/jobs/5360/summer-2027---embedded-firmware-engineering-intern---boston%2c-ma/job",
+    "https://go.vansh.nyc/1Dc": "https://studentopportunities-lutron.icims.com/jobs/5361/summer-2027---embedded-firmware-engineering-intern---austin%2c-tx/job",
+    "https://go.vansh.nyc/1Dd": "https://studentopportunities-lutron.icims.com/jobs/5362/summer-2027---embedded-firmware-engineering-intern---boynton-beach%2c-fl/job",
+    "https://go.vansh.nyc/1De": "https://studentopportunities-lutron.icims.com/jobs/5366/summer-2027---embedded-software-engineering-intern---cincinnati%2c-oh/job",
+    "https://go.vansh.nyc/1Df": "https://studentopportunities-lutron.icims.com/jobs/5382/summer-2027---software-engineering-intern---lehigh-valley%2c-pa/job",
+    "https://go.vansh.nyc/1Dg": "https://studentopportunities-lutron.icims.com/jobs/5384/summer-2027---software-engineering-intern---philadelphia%2c-pa/job",
+    "https://go.vansh.nyc/1Dh": "https://studentopportunities-lutron.icims.com/jobs/5387/summer-2027---software-engineering-intern---boston%2c-ma/job",
+    "https://go.vansh.nyc/1Di": "https://studentopportunities-lutron.icims.com/jobs/5388/summer-2027---software-engineering-intern---austin%2c-tx/job",
+    "https://go.vansh.nyc/1Dj": "https://studentopportunities-lutron.icims.com/jobs/5392/summer-2027---software-engineering-intern---cincinnati%2c-oh/job",
+    "https://go.vansh.nyc/1Dl": "https://studentopportunities-lutron.icims.com/jobs/5510/summer-2027-%e2%80%93-data-science-and-machine-learning-intern---philadelphia%2c-pa/job",
+    "https://go.vansh.nyc/1Dn": "https://studentopportunities-lutron.icims.com/jobs/5519/summer-2027-%e2%80%93-data-science-and-machine-learning-intern---boston%2c-ma/job",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -77944,7 +78185,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 426,
+  "scan_sequence": 427,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
