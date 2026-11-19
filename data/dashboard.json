@@ -7811,21 +7811,6 @@
       "url": "https://campus-us-corgan.icims.com/jobs/4109/job?mobile=true&needsRedirect=false"
     },
     {
-      "company": "CoStar Group",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "e33bce4acc96a6cd0a3a3e8826bc93bb80a18514a493c7e45b4f1fa1c2708660",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "posted_at": "2026-11-12",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Vision & Learning Intern",
-      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196"
-    },
-    {
       "company": "Costco",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -11071,22 +11056,6 @@
       "company": "General Dynamics Information Technology",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "dcac536dcc0e071df6ff2fbbc20216155a384ae0c2e64d2b9f09c2a75ab48b3b",
-      "locations": [
-        "Falls Church, VA",
-        "Gaithersburg, MD"
-      ],
-      "posted_at": "2026-11-16",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Engineering Intern",
-      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323"
-    },
-    {
-      "company": "General Dynamics Information Technology",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "b2a46caa6a8d6f5f870bd69c0c99d5f46ffd8efcc3f5a380fa83768663f5f87b",
       "locations": [
         "Bossier City, LA"
@@ -12273,7 +12242,7 @@
       "posted_at": "2026-10-05",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "vanshb03",
       "title": "Cloud Developer Intern",
       "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950"
     },
@@ -29556,7 +29525,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-19T03:06:21.502197+00:00",
+  "last_checked": "2026-11-19T04:15:00.154629+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

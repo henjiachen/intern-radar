@@ -26525,11 +26525,6 @@
       "fingerprint": "a7999aaa737ace8b3127402fa250f19e624d1aee518eaf37573abaa542a830fe",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1ce": {
-      "eligible": false,
-      "fingerprint": "47effd38598f7ae5e0a0c84f6a067902238973b290a259c53a3b7d50620cbb95",
-      "revision": 1
-    },
     "url:https://go.vansh.nyc/1cg": {
       "eligible": false,
       "fingerprint": "6d15bf7c3350322b7ce51adb792e43209b91fad90dbc8660a4e023cd4456c7f6",
@@ -31513,13 +31508,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "cloud developer intern"
       },
-      "fingerprint": "f6c222958a51bd213520f118ef8ffe5e46d26b7f08d00f5e99e3ff1782001c40",
-      "revision": 1
+      "fingerprint": "95d80b39348f24be6143208f74b8e31f49fea5812a4511fee7ea32c63e35b90d",
+      "revision": 2
     },
     "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/san-jose-california-united-states-of-america/wireless-networking-intern_1214969": {
       "eligible": false,
@@ -77584,7 +77578,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 414,
+  "scan_sequence": 415,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
