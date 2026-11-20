@@ -16654,6 +16654,24 @@
       "fingerprint": "5492d2dae77f5428f1d8574facb21c61f2fa0b609bdac10db523a829cacc7da4",
       "revision": 1
     },
+    "url:https://cbrands.wd5.myworkdayjobs.com/cbi_external_careers/job/rochester-new-york/intern--data-science_r-41527": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "constellation brands",
+        "degrees": [],
+        "locations": [
+          "rochester, ny"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "4798d5187ede237492e06af1926d737ef029bf78b207b388a270d9af7cda936f",
+      "revision": 1
+    },
     "url:https://cbrands.wd5.myworkdayjobs.com/cbi_external_careers/job/rochester-new-york/intern--finance-analytics_r-41494": {
       "eligible": false,
       "fingerprint": "2395257acf26636c72a0610b8108e10f67c2e2a844dddfd0f3fcf6626de81022",
@@ -76074,6 +76092,7 @@
     "https://go.vansh.nyc/1DT": 432,
     "https://go.vansh.nyc/1DU": 432,
     "https://go.vansh.nyc/1DV": 432,
+    "https://go.vansh.nyc/1DX": 433,
     "https://go.vansh.nyc/1Db": 427,
     "https://go.vansh.nyc/1Dc": 427,
     "https://go.vansh.nyc/1Dd": 427,
@@ -77628,6 +77647,7 @@
     "https://go.vansh.nyc/1DT": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
     "https://go.vansh.nyc/1DU": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007",
     "https://go.vansh.nyc/1DV": "https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern",
+    "https://go.vansh.nyc/1DX": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527",
     "https://go.vansh.nyc/1Db": "https://studentopportunities-lutron.icims.com/jobs/5360/summer-2027---embedded-firmware-engineering-intern---boston%2c-ma/job",
     "https://go.vansh.nyc/1Dc": "https://studentopportunities-lutron.icims.com/jobs/5361/summer-2027---embedded-firmware-engineering-intern---austin%2c-tx/job",
     "https://go.vansh.nyc/1Dd": "https://studentopportunities-lutron.icims.com/jobs/5362/summer-2027---embedded-firmware-engineering-intern---boynton-beach%2c-fl/job",
@@ -78893,7 +78913,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 432,
+  "scan_sequence": 433,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
