@@ -62746,6 +62746,26 @@
       "fingerprint": "399c33fdc2da68d52aa4d6c63cfbb78ec5f150b36ad5eef18114207fce6f137b",
       "revision": 0
     },
+    "url:https://pipersandler.wd501.myworkdayjobs.com/piper_sandler_careers/job/minneapolis-mn---hq/xmlname-2027-summer-internship-program---data-engineering_r-100805": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "piper sandler",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "minneapolis, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineering intern"
+      },
+      "fingerprint": "a555d0c47cb4aace85d8a4c3f76bbecc5ea3d0f94ec54cce7d96d53ebcfb82d0",
+      "revision": 1
+    },
     "url:https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/neenah-wi/intern---software-engineer--fall-2026-_r035782": {
       "eligible": true,
       "evidence": {
@@ -66731,6 +66751,27 @@
       "eligible": false,
       "fingerprint": "eb0f1b1b19f558f3bc02b482f416f56252ee9ffc0881c4d89565909b7aadd803",
       "revision": 0
+    },
+    "url:https://southernmississippitradingllc.applytojob.com/apply/jikpj1zhdo/ai-business-analytics-intern": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "southern mississippi trading",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "waynesboro, ms"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "ai and business analytics intern"
+      },
+      "fingerprint": "7c7d6e6e7ee1de2f89606c19182708869ce556143df97cf5f20e0e8ab8f3dace",
+      "revision": 1
     },
     "url:https://spa.jibeapply.com/jobs/23634?icims=1": {
       "eligible": true,
@@ -76030,6 +76071,9 @@
     "https://go.vansh.nyc/1DL": 430,
     "https://go.vansh.nyc/1DM": 430,
     "https://go.vansh.nyc/1DQ": 431,
+    "https://go.vansh.nyc/1DT": 432,
+    "https://go.vansh.nyc/1DU": 432,
+    "https://go.vansh.nyc/1DV": 432,
     "https://go.vansh.nyc/1Db": 427,
     "https://go.vansh.nyc/1Dc": 427,
     "https://go.vansh.nyc/1Dd": 427,
@@ -77581,6 +77625,9 @@
     "https://go.vansh.nyc/1DL": "https://jobs.smartrecruiters.com/llnl/3743990016985976",
     "https://go.vansh.nyc/1DM": "https://jobs.smartrecruiters.com/llnl/3743990016985486",
     "https://go.vansh.nyc/1DQ": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Engineer---Analyst-enGen-Undergraduate-Intern_J291722",
+    "https://go.vansh.nyc/1DT": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
+    "https://go.vansh.nyc/1DU": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007",
+    "https://go.vansh.nyc/1DV": "https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern",
     "https://go.vansh.nyc/1Db": "https://studentopportunities-lutron.icims.com/jobs/5360/summer-2027---embedded-firmware-engineering-intern---boston%2c-ma/job",
     "https://go.vansh.nyc/1Dc": "https://studentopportunities-lutron.icims.com/jobs/5361/summer-2027---embedded-firmware-engineering-intern---austin%2c-tx/job",
     "https://go.vansh.nyc/1Dd": "https://studentopportunities-lutron.icims.com/jobs/5362/summer-2027---embedded-firmware-engineering-intern---boynton-beach%2c-fl/job",
@@ -78846,7 +78893,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 431,
+  "scan_sequence": 432,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
