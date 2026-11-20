@@ -3405,6 +3405,11 @@
       "fingerprint": "9e1309f18ca8b13e8f77ea7e34eec3179df5e6c63ef675ba22c61e573b108c0d",
       "revision": 2
     },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557076203": {
+      "eligible": false,
+      "fingerprint": "c56424a7150162f7a1938ee4fa79e55fb8cb190f9d069d6c5490045be6047a12",
+      "revision": 1
+    },
     "url:https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0": {
       "eligible": true,
       "evidence": {
@@ -13273,6 +13278,24 @@
         "title": "manufacturing test software intern - manufacturing"
       },
       "fingerprint": "f2550d7749e0663bb0acf1e98cd5b0cdadd4b14e5e1e8b114ab40c5717400804",
+      "revision": 1
+    },
+    "url:https://careers.formlabs.com/job/8400855/apply?gh_jid=8400855": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "formlabs",
+        "degrees": [],
+        "locations": [
+          "somerville, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "api & automation intern"
+      },
+      "fingerprint": "e5b424318e8c975b4cd2250354d5ef3b0c85f433b1a0a0796eaf27cd9cb7ea9f",
       "revision": 1
     },
     "url:https://careers.foundationfinance.com/jobs/2097?icims=1": {
@@ -24066,7 +24089,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "general dynamics information technology",
+        "company": "gdit",
         "degrees": [
           "associate's",
           "bachelor's",
@@ -24079,10 +24102,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "generative ai software development intern"
+        "title": "gdit summer internship program - summer 2027 generative ai software development internship"
       },
-      "fingerprint": "e1c4bdf0e0e8362be5c5b86240999c1c89027765eddb0363d38c80acc91363f2",
-      "revision": 0
+      "fingerprint": "2559e00fc7bb751feee6d8ee4b09b48e6c9a115bbd690f5a8a3286b5fdc78143",
+      "revision": 1
     },
     "url:https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-software-development-internship_rq228931-2": {
       "eligible": true,
@@ -27010,11 +27033,6 @@
       "fingerprint": "89baee54b967ed6b2ec9c9aa884b38f0975b65946f86902c913bc6afc1fb8d8a",
       "revision": 2
     },
-    "url:https://go.vansh.nyc/1dp": {
-      "eligible": false,
-      "fingerprint": "2f1b394db110d00856fd19e1f0cb9edb84428d1598fa2e03eba069fe96a5e4b9",
-      "revision": 3
-    },
     "url:https://go.vansh.nyc/1dr": {
       "eligible": false,
       "fingerprint": "285f637da7ef4fef883a8619d8004044903ac50ed31a48a26b2114e0e5216258",
@@ -27944,11 +27962,6 @@
     "url:https://go.vansh.nyc/8o": {
       "eligible": false,
       "fingerprint": "2b13ef83735d907c70f2d454bc25ef82b1736c6657ea5344b95b324bafeb7ce2",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/8u": {
-      "eligible": false,
-      "fingerprint": "da5b6e7f4ae94870244c36925c3282b685a15b5b667a942cf14159616ccd9a09",
       "revision": 1
     },
     "url:https://go.vansh.nyc/8x": {
@@ -31306,6 +31319,24 @@
       },
       "fingerprint": "157fba73530509e190960cee7e10d66e242e463ad61adbd7d21787b7d262c11f",
       "revision": 0
+    },
+    "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pittsburgh-pa-15222-pap-penn-avenue-place/summer-2027-data-engineer---analyst-engen-undergraduate-intern_j291722": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "engen",
+        "degrees": [],
+        "locations": [
+          "pittsburgh, pa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data engineer & analyst undergraduate intern"
+      },
+      "fingerprint": "738e48cacf8e190427ee6b2cd1d9da8ee4afcc06f032852b2cb00a72962a39b7",
+      "revision": 1
     },
     "url:https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pittsburgh-pa-15222-pap-penn-avenue-place/summer-2027-enterprise-architecture-software-engineer---architect-engen-undergradute-intern_j289821": {
       "eligible": true,
@@ -44973,8 +45004,8 @@
     },
     "url:https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0": {
       "eligible": false,
-      "fingerprint": "df431e7861197976f21c2ba7b51be41bd8a8996209bf48c12b225ba33f395143",
-      "revision": 0
+      "fingerprint": "f69ceb483cc5d1cb1fb67adc6d9bea300f60a07b77946e064ed6c5950093d0af",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942": {
       "eligible": true,
@@ -51871,29 +51902,18 @@
     },
     "url:https://jobs.smartrecruiters.com/linkedin3/744000162623368": {
       "eligible": false,
-      "fingerprint": "32782168a46421b6eeedb5418ae17cffc13c8d5e0821cd8c85ddf1dafe934fdb",
-      "revision": 1
+      "fingerprint": "94def022d285efa83a9870d83443fc0b4b637644d6e7f6c9279e82d5832ff00a",
+      "revision": 2
     },
     "url:https://jobs.smartrecruiters.com/linkedin3/744000162623639": {
       "eligible": false,
-      "fingerprint": "76b6b6ed2482f12da1b136ad4101797769b5fb070c2cf9cbe860e838ce43f9cb",
-      "revision": 1
+      "fingerprint": "9295f0e81c7966a43e9cfa372060bdd62f290db3ca26df2a7ab42a4defc00d0b",
+      "revision": 2
     },
     "url:https://jobs.smartrecruiters.com/linkedin3/744000162628808": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "linkedin",
-        "degrees": [],
-        "locations": [
-          "mountain view, ca, united states"
-        ],
-        "requirements": [],
-        "terms": [],
-        "title": "ai/ml engineer intern, master's - summer 2027 (mountain view, ca)"
-      },
-      "fingerprint": "0498c59d7997be3cc6fc4ecf15b76846f62e1d0a563d442b4c577c8495165003",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "9102be29a542248fef8ee27b7c35ca4da5c334d99e661875b882f54f898e2898",
+      "revision": 2
     },
     "url:https://jobs.smartrecruiters.com/llnl/3743990014981596": {
       "eligible": true,
@@ -58293,20 +58313,25 @@
     "url:https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "hardware",
         "company": "lucid motors",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "newark, ca"
         ],
         "requirements": [
           "- visa sponsorship: lucid may but is not obligated to sponsor foreign national employees requiring company sponsorship for u.s employment authorization."
         ],
-        "terms": [],
+        "terms": [
+          "summer 2027"
+        ],
         "title": "intern, embedded software \u2013 bsp/platform (adas/autonomous driving), summer 2027"
       },
-      "fingerprint": "6df43578d1135adc40e784de51f6b9353b5e70a58c612a56a2705fe9169af13c",
-      "revision": 1
+      "fingerprint": "7fb40f1518970e875c234ab3e5cfec0570badb11d0b5948b0d71d5e63ad0a532",
+      "revision": 2
     },
     "url:https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007": {
       "eligible": true,
@@ -58354,9 +58379,12 @@
     "url:https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "lucid motors",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "newark, ca"
         ],
@@ -58368,8 +58396,32 @@
         ],
         "title": "intern, ai & data (applied ai/machine learning), summer 2027"
       },
-      "fingerprint": "c666b7e22a03027f471f2fc10e1a0b0ce7374e36ee20b87ba4ecd549ce74ee0b",
-      "revision": 2
+      "fingerprint": "6af6f629fd63538982d2521a5771880dbce651607d694d7a6273f65020b45998",
+      "revision": 3
+    },
+    "url:https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "lucid motors",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "newark, ca"
+        ],
+        "requirements": [
+          "- visa sponsorship: lucid may but is not obligated to sponsor foreign national employees requiring company sponsorship for u.s employment authorization."
+        ],
+        "terms": [
+          "fall 2027",
+          "summer 2027"
+        ],
+        "title": "intern, infotainment software, summer 2027"
+      },
+      "fingerprint": "0bb1b96d191614a0a5358a6cef171a6f16d4f0558fc96cbe47d834b8d70bd574",
+      "revision": 1
     },
     "url:https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007": {
       "eligible": true,
@@ -62069,7 +62121,7 @@
     "url:https://pathlabs.applytojob.com/apply/qw73dwa0is/software-and-ai-engineering-intern": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "pathlabs",
         "degrees": [],
         "locations": [
@@ -62077,12 +62129,13 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "software and ai engineering intern"
       },
-      "fingerprint": "46a93820410940d754eae233a2e5296d7f74da20bd5d2bd132411c298d3c2d00",
-      "revision": 1
+      "fingerprint": "62684f563e0c31660ed3989cca95b19106021459c53f0593cc6df3762305dca9",
+      "revision": 2
     },
     "url:https://paycomonline.net/v4/ats/web.php/portal/43d75e2df3dfb76bcb85a922b26de5fa/jobs/507042": {
       "eligible": true,
@@ -68140,13 +68193,12 @@
         ],
         "requirements": [],
         "terms": [
-          "summer 2026",
           "summer 2027"
         ],
         "title": "ai / automation intern"
       },
-      "fingerprint": "e110ccfc225dccf6f6224bbcd65bc62dbe7e0838d1374124c35b84fd78e098c9",
-      "revision": 1
+      "fingerprint": "6da54aaf48377e69bee10c2d19b40165a06d6eaaf0ae85d08c05d84bb56a6681",
+      "revision": 2
     },
     "url:https://thehartford.wd5.myworkdayjobs.com/careers_external/job/hartford-ct/data-science-intern---summer-2027_r2627114": {
       "eligible": false,
@@ -72062,13 +72114,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "product software engineer intern"
       },
-      "fingerprint": "78da8a9054af5c97f71438fbff018855a8ddda23249f9bdf8a10ec6544fd0ef6",
-      "revision": 1
+      "fingerprint": "ebeadd0b3be4133763bae57fbbcb8cc97278a1cb0baf2199efe8180fc87649ab",
+      "revision": 2
     },
     "url:https://workday.wd5.myworkdayjobs.com/workday_early_career/job/canada-bc-vancouver/machine-learning-engineer-intern_jr-0110806": {
       "eligible": false,
@@ -75978,6 +76029,7 @@
     "https://go.vansh.nyc/1DK": 430,
     "https://go.vansh.nyc/1DL": 430,
     "https://go.vansh.nyc/1DM": 430,
+    "https://go.vansh.nyc/1DQ": 431,
     "https://go.vansh.nyc/1Db": 427,
     "https://go.vansh.nyc/1Dc": 427,
     "https://go.vansh.nyc/1Dd": 427,
@@ -77528,6 +77580,7 @@
     "https://go.vansh.nyc/1DK": "https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007",
     "https://go.vansh.nyc/1DL": "https://jobs.smartrecruiters.com/llnl/3743990016985976",
     "https://go.vansh.nyc/1DM": "https://jobs.smartrecruiters.com/llnl/3743990016985486",
+    "https://go.vansh.nyc/1DQ": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Engineer---Analyst-enGen-Undergraduate-Intern_J291722",
     "https://go.vansh.nyc/1Db": "https://studentopportunities-lutron.icims.com/jobs/5360/summer-2027---embedded-firmware-engineering-intern---boston%2c-ma/job",
     "https://go.vansh.nyc/1Dc": "https://studentopportunities-lutron.icims.com/jobs/5361/summer-2027---embedded-firmware-engineering-intern---austin%2c-tx/job",
     "https://go.vansh.nyc/1Dd": "https://studentopportunities-lutron.icims.com/jobs/5362/summer-2027---embedded-firmware-engineering-intern---boynton-beach%2c-fl/job",
@@ -78793,7 +78846,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 430,
+  "scan_sequence": 431,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
