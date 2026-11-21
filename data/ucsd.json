@@ -2127,6 +2127,11 @@
       "fingerprint": "91b3e0898c73e729925c646b11f375e3ae9c9968c1b30a9ca63c21c5dd0d1052",
       "revision": 1
     },
+    "url:https://amazon.jobs/en/jobs/10610836/design-technologist-intern-fy2027-summer": {
+      "eligible": false,
+      "fingerprint": "ca6efb7477a0cab94722dcea027d6f5ef0e148a0b22e761d81c196b4577d0029",
+      "revision": 1
+    },
     "url:https://ambarella.wd108.myworkdayjobs.com/ambarella/job/us-headquarters/algorithm-engineer-intern_jr100359": {
       "eligible": false,
       "fingerprint": "67ad6650c02fd6e9cdbf66baa98c182194c515db4ea0c1bcd4ea877876d6c15b",
@@ -3406,6 +3411,21 @@
     "url:https://apply.careers.microsoft.com/careers/job/1970393557076203": {
       "eligible": false,
       "fingerprint": "c56424a7150162f7a1938ee4fa79e55fb8cb190f9d069d6c5490045be6047a12",
+      "revision": 1
+    },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557076215": {
+      "eligible": false,
+      "fingerprint": "19750dc004c4e28f18c0602793bf3d6e1f9920faec348ff1e60d0bd1439841b1",
+      "revision": 1
+    },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557076525": {
+      "eligible": false,
+      "fingerprint": "0f598ca7cdcf30249fe66e97d7859749d5afcc73d54182676c503c108695c7c1",
+      "revision": 1
+    },
+    "url:https://apply.careers.microsoft.com/careers/job/1970393557077583": {
+      "eligible": false,
+      "fingerprint": "f4e804666208ad5bf07e2ef486b9aa69939e0db0dc5da3db8629012e1b933829",
       "revision": 1
     },
     "url:https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0": {
@@ -5484,6 +5504,11 @@
     "url:https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166": {
       "eligible": false,
       "fingerprint": "4d7887cd8990f70c9816bec7effb1b27d4c49785f9dd4cbef05f74dc01ba4188",
+      "revision": 1
+    },
+    "url:https://ats.rippling.com/fieldpulse/jobs/a409a953-f958-495b-b021-8a90ef7adb3f": {
+      "eligible": false,
+      "fingerprint": "428da6843d5546c588dc6ec394156af62ca378f039ffdd10ef39b628bab7d518",
       "revision": 1
     },
     "url:https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d": {
@@ -9498,6 +9523,27 @@
       "fingerprint": "21c0fa7ba89de22174453bbe51358684e372c77e459d824e14bfbcc10a54dd8b",
       "revision": 0
     },
+    "url:https://btcpa.rec.pro.ukg.net/ben1022btll/jobboard/702a70c1-c1f7-4971-8626-bb99571a35a2/opportunitydetail?opportunityId=4d519358-fb57-46be-8018-838c26e1bf4a": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "bennett thrasher",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "atlanta, ga"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "it ai & automation intern"
+      },
+      "fingerprint": "e131a71c7c3b5024a6c50634ef749f0eba4f91cf35f4bf33b099cfdd6bbf718a",
+      "revision": 1
+    },
     "url:https://burlington.wd5.myworkdayjobs.com/burlingtoncareers/job/00000---burlington-corporate-office/sustainability-intern---summer-2027_r104521": {
       "eligible": true,
       "evidence": {
@@ -11880,6 +11926,11 @@
       "fingerprint": "015cda6544afc2d282c7e1066d1225b352eea46b31d53c623830d0e334c2e72f",
       "revision": 1
     },
+    "url:https://careers-sas.icims.com/jobs/42752/job": {
+      "eligible": false,
+      "fingerprint": "9d9f01cd9feafe7f20a565e7300028b55d75c8fbbd96b7708a15118561bb363f",
+      "revision": 1
+    },
     "url:https://careers-sas.icims.com/jobs/42753/job": {
       "eligible": false,
       "fingerprint": "0865515c2bf10c4156fc6d078fc02aab393e8ae7259eb79e72b25c4c606a5c11",
@@ -13163,6 +13214,11 @@
       "fingerprint": "a613d795bc9115412442a26717e384b91cb33f45736c432b5d21f668b8139810",
       "revision": 1
     },
+    "url:https://careers.docusign.com/jobs/30480?icims=1": {
+      "eligible": false,
+      "fingerprint": "a613d795bc9115412442a26717e384b91cb33f45736c432b5d21f668b8139810",
+      "revision": 1
+    },
     "url:https://careers.docusign.com/jobs/30481?icims=1": {
       "eligible": false,
       "fingerprint": "a613d795bc9115412442a26717e384b91cb33f45736c432b5d21f668b8139810",
@@ -13321,10 +13377,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "manufacturing test software intern - manufacturing"
+        "title": "2027 - summer - manufacturing - manufacturing test software intern"
       },
-      "fingerprint": "f2550d7749e0663bb0acf1e98cd5b0cdadd4b14e5e1e8b114ab40c5717400804",
-      "revision": 1
+      "fingerprint": "f5f639f547f9ddfdc7ec6047cc0b1fe71565d39e00bfeb8fcafac6a122d23b61",
+      "revision": 2
     },
     "url:https://careers.formlabs.com/job/8400855/apply?gh_jid=8400855": {
       "eligible": true,
@@ -13585,6 +13641,27 @@
       },
       "fingerprint": "c0fcb26978a36b566d7ed17cafcbf6e1900f8dba34902540a658227a50aa6880",
       "revision": 0
+    },
+    "url:https://careers.garmin.com/jobs/22650?icims=1&lang=en-us": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "garmin",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "yarmouth, me"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern - web/mobile"
+      },
+      "fingerprint": "b6cb8826c8fe07377ff35be872a4eb33cca1878670adb62869e948ee9a62beef",
+      "revision": 1
     },
     "url:https://careers.gov2x.com/jobs/62843?icims=1": {
       "eligible": true,
@@ -16021,6 +16098,11 @@
       "eligible": false,
       "fingerprint": "ee2492354d3e0ee554ea0c498253e203cd96e094a5ee136600d7fbb167739b25",
       "revision": 0
+    },
+    "url:https://careersen-mackenzieinvestments.icims.com/jobs/6446/job": {
+      "eligible": false,
+      "fingerprint": "ad8eb9f3673e60f0a47fa16fabf3212b8ff4f78dc4866c517b78cbc654dad0ee",
+      "revision": 1
     },
     "url:https://careersenus-itt-inc.icims.com/jobs/17657/job": {
       "eligible": true,
@@ -20010,6 +20092,11 @@
       "fingerprint": "2d541aa745322167fdad5d1db18aeb294be629fecf08d8ec86fb5d23c82d51f6",
       "revision": 0
     },
+    "url:https://edometic.rec.pro.ukg.net/dom1500doco/jobboard/1883c52c-7f1b-4c5d-97a8-113c61f2f7ad/opportunitydetail?opportunityId=69fda379-1792-4110-8b62-200e8b7e75fe": {
+      "eligible": false,
+      "fingerprint": "b8605e5ecc9219c5d89396b97fa6ce1090d3173b4e93e3e10123febcbf9e754d",
+      "revision": 1
+    },
     "url:https://eedu.fa.em3.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1003/job/202605435": {
       "eligible": false,
       "fingerprint": "5445bb1456f607efa4c805dba7be5b26d931264b1c19b72a6151f62cb09bfcb0",
@@ -20088,6 +20175,11 @@
     "url:https://egay.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/45288": {
       "eligible": false,
       "fingerprint": "ad38624963b34ee85f6934a51a1d6f3023d6bb5aefbd29e1f38c2577ac67d88a",
+      "revision": 1
+    },
+    "url:https://egay.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/45321": {
+      "eligible": false,
+      "fingerprint": "97ac97504a679b7f7fc9e710db545ec344e325ab2d6fd77e2574d126951b2b5b",
       "revision": 1
     },
     "url:https://egmn.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/260188": {
@@ -23978,7 +24070,7 @@
       "eligible": true,
       "evidence": {
         "category": "software",
-        "company": "great american insurance company",
+        "company": "national interstate insurance",
         "degrees": [
           "bachelor's"
         ],
@@ -23991,8 +24083,8 @@
         ],
         "title": "devops developer intern"
       },
-      "fingerprint": "3133161fcbf1ba4bc06b4ba63e8a3505617623dd549f6169d4d3063bb4f4ba28",
-      "revision": 1
+      "fingerprint": "9c708b6bb840c53b62cb9619cef6a5e218f839889cb7a8bbccf4c66740281673",
+      "revision": 2
     },
     "url:https://gaig.wd1.myworkdayjobs.com/gaig_external/job/cincinnati-oh-usa/emerging-technology-intern---summer-2027_r9801": {
       "eligible": true,
@@ -26908,6 +27000,11 @@
       "fingerprint": "91c787f30ce20b4b877f95cbff99d03e50e675eff76702c322474bc17a52c119",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/18q": {
+      "eligible": false,
+      "fingerprint": "51f1225a13788bff6749906f6a201ab602ecc97e4244a13cb0e807b960b0d407",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/18v": {
       "eligible": false,
       "fingerprint": "fc59081015038ef0c41289015c2770256f121c16c536f7ba7d0a8fba6ae14d66",
@@ -27262,30 +27359,20 @@
       "fingerprint": "8e72b59c4399d74a330f345fc22c383052a74026ec4d8a0d871a79fee511a845",
       "revision": 1
     },
-    "url:https://go.vansh.nyc/1fb": {
+    "url:https://go.vansh.nyc/1f8": {
       "eligible": false,
-      "fingerprint": "16835f0e789ac91244d94a8a298409988a8833efed9193596e6f2633983b2e31",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1fc": {
-      "eligible": false,
-      "fingerprint": "28808d8c68c6df79e6dacc8697045bbd4be135eb78155b146c466daffa0d7024",
+      "fingerprint": "46b9fbf7e26fc56d901b40b07b82af011618183d5b2bfae22f322b946f4eb656",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1fe": {
       "eligible": false,
-      "fingerprint": "c3b985e0704342d8d370aa0621220f0b0cfd4f0aeeda2e8336e18f5e692b07a6",
-      "revision": 3
-    },
-    "url:https://go.vansh.nyc/1ff": {
-      "eligible": false,
-      "fingerprint": "ef379f17e1a3208580122720bf0aaa0cfebf4e7f472f543487905c0c8b38207c",
-      "revision": 1
+      "fingerprint": "ebc3a939b7efbfd0630f657685cc2a51f7ca3ecefecab3bae8af2a0d567180c6",
+      "revision": 4
     },
     "url:https://go.vansh.nyc/1fg": {
       "eligible": false,
-      "fingerprint": "b295dade09c10f5bcf517096deffff3c7ef6c30134a39fc7852d38eb018c3516",
-      "revision": 1
+      "fingerprint": "e91c927c43649ead02b2fcb1577573ff63b947cd6ed1eb467841e3338532fd2a",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1fl": {
       "eligible": false,
@@ -27295,36 +27382,6 @@
     "url:https://go.vansh.nyc/1fm": {
       "eligible": false,
       "fingerprint": "ac7d11b983192ca41b82d1623dc672026782a8af4dab061704a4efbd2021392b",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1fv": {
-      "eligible": false,
-      "fingerprint": "9ffc4810b911b8a23f0c51763e9bd42b17b112622850f0cddef5d30fb0477284",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1fx": {
-      "eligible": false,
-      "fingerprint": "117d62492f73c5b3039c765ed181f21d062462ecb236c09ca728267c104c35da",
-      "revision": 2
-    },
-    "url:https://go.vansh.nyc/1fy": {
-      "eligible": false,
-      "fingerprint": "12ef663d7d26eab4b6b7a8a5a458b47f7966532ed0553600cdba119b44e8bc64",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1g0": {
-      "eligible": false,
-      "fingerprint": "2c68f9d53081fd2d05aa1b3f72c0cc88e42679304caa835c7861091dc9b6c536",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1g1": {
-      "eligible": false,
-      "fingerprint": "4474eb6f3ca81f0606b2517fd3b7e55fdd0a29149e2a5e81848ef328f3d6a3e4",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/1g2": {
-      "eligible": false,
-      "fingerprint": "80aee525e00e96c29da2d0deb562786dae1f158f45b83ceadd6d78217a9754a4",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1gh": {
@@ -28030,6 +28087,11 @@
       "fingerprint": "d20eb9541b8ae212b6e63abc86c23cb13fd153796e301f949e76f91f8bda9b8e",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/4s": {
+      "eligible": false,
+      "fingerprint": "25f88c156ec1c2f9bff26a1c98873ba230ae926a51b15ca3c233a8e48731e8a6",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/53": {
       "eligible": false,
       "fingerprint": "5f96de08cbf222f45a592e4395912129e765f255ea1490390e0766027b635640",
@@ -28622,23 +28684,9 @@
       "revision": 1
     },
     "url:https://go.vansh.nyc/gb": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "electronic arts",
-        "degrees": [],
-        "locations": [
-          "chicago, il",
-          "vancouver, canada"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern"
-      },
-      "fingerprint": "15d3072c531610b0530502fc22142b36068d15cc06b431a41e9291d360c59f3a",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "791a36a6518e13b7d6d9dd62c0f2670f13d629191edd328c0753ec346b7b3b14",
+      "revision": 3
     },
     "url:https://go.vansh.nyc/gc": {
       "eligible": false,
@@ -29355,6 +29403,11 @@
       "fingerprint": "7c67413029cab6396099c4f65034b21bb52a2178d470d46690ed8707d8ee62fd",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/sj": {
+      "eligible": false,
+      "fingerprint": "84c0a42f0520cd5969ee87d23df9d08694bbf01fe1850379a1773991cc10df8b",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/sk": {
       "eligible": false,
       "fingerprint": "b3d26676146d88fe09f84f0d0b25d2f3fb4e5a1156b5c8dff35f2852b5131661",
@@ -29606,6 +29659,11 @@
     "url:https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/usa-new-york-victor/data-bi-analyst-co-op_req-2026-2266": {
       "eligible": false,
       "fingerprint": "60d845fabbcf52263731ead7e8b9c1c1ada716095a51bbea4cf5483cce3f7b69",
+      "revision": 1
+    },
+    "url:https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/usa-new-york-victor/front-end-web-developer-co-op_req-2026-2375-1": {
+      "eligible": false,
+      "fingerprint": "e9c6c9d5bd6a571b5bfefee4f7a336f8e41b2a0836044b275e9044b7c238da22",
       "revision": 1
     },
     "url:https://graco.wd501.myworkdayjobs.com/graco_careers/job/dayton-minnesota-usa-french-lake/ai-intern_r0023511-1": {
@@ -31622,6 +31680,11 @@
       "fingerprint": "799ab2a45c78b648f91331724c182dcaacfa4051414fc891abc946abc1f9a128",
       "revision": 0
     },
+    "url:https://hmeukg.rec.pro.ukg.net/hme1500hmen/jobboard/616b8ff0-9933-405d-9892-26f121d3a657/opportunitydetail?opportunityId=85e04b3e-3362-406f-8d3e-b46fe7b5590f": {
+      "eligible": false,
+      "fingerprint": "735fab1216840d34bc085026133119d25689b16df603b5708327a96ec069fb0b",
+      "revision": 1
+    },
     "url:https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/austin-tx/intern---ai-business-process-developer--summer-2027-_r-31865-1": {
       "eligible": true,
       "evidence": {
@@ -32950,6 +33013,26 @@
       "fingerprint": "30a8ee904788885447d41953bd04d04fad93dcfbe8eed03a859883095507a4f4",
       "revision": 2
     },
+    "url:https://ibwujb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/11154": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "ralliant",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "beaverton, or"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software design engineer intern"
+      },
+      "fingerprint": "d6200de2097a7ac04d4313199e974fa7d2e9326aba5bb593d45e277c69a9db97",
+      "revision": 1
+    },
     "url:https://ibwujb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/11167": {
       "eligible": true,
       "evidence": {
@@ -33014,9 +33097,11 @@
     "url:https://ibwujb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/11324": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "ralliant",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "beaverton, or"
         ],
@@ -33024,10 +33109,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern, ai building"
+        "title": "software engineering intern - ai building"
       },
-      "fingerprint": "362f5ccf191d913086655bb1c179e9b67e7e76cf156f97a6e9d84fe97925d46f",
-      "revision": 1
+      "fingerprint": "040c8eeb37c15bd10819fe2e051875b215f9e7605ccf80239cbcc6e006d0115c",
+      "revision": 2
     },
     "url:https://ice.jibeapply.com/jobs/14059?icims=1": {
       "eligible": false,
@@ -34513,6 +34598,24 @@
       "eligible": false,
       "fingerprint": "d39578fd3ae0223898a89ae5e4a1e79f87c6ad541116ce5e344a3d859d4d5623",
       "revision": 0
+    },
+    "url:https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/austin-tx/software-engineering-intern_j2472697": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "jabil",
+        "degrees": [],
+        "locations": [
+          "austin, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "b32cfca615cbaf23d8d1f8c150342ce17956d1d584180305ce4338191ec4adfa",
+      "revision": 1
     },
     "url:https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/florence-ky/it-programmer-analyst-spring-co-op_j2471333": {
       "eligible": false,
@@ -36091,10 +36194,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineer intern - summer 2027"
       },
-      "fingerprint": "30278a0e7e581e1639fa21ba1ab05cdd21ab2c9772a897c2d29eddbb0b0b0f8f",
-      "revision": 0
+      "fingerprint": "a3f65687ff6c1eae4d98c734d3add343c731e2d87cf1b30bc6523c1827e70ade",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/atoms/jobs/8356071002": {
       "eligible": false,
@@ -36190,6 +36293,11 @@
       "fingerprint": "0ac28b22a1a80724dbddafa5e47a53c132b8cdba661060450fe8ef0c06922f6e",
       "revision": 5
     },
+    "url:https://job-boards.greenhouse.io/axontalentcommunity/jobs/8159006003": {
+      "eligible": false,
+      "fingerprint": "811ea2041ff2dd9a5ced034524bcebbc1cb9894bae792f121bd421c039dbd553",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/baidu/jobs/8197142": {
       "eligible": false,
       "fingerprint": "54901cdccada782b375a426c435a2497b767437161edb318e0b5ff1d0f16516f",
@@ -36218,6 +36326,11 @@
     "url:https://job-boards.greenhouse.io/bgeinccampus/jobs/5483695008": {
       "eligible": false,
       "fingerprint": "9626b178640c264be1e8623245b4a3790a73ec9505e61af954d2daf129138bb7",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/biohub/jobs/8400682": {
+      "eligible": false,
+      "fingerprint": "eb572bdc251d6d1be5081d9d75ed465163d26e6d9f9a034f6ec473aec4f9e9b9",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002": {
@@ -38379,6 +38492,16 @@
       "fingerprint": "e90117489b6eb4183f549574b7a60689912a738721f8f05aa62c158b6bb7ffc5",
       "revision": 2
     },
+    "url:https://job-boards.greenhouse.io/method/jobs/8207621003": {
+      "eligible": false,
+      "fingerprint": "723c5480944a797f35473becd43edfd91267f5426b15b24370da15362364c262",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/method/jobs/8208724003": {
+      "eligible": false,
+      "fingerprint": "c97a7ee6097b1cc53b0fa9a0c2fcc60dcedd10332626b6381fcb7bcee2dfdea4",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/mill/jobs/4737741005": {
       "eligible": true,
       "evidence": {
@@ -40109,6 +40232,11 @@
       "fingerprint": "d0e1c3b9000fb121ff3a51d3ea3796253f290e844bd67a80b0f580e5cef5bc37",
       "revision": 0
     },
+    "url:https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052": {
+      "eligible": false,
+      "fingerprint": "ab97c73ec8e10471c6afe15ae94eb02fafaff5375265d5f2c290477b3688c43a",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005": {
       "eligible": true,
       "evidence": {
@@ -41254,6 +41382,11 @@
       "fingerprint": "c64f9784c9d737ea1b13f79225acab86173b1a44faa0557d647ee941ba26cdd6",
       "revision": 1
     },
+    "url:https://jobs.apple.com/en-us/details/200696199": {
+      "eligible": false,
+      "fingerprint": "e8ccc4f9371ee9620bdaa4e00cd81cd2c1884c4bac74dd56cfcdd6248cf1aeba",
+      "revision": 1
+    },
     "url:https://jobs.ascension.org/us/en/job/15636": {
       "eligible": false,
       "fingerprint": "80d8c568fc54c93b3052566c5bc5dba52e589469130c91fc857aba57e5247209",
@@ -41703,26 +41836,9 @@
       "revision": 2
     },
     "url:https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868": {
-      "eligible": true,
-      "evidence": {
-        "category": "hardware",
-        "company": "aurora innovation",
-        "degrees": [
-          "bachelor's",
-          "master's"
-        ],
-        "locations": [
-          "bozeman, mt"
-        ],
-        "requirements": [],
-        "terms": [
-          "n/a",
-          "summer 2027"
-        ],
-        "title": "embedded software engineer intern - lidar"
-      },
-      "fingerprint": "f93abed39d8711eb8e43f175feab7028dc616b91dbd5216446b97b2d4ec1b0d6",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "961fe2b202069f7d8f3c6504391062ca29096fb325f8253fafbd038109e6110d",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd": {
       "eligible": true,
@@ -42212,17 +42328,16 @@
           "master's"
         ],
         "locations": [
-          "san francisco, ca",
-          "sf"
+          "san francisco, ca"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern - summer 2027"
       },
-      "fingerprint": "4518c11f36edab973a8674e0ae3f333752c093bc8c63501bc67c16e1393180bc",
-      "revision": 2
+      "fingerprint": "b1ea01ce560d6d760a0d551bbc6bdda187b0cdba55cc5e45864457adf7694143",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b": {
       "eligible": false,
@@ -42585,6 +42700,28 @@
       },
       "fingerprint": "6a74eecdbc9cd552e417d6a654587b735034a01bc4fd0e678cc633ac4262bd0a",
       "revision": 0
+    },
+    "url:https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/683deced-ddc9-4857-8783-323994263f2a": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "shield ai",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "arlington county, arlington, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "operational analysis intern - operational analysis"
+      },
+      "fingerprint": "c07b9adbb90972c3481783dff5c53c740af1e1988a622a498b841b8971ccd555",
+      "revision": 1
     },
     "url:https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2": {
       "eligible": true,
@@ -44866,6 +45003,28 @@
       "fingerprint": "6a74eecdbc9cd552e417d6a654587b735034a01bc4fd0e678cc633ac4262bd0a",
       "revision": 3
     },
+    "url:https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "shield ai",
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
+        "locations": [
+          "arlington county, arlington, va"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "operational analysis intern - operational analysis"
+      },
+      "fingerprint": "c07b9adbb90972c3481783dff5c53c740af1e1988a622a498b841b8971ccd555",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2": {
       "eligible": true,
       "evidence": {
@@ -45757,6 +45916,24 @@
     "url:https://jobs.auburn.edu/jobs/9874?icims=1&lang=en-us": {
       "eligible": false,
       "fingerprint": "0597882da478c238857077d1fe8b3076a99041ac7981c920bbb5df545d2344d7",
+      "revision": 1
+    },
+    "url:https://jobs.bombardier.com/job/wichita-software-engineering-intern-%28year-round%29-ks-67209/1459029933": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "bombardier",
+        "degrees": [],
+        "locations": [
+          "wichita, ks"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "eebf2f9ac1554f555df4a24025e44cfdeb6133b9112093eb49167503f1525ad6",
       "revision": 1
     },
     "url:https://jobs.bytedance.com/en/position/7533045355162044690/detail": {
@@ -49217,9 +49394,11 @@
     "url:https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "ep wealth advisors",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "austin, tx",
           "torrance, ca"
@@ -49228,10 +49407,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "data ai engineering intern"
+        "title": "data ai engineer intern"
       },
-      "fingerprint": "9708f5766f3b4767959b1246402641d8ef764d0d9351ace922e22edfd92f9bdc",
-      "revision": 1
+      "fingerprint": "c0b8fdf60f3d3437e6f8a7a489d1e672149bf818124f50c3f0f3281eda69ac91",
+      "revision": 2
     },
     "url:https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea": {
       "eligible": false,
@@ -49597,6 +49776,44 @@
     "url:https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22": {
       "eligible": false,
       "fingerprint": "80e18a0b80a57d0362d30d3ad8f3c4e2f3a82729ba9f880ede000cb7c3dd12b5",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/momsmeals/77331b7f-4efc-488d-a6af-584788e3d1b0": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "mom's meals",
+        "degrees": [],
+        "locations": [
+          "ankeny, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software quality assurance (qa) intern"
+      },
+      "fingerprint": "63a87b36edfc03abb4d55e9fd6ee89a8b2c770c816461b755018b325204000c3",
+      "revision": 1
+    },
+    "url:https://jobs.lever.co/momsmeals/9cc07826-a8bc-4ad4-a570-b54eabc95774": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "mom's meals",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "ankeny, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics intern"
+      },
+      "fingerprint": "1b2006fdb3451a3643687826a95daff7af94de0e99e3e33e5ac86ca0b46d9de7",
       "revision": 1
     },
     "url:https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b": {
@@ -52244,6 +52461,11 @@
       "fingerprint": "299b2122e7266acacbfc264ee048419cae537e72d4336a31e87f03fbbf467553",
       "revision": 1
     },
+    "url:https://jobs.smartrecruiters.com/intuitive/744000162832659": {
+      "eligible": false,
+      "fingerprint": "4cf13ac7bd87bc7584b7845f38ca509f2eed000c8f0e9f0b44c1fc2ab338ce5e",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/keenfinity/744000151397189": {
       "eligible": false,
       "fingerprint": "6aacf6fe618b488545a1ada856cdbabd923e8354fdf07d971e2489dc00199d8d",
@@ -53020,9 +53242,12 @@
     "url:https://jobs.smartrecruiters.com/renesaselectronics/744000162784555": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "hardware",
         "company": "renesas electronics",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "austin, tx"
         ],
@@ -53030,9 +53255,29 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "firmware engineering intern"
+        "title": "firmware engineer intern"
       },
-      "fingerprint": "fda0eec12d98c7f630499b7c4a7093cb3b28032888551917dc427f59ddc092eb",
+      "fingerprint": "54714acfb47b0f511a874770021c11a28d8ed3f9dd91d05e968b0e7a10b540df",
+      "revision": 2
+    },
+    "url:https://jobs.smartrecruiters.com/resultant/744000162782371": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "resultant",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "indianapolis, in"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data & analytics consultant intern"
+      },
+      "fingerprint": "5c23d9ed7cec6b9c51a916e3864d58bf1f1e75e7931508f4f54f4cb0d9aa4be5",
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/rrdonnelley/744000159883479": {
@@ -53170,6 +53415,11 @@
         "title": "associate forward deployed solution engineer intern"
       },
       "fingerprint": "e1ba007f4c9e86f7b5f550a470b79a4d9ddb7ebe60a4a04b842af15badd175e8",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/servicenow/744000162827365": {
+      "eligible": false,
+      "fingerprint": "642f2cb2687e4c34b331cbf15308d030c512797fb86bda132e72c9b967abf8ce",
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/sightcall/80298252": {
@@ -53886,6 +54136,11 @@
         "title": "software engineer intern - product engineering"
       },
       "fingerprint": "535e44c94283a73cd5d8ad54177c0dfb4efdd8acd0cb74416efd4a56c5fb43ed",
+      "revision": 1
+    },
+    "url:https://johndeere.eightfold.ai/careers/job/137484575742": {
+      "eligible": false,
+      "fingerprint": "a26518580b4ec9bbe7b17c3588ed5a1a5cc086f9e6414184af752c840abb112e",
       "revision": 1
     },
     "url:https://joinbytedance.com/search/7600201731980675333": {
@@ -55281,6 +55536,27 @@
     "url:https://koch.avature.net/en_us/careers/jobdetail/197162": {
       "eligible": false,
       "fingerprint": "4b7906eddf657ac01f51f927ecb852ea26142623ec0c8f67df42a212e9af5319",
+      "revision": 1
+    },
+    "url:https://koch.avature.net/en_us/careers/jobdetail/198151": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "koch industries",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "lisle, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data and analytics intern"
+      },
+      "fingerprint": "c390ac83b31feec00aeec8de3918ce986cd011130c795be45da0ab4b828c3d1d",
       "revision": 1
     },
     "url:https://kqed.applytojob.com/apply/5gz2elmqfy/audience-intelligence-analytics-intern": {
@@ -58890,20 +59166,25 @@
     "url:https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "lucid motors",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "newark, ca"
         ],
         "requirements": [
           "- visa sponsorship: lucid may but is not obligated to sponsor foreign national employees requiring company sponsorship for u.s employment authorization."
         ],
-        "terms": [],
+        "terms": [
+          "summer 2027"
+        ],
         "title": "intern, ai/ml, vehicle infotainment, summer 2027"
       },
-      "fingerprint": "c478a73b962679115d02395d8b8f1888f45994d52421e78139ac70588804caae",
-      "revision": 1
+      "fingerprint": "2392f8ee568789db6b7c1fee5babbbcc0abedd6a979d5d851b243f49227b4783",
+      "revision": 2
     },
     "url:https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007": {
       "eligible": true,
@@ -62350,8 +62631,8 @@
     },
     "url:https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/san-francisco-california-united-states/software-engineering-intern_r49493": {
       "eligible": false,
-      "fingerprint": "8df90c3be68127b48fa22efe25a3be26a893d2b91d9b3763e730716b2d9d6a33",
-      "revision": 0
+      "fingerprint": "5a5988b69367ae87a2a39793d847d9aef910ffd0f8b09420a0b1356c07bc2e1e",
+      "revision": 1
     },
     "url:https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/spartanburg-south-carolina-united-states/digital-manufacturing-intern_r51065": {
       "eligible": false,
@@ -63271,6 +63552,11 @@
       "fingerprint": "7d301d2e28ccf093f8bc9a738bb48b7971f13450f95072d7e099250a37ed56fe",
       "revision": 0
     },
+    "url:https://pickleball2995.rec.pro.ukg.net/smi1011ssri/jobboard/6c2be1d2-d622-4447-ad94-13b6b3d9d57a/opportunitydetail?opportunityId=2892cf81-2f87-4811-9cba-04287da0d2e2": {
+      "eligible": false,
+      "fingerprint": "01bab70047d97a3bce2f1e0e0ae0341eb4eb3f1b6072466e242aea6bd5efb6bc",
+      "revision": 1
+    },
     "url:https://pictonmahoney.bamboohr.com/careers/387": {
       "eligible": false,
       "fingerprint": "a33b1ce3c7ce57a3fe8ed1c567101d46b8bc107a30062e9684a87610875b7ef0",
@@ -64050,6 +64336,11 @@
     "url:https://qualcomm.eightfold.ai/careers/job/446722198182": {
       "eligible": false,
       "fingerprint": "ec9b1bee179a5a950eb941314ffe7af1864e6d75d008bf11213e07ba7982bd75",
+      "revision": 1
+    },
+    "url:https://qualcomm.eightfold.ai/careers/job/446722247294": {
+      "eligible": false,
+      "fingerprint": "c33d1375957ef8bd528e9c7f215519255a20e0edf2651e08e6dc742c35974b42",
       "revision": 1
     },
     "url:https://quantumsignalai.applytojob.com/apply/mwrhqd8hn9/software-engineering-intern-tools-and-prototypes": {
@@ -65131,6 +65422,64 @@
       "fingerprint": "f1708f0b27164cc18a2335a95bed0008c52a87199a12025f8547d0a116c618e9",
       "revision": 1
     },
+    "url:https://recruiting.ultipro.ca/mac5000mcdw/jobboard/664818ff-3594-4bec-9f30-3394e59e19f3/opportunitydetail?opportunityId=67af442f-ca28-47b2-b86b-eaa3d5192fe0": {
+      "eligible": false,
+      "fingerprint": "e4f0db89ad31abc9522c2d5c3f7800316165b176020fcae8dadc48e1cef1ee3b",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.ca/mac5000mcdw/jobboard/664818ff-3594-4bec-9f30-3394e59e19f3/opportunitydetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f": {
+      "eligible": false,
+      "fingerprint": "10baf05c4e6d2b38400b95f8ad93cfefa7d2f784a9801a6c8c3737e5b4802e97",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.ca/maw5000maim/jobboard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/opportunitydetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199": {
+      "eligible": false,
+      "fingerprint": "e03a4db1644eeac97e919db99647a4b7b4d6186a37611a2c8381f222b9f75171",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.ca/maw5000maim/jobboard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/opportunitydetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0": {
+      "eligible": false,
+      "fingerprint": "949d5886e886a1cef071e89629afe141cf4170260e413f49364f02d4a9bae340",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.ca/mer5001mcul/jobboard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/opportunitydetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1": {
+      "eligible": false,
+      "fingerprint": "482fb493dcd9e9c49bbb7ad8cc70865619a35d45b831934fcea6731ade5cb5f7",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.ca/pas5000pason/jobboard/736c1025-c469-4ece-a487-4884545272a7/opportunitydetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8": {
+      "eligible": false,
+      "fingerprint": "e730f8b2cbef9d1afe468ab3a93dd7ec9ea75c01df78ae6b5095adc23c61ab96",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/afl1002/jobboard/d535bad2-e3ea-c8c8-2fb2-63621892e293/opportunitydetail?opportunityId=33f4e729-d1f6-4137-a95a-4ac8b27a9453": {
+      "eligible": false,
+      "fingerprint": "bcf9eeae959e06e7fce586d50e8fa7662acaa8cd46040f1a181a8552a335f5aa",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/afl1002/jobboard/d535bad2-e3ea-c8c8-2fb2-63621892e293/opportunitydetail?opportunityId=6e9432db-e1de-4103-b8dd-5bfd57365e4d": {
+      "eligible": false,
+      "fingerprint": "fd70ff4a9cde625737bb562ad5478ccc9fdfde59ca167aa44917fddd6cda9ca4",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/afl1002/jobboard/d535bad2-e3ea-c8c8-2fb2-63621892e293/opportunitydetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "afl",
+        "degrees": [],
+        "locations": [
+          "duncan, sc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "web design/development intern"
+      },
+      "fingerprint": "81ebeb35afad1b4fe3ec9ac48918c4236f4d8fc0a0005777620e09ee3e5514e9",
+      "revision": 1
+    },
     "url:https://recruiting.ultipro.com/ame1095achm/jobboard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/opportunitydetail?opportunityId=1fe1ecbc-5b12-4c0e-a2cf-5d75049ab527": {
       "eligible": true,
       "evidence": {
@@ -65276,6 +65625,76 @@
       "fingerprint": "f34396a1991e851dcb258e2dcf4852083400a32b6249bd59b1c879acdf0a3127",
       "revision": 1
     },
+    "url:https://recruiting.ultipro.com/app1010arai/jobboard/07442cec-d18e-4589-ab15-8342edc29af7/opportunitydetail?opportunityId=0e5ea52f-9c4b-45f8-9a60-86678d8e3fd8": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "applied research associates",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "baton rouge, la"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "ec81c76e6777a2b499b2369577267459ddc31859e8e250c20672e73d25cc979d",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/app1010arai/jobboard/07442cec-d18e-4589-ab15-8342edc29af7/opportunitydetail?opportunityId=bdbeeabf-bf21-41d9-9034-d01be04c59f6": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "applied research associates",
+        "degrees": [],
+        "locations": [
+          "baton rouge, la"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software quality assurance intern"
+      },
+      "fingerprint": "0e6fcb24cf13be393da345df3f21fd83b2f824af10fa39a1825ae6fac255192a",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/blu1004bbbc/jobboard/1dfd3da7-cc1c-4f67-a1ca-2de669150f8c/opportunitydetail?opportunityId=040f49cf-a6dd-406f-958c-bd411122159a": {
+      "eligible": false,
+      "fingerprint": "ed49fb2c81f14f30bfaec802c7b917ed49b3281b836b8ebb367f8fe738664e3b",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/fid1002/jobboard/f4c0b704-935f-13c8-e696-6c4aa3318a47/opportunitydetail?opportunityId=43cf33e0-3efc-43f2-9ddd-4cf8052217b0": {
+      "eligible": false,
+      "fingerprint": "684b944fe2af65960fb64a9ce6be760e3cbc76e55464104b6da3708ca50149a8",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/gas1003/jobboard/6eb19b1f-4963-9bbd-eff5-d321e7265519/opportunitydetail?opportunityId=52b782dd-a1b7-4a41-8bde-a39d265fc776": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "gti energy",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "des plaines, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "da6aae0f3e5aa5fa9abbc3a8c7368654d39d4875fee512f0a5b45d96669f7e5e",
+      "revision": 1
+    },
     "url:https://recruiting.ultipro.com/gas1003/jobboard/6eb19b1f-4963-9bbd-eff5-d321e7265519/opportunitydetail?opportunityid=52b782dd-a1b7-4a41-8bde-a39d265fc776": {
       "eligible": true,
       "evidence": {
@@ -65292,6 +65711,142 @@
         "title": "data science intern"
       },
       "fingerprint": "09aa756c018f2067d05591758c50358f42c2e7ac53cec37983e37fb50912040d",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/gci1000gci/jobboard/09636f6c-2fa1-4a76-adb9-57dea469416b/opportunitydetail?opportunityId=561ce011-a9e5-4635-b991-2c8abd3d88bf": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "gci",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "united states",
+          "virginia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern"
+      },
+      "fingerprint": "1783e9f18adcb9d49289fb6ef6969e238a1bc14943df84ad4b1b4803a7501b26",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/gci1000gci/jobboard/09636f6c-2fa1-4a76-adb9-57dea469416b/opportunitydetail?opportunityId=fc18a34f-19de-457e-910a-adb510ce2ec7": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "gci",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "virginia"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "targeting intelligence analyst intern - paid"
+      },
+      "fingerprint": "d5b8716ae4007958f271468baecc88825037bd109365ebf1ef7bc28d24df1920",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/jew1003jewel/jobboard/1ddbeeda-8206-7c8c-a849-dd0e865383de/opportunitydetail?opportunityId=31935864-401f-416a-9671-92af3d294895": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "jewelers mutual group",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "neenah, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "b8b246936fc6713ac9f343713590caad5588efa1f0ed917bbe1a3ba4adb6e60a",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/jew1003jewel/jobboard/1ddbeeda-8206-7c8c-a849-dd0e865383de/opportunitydetail?opportunityId=58e2b100-19b0-4b86-9204-6e04fc06943f": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "jewelers mutual group",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "neenah, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "business intelligence intern"
+      },
+      "fingerprint": "5d931c1de18e2e7055b185e1531195dfa834f820a6ea3881128c0738f0d91a84",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/jew1003jewel/jobboard/1ddbeeda-8206-7c8c-a849-dd0e865383de/opportunitydetail?opportunityId=73e636fd-4bf6-45be-9b83-3f5d3a9315ea": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "jewelers mutual group",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "neenah, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "product intern"
+      },
+      "fingerprint": "1833defaf087c32c0ea53ed234d9134dbcf003114131726bc398b0cc0f3fecfe",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/jew1003jewel/jobboard/1ddbeeda-8206-7c8c-a849-dd0e865383de/opportunitydetail?opportunityId=ee5ca626-0eea-4cb4-95ce-735ab0ebca6e": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "jewelers mutual group",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "raleigh, nc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "behavioral analytics intern"
+      },
+      "fingerprint": "57b743ea42ee0694e85bad453429920ead962d76b37eb1fa3b95f476cf7dcf4e",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/kin1006keai/jobboard/8e199c52-6215-4abe-8c26-7a342cd4ff7e/opportunitydetail?opportunityId=230f62c5-1c34-427f-b2ef-bbe218658fa6": {
+      "eligible": false,
+      "fingerprint": "b6bd6d40241aa44913379caafbd2a6b35911294d691ffa85b5dc7684d99c0926",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/los1000ladod/jobboard/5365ad6e-23ff-4703-bb77-1e9451fb855e/opportunitydetail?opportunityId=fb796a9d-16f1-4514-8f6b-e5c5dbbb6019": {
+      "eligible": false,
+      "fingerprint": "b632733ad32acc5898d9d0c2f20d9b5101da81785d7efb2cab3e8ab1a50af495",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/mod1003mwa/jobboard/8990acfc-04f3-d65f-0565-a772e1a0157b/opportunitydetail?opportunityId=f691b9ac-4ef9-479c-8338-1b7294ee6da1": {
+      "eligible": false,
+      "fingerprint": "c89cd4af062963617fe73045fd59b27b7362597b4ec7fc511afbaf6cdbe85358",
       "revision": 1
     },
     "url:https://recruiting.ultipro.com/par1025pnatb/jobboard/78198a68-8e94-4f76-b970-3a27214b2ee3/opportunitydetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1": {
@@ -65322,6 +65877,149 @@
       "fingerprint": "0bf891f3b82ddab3ca714cda4750b3ec6e338bcb4cb63fe01a5ff8c8bc03becc",
       "revision": 1
     },
+    "url:https://recruiting.ultipro.com/sig1011sigsa/jobboard/9ec422f8-2ba7-4e60-983b-b473bf030bd6/opportunitydetail?opportunityId=3af1fb9e-2e3d-4fd9-89f0-d2b9bc090053": {
+      "eligible": false,
+      "fingerprint": "480f3ec01e9c33956cefc958126666813fabeed5be0c5694bdfb324949d09b84",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/tco1001tcom/jobboard/74e57e92-4355-44d7-8471-3c6eecfda9ef/opportunitydetail?opportunityId=e8df2c4d-5bfd-4b2c-9dc2-d1f4713497f5": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "tcom",
+        "degrees": [],
+        "locations": [
+          "sioux falls, sd"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "503832e52ffd5799cd75ca30afafa771be2805c404116d4335b769d200c9a86f",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/tri1039tres/jobboard/551314d5-926b-4475-808f-39d0e0248aed/opportunitydetail?opportunityId=d8a1f727-d49d-4e7c-b75b-cc27c1f105e8": {
+      "eligible": false,
+      "fingerprint": "b10556482d7b97434ea50b3485a8e19abfa270ae1bca3bef54185ba527e1ea2c",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/wel1008wllt/jobboard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/opportunitydetail?opportunityId=3e5dcdce-d089-4ad7-9650-7ea364be57a9": {
+      "eligible": false,
+      "fingerprint": "cf9f6e634a3a8fe82e14ba0a1c4dc8ebc9a2b98c05a1c93a6d72fa8f30626b79",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/wel1008wllt/jobboard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/opportunitydetail?opportunityId=ca3fdb80-1ac3-4eea-8133-99e687a36237": {
+      "eligible": false,
+      "fingerprint": "090768b12504e5500a3dafed31039327877e26178c75f53c0677f2fc7f82a1b4",
+      "revision": 1
+    },
+    "url:https://recruiting.ultipro.com/wel1008wllt/jobboard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/opportunitydetail?opportunityId=d7258653-a960-41b3-a668-a1d238d2b95f": {
+      "eligible": false,
+      "fingerprint": "090768b12504e5500a3dafed31039327877e26178c75f53c0677f2fc7f82a1b4",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/ams1003amsii/jobboard/15976ef7-7f1f-4b2f-8a0c-0e0ac1193dd8/opportunitydetail?opportunityId=8cf02ccb-59d2-4585-a3d9-4aee8218f42f": {
+      "eligible": false,
+      "fingerprint": "6ce9227ba78822df6dbcb2eecb2fc9f942faf5347ae388844946ef9ebc52961a",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/ams1003amsii/jobboard/15976ef7-7f1f-4b2f-8a0c-0e0ac1193dd8/opportunitydetail?opportunityId=e416d019-d6a5-41ea-bd1c-eb8bf31e4cf8": {
+      "eligible": false,
+      "fingerprint": "6d53183a962f833552ad5ba252ec6f7ecd0b541017a6e5efcd57c382a809db27",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/aud1001audv/jobboard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/opportunitydetail?opportunityId=00243c22-9228-4aab-8146-9699c52b1fa0": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "encore",
+        "degrees": [],
+        "locations": [
+          "schiller park, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it data analyst intern"
+      },
+      "fingerprint": "7bd80cddb0b6a180d395003c8fabc745d27a01213848d93b252f4372c4bc113e",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/aud1001audv/jobboard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/opportunitydetail?opportunityId=542e34a6-1977-4fcb-a173-6f32705efcb8": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "encore",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "schiller park, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it application development intern - summer 2027"
+      },
+      "fingerprint": "9ab0ba950ccb61d6e4106a26de76f47c1a3a7eecb3fc75f8f7c047c077b52eca",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/avi1000amast/jobboard/362abf68-95c3-4b17-a39d-76a6efe5ff18/opportunitydetail?opportunityId=6985c6f8-7b03-4906-8c45-1636863e8a58": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "avista",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "spokane, wa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "central analytics intern - multiple teams"
+      },
+      "fingerprint": "dad77bc27dcf5b1b38faf74390a44bb063cd9563261c4911199ad8a9847810c9",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/avi1000amast/jobboard/362abf68-95c3-4b17-a39d-76a6efe5ff18/opportunitydetail?opportunityId=99b68bca-853c-4512-a758-80fa46bf30b5": {
+      "eligible": false,
+      "fingerprint": "9e58528d73948dd9592f60d89c1ed9277fbf78bb3ec0f7f3f5ec85d85b82faf1",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/cal1001cala/jobboard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/opportunitydetail?opportunityId=63353a2a-47a7-4b97-9015-c34af4213bcf": {
+      "eligible": false,
+      "fingerprint": "aa08196a8ac3963ecc1140f6788c0d57d41dc7f67021d575e062dcef8de9ae32",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/cal1001cala/jobboard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/opportunitydetail?opportunityId=8ba1e4ff-1ee1-46ab-b93f-9a4e4b6eb487": {
+      "eligible": false,
+      "fingerprint": "2d3f26e8411c2c6f37de0ec9e90417962bbf65ce5a93c1b01a3a8b1fa05bab3a",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/cal1001cala/jobboard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/opportunitydetail?opportunityId=d9cbb719-b68a-42b7-b40d-d8bf44caec64": {
+      "eligible": false,
+      "fingerprint": "45efa4fff2bb89851e84efc056acfeb8f537a2a412bb8c541d12334769ad9688",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/cal1001cala/jobboard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/opportunitydetail?opportunityId=eb5cd89f-4e14-4b46-ab4d-f68f12bf61af": {
+      "eligible": false,
+      "fingerprint": "98d6fc26a80f8a525054ab15bc3a3b68fb95a3539fe2fd6662a8be14adc3d795",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/cal1001cala/jobboard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/opportunitydetail?opportunityId=fcc43164-f08a-4252-aa1b-4707337a92d4": {
+      "eligible": false,
+      "fingerprint": "09aa7030efc6b256ccd95b10ca6c23ba4346ee4522371f441486cce3d0e4c32d",
+      "revision": 1
+    },
     "url:https://recruiting2.ultipro.com/del1015ddom/jobboard/e8d2dd7b-43e6-4235-802f-09aab4496b69/opportunitydetail?opportunityid=c894ff7a-f6d5-4442-b3cd-efd27ed5fde7": {
       "eligible": true,
       "evidence": {
@@ -65338,6 +66036,104 @@
         "title": "data science intern"
       },
       "fingerprint": "6469e99cedd131fc21fecbad7c67a14756b1a2b0eecb80a3d9f24c436ba5f191",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/goo1038gomn/jobboard/75022464-9dbd-43d2-af44-2840603d5823/opportunitydetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "daikin comfort",
+        "degrees": [],
+        "locations": [
+          "waller, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analyst intern"
+      },
+      "fingerprint": "d63c240640a11e7400ef15fa1b4591870e38f6ba2acc6b605edbe6f0625702c2",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/gre1058gres/jobboard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/opportunitydetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "great southern wood preserving",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "abbeville, al"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "engineering intern - data analyst"
+      },
+      "fingerprint": "5cf68c42c0e7d7ebafd65b2d2ab850e4bfa262a29083f318a210c8daf249163f",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/her1001acfin/jobboard/ab33798a-3521-417b-8db8-a8e435c475fa/opportunitydetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "acuity insurance",
+        "degrees": [],
+        "locations": [
+          "sheboygan, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "strategic information intern"
+      },
+      "fingerprint": "2cc0323ec07548d85acebfa1b95a32c687000e3508330dfb361485d5cfcf7b5b",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/her1001acfin/jobboard/ab33798a-3521-417b-8db8-a8e435c475fa/opportunitydetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "acuity insurance",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "sheboygan, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analytics intern - data science"
+      },
+      "fingerprint": "3b07ad78d888992495ae501562e630f95c2ba49d791ebb8836124ba0e3a3f31d",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/her1001acfin/jobboard/ab33798a-3521-417b-8db8-a8e435c475fa/opportunitydetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "acuity insurance",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "remote in usa",
+          "sheboygan, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "c45c9d859882b6ac91af707a085b682d1629de5a61e0654a277d67a2c4a3c20d",
       "revision": 1
     },
     "url:https://recruiting2.ultipro.com/her1001acfin/jobboard/ab33798a-3521-417b-8db8-a8e435c475fa/opportunitydetail?opportunityid=57946ef1-ca27-4ef4-b48d-829da2dfd217": {
@@ -65368,6 +66164,11 @@
       "fingerprint": "c2436be10e88d4be4b8ab55f70f603be3b22a8202a439d56bd9505416d0fdb16",
       "revision": 1
     },
+    "url:https://recruiting2.ultipro.com/lja1000liae/jobboard/d412e071-8074-41d9-90fd-4429decd075e/opportunitydetail?opportunityId=1bc56821-99e6-47f5-96f8-affcbb91c769": {
+      "eligible": false,
+      "fingerprint": "1129ec5e52b1e1054b5e58ba16f3ebe0a1fb5da6ca249aee34764d7d07c20c79",
+      "revision": 1
+    },
     "url:https://recruiting2.ultipro.com/mel1001mel/jobboard/d5ffce96-7247-41c4-831b-454b3454c233/opportunitydetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf": {
       "eligible": true,
       "evidence": {
@@ -65388,9 +66189,141 @@
       "fingerprint": "52dbff0aa0d45296879a2b36e6ebbe0f8b6cd97f3a595255e31cd5c0f8cb6a43",
       "revision": 2
     },
+    "url:https://recruiting2.ultipro.com/mes1003mfac/jobboard/69451223-cdce-4faf-9407-23a2cd5ac83b/opportunitydetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "mesirow",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software developer intern - it"
+      },
+      "fingerprint": "21a8ffcb6a23f16b83aef80693bd63b3b5442493356c5cd09def631521249c25",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/mil1017/jobboard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/opportunitydetail?opportunityId=4f353716-eb67-4f11-a274-efee2100be07": {
+      "eligible": false,
+      "fingerprint": "b9f3277fb97311a5363989f37583cde5774698276a7e5dfc9c10c1b628a62f9d",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/mil1017/jobboard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/opportunitydetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "milliman",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "brookfield, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data analyst intern"
+      },
+      "fingerprint": "9d68693cdbf74985cc49921664db50f4dafff5c63de483c0a78e1081d66de291",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/mil1017/jobboard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/opportunitydetail?opportunityId=d159c041-eb0e-4505-913f-aa006818d620": {
+      "eligible": false,
+      "fingerprint": "b9f3277fb97311a5363989f37583cde5774698276a7e5dfc9c10c1b628a62f9d",
+      "revision": 1
+    },
     "url:https://recruiting2.ultipro.com/sch1015sals/jobboard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/opportunitydetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24": {
       "eligible": false,
       "fingerprint": "6398073b5fa696f3c9b2c938e53f6a1a8fee16c0b66922f79d1e141c4d829752",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/sou1016sfbli/jobboard/adba73e4-f371-45d0-a5d2-32260abcd2f8/opportunitydetail?opportunityId=65805e52-4d2d-43bb-a7bb-7c7ae1ea8f25": {
+      "eligible": false,
+      "fingerprint": "8509d29cc7060d1dc3afc7b91fd1e26eb3e1029eb8acafc461e1258eb8a01daa",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/sou1016sfbli/jobboard/adba73e4-f371-45d0-a5d2-32260abcd2f8/opportunitydetail?opportunityId=7107f61e-7371-4aa5-9a00-9a03e33b19bc": {
+      "eligible": false,
+      "fingerprint": "02d1f9e2c8b882e21ba59428d4e2513a9615dc912a87fc990797e4d4ff749c73",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/sou1016sfbli/jobboard/adba73e4-f371-45d0-a5d2-32260abcd2f8/opportunitydetail?opportunityId=87bde30a-d527-4d94-880d-db1a93afa941": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "southern farm bureau life insurance",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "jackson, ms"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "97b0d66e8818f5029a28ae1f8b086928b755262444e2c8d72a6bb8552ccd588c",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/sou1016sfbli/jobboard/adba73e4-f371-45d0-a5d2-32260abcd2f8/opportunitydetail?opportunityId=91614058-520c-4ce3-8ac5-51b3a3b42a8f": {
+      "eligible": false,
+      "fingerprint": "f49fe7fc0e4c36c4a7e2561c7d8509a4e622b25788b223cfeddc3ce3f4b2994b",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/sou1016sfbli/jobboard/adba73e4-f371-45d0-a5d2-32260abcd2f8/opportunitydetail?opportunityId=c3ad5eba-757e-447a-957b-a5ab8fb34c7b": {
+      "eligible": false,
+      "fingerprint": "aadba49fc634418bacbcdc579ef375864438b0e3e2012a5ed320cdb32c50a79f",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/sou1016sfbli/jobboard/adba73e4-f371-45d0-a5d2-32260abcd2f8/opportunitydetail?opportunityId=e98034f4-8629-4425-8007-7f5446ca3e39": {
+      "eligible": false,
+      "fingerprint": "e435befc5c5b5bb4458934da33ce815e426e5e9104a803bf3fa26877c5f08dd7",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/sou1016sfbli/jobboard/adba73e4-f371-45d0-a5d2-32260abcd2f8/opportunitydetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf": {
+      "eligible": false,
+      "fingerprint": "2b5b1d731dfc87cae76d778527ffede590c24c66e153f38f3a3224a003de8012",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/sou1052sppi/jobboard/bc99b5f0-ed6b-436e-b545-2196af0704de/opportunitydetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "southwest power pool",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "little rock, ar"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "operations developer intern"
+      },
+      "fingerprint": "965492d8b6e6a4486052aeedad537da45a37d1b8203651a323fc37075b72359b",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/sta1003stark/jobboard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/opportunitydetail?opportunityId=28499be6-cffe-4a43-9792-9e085fed9404": {
+      "eligible": false,
+      "fingerprint": "5b02ee9723970d4f9a85849e5b7d254b86310f6fdc2fa2bf343eaf260c7e1f5d",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/sta1003stark/jobboard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/opportunitydetail?opportunityId=8561dc70-9502-4e36-b2ca-32a125d2fbb7": {
+      "eligible": false,
+      "fingerprint": "15c28cef8cf934f27fd404c872d75728eb5089e8aedea73fe3ade39107509bea",
       "revision": 1
     },
     "url:https://recruiting2.ultipro.com/sta1003stark/jobboard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/opportunitydetail?opportunityid=dffb5d69-1f21-45e3-8929-c8a4746e349a": {
@@ -65409,6 +66342,48 @@
         "title": "software engineering intern"
       },
       "fingerprint": "9243ae51a5d1bda91b03542c07692d600be40d0efc7e55c038893cc70160a9c1",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/ult1008ulte/jobboard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/opportunitydetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "ulteig",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "greenwood village, co",
+          "minneapolis, mn",
+          "remote in usa"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "gis intern"
+      },
+      "fingerprint": "e83561d6f0258bcdcc7973e55c8b66fe0bd7656d1ec718812b49c8a0fa6e46ef",
+      "revision": 1
+    },
+    "url:https://recruiting2.ultipro.com/wer1000were/jobboard/9cc9fbca-288f-4c69-99d7-b81d31b89844/opportunitydetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "werner electric supply",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "appleton, wi"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai intern"
+      },
+      "fingerprint": "6c4722f0d398fd1f885accecd53421a87198a6f9d713d6d54aae5e15aea72105",
       "revision": 1
     },
     "url:https://recruitingbypaycor.com/career/jobintroduction.action?clientId=8a7883d09e6b0b48019ea87932341fc1&id=8a78839ea0f4259801a11d4c815a34f2": {
@@ -68117,18 +69092,16 @@
           "master's"
         ],
         "locations": [
-          "fremont, ca",
-          "san jose, ca",
           "san jose, ca +1"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern - multiple teams"
+        "title": "summer 2027 internship - software engineering - california"
       },
-      "fingerprint": "49cbfc0afedd25c9ba8577331f35bcbac8c788a7a282e4b7553265c8a4fde940",
-      "revision": 0
+      "fingerprint": "7d4f741b593893afe86cf96045f31f871eb10bb98950e4411f0b179ad3f43ace",
+      "revision": 1
     },
     "url:https://studentcareers-jhuapl.icims.com/jobs/60008/job": {
       "eligible": true,
@@ -71403,7 +72376,7 @@
       "eligible": true,
       "evidence": {
         "category": "",
-        "company": "idemia north america",
+        "company": "idemia",
         "degrees": [],
         "locations": [
           "reston, va"
@@ -71412,16 +72385,16 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "cloud software engineering intern"
+        "title": "full stack software engineering internship"
       },
-      "fingerprint": "98c5e958d5854b0c48634e40778a28268404e1debe72858783876c445508aea9",
-      "revision": 1
+      "fingerprint": "6913849bc4865c308dbc6104a09ac464e84397c0883529f7df302ae3ef18f73f",
+      "revision": 2
     },
     "url:https://uscareers-idemia.icims.com/jobs/8708/job": {
       "eligible": true,
       "evidence": {
         "category": "",
-        "company": "idemia north america",
+        "company": "idemia",
         "degrees": [],
         "locations": [
           "eden prairie, mn"
@@ -71430,10 +72403,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "full stack software engineering intern"
+        "title": "full stack software engineering internship"
       },
-      "fingerprint": "a2cf1949c39fc3a6778b6a2bb309319de4f019046469b0941c45faf5f0907ad2",
-      "revision": 1
+      "fingerprint": "332ae2192cddcfb46cf3c4e77c5ff8370ec068d8e6e17e463f0c5146c964ec64",
+      "revision": 2
     },
     "url:https://uscareers-lennox.icims.com/jobs/54691/job": {
       "eligible": false,
@@ -71613,6 +72586,11 @@
     "url:https://vanderlande.wd3.myworkdayjobs.com/careers/job/remote-united-states-of-america/supply-chain-data---analytics-intern_jr38708": {
       "eligible": false,
       "fingerprint": "3baa62330e22f3741de27a6b718422bd92f500e480c36c7c74bb5abc00358c56",
+      "revision": 1
+    },
+    "url:https://vaneck.rec.pro.ukg.net/van1502veac/jobboard/9158c56d-61c9-447f-98b1-4ba0b04ca31d/opportunitydetail?opportunityId=138d23f1-aadf-46e5-9efa-be0bdd2bd979": {
+      "eligible": false,
+      "fingerprint": "accc2a079d5f7dc82e2d9c1a2d1d8d3f8ab1df4a0c709765da0cb003c2ac96f7",
       "revision": 1
     },
     "url:https://vanguard.wd5.myworkdayjobs.com/contractors_restricted/job/dallasft-worth-tx/xmlname-2027-spring-summer-co-op-opportunities---dallas_182410": {
@@ -72674,6 +73652,27 @@
       "fingerprint": "342390ec3822988e49c0b490f4c027d92fb34e2cebf7cd4e873b3fa1034d27ee",
       "revision": 2
     },
+    "url:https://vtindustries.rec.pro.ukg.net/vti1500vtin/jobboard/674339ab-9285-4ba2-80bd-aa3503cae1b2/opportunitydetail?opportunityId=c6ed6034-a946-447b-bc0f-46cf40fe4367": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "vt industries",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "holstein, ia"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software development intern"
+      },
+      "fingerprint": "bf3dc3af501e999c5d1bcd9bb177e3f7e88046a091142e34981b3a839f005c33",
+      "revision": 1
+    },
     "url:https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/bentonville-ar/summer-2027-corporate-intern--data-science---data-analytics---last-mile-delivery_r-2690193": {
       "eligible": true,
       "evidence": {
@@ -72774,6 +73773,25 @@
     "url:https://warnerbros.wd5.myworkdayjobs.com/global/job/ma-needham-117-kendrick-st/wb-games-engineering-co-op--needham--ma---january-may-2027_r000109901": {
       "eligible": false,
       "fingerprint": "eea99d36a4db22608d6d878c00a43766a0c136a82fbaa63ff098ec4eae9a9825",
+      "revision": 1
+    },
+    "url:https://watchfiresigns.rec.pro.ukg.net/wat1501wfsi/jobboard/d3278620-b590-426f-899b-eb88c1096ad9/opportunitydetail?opportunityId=b1838552-e606-4247-a3ce-2ce25d11e732": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "watchfire signs",
+        "degrees": [],
+        "locations": [
+          "danville, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "a3049f6027f26068a8438c498c9f3683f34babbec73b190ee471c73841dd7eda",
       "revision": 1
     },
     "url:https://wattswater.wd5.myworkdayjobs.com/intern-external/job/north-andover-ma/product-data-analyst--marketing-intern_10017538": {
@@ -74565,6 +75583,11 @@
       "fingerprint": "699e0c04c457cb129915187a4c3e604ff75896c0dbe6124e919d9ceade17feef",
       "revision": 1
     },
+    "url:https://www.metacareers.com/jobs/1122232790428355": {
+      "eligible": false,
+      "fingerprint": "945b086195830c54f0ca09c837f2a51824025085f685b53f00d1e4e7cd0313f4",
+      "revision": 1
+    },
     "url:https://www.metacareers.com/jobs/1125383989877928": {
       "eligible": false,
       "fingerprint": "c900f46cfa760a3006274e4db242d881459bd133b41b7411972423e7169aaf7c",
@@ -74921,8 +75944,8 @@
     },
     "url:https://www.metacareers.com/jobs/2180490782513668": {
       "eligible": false,
-      "fingerprint": "54b19bd9a5e58a69d292a882a30ce00a7757a1305fc361d4292ba75fe865c31c",
-      "revision": 2
+      "fingerprint": "cd1c500688ded090abb21cb632926537b20bb490f4a51f95781182e5885e778f",
+      "revision": 3
     },
     "url:https://www.metacareers.com/jobs/2211974449401350": {
       "eligible": false,
@@ -76127,6 +77150,11 @@
       "fingerprint": "88f853e1b375e78d64c26bea3583597c2a8bbbb35e0000df7ff4c4c94797524c",
       "revision": 1
     },
+    "url:https://www.tesla.com/careers/search/job/290756": {
+      "eligible": false,
+      "fingerprint": "a363b02a094d4c7011f7d47aa8cc84489119f56b8a9ad1b87eb626ede2ab26a4",
+      "revision": 1
+    },
     "url:https://www.tower-research.ca/postes-vacants?gh_jid=8212194": {
       "eligible": false,
       "fingerprint": "621dee5058e5d1cc9aaefd86e69519ad003dfcb3750f5d75bc5cb573ac6500f8",
@@ -76425,6 +77453,11 @@
         "title": "animation & cinematic tools engineering intern - animation & cinematic tools engineering"
       },
       "fingerprint": "35ab0b9e76dd31747967db8dce2aaec4f1bf73b1d7f990791e6424ae6211c11e",
+      "revision": 1
+    },
+    "url:https://xboxgaming.wd1.myworkdayjobs.com/blizzard_external_careers/job/irvine---blizzard---blizzard-way/blizzard-2027-summer-internships---applied-science_r028347": {
+      "eligible": false,
+      "fingerprint": "b5f1bbdbcffe8f481efc62a27decaad300b471f2d6559e9190a93c7ed0f07fdd",
       "revision": 1
     },
     "url:https://xboxgaming.wd1.myworkdayjobs.com/external/job/sherman-oaks/activision-2027-summer-internships---software-engineering_r028039": {
@@ -77154,6 +78187,22 @@
     "https://go.vansh.nyc/1F1": 435,
     "https://go.vansh.nyc/1F3": 435,
     "https://go.vansh.nyc/1F4": 435,
+    "https://go.vansh.nyc/1FB": 436,
+    "https://go.vansh.nyc/1FC": 436,
+    "https://go.vansh.nyc/1FD": 436,
+    "https://go.vansh.nyc/1FJ": 436,
+    "https://go.vansh.nyc/1FS": 436,
+    "https://go.vansh.nyc/1FU": 436,
+    "https://go.vansh.nyc/1Fa": 436,
+    "https://go.vansh.nyc/1Fe": 436,
+    "https://go.vansh.nyc/1Ff": 436,
+    "https://go.vansh.nyc/1Fh": 436,
+    "https://go.vansh.nyc/1Fi": 436,
+    "https://go.vansh.nyc/1Fk": 436,
+    "https://go.vansh.nyc/1Fu": 436,
+    "https://go.vansh.nyc/1Fw": 436,
+    "https://go.vansh.nyc/1Fx": 436,
+    "https://go.vansh.nyc/1Fy": 436,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -78737,6 +79786,22 @@
     "https://go.vansh.nyc/1F1": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Data-Science-Analyst-II--Intern----Untied-States_2032691",
     "https://go.vansh.nyc/1F3": "https://us-careers-rivian.icims.com/jobs/37339/login",
     "https://go.vansh.nyc/1F4": "https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b",
+    "https://go.vansh.nyc/1FB": "https://recruiting.ultipro.com/TCO1001TCOM/JobBoard/74e57e92-4355-44d7-8471-3c6eecfda9ef/OpportunityDetail?opportunityId=e8df2c4d-5bfd-4b2c-9dc2-d1f4713497f5",
+    "https://go.vansh.nyc/1FC": "https://btcpa.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2/OpportunityDetail?opportunityId=4d519358-fb57-46be-8018-838c26e1bf4a",
+    "https://go.vansh.nyc/1FD": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Software-Engineering-Intern_J2472697",
+    "https://go.vansh.nyc/1FJ": "https://watchfiresigns.rec.pro.ukg.net/wat1501wfsi/JobBoard/d3278620-b590-426f-899b-eb88c1096ad9/OpportunityDetail?opportunityId=b1838552-e606-4247-a3ce-2ce25d11e732",
+    "https://go.vansh.nyc/1FS": "https://jobs.bombardier.com/job/Wichita-Software-Engineering-Intern-%28Year-round%29-KS-67209/1459029933",
+    "https://go.vansh.nyc/1FU": "https://recruiting.ultipro.com/app1010arai/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=bdbeeabf-bf21-41d9-9034-d01be04c59f6",
+    "https://go.vansh.nyc/1Fa": "https://careers.garmin.com/jobs/22650?icims=1&lang=en-us",
+    "https://go.vansh.nyc/1Fe": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895",
+    "https://go.vansh.nyc/1Ff": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154",
+    "https://go.vansh.nyc/1Fh": "https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83",
+    "https://go.vansh.nyc/1Fi": "https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=561ce011-a9e5-4635-b991-2c8abd3d88bf",
+    "https://go.vansh.nyc/1Fk": "https://jobs.lever.co/momsmeals/77331b7f-4efc-488d-a6af-584788e3d1b0",
+    "https://go.vansh.nyc/1Fu": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=87bde30a-d527-4d94-880d-db1a93afa941",
+    "https://go.vansh.nyc/1Fw": "https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214",
+    "https://go.vansh.nyc/1Fx": "https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=0e5ea52f-9c4b-45f8-9a60-86678d8e3fd8",
+    "https://go.vansh.nyc/1Fy": "https://vtindustries.rec.pro.ukg.net/VTI1500VTIN/JobBoard/674339ab-9285-4ba2-80bd-aa3503cae1b2/OpportunityDetail?opportunityId=c6ed6034-a946-447b-bc0f-46cf40fe4367",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -79983,7 +81048,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 435,
+  "scan_sequence": 436,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
