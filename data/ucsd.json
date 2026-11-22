@@ -534,9 +534,12 @@
     "url:https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/raleigh-nc/data-science-intern_r-0620261-1": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "advance auto parts",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "raleigh, nc"
         ],
@@ -546,8 +549,8 @@
         ],
         "title": "data science intern"
       },
-      "fingerprint": "43d18df2e250bb3f63370b6ef755f9cf1b27229accc1a59961e96d53a1d9c56d",
-      "revision": 1
+      "fingerprint": "a7fc2aa6e23d375112e262a03b5fcb84d381e2a369c963b5da2d9a036928dd88",
+      "revision": 2
     },
     "url:https://aep.wd1.myworkdayjobs.com/aepcareersite/job/columbus-oh/data-scientist-intern---columbus--oh_r20499": {
       "eligible": false,
@@ -929,6 +932,11 @@
         "title": "software engineering intern, devops"
       },
       "fingerprint": "dcad3bcd7f0c66f9ed38f679b1d152b89943bfdafb1ca5a2d8e30524543c4a1d",
+      "revision": 1
+    },
+    "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/colorado-springs-co/summer-intern---digital-manufacturing_jr37704": {
+      "eligible": false,
+      "fingerprint": "4ad7707cf5c0bcea8795f19db39b44fbbeb9316f29849972d81e4094ee96ba6e",
       "revision": 1
     },
     "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/golden-co/summer-intern---software-engineering---quality-assurance_jr37472": {
@@ -27216,9 +27224,7 @@
         "locations": [
           "fremont, ca",
           "montreal, canada",
-          "new york, ny",
           "ottawa, canada",
-          "santa clara, ca",
           "toronto, canada"
         ],
         "requirements": [],
@@ -27227,8 +27233,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "ffd7bdc459a24cf66dfdf36a514c8ac567dc32c5b220269dbaddef8ef6abd644",
-      "revision": 3
+      "fingerprint": "7e8cc16fa96c69c91b1c58f62f29ab364d1ff7286c8179bf9bf4220d079e6a26",
+      "revision": 4
     },
     "url:https://go.vansh.nyc/1ae": {
       "eligible": true,
@@ -27534,6 +27540,11 @@
     "url:https://go.vansh.nyc/1gj": {
       "eligible": false,
       "fingerprint": "1b74d0fe619e3a8eacc46d2108c36b1e86d8560f1d7886243eec65ff12796226",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1gn": {
+      "eligible": false,
+      "fingerprint": "30c07df2dc4baf9fa03c37f6cc92d5a37d506799f61431c1b35d97cabf66294b",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1gq": {
@@ -34302,6 +34313,11 @@
       "fingerprint": "f44a66d2d956c20a8dfcd00d3105e10e99a9fbdc5b189ad2f7ce5397de476043",
       "revision": 0
     },
+    "url:https://interdigital.wd5.myworkdayjobs.com/interdigital_intern/job/losaltos_ca/phd-research-intern--ai-lab_req26-1172": {
+      "eligible": false,
+      "fingerprint": "c2a19c1d7735fde1526b161e90b353df87a8cae4bad7bd5035aadf2bbfd47a42",
+      "revision": 1
+    },
     "url:https://internaljobs.centurylink.com/job/remote-ai-&-automation-builders-summer-2027-internship-pathway/1440953200?ats=successfactors": {
       "eligible": true,
       "evidence": {
@@ -38977,6 +38993,27 @@
         "title": "autonomy intern"
       },
       "fingerprint": "b49b66c170b169993a9fc492ff34a59efe02388b70f6af293d1508e94345c835",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "neros technologies",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "torrance, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "firmware/embedded software engineer intern"
+      },
+      "fingerprint": "b3386705f886b5fea3ec88503843ffac2dfea2ec09808e9ffa3bf6b1c5c1c57d",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/newsbreak/jobs/4684555006": {
@@ -62234,6 +62271,11 @@
       "fingerprint": "c39a499027813dec67dec945216d29bb8163d2fead3d15f576d14b85cf934c30",
       "revision": 0
     },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/applied-research-scientist-intern--agentic-biology---summer-2027_jr2029307": {
+      "eligible": false,
+      "fingerprint": "9b3d017b259ea2e0d68a80c35635b0234cac343b0a145b38c5ca9c3134598f32",
+      "revision": 1
+    },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/deep-learning-scientist-intern--llm--multimodal-and-agentic-ai---summer-2027_jr2027548": {
       "eligible": false,
       "fingerprint": "6fb998f6bdf5a029647264d5f5ac22c0ca5fe9fe79d306ad0f4f5a7c250c57b1",
@@ -62527,9 +62569,13 @@
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/technical-marketing-engineering-intern--digital-biology-and-scientific-computing---summer-2027_jr2029793": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "nvidia",
-        "degrees": [],
+        "degrees": [
+          "bachelor's",
+          "master's",
+          "phd"
+        ],
         "locations": [
           "santa clara, ca"
         ],
@@ -62537,10 +62583,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "technical marketing engineering intern, digital biology and scientific computing"
+        "title": "technical marketing engineer intern - digital biology and scientific computing"
       },
-      "fingerprint": "5f64c4c93576cb5cbef3118104eb790ee957d37e81bbd1107f617718d1936bde",
-      "revision": 1
+      "fingerprint": "12de7aafc854a611b8f2c736dc5d8e65be8615a3bb965cf601548f6e2a00918d",
+      "revision": 2
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/vlsi-cad-timing-intern--applied-ai---summer-2027_jr2026799": {
       "eligible": false,
@@ -67851,6 +67897,11 @@
     "url:https://sbdinc.wd1.myworkdayjobs.com/stanley_black_decker_career_site/job/towson-md-united-states/intern--data-analyst---bi--summer-2027_req-1000052481": {
       "eligible": false,
       "fingerprint": "19f1fbef651fe2ce7fff932eaf83d20e99f03e33290e4952969834a68f4daa47",
+      "revision": 1
+    },
+    "url:https://schnucks.wd5.myworkdayjobs.com/schnuckscareers/job/schnucks-store-support-center-corporate-office/xmlname-2027-data-science---generative-ai-internship_r-0043971": {
+      "eligible": false,
+      "fingerprint": "d61148e17e55ff28eb7c1c08b450e1d2d09209feb9e23e6f685e3b0f393eb7f5",
       "revision": 1
     },
     "url:https://se.jibeapply.com/jobs/135532?icims=1": {
@@ -78516,6 +78567,7 @@
     "https://go.vansh.nyc/1Gd": 438,
     "https://go.vansh.nyc/1Gi": 439,
     "https://go.vansh.nyc/1Gj": 439,
+    "https://go.vansh.nyc/1Go": 440,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -80121,6 +80173,7 @@
     "https://go.vansh.nyc/1Gd": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793",
     "https://go.vansh.nyc/1Gi": "https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
     "https://go.vansh.nyc/1Gj": "https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43476",
+    "https://go.vansh.nyc/1Go": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -81367,7 +81420,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 439,
+  "scan_sequence": 440,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
