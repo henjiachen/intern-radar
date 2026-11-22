@@ -531,6 +531,24 @@
       "fingerprint": "bd8318bacf0062895aff9ec697fad3aeb27bacb9ad1dac3c206bedc039604bfd",
       "revision": 0
     },
+    "url:https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/raleigh-nc/data-science-intern_r-0620261-1": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "advance auto parts",
+        "degrees": [],
+        "locations": [
+          "raleigh, nc"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "43d18df2e250bb3f63370b6ef755f9cf1b27229accc1a59961e96d53a1d9c56d",
+      "revision": 1
+    },
     "url:https://aep.wd1.myworkdayjobs.com/aepcareersite/job/columbus-oh/data-scientist-intern---columbus--oh_r20499": {
       "eligible": false,
       "fingerprint": "04078a48eaed1e60b664477a30636cb86eb11971f995ed0daaaa5f1f86b78b68",
@@ -9882,20 +9900,24 @@
     "url:https://cadence.wd1.myworkdayjobs.com/university_talent_intern/job/boston-02/software-engineering-intern_r57179": {
       "eligible": true,
       "evidence": {
-        "category": "",
-        "company": "cadence",
-        "degrees": [],
+        "category": "ai/ml/data",
+        "company": "cadence design systems",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
         "locations": [
           "boston, ma"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "software engineer intern"
       },
-      "fingerprint": "3532e530111dc98081ce97683f69984fa666e6ff4a8aa3af34fd94ea4f368e7c",
-      "revision": 1
+      "fingerprint": "48b6ac64d1e07993492a878ead7ec9b15ac6085508865d33de8261b7681c389c",
+      "revision": 2
     },
     "url:https://cadence.wd1.myworkdayjobs.com/university_talent_intern/job/burlington-ma/product-engineering-internship--electronics-hardware-design--fall-2026-_r54158": {
       "eligible": false,
@@ -23404,6 +23426,24 @@
     "url:https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/261292": {
       "eligible": false,
       "fingerprint": "4fa6c156a19fc0a3002cd3f98757e3e0c32ed8809cac2c5e848462e1177c6258",
+      "revision": 1
+    },
+    "url:https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_2001/job/43476": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "worthington enterprises",
+        "degrees": [],
+        "locations": [
+          "columbus, oh"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai intern"
+      },
+      "fingerprint": "bbd62e69d2c5e6a2cbcf1b00995a6c740c873d8d31079e79252a76e86b75ee98",
       "revision": 1
     },
     "url:https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/wi---menasha/gis-internship_r12730-1": {
@@ -38917,6 +38957,26 @@
         "title": "software engineer intern"
       },
       "fingerprint": "68a07997c8c210c76101d2d3f23f3d874de0814bd28427e44ebf076129c0d9df",
+      "revision": 1
+    },
+    "url:https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "neros technologies",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "torrance, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "autonomy intern"
+      },
+      "fingerprint": "b49b66c170b169993a9fc492ff34a59efe02388b70f6af293d1508e94345c835",
       "revision": 1
     },
     "url:https://job-boards.greenhouse.io/newsbreak/jobs/4684555006": {
@@ -59334,6 +59394,11 @@
       "fingerprint": "b054eaebd2fb1e0f7bdf646e6ca62cc3f1f23f5de7e2a6eea231b0bb07c12322",
       "revision": 1
     },
+    "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/canada---ottawa-bill-leathem/ai-engineer---co-op-intern_20261778": {
+      "eligible": false,
+      "fingerprint": "86a8b6b62155d3f00bf4529fd067196e6ac5610c814b6989dfd2c9c98547069e",
+      "revision": 1
+    },
     "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/canada---ottawa-bill-leathem/embedded-software-developer-co-op--optical-circuit-switch-_20261320": {
       "eligible": false,
       "fingerprint": "ff018916100a22c6317e10f5c7df64f8a8b15ec185e2551bc4337b4cd5c569cf",
@@ -59365,21 +59430,24 @@
     "url:https://lumentum.wd5.myworkdayjobs.com/lite/job/usa---ca---san-jose-ridder/internship---sw-developer-support---program-management-office_20261729": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "lumentum",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "san jose, ca",
           "usa +2"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
-        "title": "sw developer support intern, program management office"
+        "title": "sw developer support intern - program management office"
       },
-      "fingerprint": "f6b87e621c5a0d8d6acb39e48ca1d2acc747b5cd72aa044d6d0b20c80c0add09",
-      "revision": 2
+      "fingerprint": "0074be7e7a7578fafaa5ffda54cff0e41f93074bdeb18915eba9b3b44ee1672a",
+      "revision": 3
     },
     "url:https://lumerate.breezy.hr/p/baf2283496ad/apply": {
       "eligible": false,
@@ -62631,6 +62699,11 @@
     "url:https://olg.wd3.myworkdayjobs.com/careers-students/job/sault-ste-marie-ontario-canada/front-end-developer-student_r26_00665": {
       "eligible": false,
       "fingerprint": "1cd4ef8fdbec66f0c3856d37f8dd38811afe45f5472191f3094f78d8881aedea",
+      "revision": 1
+    },
+    "url:https://olg.wd3.myworkdayjobs.com/careers-students/job/sault-ste-marie-ontario-canada/student---forensic-investigations_r26_00701": {
+      "eligible": false,
+      "fingerprint": "fc8115b60aae67066346ffe8f447a88274caa467e5eb3f9ed24f8325976d0883",
       "revision": 1
     },
     "url:https://olg.wd3.myworkdayjobs.com/careers-students/job/toronto-ontario-canada/analytics-engineering---measurement-student_r26_00700": {
@@ -71224,7 +71297,7 @@
     "url:https://transunion.wd5.myworkdayjobs.com/transunion/job/chicago-illinois/data-science---analytics-internship---summer-2027_19043450": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "transunion",
         "degrees": [],
         "locations": [
@@ -71236,8 +71309,8 @@
         ],
         "title": "data science & analytics intern"
       },
-      "fingerprint": "5df7b8f33cca783c1d783f5476f23d027e4c95f1fa4372717b37e672d42bf533",
-      "revision": 1
+      "fingerprint": "122d4a62ddcfe64dcf4cbadd7f39087e25a1f0170fd094963975f4bdc279e1aa",
+      "revision": 2
     },
     "url:https://transunion.wd5.myworkdayjobs.com/transunion/job/white-plains-new-york/financial-services---argus-advisory-internship---summer-2027_19042627": {
       "eligible": true,
@@ -78441,6 +78514,8 @@
     "https://go.vansh.nyc/1G6": 437,
     "https://go.vansh.nyc/1G7": 437,
     "https://go.vansh.nyc/1Gd": 438,
+    "https://go.vansh.nyc/1Gi": 439,
+    "https://go.vansh.nyc/1Gj": 439,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -80044,6 +80119,8 @@
     "https://go.vansh.nyc/1G6": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/intern/job/2380",
     "https://go.vansh.nyc/1G7": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern---ISM--Cyber-Security-and-AI_R26-5040-1",
     "https://go.vansh.nyc/1Gd": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793",
+    "https://go.vansh.nyc/1Gi": "https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
+    "https://go.vansh.nyc/1Gj": "https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43476",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -81290,7 +81367,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 438,
+  "scan_sequence": 439,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
