@@ -630,6 +630,22 @@
       "fingerprint": "a967a0170e6c6d19fccc683484ad98c06a0871e795f1a860d0cc6e3dd4e60060",
       "revision": 4
     },
+    "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-software-systems-engineer-and-acquisition-grad-intern_r017175": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "aerospace",
+        "degrees": [],
+        "locations": [
+          "el segundo, ca +1"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "2027 software systems engineer and acquisition grad intern"
+      },
+      "fingerprint": "454b507c74c131f97c6cec06356e0c223784131e8da43982913bfea1adb2d83e",
+      "revision": 1
+    },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-software-tools-and-assurance-engineering-grad-intern_r016753": {
       "eligible": false,
       "fingerprint": "8069a1542cb400ab4c97ec5caa9ca4227305e22f0a9201e6a5c43ac18a9c5bf2",
@@ -947,25 +963,28 @@
     "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/golden-co/summer-intern---software-engineering_jr37795": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "software",
         "company": "allegion",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "golden, co"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "software engineer intern - software engineering"
       },
-      "fingerprint": "8037bb3197c8a776bd189769a33534b456eb1c6fae87b10468dcd9cc2a657162",
-      "revision": 1
+      "fingerprint": "84bba59eecee6877caf7559a0871104f60f65ca44c8929a533f403f4fc502922",
+      "revision": 2
     },
     "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/golden-co/summer-intern---software-systems-engineering_jr37395": {
       "eligible": false,
-      "fingerprint": "f7c468c5e6b280750a46f6fa356245377bf043254eb6565ef85e0ce14de1471c",
-      "revision": 0
+      "fingerprint": "351ff320d7e19ae5f089c18521081860ddf5fcb71ea6f180ed849a9c47babfc3",
+      "revision": 1
     },
     "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/golden-co/summer-intern---summer-intern---software-engineering---quality-assurance_jr37856": {
       "eligible": false,
@@ -988,6 +1007,11 @@
         "title": "firmware engineer intern, advanced development"
       },
       "fingerprint": "fb9d6b3cf3914e9284c6acd65dac4a3947a140486cd439acd091fe51c079045d",
+      "revision": 1
+    },
+    "url:https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/indianapolis-in---hague-rd/summer-intern---product-data_jr37448": {
+      "eligible": false,
+      "fingerprint": "dc1945a8070eb78caeb7864de28ea2654cecb6aa8bdc32d24c44a2636da7a9b6",
       "revision": 1
     },
     "url:https://allenlundcompany.applytojob.com/apply/at334egzh0/customer-service-systems-intern": {
@@ -1396,7 +1420,6 @@
         "locations": [
           "chadds ford, pa",
           "columbus, oh",
-          "columbus, oh +4",
           "draper, ut",
           "frisco, tx",
           "wilmington, de"
@@ -1407,8 +1430,8 @@
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "9bb54fca7b6c6e76e1f76c5dfc82220f476f573ffe7487daa9db276ff63a237c",
-      "revision": 4
+      "fingerprint": "78182743aba38d77ef6a915508a825ee3af226117bcbd845288c9a5416d93665",
+      "revision": 5
     },
     "url:https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/usa---il-remote/arity---data-analytics-engineer-intern_r36286": {
       "eligible": true,
@@ -10907,6 +10930,11 @@
       "fingerprint": "e684c4e9a5e7494fc57a7a78c5c39b66098e82cb28123fa84527320bcd1a4498",
       "revision": 1
     },
+    "url:https://careers-garmin.icims.com/jobs/22650/job": {
+      "eligible": false,
+      "fingerprint": "bed882cdc215b999b3bb8a3dee1e4db8135953439a24293456cba92d9ccdf3b4",
+      "revision": 1
+    },
     "url:https://careers-gdms.icims.com/jobs/74537/job": {
       "eligible": false,
       "fingerprint": "ed1d529606dd144b4ce937c323727234920876b2af91b16e538edbe027d6bbc6",
@@ -17926,8 +17954,8 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12183": {
       "eligible": false,
-      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
-      "revision": 12
+      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
+      "revision": 13
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12184": {
       "eligible": false,
@@ -28497,24 +28525,9 @@
       "revision": 2
     },
     "url:https://go.vansh.nyc/ck": {
-      "eligible": true,
-      "evidence": {
-        "category": "",
-        "company": "wikimedia foundation",
-        "degrees": [],
-        "locations": [
-          "remote",
-          "united states",
-          "vancouver, canada"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineering intern"
-      },
-      "fingerprint": "ed8f6755b0ee75fc38c6a39424e91d747ba4f6b8404e3fb5149c665bfa6e0791",
-      "revision": 1
+      "eligible": false,
+      "fingerprint": "a081853a9343b7ec42a619df8f6322daea7592a22316ca37757b5e4a099796c1",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/cl": {
       "eligible": false,
@@ -32134,25 +32147,9 @@
       "revision": 6
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--aiml-platform---hp-iq_uni4800": {
-      "eligible": true,
-      "evidence": {
-        "category": "ai/ml/data",
-        "company": "hp inc.",
-        "degrees": [
-          "bachelor's"
-        ],
-        "locations": [
-          "san francisco, ca",
-          "sf"
-        ],
-        "requirements": [],
-        "terms": [
-          "summer 2027"
-        ],
-        "title": "software engineer intern - aiml platform - hp iq"
-      },
-      "fingerprint": "6da0a879a32cd3ff5728a57b3497bfd85f0ddfa7c1a28e99f2595e7ec91159f0",
-      "revision": 2
+      "eligible": false,
+      "fingerprint": "2aaf750e84ebbd3a575368718d6b76cea125978c93f0f7a3e4642fd801aed332",
+      "revision": 3
     },
     "url:https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-engineering-intern--connectivity---hp-iq_uni4812": {
       "eligible": false,
@@ -32485,6 +32482,7 @@
           "roseville, ca",
           "san jose, ca",
           "spring, tx",
+          "spring, tx +9",
           "sunnyvale, ca",
           "westford, ma"
         ],
@@ -32495,8 +32493,8 @@
         ],
         "title": "software engineer intern"
       },
-      "fingerprint": "5bd5550181418d3073553e903ac5cde3ab51c891e706d6452ffada57bb375512",
-      "revision": 3
+      "fingerprint": "30784384a58c7ff91671663996bca31a9ef218b4409bb1c04eb7e742f85436dc",
+      "revision": 4
     },
     "url:https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/sunnyvale-california-united-states-of-america/firmware-engineering-intern_1214254": {
       "eligible": false,
@@ -37889,10 +37887,10 @@
           "n/a",
           "summer 2027"
         ],
-        "title": "software engineer intern"
+        "title": "software engineering intern"
       },
-      "fingerprint": "b16aa71aa5770db086abb8da0e81c2a15284d8ca754f097422bced7c24cad15a",
-      "revision": 2
+      "fingerprint": "cd3b611223d0824c2ca7179c620409d452b459a7efeab4c42e1d079a28034f2e",
+      "revision": 3
     },
     "url:https://job-boards.greenhouse.io/heygen/jobs/4540716007": {
       "eligible": false,
@@ -39274,8 +39272,8 @@
     },
     "url:https://job-boards.greenhouse.io/pdtpartners/jobs/8077685": {
       "eligible": false,
-      "fingerprint": "e5b1b8f1fea52fbecb8b0ed233d33c5dc09b6c35391c0cac61537b97f96d3fbd",
-      "revision": 0
+      "fingerprint": "7d90190db3e07a8704b376cb399febde611818a51a0556d0c674a3c408f0bf97",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/perpay/jobs/4076934007": {
       "eligible": true,
@@ -44779,7 +44777,8 @@
           "phd"
         ],
         "locations": [
-          "mountain view, ca"
+          "mountain view, ca",
+          "sunnyvale, ca"
         ],
         "requirements": [],
         "terms": [
@@ -44788,8 +44787,8 @@
         ],
         "title": "software engineer intern - inference"
       },
-      "fingerprint": "19fbe3e7dcd69ee447d4019e3d04754da5f84f06a56ef26cac977df32255cb1e",
-      "revision": 1
+      "fingerprint": "38e8040a5bfda3534c51acffb7318aec4c1016b050a5424d030a321d2d7fb9c8",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5": {
       "eligible": true,
@@ -44801,7 +44800,8 @@
           "master's"
         ],
         "locations": [
-          "mountain view, ca"
+          "mountain view, ca",
+          "sunnyvale, ca"
         ],
         "requirements": [],
         "terms": [
@@ -44809,8 +44809,8 @@
         ],
         "title": "software engineer intern, rhoda platform"
       },
-      "fingerprint": "8966193062f345c4210ade9c291d9af2ca574f2191e5ee38a0013217b2b7326b",
-      "revision": 2
+      "fingerprint": "d9cf1c3e0514e032b500d2b0c8966276dc5e1d613a9a1e40a82b08f880da735d",
+      "revision": 3
     },
     "url:https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9": {
       "eligible": false,
@@ -51509,10 +51509,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern - technical"
+        "title": "software engineering intern, technical"
       },
-      "fingerprint": "1467636b9c20f11fc983ad8a2c89b40c0ccf88b7bdba10140885f8727d6cf4f1",
-      "revision": 3
+      "fingerprint": "4b22dfb24f35e65c4c5761e69102c40ba8fc9e0e4397664b7cd1cbc043ad6adf",
+      "revision": 4
     },
     "url:https://jobs.nvidia.com/careers/job/893397026185": {
       "eligible": true,
@@ -53643,6 +53643,11 @@
     "url:https://jobs.smartrecruiters.com/servicenow/744000162827365": {
       "eligible": false,
       "fingerprint": "642f2cb2687e4c34b331cbf15308d030c512797fb86bda132e72c9b967abf8ce",
+      "revision": 1
+    },
+    "url:https://jobs.smartrecruiters.com/servicenow/744000162827365-security-software-engineer-intern?oga=true": {
+      "eligible": false,
+      "fingerprint": "5d2de480a480144635955f96c726cc0b8e25e7a063c0e2d91b36523749e04d9f",
       "revision": 1
     },
     "url:https://jobs.smartrecruiters.com/sightcall/80298252": {
@@ -61356,9 +61361,26 @@
       "revision": 0
     },
     "url:https://neogen.wd5.myworkdayjobs.com/neogencareers/job/oakdale/software-or-firmware-engineer-intern_req-11064": {
-      "eligible": false,
-      "fingerprint": "7a96297b7eb6db63938ac2de7d2c4ab1aecb1c1c47243c715b22b6c7d9611153",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "neogen",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "oakdale, mn"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "embedded systems engineer intern"
+      },
+      "fingerprint": "5f8b71ed2b1c8c4e2cc995a13e8f9abb1834a84348e13dbf3e7d9a1468a33628",
+      "revision": 2
     },
     "url:https://netapp.eightfold.ai/careers/job/45497201": {
       "eligible": true,
@@ -67142,6 +67164,11 @@
       "fingerprint": "e4c30b692bb68f47136b8248eebc5ebaa1595a50e95d4f5249b9160a9afd9412",
       "revision": 0
     },
+    "url:https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/mayfield-heights-ohio-united-states/intern--content-ide-software-development--lcs-_r26-5010-1": {
+      "eligible": false,
+      "fingerprint": "89436ceed2125b786ab0aca5d12e0bb75f8a2851cb7eb1dcab55d2a703af0fb4",
+      "revision": 1
+    },
     "url:https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/mayfield-heights-ohio-united-states/intern--customer-response-engineering_r26-7270": {
       "eligible": false,
       "fingerprint": "0ce3162a61778d033774d4e3bc5d0fc48073e9645220e4d9440df962aaf989cb",
@@ -67154,8 +67181,8 @@
     },
     "url:https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/mequon-wisconsin-united-states/firmware-engineer-intern_r26-8321-2": {
       "eligible": false,
-      "fingerprint": "125faf26f90c8d60ba601612c7eeaf41295acbe3beaf1423df83141f6644c202",
-      "revision": 0
+      "fingerprint": "92de561f50e3b2f2184833931e8b8969c15a2d8f59155295cc0943e695c109b7",
+      "revision": 1
     },
     "url:https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/mequon-wisconsin-united-states/intern--software-developer-engineering_r26-8666-1": {
       "eligible": false,
@@ -67226,6 +67253,11 @@
       "fingerprint": "e4c30b692bb68f47136b8248eebc5ebaa1595a50e95d4f5249b9160a9afd9412",
       "revision": 0
     },
+    "url:https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/mayfield-heights-ohio-united-states/intern--content-ide-software-development--lcs-_r26-5010-2": {
+      "eligible": false,
+      "fingerprint": "89436ceed2125b786ab0aca5d12e0bb75f8a2851cb7eb1dcab55d2a703af0fb4",
+      "revision": 1
+    },
     "url:https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/mayfield-heights-ohio-united-states/intern--customer-response-engineering_r26-7270-1": {
       "eligible": false,
       "fingerprint": "0ce3162a61778d033774d4e3bc5d0fc48073e9645220e4d9440df962aaf989cb",
@@ -67242,8 +67274,7 @@
         ],
         "locations": [
           "eden prairie, mn",
-          "mequon, wi",
-          "mequon, wi +1"
+          "mequon, wi"
         ],
         "requirements": [],
         "terms": [
@@ -67252,8 +67283,8 @@
         ],
         "title": "firmware engineer intern"
       },
-      "fingerprint": "e7b2221a32572ffe6bfcbac2e37671fb18dc6250a2d1cd3c425e6f4d034056a1",
-      "revision": 1
+      "fingerprint": "520f99b6725408c7372fb71ef669fa7d4b38d5b68bf29fed6e6df24e525b40fc",
+      "revision": 2
     },
     "url:https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/mequon-wisconsin-united-states/intern--software-developer-engineering_r26-8666-2": {
       "eligible": true,
@@ -70953,6 +70984,22 @@
       "fingerprint": "61841bfb94fe94f64bfaacc325a7734f6c7a0567451bbb3e5545f8df86a3eb48",
       "revision": 1
     },
+    "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineering-internship_req383767": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "t-mobile",
+        "degrees": [],
+        "locations": [
+          "bellevue, wa"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "summer 2027 software engineering internship"
+      },
+      "fingerprint": "ec420f021363209153323b94f5d91704c0808fbcc49a07ec42b7f31282237b95",
+      "revision": 1
+    },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/frisco-texas/summer-2027-data-engineering-internship_req380754": {
       "eligible": true,
       "evidence": {
@@ -72359,6 +72406,22 @@
       "fingerprint": "f15ae0fd97c01213807ede9f75cd8fe647162cbf58fe49ba0692ca3cf8b30bea",
       "revision": 1
     },
+    "url:https://us-careers-rivian.icims.com/jobs/37339/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "rivian",
+        "degrees": [],
+        "locations": [
+          "palo alto, ca"
+        ],
+        "requirements": [],
+        "terms": [],
+        "title": "software engineering intern - ai platform - autonomy - summer 2027"
+      },
+      "fingerprint": "f3c6e78141cddc16d21b6fa32e3226ff42911e2e76a6043411d3b52f33d15659",
+      "revision": 1
+    },
     "url:https://us-careers-rivian.icims.com/jobs/37339/login": {
       "eligible": true,
       "evidence": {
@@ -72872,6 +72935,11 @@
       },
       "fingerprint": "2d598fabfd1928bcd6ba93e2594935bcda93b22c1ec430f4e9b29606ba93267b",
       "revision": 2
+    },
+    "url:https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/troy-mi/systems-engineering-co-op--software-_req2026071241": {
+      "eligible": false,
+      "fingerprint": "753c11c1ff8a2a60f421480cdf30d35ff6af2d3669a878edb3fdfe943e437fae",
+      "revision": 1
     },
     "url:https://valeris.wd108.myworkdayjobs.com/valeris/job/louisville-ky/software-engineer-intern_jr1044": {
       "eligible": false,
@@ -78184,6 +78252,11 @@
       "fingerprint": "d4700ee47497c483548ab8a0c0b6c22bbc52cf9f0a43137f26a11d209a76177c",
       "revision": 1
     },
+    "url:https://zoll.wd5.myworkdayjobs.com/zollmedicalcorp/job/chelmsford-ma/software-automation-intern_r20929": {
+      "eligible": false,
+      "fingerprint": "8e4d542306238369601784091058a2def7c5c82a6c2311b48c4eb825aa330399",
+      "revision": 1
+    },
     "url:https://zotecpartners.applytojob.com/apply/cskrdla8ap/business-intelligence-intern": {
       "eligible": false,
       "fingerprint": "2437d8c0d86c1841886a1fe49baf31ffd236cd116c8dda0e13c910153f4c1fc5",
@@ -78602,6 +78675,7 @@
     "https://go.vansh.nyc/1Gi": 439,
     "https://go.vansh.nyc/1Gj": 439,
     "https://go.vansh.nyc/1Go": 440,
+    "https://go.vansh.nyc/1Gp": 442,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -80208,6 +80282,7 @@
     "https://go.vansh.nyc/1Gi": "https://advanceauto.wd5.myworkdayjobs.com/en-US/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
     "https://go.vansh.nyc/1Gj": "https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43476",
     "https://go.vansh.nyc/1Go": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+    "https://go.vansh.nyc/1Gp": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -81454,7 +81529,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 441,
+  "scan_sequence": 442,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
