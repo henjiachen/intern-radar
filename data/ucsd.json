@@ -7320,6 +7320,11 @@
       "fingerprint": "59ca395dc23dbe3d3c8facf4cb51d73c44ecaaf0c0fa1a66b9c69a9c4204e1e4",
       "revision": 1
     },
+    "url:https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/brookings-sd-east/data-analyst-intern_r-100864": {
+      "eligible": false,
+      "fingerprint": "c70bbca41c0100118ec49617f960b9df53e6e69338e89c3c37337adfb8ab7012",
+      "revision": 1
+    },
     "url:https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/sioux-falls-sd-i-229/software-development-intern_r-100829": {
       "eligible": false,
       "fingerprint": "50b8263143d1f41faa4a98ba3eab34fc504cff874721897a8e2d0e9d73beb2f0",
@@ -12532,6 +12537,11 @@
       "fingerprint": "1b51804aef79a4188d3b1ed6c3a0be53f548c701981f5972c6607fa4d34acf92",
       "revision": 0
     },
+    "url:https://careers.amd.com/jobs/90475?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "1ff4937d423b13d1b7dd2a385a19e0b5f9a7d75c4bc696f1c2fe7d9d050fee98",
+      "revision": 1
+    },
     "url:https://careers.amd.com/jobs/90801?icims=1": {
       "eligible": true,
       "evidence": {
@@ -16832,7 +16842,7 @@
     "url:https://cbrands.wd5.myworkdayjobs.com/cbi_external_careers/job/rochester-new-york/intern--data-and-ai-enablement_r-41721": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "constellation brands",
         "degrees": [],
         "locations": [
@@ -16841,17 +16851,18 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "data and ai enablement intern"
       },
-      "fingerprint": "5492d2dae77f5428f1d8574facb21c61f2fa0b609bdac10db523a829cacc7da4",
-      "revision": 1
+      "fingerprint": "7a51101dd23f37f9b37e476e5adee1abc87238c7d1e16f623c8c565eeff732f8",
+      "revision": 2
     },
     "url:https://cbrands.wd5.myworkdayjobs.com/cbi_external_careers/job/rochester-new-york/intern--data-science_r-41527": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "constellation brands",
         "degrees": [],
         "locations": [
@@ -16859,12 +16870,13 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "data science intern"
       },
-      "fingerprint": "4798d5187ede237492e06af1926d737ef029bf78b207b388a270d9af7cda936f",
-      "revision": 1
+      "fingerprint": "c1e17d66bf16c23342ab42ee5250243d231a7ffdacd78f3a1dc6e22ee131ffc0",
+      "revision": 2
     },
     "url:https://cbrands.wd5.myworkdayjobs.com/cbi_external_careers/job/rochester-new-york/intern--finance-analytics_r-41494": {
       "eligible": false,
@@ -17264,8 +17276,8 @@
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/embedded-software-engineer---co-op-winter-2027_r032005": {
       "eligible": false,
-      "fingerprint": "c9433d140f7c9725be50b3152ba11d097a2ca9cd14b803e6a9f4051f008809d8",
-      "revision": 7
+      "fingerprint": "fc0450396e617d8d25fefd1babf129cec3bd74699317a705981e3fc828131b02",
+      "revision": 8
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/hardware-characterization-automation-co-op--winter-2027-_r032014": {
       "eligible": false,
@@ -35057,6 +35069,11 @@
       "fingerprint": "bf7376ccf1cb709aacb92559c0948b6a8be19aa54c743104f7da1257733d41d7",
       "revision": 0
     },
+    "url:https://jm.wd103.myworkdayjobs.com/external/job/denver-co-whq/business-analytics---strategy-intern_r26_2002": {
+      "eligible": false,
+      "fingerprint": "74699da34ab9d496937f8320b73b49adffc55f6e1990dd2f23da83c7ff7d79c2",
+      "revision": 1
+    },
     "url:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/alabama---mobile/intern--college-ne_jr105133": {
       "eligible": true,
       "evidence": {
@@ -44788,13 +44805,12 @@
         ],
         "requirements": [],
         "terms": [
-          "summer 2027",
-          "winter 2026"
+          "summer 2027"
         ],
-        "title": "robot software engineer intern"
+        "title": "software engineer intern, rhoda platform"
       },
-      "fingerprint": "a75ca4e00b16c347152d97411f3ae640787b1cc389ef07067c5af109a69a0fa5",
-      "revision": 1
+      "fingerprint": "8966193062f345c4210ade9c291d9af2ca574f2191e5ee38a0013217b2b7326b",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9": {
       "eligible": false,
@@ -61339,6 +61355,11 @@
       "fingerprint": "c18d580c4e9899b2da22d502bb265ee78d2f58c1970f79d3b79a0a619676d605",
       "revision": 0
     },
+    "url:https://neogen.wd5.myworkdayjobs.com/neogencareers/job/oakdale/software-or-firmware-engineer-intern_req-11064": {
+      "eligible": false,
+      "fingerprint": "7a96297b7eb6db63938ac2de7d2c4ab1aecb1c1c47243c715b22b6c7d9611153",
+      "revision": 1
+    },
     "url:https://netapp.eightfold.ai/careers/job/45497201": {
       "eligible": true,
       "evidence": {
@@ -65072,6 +65093,11 @@
     "url:https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/montral-quebec-canada/xmlname-2027-winter-capital-markets-qts--software-developer--montreal---4-months_r-0000184676-3": {
       "eligible": false,
       "fingerprint": "757f61a23094e03df6bbd0b83ccaaadf58bd6118da386a2d99d5b7fbc883ecbd",
+      "revision": 1
+    },
+    "url:https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/toronto-ontario-canada/o-2027-wealth-management--winter-data-analyst_r-0000192288": {
+      "eligible": false,
+      "fingerprint": "b680963dc4188b1d537d405535420f28bc68981c1dd685566ede3f9f10a13c28",
       "revision": 1
     },
     "url:https://rbc.wd3.myworkdayjobs.com/externalprivatepostingstudents/job/toronto-ontario-canada/xmlname-2027-winter---grm--data-analyst-intern--4-months-_r-0000188376": {
@@ -73159,20 +73185,23 @@
     "url:https://viavisolutions.wd1.myworkdayjobs.com/careers/job/bothell-wa-usa/coop---efi-fit-intern_260005313-1": {
       "eligible": true,
       "evidence": {
-        "category": "",
+        "category": "ai/ml/data",
         "company": "viavi solutions",
-        "degrees": [],
+        "degrees": [
+          "bachelor's"
+        ],
         "locations": [
           "bothell, wa"
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "robotics intern"
       },
-      "fingerprint": "9af9ecebeda0ca6fd2761b6e1bfd9444d9b0e768ee9dcf4b8e1b46fd0a555091",
-      "revision": 1
+      "fingerprint": "2779ce5cc0dd11c16204feed8a521c6c5d3d4ab06555bd3fff14c44342c56943",
+      "revision": 2
     },
     "url:https://viavisolutions.wd1.myworkdayjobs.com/careers/job/germantown-md-usa/software-engineering-co-op_260005140-1": {
       "eligible": false,
@@ -74348,6 +74377,11 @@
       "eligible": false,
       "fingerprint": "dcffeb125f537473e02ca7c4dd8c37e13886a6e040545784bc76442e265d9b5f",
       "revision": 0
+    },
+    "url:https://wgu.wd5.myworkdayjobs.com/external/job/salt-lake-city-ut/intern---technical_jr-026525": {
+      "eligible": false,
+      "fingerprint": "60181705bee6069475c42c548ba54a587f3e0a944b6fb1d0e9c775dc18539220",
+      "revision": 1
     },
     "url:https://whataburger.wd5.myworkdayjobs.com/wab_careers/job/300-concord-plaza-dr-san-antonio-tx-78216-6903/data-scientist-intern_jr10014201": {
       "eligible": false,
@@ -81420,7 +81454,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 440,
+  "scan_sequence": 441,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],

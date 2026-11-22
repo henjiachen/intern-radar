@@ -2164,22 +2164,6 @@
       "company": "American Family Insurance Group",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "285ffdf5facda0d984167d85640adb4f21e0d3dac5c1efd0340c19a07e1f4fbe",
-      "locations": [
-        "Madison, WI",
-        "Boston, MA"
-      ],
-      "posted_at": "2026-10-22",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Business Intelligence Enablement Intern",
-      "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531"
-    },
-    {
-      "company": "American Family Insurance Group",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "f353cf16d409ce989cc3b0f5b6b3364e5bb11dd05e737782645cd159407cc2d3",
       "locations": [
         "Madison, WI"
@@ -7768,9 +7752,9 @@
       "posted_at": "2026-11-16",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Data and AI Enablement Intern",
-      "url": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721"
+      "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721"
     },
     {
       "company": "Constellation Brands",
@@ -7780,12 +7764,12 @@
       "locations": [
         "Rochester, NY"
       ],
-      "posted_at": "2026-11-20",
+      "posted_at": "2026-11-16",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Data Science Intern",
-      "url": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527"
+      "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527"
     },
     {
       "company": "Constellation Energy",
@@ -9449,24 +9433,6 @@
       "company": "Edison International",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "a09ad0cfa60db4687f70727027aa4288e0512579088324f8d6d045a22a621aee",
-      "locations": [
-        "Santa Ana, CA",
-        "Fullerton, CA",
-        "Irvine, CA",
-        "Westminster, CA"
-      ],
-      "posted_at": "2026-09-01",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Intern - Multiple Teams",
-      "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors"
-    },
-    {
-      "company": "Edison International",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "40a52af56feb87b0150912b633f1dac18a55ccdd01cedff0d5e64e9a1ce87dce",
       "locations": [
         "Chino, CA"
@@ -9477,6 +9443,24 @@
       "source": "simplify",
       "title": "Software/Data Engineering Intern",
       "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors"
+    },
+    {
+      "company": "Edison International",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "f7d0013ee9a921f4440c929e16b3506bf6026256e9ee744baa85e1d85d65c5ec",
+      "locations": [
+        "Santa Ana, CA",
+        "Fullerton, CA",
+        "Irvine, CA",
+        "Westminster, CA"
+      ],
+      "posted_at": "2026-09-01",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Summer Internship - Data Analytics/Science/Applied Math",
+      "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors"
     },
     {
       "company": "Elas",
@@ -21432,21 +21416,6 @@
       "company": "Rhoda AI",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "deefee9459d2399563fe90115f3947ca71c655d0820e0c7bae78f3382e639790",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "posted_at": "2026-09-29",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Robot Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5/application?embed=true"
-    },
-    {
-      "company": "Rhoda AI",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "6cfbc0db2f25d9699d3bfd46fbee3b4c96337cdfda2c8578a5a391e0c8ba7188",
       "locations": [
         "Mountain View, CA"
@@ -21457,6 +21426,21 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Inference",
       "url": "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4/application?embed=true"
+    },
+    {
+      "company": "Rhoda AI",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "deefee9459d2399563fe90115f3947ca71c655d0820e0c7bae78f3382e639790",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "posted_at": "2026-10-31",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Rhoda Platform",
+      "url": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5"
     },
     {
       "company": "Ricoh",
@@ -28540,21 +28524,6 @@
       "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101"
     },
     {
-      "company": "Verisk",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "9e7fc4c84e7b3d9b8fda2017fc3cb3b01d893a7743add2b8fcb239adb3a11940",
-      "locations": [
-        "Lehi, UT"
-      ],
-      "posted_at": "2026-11-13",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Science/AI Intern",
-      "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184"
-    },
-    {
       "company": "Verition Group",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -28873,7 +28842,7 @@
       "posted_at": "2026-11-18",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Robotics Intern",
       "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1"
     },
@@ -29641,24 +29610,9 @@
       "posted_at": "2026-10-09",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "vanshb03",
       "title": "Machine Learning Engineer Intern",
       "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812"
-    },
-    {
-      "company": "Workday",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "e87978a56e863b727ffb68d92421a98cf9ff26f73a129a519cc2b5cc76aae73d",
-      "locations": [
-        "Pleasanton, CA"
-      ],
-      "posted_at": "2026-10-09",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Application Development Engineer Intern",
-      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811"
     },
     {
       "company": "Workshop",
@@ -29919,7 +29873,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-22T08:02:59.869278+00:00",
+  "last_checked": "2026-11-22T16:19:53.693675+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
