@@ -599,6 +599,24 @@
       "fingerprint": "b30d150188b1e4e8f0673fd0118892c52b12fd4bab950719d713bfd22cbb07fc",
       "revision": 3
     },
+    "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-embedded-software-engineering-undergrad-intern_r017321": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "aerospace corporation",
+        "degrees": [],
+        "locations": [
+          "el segundo, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded software engineering undergrad intern"
+      },
+      "fingerprint": "4a919c02749c3ce59a2e7664f4e82f41f00cedf0faecd82da324cd436d602e52",
+      "revision": 1
+    },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-network-systems-grad-intern_r016836": {
       "eligible": false,
       "fingerprint": "89d132e9d42444de9d29f2797d71cfeb725ec8b736804558faef6da923701f8b",
@@ -2736,9 +2754,22 @@
       "revision": 1
     },
     "url:https://analogdevices.wd1.myworkdayjobs.com/external/job/us-tx-austin-plaza-on-the-lake/embedded-software-engineer-intern_r269548": {
-      "eligible": false,
-      "fingerprint": "bcea21a3205fc59a390441378b8580237decccd5ffe3b0d2ab343781fab217e3",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "analog devices",
+        "degrees": [],
+        "locations": [
+          "austin, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded software engineer intern"
+      },
+      "fingerprint": "da88c2ac0d00ac2e5b635d7f23e3d86aea17c0325921ec11ddc31bd1832240ad",
+      "revision": 2
     },
     "url:https://ancestry.wd501.myworkdayjobs.com/careers/job/draper-utah/software-engineer---observability--co-op_r003434": {
       "eligible": false,
@@ -4120,6 +4151,11 @@
       "eligible": false,
       "fingerprint": "4716e0e62e07e99a38a2c10b5099865cb94caed6063f8df84c81cc8a411269c3",
       "revision": 0
+    },
+    "url:https://apply.workable.com/connectprep/j/9f465a2e1a/apply": {
+      "eligible": false,
+      "fingerprint": "6e50920957a670846f338d85a1b9e49658b7f2800bdb0a607394608dea3b4dfe",
+      "revision": 1
     },
     "url:https://apply.workable.com/coretek-services/j/8d69c6c871/apply": {
       "eligible": false,
@@ -15652,6 +15688,11 @@
     "url:https://careers.noblis.org/jobs/28139?icims=1&lang=en-us": {
       "eligible": false,
       "fingerprint": "8498adbabe5295f87f58de5caf4ca6a221ea3bb21ada65414607edc91f2442dd",
+      "revision": 1
+    },
+    "url:https://careers.noblis.org/jobs/28841?icims=1&lang=en-us": {
+      "eligible": false,
+      "fingerprint": "620a82af19e9e57e5dcfd00dedaa6a697719726143bc55b6e04ed33ede0ed674",
       "revision": 1
     },
     "url:https://careers.oracle.com/jobs": {
@@ -27959,6 +28000,11 @@
       "fingerprint": "fe8434f38ab1050f3ac7cb5a06da33f1a4b1b06ab6351f2f1737409905691e69",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1al": {
+      "eligible": false,
+      "fingerprint": "23c691c1aec629de00a6ba6fa3279af6d9478464060b20f4a8212c4eb017b598",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1am": {
       "eligible": false,
       "fingerprint": "b5b9d3e5aa2db3202ab3d92839fc8d27ea3a1c7132fc01d31c5cadb335af8612",
@@ -28309,6 +28355,16 @@
     "url:https://go.vansh.nyc/1it": {
       "eligible": false,
       "fingerprint": "24e17bdb1e39ed414604e3c13b4aaebc4e2d566a6879da0f4445a75257e1330d",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1ja": {
+      "eligible": false,
+      "fingerprint": "7405e13ff139216b119d533c80ff4cec3b5ce10492167801a765ddc5fd4892f0",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1jd": {
+      "eligible": false,
+      "fingerprint": "89a7a67dd81eef1cd08f435251384937393102dcb35ba054175c97c69aec40ae",
       "revision": 1
     },
     "url:https://go.vansh.nyc/1jf": {
@@ -29595,11 +29651,6 @@
         "title": "software engineer intern"
       },
       "fingerprint": "25ed149bfe07c7300b603374300c1d66a1bd493baf8688bdb5ec5adfb1a336f3",
-      "revision": 1
-    },
-    "url:https://go.vansh.nyc/iu": {
-      "eligible": false,
-      "fingerprint": "8aa5b10a07288198a82f1335165c99020691b3e96e5d154a8b8b901e7b031a3d",
       "revision": 1
     },
     "url:https://go.vansh.nyc/ix": {
@@ -36753,6 +36804,29 @@
       "fingerprint": "06d9b5530ba952917a62ee47cc5d7e4c6d936fc85eb089b1411708c6b25f99bf",
       "revision": 2
     },
+    "url:https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "artefact",
+        "degrees": [
+          "bachelor's",
+          "master's"
+        ],
+        "locations": [
+          "new york, ny",
+          "nyc"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "ai builder intern"
+      },
+      "fingerprint": "db58e5a51758ef71318753f1b36c4352c91cd7baf8eb524a60148b4e88a29eda",
+      "revision": 1
+    },
     "url:https://job-boards.greenhouse.io/artefactnoram/jobs/8958076002": {
       "eligible": true,
       "evidence": {
@@ -36772,6 +36846,11 @@
       },
       "fingerprint": "e79e8e9820a9107d64133fa47f90414ff10a0d7ec46d32d146f065549dc2522f",
       "revision": 2
+    },
+    "url:https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002": {
+      "eligible": false,
+      "fingerprint": "d4f8bdbec5cd50fa7778d5b98dadb03b0c9f634ff57d9f365fe779486f70f3d9",
+      "revision": 1
     },
     "url:https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005": {
       "eligible": false,
@@ -40407,9 +40486,25 @@
       "revision": 2
     },
     "url:https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005": {
-      "eligible": false,
-      "fingerprint": "8dd002de44a7b996c7757a4742055d7e3f88904b1c22228401b2919f79d3251c",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "patientpoint",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "cincinnati, oh"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2026",
+          "summer 2027"
+        ],
+        "title": "data engineer intern"
+      },
+      "fingerprint": "f1da23228ebcb132878703d1ac30019b9e267fa836e28bc0b00cc47b50b8feed",
+      "revision": 2
     },
     "url:https://job-boards.greenhouse.io/pdtpartners/jobs/8077685": {
       "eligible": false,
@@ -43233,6 +43328,24 @@
       "fingerprint": "9e096225d1e771e4aadef2215795cb81920ec9d8a00441fd0660b2d4ba4280d8",
       "revision": 3
     },
+    "url:https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "apex technology, inc.",
+        "degrees": [],
+        "locations": [
+          "los angeles, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, operating systems"
+      },
+      "fingerprint": "dfbf7cae4eb41b9e16437582de2a1224fa305969583ae41f62d418ab9defa6aa",
+      "revision": 1
+    },
     "url:https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda": {
       "eligible": true,
       "evidence": {
@@ -43270,6 +43383,24 @@
         "title": "software engineering internship - test & automation - summer 2027"
       },
       "fingerprint": "2804bc7e6d553bd057b906cf1bbe8a37f65b31a670cca976791d7d0e023bd90a",
+      "revision": 1
+    },
+    "url:https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "apex technology, inc.",
+        "degrees": [],
+        "locations": [
+          "los angeles, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "flight software engineering intern"
+      },
+      "fingerprint": "156028e9da636da58f22c772b5fd43cff99abc888600e84a388e0b56b6c7efa5",
       "revision": 1
     },
     "url:https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902": {
@@ -50743,6 +50874,27 @@
       "fingerprint": "ac352d54dfbfc650f814370b1509b4d76a2b4d89fa845d526c1d12c259be2e85",
       "revision": 0
     },
+    "url:https://jobs.l3harris.com/job/melbourne-software-engineer-intern-fl-32919/1453684500?ats=successfactors": {
+      "eligible": true,
+      "evidence": {
+        "category": "hardware",
+        "company": "l3harris technologies",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "melbourne, fl"
+        ],
+        "requirements": [],
+        "terms": [
+          "n/a",
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "a221317387867fa85f49fa001d7b451793165f7a4902d0bbe04e50d2f41a382a",
+      "revision": 1
+    },
     "url:https://jobs.l3harris.com/job/melbourne-software-engineering-intern-(melbourne,-fl)-fl-32901/1428467400?ats=successfactors": {
       "eligible": false,
       "fingerprint": "e297660f0d3bbb7b0a6490e09a410736c0ca0554b50f514f2d4f8754e8a4c8b6",
@@ -53281,6 +53433,24 @@
         "title": "compiler software engineering intern"
       },
       "fingerprint": "1c294260df11e8e900d79331dd13326fa1e7a821fa5be263676a7be964787363",
+      "revision": 1
+    },
+    "url:https://jobs.nvidia.com/careers/job/893398660005": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "nvidia",
+        "degrees": [],
+        "locations": [
+          "santa clara, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern, simulation technology"
+      },
+      "fingerprint": "8f2424a1656215e259d46116029dc902fcc889cb937a141efc8db9192799f653",
       "revision": 1
     },
     "url:https://jobs.nvidia.com/careers/job/893398824101": {
@@ -62716,6 +62886,24 @@
       "fingerprint": "2b181d3b6298737f53caf1cf0a67f0c3d12f0c2058345dc0a01b5e77f75cae6e",
       "revision": 0
     },
+    "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/salt-lake-city-ut-ut17/software-engineering-intern---2027-internship-program_r70950": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "motorola",
+        "degrees": [],
+        "locations": [
+          "salt lake city, ut"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
+      },
+      "fingerprint": "33928b85a28b3dbfd454fe69ef584bc6f855dee43990329b7b092196b2857542",
+      "revision": 1
+    },
     "url:https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/schaumburg-il/mission-critical-networks-software-engineer---summer-2027-internship_r70631": {
       "eligible": true,
       "evidence": {
@@ -64089,6 +64277,11 @@
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/germany-munich/software-engineering-intern_jr2029967": {
       "eligible": false,
       "fingerprint": "64f6f5ff193f297dfb3f5bead49127d6493dff8a5b45a7248d89225461938df5",
+      "revision": 1
+    },
+    "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/germany-wuerselen/developer-technology-intern---video_jr2029859": {
+      "eligible": false,
+      "fingerprint": "e9b0a9f8d68f03ec3c91aae9605b2340aef27014b1f88b213af4af97da6833f9",
       "revision": 1
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/japan-tokyo/developer-technology-engineer-intern_jr2029575": {
@@ -71588,6 +71781,11 @@
       "fingerprint": "b67a3f2429a0535eb719dddfa3812daaa4516bda7fe1164f284edc4ebee71622",
       "revision": 1
     },
+    "url:https://studentemployment-stthomas.icims.com/jobs/10464/job": {
+      "eligible": false,
+      "fingerprint": "23a0e1a1a393ee70a97ed852d576d8f05ae2ef0c8ab9b8d18f7b52bef259e010",
+      "revision": 1
+    },
     "url:https://studentemployment-stthomas.icims.com/jobs/9527/job": {
       "eligible": false,
       "fingerprint": "ce30953e9fe9cb122d518f04981d5fc2be5ecc4bf837a33604b10c0ea10a9ddf",
@@ -75081,6 +75279,26 @@
       "fingerprint": "11eba0c46522949bf6f43fa605464cfc25b2aaecdd0fa5b6c5527932b4a02d36",
       "revision": 1
     },
+    "url:https://uscareers-waters.icims.com/jobs/30387/job": {
+      "eligible": true,
+      "evidence": {
+        "category": "software",
+        "company": "waters",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "milford, ma"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "it digital intern"
+      },
+      "fingerprint": "70257b8385c24ac78c03fc2b41bd0729f90199c5c1d9efdce0166aa01b32e996",
+      "revision": 1
+    },
     "url:https://usnh.wd5.myworkdayjobs.com/careers/job/university-of-new-hampshire--main-campus/research-intern_jr8497": {
       "eligible": false,
       "fingerprint": "41ee68f3a7349a8e7157171c599f9e46163d0520cc3dd9aa36a07b03d334785f",
@@ -77918,12 +78136,13 @@
         ],
         "requirements": [],
         "terms": [
+          "n/a",
           "summer 2027"
         ],
         "title": "applications software developer intern"
       },
-      "fingerprint": "39b3bcde78ce4251efbe5cedfa7b05612045acbd2acdbd1d87cb6ea0b038fa64",
-      "revision": 4
+      "fingerprint": "3f28bebcd8eefd292fbeeaf2323786b0fae2c56f3c07fb06e417429219381452",
+      "revision": 5
     },
     "url:https://www.ixl.com/company/jobs?gh_jid=8862214002": {
       "eligible": true,
@@ -80997,6 +81216,15 @@
     "https://go.vansh.nyc/1Is": 447,
     "https://go.vansh.nyc/1It": 447,
     "https://go.vansh.nyc/1Iz": 448,
+    "https://go.vansh.nyc/1J0": 449,
+    "https://go.vansh.nyc/1J1": 449,
+    "https://go.vansh.nyc/1J2": 449,
+    "https://go.vansh.nyc/1J3": 449,
+    "https://go.vansh.nyc/1J4": 449,
+    "https://go.vansh.nyc/1J8": 449,
+    "https://go.vansh.nyc/1Jb": 449,
+    "https://go.vansh.nyc/1Jf": 449,
+    "https://go.vansh.nyc/1Jg": 449,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -82664,6 +82892,15 @@
     "https://go.vansh.nyc/1Is": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689662",
     "https://go.vansh.nyc/1It": "https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d",
     "https://go.vansh.nyc/1Iz": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1",
+    "https://go.vansh.nyc/1J0": "https://jobs.nvidia.com/careers/job/893398660005",
+    "https://go.vansh.nyc/1J1": "https://jobs.l3harris.com/job/Melbourne-Software-Engineer-Intern-FL-32919/1453684500/?ats=successfactors",
+    "https://go.vansh.nyc/1J2": "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Salt-Lake-City-UT-UT17/Software-Engineering-Intern---2027-Internship-Program_R70950",
+    "https://go.vansh.nyc/1J3": "https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005",
+    "https://go.vansh.nyc/1J4": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002",
+    "https://go.vansh.nyc/1J8": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R017321",
+    "https://go.vansh.nyc/1Jb": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Austin-Plaza-on-the-Lake/Embedded-Software-Engineer-Intern_R269548",
+    "https://go.vansh.nyc/1Jf": "https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915",
+    "https://go.vansh.nyc/1Jg": "https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -83910,7 +84147,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 448,
+  "scan_sequence": 449,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
