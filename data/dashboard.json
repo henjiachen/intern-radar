@@ -1161,21 +1161,6 @@
       "company": "Aerospace Corporation",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "75d7accbf5485861b6e8f084f274ceca7aff1e00983f24faabcf0389eebf054e",
-      "locations": [
-        "El Segundo, CA"
-      ],
-      "posted_at": "2026-11-24",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "Embedded Software Engineering Undergrad Intern",
-      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R017321"
-    },
-    {
-      "company": "Aerospace Corporation",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "e86544ffb5984f932b11b7ab1f8ba2f0dc6c094d7270bad3b639eb97e4047dfc",
       "locations": [
         "El Segundo, CA",
@@ -4575,6 +4560,21 @@
       "source": "simplify",
       "title": "AI Development Intern",
       "url": "https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739"
+    },
+    {
+      "company": "BEUMERGroup1",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "036239498ddbb89f24208b2064b50f6b50b8b9c720237a448c6f8db35dd77e4f",
+      "locations": [
+        "Somerset, NJ"
+      ],
+      "posted_at": "2026-11-24",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "AI Development Intern",
+      "url": "https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739-ai-development-intern?oga=true"
     },
     {
       "company": "Biodesix",
@@ -14295,7 +14295,7 @@
       "posted_at": "2026-10-14",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
+      "source": "vanshb03",
       "title": "Applications Software Developer Intern",
       "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007"
     },
@@ -15443,21 +15443,6 @@
       "company": "Johns Hopkins Applied Physics Laboratory",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
-      "id": "95ab1d46e19e0e80b6de085cc5b5761a66b094ffea26cf413265df97a8a70afa",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "posted_at": "2026-11-24",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Artificial Intelligence and Complex Systems Intern",
-      "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us"
-    },
-    {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
       "id": "327a7539c5ed2d9e0e40dac5aed472f8d45e5d83911201d1bc7b39c0db556e43",
       "locations": [
         "Laurel, MD"
@@ -15498,21 +15483,6 @@
       "source": "simplify",
       "title": "Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control",
       "url": "https://careers.jhuapl.edu/jobs/59598?icims=1"
-    },
-    {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "cdbd166531971efe5e8044e1272d4ff7a8ae5cfd7d5424128150d94bb785a527",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "posted_at": "2026-11-24",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Robotics Intern",
-      "url": "https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us"
     },
     {
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -16695,6 +16665,21 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://lockheedmartin.eightfold.ai/careers/job/996477886327"
+    },
+    {
+      "company": "Lockheed Martin",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "545152492144ca3a5955ccacb0bb46700eb268e2eb2c37739767ce2dd5798497",
+      "locations": [
+        "Fort Worth, TX"
+      ],
+      "posted_at": "2026-11-23",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://lockheedmartin.eightfold.ai/careers/job/996477854535"
     },
     {
       "company": "Los Alamos National Laboratory",
@@ -19206,6 +19191,36 @@
       "source": "simplify",
       "title": "Data Engineer Intern",
       "url": "https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true"
+    },
+    {
+      "company": "NinjaHoldings",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "772badc41b48727b1c1bd8d8511a29595377afb34c40e7d95e3c228d0d28a44f",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Data Science Intern",
+      "url": "https://ninjaholdings.breezy.hr/p/85be8c78a2ba-data-science-intern"
+    },
+    {
+      "company": "NinjaHoldings",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "112914acee9b464d74396fc4cd6b62f515c33d3a7202296857214701cd02ab0d",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "posted_at": "2026-11-19",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern"
     },
     {
       "company": "Nissan",
@@ -27736,6 +27751,21 @@
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5271149007"
     },
     {
+      "company": "Toshiba America Electronic Components",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "bd29e5a79f4ee8d4228cd11646f65dbc6390bdcea455897b60010137a657420c",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "posted_at": "2026-11-24",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Firmware Engineer Intern",
+      "url": "https://taec.applytojob.com/apply/bq2Tfkz4N4/5058-Firmware-Engineer-Intern"
+    },
+    {
       "company": "Toshiba International Corporation",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -28344,23 +28374,6 @@
       "source": "simplify",
       "title": "Software Development Intern - Summer 2027",
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
-    },
-    {
-      "company": "Tyler Technologies",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "16dc7eb93500aa9ee329c737c74f4d38d27446e7f659c60289b0fca943b5f5ad",
-      "locations": [
-        "Yarmouth, ME",
-        "Orono, ME",
-        "Falmouth, ME"
-      ],
-      "posted_at": "2026-09-21",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Software Development Intern - Summer 2027",
-      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false"
     },
     {
       "company": "Uber",
@@ -29195,6 +29208,21 @@
       "source": "simplify",
       "title": "Embedded Software Engineer Intern",
       "url": "https://careers.viasat.com/jobs/10478?icims=1&lang=en-us"
+    },
+    {
+      "company": "ViaSat",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "40afe18d83431bdf08155d984e569b093acc2370ac2ffb96bbb33adae638de79",
+      "locations": [
+        "Tempe, AZ"
+      ],
+      "posted_at": "2026-11-24",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, Government",
+      "url": "https://careers-viasat.icims.com/jobs/10478/job?in_iframe=1"
     },
     {
       "company": "Viavi Solutions",
@@ -30297,7 +30325,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-26T10:58:40.027123+00:00",
+  "last_checked": "2026-11-26T20:13:56.966665+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,

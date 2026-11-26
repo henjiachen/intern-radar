@@ -12765,9 +12765,22 @@
       "revision": 1
     },
     "url:https://careers-viasat.icims.com/jobs/10478/job": {
-      "eligible": false,
-      "fingerprint": "b90fcc2373ca7ba30b1e908e2f19585f1909e440b147c4ea9cf65cf17a078745",
-      "revision": 1
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "viasat",
+        "degrees": [],
+        "locations": [
+          "tempe, az"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "embedded software engineer intern, government"
+      },
+      "fingerprint": "10525f8454821bdc0768c75dff73db2cd75e885cbb30994fb6d7e672b5331e97",
+      "revision": 2
     },
     "url:https://careers-werfen.icims.com/jobs/10995/job": {
       "eligible": false,
@@ -17999,8 +18012,8 @@
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/hardware-characterization-automation-co-op--winter-2027-_r032014": {
       "eligible": false,
-      "fingerprint": "69112b59b7a6124567de68e16bd704ad92af86c94a02cc8da78b7a242d2ac4e9",
-      "revision": 7
+      "fingerprint": "745bb783f5958444558a2ad29a03ab5b239c41efcdba87ac720de426bd96efe4",
+      "revision": 8
     },
     "url:https://ciena.wd5.myworkdayjobs.com/careers/job/ottawa/software-developer-intern---winter-2027_r031953-1": {
       "eligible": false,
@@ -24086,6 +24099,11 @@
       "fingerprint": "af3c1df74286c34338f1ac342a0ecddcc124c953121550d51e938f6c9915e0da",
       "revision": 1
     },
+    "url:https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/4213": {
+      "eligible": false,
+      "fingerprint": "91b905ef71b77149dd6b95ad83d82792bc723c9ffe5e132905126634e8002002",
+      "revision": 1
+    },
     "url:https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/4997": {
       "eligible": false,
       "fingerprint": "bc95fae91c9770e6e89bf21ba4d6e678f95305850c57f3cbc934ea0186d05f03",
@@ -28636,6 +28654,16 @@
       "fingerprint": "8f1b4ef727d9d488cf622f494697fd4ab2fca3d0cc0249b5a374b511b2c9b3f3",
       "revision": 1
     },
+    "url:https://go.vansh.nyc/1kd": {
+      "eligible": false,
+      "fingerprint": "e0e716efa4405af511817e8701095ab2551a5f93cc77be9b50a7596fd9bbe3f0",
+      "revision": 1
+    },
+    "url:https://go.vansh.nyc/1km": {
+      "eligible": false,
+      "fingerprint": "a96dfa5874f2be7849c2eee51068add5d397f26a0bf625bd9e8944f4a91f256a",
+      "revision": 1
+    },
     "url:https://go.vansh.nyc/1kn": {
       "eligible": false,
       "fingerprint": "820ba2a1eb053e48cb65427de130ab41fc9333aa734fd177395f1a44153d0ad4",
@@ -29446,8 +29474,7 @@
         "company": "ciena",
         "degrees": [],
         "locations": [
-          "atlanta, ga",
-          "seattle, wa"
+          "atlanta, ga"
         ],
         "requirements": [],
         "terms": [
@@ -29455,8 +29482,8 @@
         ],
         "title": "software engineer intern, security"
       },
-      "fingerprint": "a344d39995f454f1d58fc74974b56f47e7f5a27cf2c25ce4c16ba43c13382f9d",
-      "revision": 1
+      "fingerprint": "bd63485d926d85384594b8431f4943e64b5ec6cd8e64a76febd129dea75773e1",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/cr": {
       "eligible": false,
@@ -54417,6 +54444,24 @@
       "fingerprint": "ec2bf94c6259ee7e6141eb8a4146c8046a448b2da5601d7e237ba1c59bdb6d2a",
       "revision": 1
     },
+    "url:https://jobs.smartrecruiters.com/beumergroup1/744000163483739-ai-development-intern?oga=true": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "beumergroup1",
+        "degrees": [],
+        "locations": [
+          "somerset, nj"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "ai development intern"
+      },
+      "fingerprint": "132fd2ab6ca968048b9e1e882aa7c1cb4ea77829c388af6630c7186e83e5f2c9",
+      "revision": 1
+    },
     "url:https://jobs.smartrecruiters.com/boschgroup/744000140089589": {
       "eligible": false,
       "fingerprint": "79553061f097e27b04fea58ba900f343c6ea946ad616090124577152b57eacd0",
@@ -61384,6 +61429,24 @@
       "fingerprint": "6c7081730eab683a2e5f3901eb6d143fea18bf17f63d04128820a7478390c874",
       "revision": 1
     },
+    "url:https://lockheedmartin.eightfold.ai/careers/job/996477854535": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "lockheed martin",
+        "degrees": [],
+        "locations": [
+          "fort worth, tx"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "68e08683a65540668c6dd23eb8cc70e4d29825ba1948ccbcd06ca494bade9c02",
+      "revision": 1
+    },
     "url:https://lockheedmartin.eightfold.ai/careers/job/996477886327": {
       "eligible": true,
       "evidence": {
@@ -64366,9 +64429,40 @@
       "revision": 0
     },
     "url:https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern": {
-      "eligible": false,
-      "fingerprint": "61be36973facaf38b5cf05ffd9b25e2a4a8d4f06991139b50a491827c3e89942",
-      "revision": 0
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "ninjaholdings",
+        "degrees": [],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineer intern"
+      },
+      "fingerprint": "0708590c9c2c38f01ef3d5e33fe653b0fae0605a41e4598170687289c7c3e413",
+      "revision": 1
+    },
+    "url:https://ninjaholdings.breezy.hr/p/85be8c78a2ba-data-science-intern": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "ninjaholdings",
+        "degrees": [],
+        "locations": [
+          "chicago, il"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "data science intern"
+      },
+      "fingerprint": "d9fb53f2fc953d8c280a2ea6ba9351d44a0c6a0f2e7ea3664c51671279dc2ba7",
+      "revision": 1
     },
     "url:https://njdepartmentofenvironmentalprotection.applytojob.com/apply/k6sokzcoje/wrm20262i-environmental-services-intern": {
       "eligible": false,
@@ -72962,6 +73056,24 @@
       "fingerprint": "d5a158e2381c047a6abb111d80f4d1f9061ccd2d24935af6faa7ab7f0aa4e4c1",
       "revision": 1
     },
+    "url:https://taec.applytojob.com/apply/bq2tfkz4n4/5058-firmware-engineer-intern": {
+      "eligible": true,
+      "evidence": {
+        "category": "",
+        "company": "toshiba america electronic components",
+        "degrees": [],
+        "locations": [
+          "san jose, ca"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "firmware engineer intern"
+      },
+      "fingerprint": "a76b475bc9d59ee2565465fce0237071a99d256ea733cebe576b864564e017d6",
+      "revision": 1
+    },
     "url:https://taec.applytojob.com/apply/oieuvnty52/5053-firmware-engineer-intern": {
       "eligible": true,
       "evidence": {
@@ -78795,13 +78907,12 @@
         ],
         "requirements": [],
         "terms": [
-          "n/a",
           "summer 2027"
         ],
         "title": "applications software developer intern"
       },
-      "fingerprint": "3f28bebcd8eefd292fbeeaf2323786b0fae2c56f3c07fb06e417429219381452",
-      "revision": 7
+      "fingerprint": "39b3bcde78ce4251efbe5cedfa7b05612045acbd2acdbd1d87cb6ea0b038fa64",
+      "revision": 8
     },
     "url:https://www.ixl.com/company/jobs?gh_jid=8862214002": {
       "eligible": true,
@@ -79485,8 +79596,8 @@
     },
     "url:https://www.metacareers.com/jobs/2180490782513668": {
       "eligible": false,
-      "fingerprint": "54b19bd9a5e58a69d292a882a30ce00a7757a1305fc361d4292ba75fe865c31c",
-      "revision": 5
+      "fingerprint": "cd1c500688ded090abb21cb632926537b20bb490f4a51f95781182e5885e778f",
+      "revision": 6
     },
     "url:https://www.metacareers.com/jobs/2211974449401350": {
       "eligible": false,
@@ -81956,6 +82067,12 @@
     "https://go.vansh.nyc/1K5": 451,
     "https://go.vansh.nyc/1K6": 451,
     "https://go.vansh.nyc/1K8": 451,
+    "https://go.vansh.nyc/1Kf": 452,
+    "https://go.vansh.nyc/1Kg": 452,
+    "https://go.vansh.nyc/1Ki": 452,
+    "https://go.vansh.nyc/1Kk": 452,
+    "https://go.vansh.nyc/1Kl": 452,
+    "https://go.vansh.nyc/1Kn": 452,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -83657,6 +83774,12 @@
     "https://go.vansh.nyc/1K5": "https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272",
     "https://go.vansh.nyc/1K6": "https://careers.mantech.com/en_US/careers/JobDetail/C-Developer-Intern/67268",
     "https://go.vansh.nyc/1K8": "https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/Support-Center---Irving-TX/Software-Engineering-Intern--Digital-Commerce_REQ_84703",
+    "https://go.vansh.nyc/1Kf": "https://ninjaholdings.breezy.hr/p/85be8c78a2ba-data-science-intern",
+    "https://go.vansh.nyc/1Kg": "https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern",
+    "https://go.vansh.nyc/1Ki": "https://lockheedmartin.eightfold.ai/careers/job/996477854535",
+    "https://go.vansh.nyc/1Kk": "https://taec.applytojob.com/apply/bq2Tfkz4N4/5058-Firmware-Engineer-Intern",
+    "https://go.vansh.nyc/1Kl": "https://careers-viasat.icims.com/jobs/10478/job?in_iframe=1",
+    "https://go.vansh.nyc/1Kn": "https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739-ai-development-intern?oga=true",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -84903,7 +85026,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 451,
+  "scan_sequence": 452,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
