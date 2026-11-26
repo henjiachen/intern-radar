@@ -47,6 +47,21 @@
       "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358"
     },
     {
+      "company": "Blizzard Entertainment",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "feac6e0ff6c1b0ea9a3178a1b569dacaa6894c5923271abec3275ce4ecc10d83",
+      "locations": [
+        "Irvine, CA"
+      ],
+      "posted_at": "2026-11-24",
+      "priority": 2,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Tech Art Intern",
+      "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383"
+    },
+    {
       "company": "Nintendo",
       "graduation_detail": "\u2796 No grad year found in the available description",
       "graduation_status": "not_found",
@@ -2233,11 +2248,11 @@
       "locations": [
         "St. Louis, MO"
       ],
-      "posted_at": "2026-11-24",
+      "posted_at": "2026-09-24",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
-      "title": "Robotics, AI, OT, Software Development Intern",
+      "source": "simplify",
+      "title": "Robotics Intern - Multiple Teams",
       "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1"
     },
     {
@@ -4802,21 +4817,6 @@
       "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949"
     },
     {
-      "company": "Blue Cross Blue Shield of Michigan",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "642bb1ed85590776b3774b69197ba3acd14a69c5eb2e6616cabb909728aba8e8",
-      "locations": [
-        "Detroit, MI"
-      ],
-      "posted_at": "2026-11-19",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Object Oriented Programming Intern",
-      "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160"
-    },
-    {
       "company": "Blue Origin",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -7027,8 +7027,8 @@
       "posted_at": "2026-11-20",
       "priority": 11,
       "priority_program": false,
-      "source": "simplify",
-      "title": "Business Data Analytics Intern - AI/ML Focus",
+      "source": "vanshb03",
+      "title": "Business Data Analytics Intern, AI/ML Focus",
       "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a"
     },
     {
@@ -7391,21 +7391,6 @@
       "source": "vanshb03",
       "title": "Applied AI Engineering Intern",
       "url": "https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8"
-    },
-    {
-      "company": "Cisco",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "cd7ccf70d628d20b2263369079af2cce3104e2d4c8968809ff82b54b020d896b",
-      "locations": [
-        "Research Triangle Park, NC"
-      ],
-      "posted_at": "2026-11-20",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "AI Cybersecurity Engineer I Intern",
-      "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2030295EXTERNALENGLOBAL/AI-Cybersecurity-Engineer-I-Intern-United-States"
     },
     {
       "company": "Cisco",
@@ -12860,21 +12845,6 @@
       "url": "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors"
     },
     {
-      "company": "Highgate",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "a3988beebf1a0f39a7c6cd298066aed18bdfa80aa21b8ef8defd731662c24ac3",
-      "locations": [
-        "Irving, TX"
-      ],
-      "posted_at": "2026-09-14",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Data Services Intern - Summer 2027",
-      "url": "https://externalhourly-highgate.icims.com/jobs/82546/job?hub=7&mobile=true&needsRedirect=false"
-    },
-    {
       "company": "Highmark Health",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -14325,7 +14295,7 @@
       "posted_at": "2026-10-14",
       "priority": 11,
       "priority_program": false,
-      "source": "vanshb03",
+      "source": "simplify",
       "title": "Applications Software Developer Intern",
       "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007"
     },
@@ -14388,21 +14358,6 @@
       "source": "vanshb03",
       "title": "AI Engineer Intern",
       "url": "https://career8.successfactors.com/career?career_ns=job_listing&company=C0000164178P&career_job_req_id=20580"
-    },
-    {
-      "company": "Ingredion",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "df9c6f90e564ae272a467115f9360e7788b6ee230c39e2974f96b005fce659b7",
-      "locations": [
-        "Westchester, IL"
-      ],
-      "posted_at": "2026-11-03",
-      "priority": 11,
-      "priority_program": false,
-      "source": "vanshb03",
-      "title": "AI & Data Scientist Intern",
-      "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1"
     },
     {
       "company": "Ingredion",
@@ -15573,21 +15528,6 @@
       "source": "simplify",
       "title": "Software Developer Intern - Tactical System Prototyping and Deployment",
       "url": "https://careers.jhuapl.edu/jobs/59564?icims=1"
-    },
-    {
-      "company": "JSX",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "0632d003212532918bcd6e876d58d97507260581b8d7ffdacaec438162d5d703",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "posted_at": "2026-11-02",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Commercial Intern",
-      "url": "https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729"
     },
     {
       "company": "Jump Trading",
@@ -17394,6 +17334,22 @@
       "source": "vanshb03",
       "title": "CNO Developer Intern",
       "url": "https://careers.mantech.com/en_US/careers/JobDetail/CNO-Developer-Intern-Active-TS-SCI-Required/67182"
+    },
+    {
+      "company": "ManTech",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "84ae5805c948e67529901c703fd7f839676526423f225c4dabbebd856268da75",
+      "locations": [
+        "Remote",
+        "United States"
+      ],
+      "posted_at": "2026-11-26",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Developer Intern, C++",
+      "url": "https://careers.mantech.com/en_US/careers/JobDetail/C-Developer-Intern/67268"
     },
     {
       "company": "Marias Technology",
@@ -19883,6 +19839,37 @@
       "source": "simplify",
       "title": "AI Product Builder Intern",
       "url": "https://boards.greenhouse.io/opensesame/jobs/8313424"
+    },
+    {
+      "company": "OpenSesame",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "00af0a8d0a1c7da2fb04f8f1983a7c68ee23f8f8e77f3d6db23dd1a5dc70e7ff",
+      "locations": [
+        "Remote in USA"
+      ],
+      "posted_at": "2026-11-25",
+      "priority": 11,
+      "priority_program": false,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/opensesame/jobs/8418272"
+    },
+    {
+      "company": "OpenSesame",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "328e405b73605cbcb404cf57f7202d40beaf107ed0e7ba07149452ac3b97caab",
+      "locations": [
+        "Remote",
+        "United States"
+      ],
+      "posted_at": "2026-11-26",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272"
     },
     {
       "company": "Operio",
@@ -24214,6 +24201,21 @@
       "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1"
     },
     {
+      "company": "Signet Jewelers",
+      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
+      "graduation_status": "unknown",
+      "id": "44c8d0168cdaaa7e7f8b0d0875b2562ae8a0416ec4857b895399f6b6b0b15c89",
+      "locations": [
+        "Irving, TX"
+      ],
+      "posted_at": "2026-11-25",
+      "priority": 11,
+      "priority_program": false,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Digital Commerce",
+      "url": "https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/Support-Center---Irving-TX/Software-Engineering-Intern--Digital-Commerce_REQ_84703"
+    },
+    {
       "company": "Simbe Robotics",
       "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
       "graduation_status": "unknown",
@@ -25079,21 +25081,6 @@
       "source": "simplify",
       "title": "Electricity + Natural Gas Analyst Intern",
       "url": "https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false"
-    },
-    {
-      "company": "Susquehanna International Group (SIG)",
-      "graduation_detail": "\u2754 Grad year unknown \u2014 full description unavailable",
-      "graduation_status": "unknown",
-      "id": "cd5689aea817e2e979021ada6fac7be94a7ea69bef2df3cdc219bcce72a917dc",
-      "locations": [
-        "Philadelphia, PA"
-      ],
-      "posted_at": "2026-07-06",
-      "priority": 11,
-      "priority_program": false,
-      "source": "simplify",
-      "title": "Quantitative Strategy Developer Intern",
-      "url": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false"
     },
     {
       "company": "SWBC",
@@ -30310,7 +30297,7 @@
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1"
     }
   ],
-  "last_checked": "2026-11-26T01:48:50.426361+00:00",
+  "last_checked": "2026-11-26T10:58:40.027123+00:00",
   "profile": "UCSD freshman \u00b7 CS \u00b7 Summer 2027 \u00b7 US",
   "source_failures": 0,
   "sources_checked": 104,
