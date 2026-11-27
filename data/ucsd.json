@@ -570,8 +570,8 @@
     },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/chantilly-va/xmlname-2027-software-engineering-grad-intern_r016759": {
       "eligible": false,
-      "fingerprint": "fb93b96de5852bd1fb28c254c184efe1fd5ee60d316e6fa18d1261c19aac4e9e",
-      "revision": 2
+      "fingerprint": "30ef186e6ad7dfede7e45be1dbf4256b807f02ab229d33de9bc9f0717593b836",
+      "revision": 3
     },
     "url:https://aero.wd5.myworkdayjobs.com/external/job/colorado-springs-co/xmlname-2027-enterprise-performance-modeling-and-simulation-graduate-intern_r016942": {
       "eligible": false,
@@ -6012,8 +6012,8 @@
     },
     "url:https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d": {
       "eligible": false,
-      "fingerprint": "5c18b5ebbb98807a7d5ae0e258ac6a3b023ba6191646ff682b5e68f52a9f58d1",
-      "revision": 0
+      "fingerprint": "0e1ec8c565a50abb92833b2bc33561db6b1465640eeccbb8aa34fa36bb7355f3",
+      "revision": 1
     },
     "url:https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6": {
       "eligible": false,
@@ -16138,6 +16138,7 @@
           "louisville, ky",
           "new york, ny",
           "san diego, ca",
+          "san diego, ca +7",
           "tempe, az",
           "united states"
         ],
@@ -16147,8 +16148,8 @@
         ],
         "title": "software engineering intern"
       },
-      "fingerprint": "5023d6d4bb72ff1db23c6a292656ac3643bb77bd56969b96e983b45f590046d6",
-      "revision": 0
+      "fingerprint": "cf2e417d3dc29a32e86433a74c3829a836af16abf2721275d9172bcb369f9f41",
+      "revision": 1
     },
     "url:https://careers.rivian.com/jobs/33745?icims=1": {
       "eligible": false,
@@ -18734,13 +18735,13 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12182": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 9
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 10
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12183": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 13
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 14
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12184": {
       "eligible": false,
@@ -18749,8 +18750,8 @@
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12185": {
       "eligible": false,
-      "fingerprint": "8e002e0a9fe39888585ebe233bd278080955dab5fd3d2d4279532433cfb3bee8",
-      "revision": 9
+      "fingerprint": "d11a2e5708e525310470424a1cd0daf2b4e7a1df6bd44daba29eeb3f1a9d9f1d",
+      "revision": 10
     },
     "url:https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/office---seattle/gen-ai-intern_r12193": {
       "eligible": true,
@@ -26114,7 +26115,8 @@
         ],
         "locations": [
           "milford, mi",
-          "warren, mi"
+          "warren, mi",
+          "warren, mi +1"
         ],
         "requirements": [],
         "terms": [
@@ -26122,8 +26124,8 @@
         ],
         "title": "adas software engineer intern - adpt"
       },
-      "fingerprint": "f580e8cb5d9425e9706cbbc138d7ac08c3b01015658b7531c78a100ac27ba21b",
-      "revision": 1
+      "fingerprint": "1e5f1a81db1ce76559413daabb29fdb8d9ec5f26c133e340302d955e4483acd6",
+      "revision": 2
     },
     "url:https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern--ai-ml-engineer--mapping--masters-_jr-202622539": {
       "eligible": false,
@@ -28794,8 +28796,8 @@
     },
     "url:https://go.vansh.nyc/1lv": {
       "eligible": false,
-      "fingerprint": "f69ceb483cc5d1cb1fb67adc6d9bea300f60a07b77946e064ed6c5950093d0af",
-      "revision": 1
+      "fingerprint": "63c0340162bc5309a1a858099bfe8193bd61acbc3cfab06d5faf908955166b10",
+      "revision": 2
     },
     "url:https://go.vansh.nyc/1lz": {
       "eligible": false,
@@ -61568,6 +61570,31 @@
       "fingerprint": "ef4f4a8d7f27b184a734141d29eb407daa10c07284a610ea054921700c12a70a",
       "revision": 1
     },
+    "url:https://lockheedmartin.eightfold.ai/careers/job/996477984584": {
+      "eligible": false,
+      "fingerprint": "ef5e4d15d59cc75403c779f4c0b1a3cd52bd403e78f4686f8752b5a38da36c98",
+      "revision": 1
+    },
+    "url:https://lockheedmartin.eightfold.ai/careers/job/996477988823": {
+      "eligible": false,
+      "fingerprint": "d9b92c184c962f2bb337df12595df5ace76509ff0699bc46ffe47d9e65ac19a7",
+      "revision": 1
+    },
+    "url:https://lockheedmartin.eightfold.ai/careers/job/996477990205": {
+      "eligible": false,
+      "fingerprint": "b1536aff0a6596e158b240fafc85436828efda8db91f131f683551785fe0d9fe",
+      "revision": 1
+    },
+    "url:https://lockheedmartin.eightfold.ai/careers/job/996478048280": {
+      "eligible": false,
+      "fingerprint": "283b8c1acc562b3107a7396588b60faaae44aefd1687b7dd322a143194b266f2",
+      "revision": 1
+    },
+    "url:https://lockheedmartin.eightfold.ai/careers/job/996478149210": {
+      "eligible": false,
+      "fingerprint": "ef5e4d15d59cc75403c779f4c0b1a3cd52bd403e78f4686f8752b5a38da36c98",
+      "revision": 1
+    },
     "url:https://lowes.wd5.myworkdayjobs.com/lws_external_cs/job/lowes-charlotte-technology-hub-3505/exploratory-software-engineering---undergrad-internship---summer-2027_jr-02623542": {
       "eligible": true,
       "evidence": {
@@ -64248,17 +64275,16 @@
         "company": "northrop grumman",
         "degrees": [],
         "locations": [
-          "colorado springs, co",
-          "united states"
+          "colorado springs, co"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "software engineering intern"
+        "title": "2027 software engineering intern - colorado springs co"
       },
-      "fingerprint": "7a3b37f1be6ce92911507a5dff80ef10d29cc923a9e77ebad07f1045f0cba8c0",
-      "revision": 2
+      "fingerprint": "6724598480a0e74485e7ab97f7db6869de7241d58e064e9a1cd2f04e9ff01483",
+      "revision": 3
     },
     "url:https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-colorado-colorado-springs/xmlname-2027-software-engineering-intern---colorado-springs_r10256259": {
       "eligible": true,
@@ -74345,14 +74371,17 @@
         "company": "t-mobile",
         "degrees": [],
         "locations": [
-          "bellevue, wa"
+          "bellevue, wa",
+          "united states"
         ],
         "requirements": [],
-        "terms": [],
-        "title": "summer 2027 software engineering internship"
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "software engineering intern"
       },
-      "fingerprint": "ec420f021363209153323b94f5d91704c0808fbcc49a07ec42b7f31282237b95",
-      "revision": 1
+      "fingerprint": "c06ccdb4ae30e819c420031bca415257b2bf39f6fd6ab1f95ec76795c56e68dd",
+      "revision": 2
     },
     "url:https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineering-internship_req382100": {
       "eligible": true,
@@ -82489,6 +82518,7 @@
     "https://go.vansh.nyc/1Lh": 454,
     "https://go.vansh.nyc/1Lj": 454,
     "https://go.vansh.nyc/1Lk": 454,
+    "https://go.vansh.nyc/1Lq": 455,
     "https://go.vansh.nyc/1as": 94,
     "https://go.vansh.nyc/1b9": 94,
     "https://go.vansh.nyc/1bA": 95,
@@ -84218,6 +84248,7 @@
     "https://go.vansh.nyc/1Lh": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enabled-PDK-Development-Intern--Summer-2027-_JR-2604440",
     "https://go.vansh.nyc/1Lj": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--Digital-Pathology-and-AI-Validation_REQ-31421-1",
     "https://go.vansh.nyc/1Lk": "https://siemens.avature.net/externaljobs/JobDetail/526477",
+    "https://go.vansh.nyc/1Lq": "https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-software-engineering-internship_req382091",
     "https://go.vansh.nyc/1as": "https://www.tesla.com/careers/search/job/284004",
     "https://go.vansh.nyc/1b9": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
     "https://go.vansh.nyc/1bA": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
@@ -85464,7 +85495,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 454,
+  "scan_sequence": 455,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
