@@ -48521,17 +48521,16 @@
           "bachelor's"
         ],
         "locations": [
-          "san francisco, ca",
-          "sf"
+          "san francisco, ca"
         ],
         "requirements": [],
         "terms": [
           "summer 2027"
         ],
-        "title": "machine learning engineer intern - ai/ml data products"
+        "title": "software engineering intern - ai/ml data products"
       },
-      "fingerprint": "53d73305860563f72644238669d859d75da9b3f7e2eecf46b46a1d285f723454",
-      "revision": 1
+      "fingerprint": "204c2244c0ef0859100fe3f7c828bb750d59e475f43cec348de617c73c46faa8",
+      "revision": 2
     },
     "url:https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801": {
       "eligible": true,
@@ -62259,6 +62258,26 @@
       "fingerprint": "c205f19607625e1c6d6ce557c2538bf0d08da1beffda569adfe886f9f46490a6",
       "revision": 3
     },
+    "url:https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/marketing-analytics-intern--summer-2027-_jr11305": {
+      "eligible": true,
+      "evidence": {
+        "category": "ai/ml/data",
+        "company": "l.l.bean",
+        "degrees": [
+          "bachelor's"
+        ],
+        "locations": [
+          "freeport, me"
+        ],
+        "requirements": [],
+        "terms": [
+          "summer 2027"
+        ],
+        "title": "marketing analytics intern"
+      },
+      "fingerprint": "477386c8b441c89dceadfcc3e499820ae7d52dc16783878e445da695c38a2af4",
+      "revision": 1
+    },
     "url:https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/reno-nv/intern-software-engineering_r322885": {
       "eligible": false,
       "fingerprint": "7a64ef34a96d76c115994058c2ec3e965484898d3fcd830a1398d36ed7b6b41f",
@@ -65794,6 +65813,11 @@
       "fingerprint": "24132e187b00f7782c91be3141004ec9be3e67df29d711b9cd51d6fdc95facdd",
       "revision": 0
     },
+    "url:https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/graduate-intern---focused-ion-beam--electron-microscopy--and-autonomous-characterization_r14431": {
+      "eligible": false,
+      "fingerprint": "af11754942a0d70ba50fc02c22734998ff5ef70c4402f88a32f31758d9136db5",
+      "revision": 1
+    },
     "url:https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/graduate-intern---llm-reliability-and-uncertainty-for-ai-science-assistants_r14416": {
       "eligible": false,
       "fingerprint": "4a1d2544d92303e5285ed334872eb75136339683f067cd3c85de500651223deb",
@@ -66482,10 +66506,10 @@
         "terms": [
           "summer 2027"
         ],
-        "title": "technical marketing engineer intern - digital biology and scientific computing"
+        "title": "technical marketing engineering intern, digital biology and scientific computing"
       },
-      "fingerprint": "12de7aafc854a611b8f2c736dc5d8e65be8615a3bb965cf601548f6e2a00918d",
-      "revision": 2
+      "fingerprint": "243ef6e7e7321235615df873105e0c147a03c273f87f8a5f9e4c2bd848cf6c6f",
+      "revision": 3
     },
     "url:https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/vlsi-cad-timing-intern--applied-ai---summer-2027_jr2026799": {
       "eligible": false,
@@ -80966,6 +80990,11 @@
       "fingerprint": "5a0bf55a4e4dcc4d9163297c54bcca328f436be02950980e0e6089213b21d108",
       "revision": 1
     },
+    "url:https://www.hudsonrivertrading.com/careers/job?gh_jid=8059845": {
+      "eligible": false,
+      "fingerprint": "6fa0af5ab469f3dd7182a42334416368e60f67527840ef68187ae616fc72c8bc",
+      "revision": 1
+    },
     "url:https://www.hudsonrivertrading.com/careers/job?gh_jid=8257369": {
       "eligible": false,
       "fingerprint": "d5a2a74f2ae025c9271e1cc46d4458061bf64032ca417740490814deb903cabe",
@@ -87193,7 +87222,7 @@
     "https://go.vansh.nyc/hp": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true"
   },
   "pending": [],
-  "scan_sequence": 456,
+  "scan_sequence": 457,
   "short_baseline": [
     "https://go.vansh.nyc/8j"
   ],
